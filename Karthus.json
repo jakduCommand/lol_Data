@@ -1,0 +1,121 @@
+{
+  "championName" : "Karthus",
+  "fifthCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "2503" : 2,
+    "3118" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3089" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1052" : 1,
+    "1082" : 1,
+    "2055" : 1,
+    "2503" : 2,
+    "2508" : 1,
+    "3020" : 1,
+    "3089" : 1,
+    "3118" : 1,
+    "3135" : 1,
+    "3157" : 2,
+    "3175" : 1,
+    "3364" : 3,
+    "4645" : 1,
+    "6653" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "4645" : 1,
+    "6653" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Ignite"
+    ],
+    1,
+    [
+      "Smite",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1102
+    ],
+    1,
+    [
+      1101
+    ],
+    1,
+    [
+      2003,
+      1101
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3135" : 1,
+    "3157" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 3
+}

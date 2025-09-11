@@ -1,0 +1,231 @@
+{
+  "championName" : "Ambessa",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6692" : 10,
+    "6699" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 2,
+    "1033" : 2,
+    "1036" : 4,
+    "1054" : 6,
+    "1055" : 1,
+    "2031" : 1,
+    "2055" : 2,
+    "2422" : 1,
+    "3033" : 1,
+    "3035" : 1,
+    "3047" : 6,
+    "3071" : 3,
+    "3111" : 2,
+    "3123" : 1,
+    "3133" : 1,
+    "3134" : 2,
+    "3142" : 1,
+    "3155" : 2,
+    "3161" : 3,
+    "3171" : 1,
+    "3173" : 1,
+    "3174" : 1,
+    "3340" : 7,
+    "3363" : 1,
+    "3364" : 4,
+    "3814" : 2,
+    "6333" : 4,
+    "6610" : 1,
+    "6692" : 10,
+    "6694" : 1,
+    "6695" : 1,
+    "6699" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "3033" : 1,
+    "3071" : 2,
+    "3142" : 1,
+    "3161" : 2,
+    "3814" : 1,
+    "6333" : 1,
+    "6610" : 1,
+    "6699" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 7,
+    "3111" : 3,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    12
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1054
+    ],
+    11,
+    [
+      1055,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3071" : 1,
+    "3161" : 1,
+    "3814" : 1,
+    "6333" : 3,
+    "6694" : 1,
+    "6695" : 1
+  },
+  "totalGames" : 12,
+  "totalWins" : 6
+}

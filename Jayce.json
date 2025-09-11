@@ -1,0 +1,125 @@
+{
+  "championName" : "Jayce",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3142" : 2,
+    "3161" : 1,
+    "6701" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "6694" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1055" : 3,
+    "2021" : 1,
+    "2031" : 1,
+    "3035" : 1,
+    "3042" : 2,
+    "3047" : 1,
+    "3070" : 2,
+    "3111" : 1,
+    "3133" : 1,
+    "3142" : 2,
+    "3158" : 2,
+    "3161" : 1,
+    "3340" : 2,
+    "3363" : 2,
+    "3814" : 1,
+    "6694" : 1,
+    "6701" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3004" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 1,
+    "3111" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+    "3814" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

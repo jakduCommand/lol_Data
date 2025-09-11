@@ -1,0 +1,84 @@
+{
+  "championName" : "Rumble",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6653" : 1,
+    "8010" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8313
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8275,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1056" : 1,
+    "1082" : 2,
+    "3108" : 1,
+    "3111" : 2,
+    "3147" : 2,
+    "3340" : 1,
+    "3363" : 1,
+    "6653" : 2,
+    "8010" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "8010" : 1
+  },
+  "shoesFrequency" : {
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 2,
+  "totalWins" : 0
+}

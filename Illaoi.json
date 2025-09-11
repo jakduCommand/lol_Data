@@ -1,0 +1,66 @@
+{
+  "championName" : "Illaoi",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6610" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1031" : 1,
+    "3053" : 1,
+    "3057" : 1,
+    "3111" : 1,
+    "3340" : 1,
+    "6610" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3053" : 1
+  },
+  "shoesFrequency" : {
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1054
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 1,
+  "totalWins" : 1
+}

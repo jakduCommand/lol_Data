@@ -1,0 +1,107 @@
+{
+  "championName" : "Kennen",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 2,
+    "6653" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1056" : 1,
+    "1058" : 2,
+    "1082" : 1,
+    "3020" : 2,
+    "3145" : 1,
+    "3152" : 2,
+    "3157" : 1,
+    "3340" : 1,
+    "3363" : 1,
+    "3364" : 1,
+    "3916" : 1,
+    "4645" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "4645" : 2
+  },
+  "shoesFrequency" : {
+    "3020" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    1,
+    [
+      2003,
+      1055
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 3
+}

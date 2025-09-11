@@ -1,0 +1,127 @@
+{
+  "championName" : "Alistar",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3002" : 1,
+    "3050" : 1,
+    "3107" : 1,
+    "3190" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8306
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1029" : 1,
+    "1082" : 1,
+    "2055" : 4,
+    "3002" : 1,
+    "3009" : 1,
+    "3050" : 1,
+    "3067" : 3,
+    "3107" : 1,
+    "3113" : 1,
+    "3158" : 4,
+    "3190" : 3,
+    "3364" : 5,
+    "3869" : 5,
+    "4642" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3190" : 2
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3158" : 4
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    3,
+    [
+      "Flash",
+      "Heal"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    5
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 5,
+  "totalWins" : 1
+}

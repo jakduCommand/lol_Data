@@ -1,0 +1,138 @@
+{
+  "championName" : "AurelionSol",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "2503" : 3,
+    "3116" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8017,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 2,
+    "1056" : 3,
+    "1058" : 3,
+    "1082" : 1,
+    "2031" : 1,
+    "2422" : 1,
+    "2503" : 4,
+    "3116" : 5,
+    "3157" : 1,
+    "3175" : 2,
+    "3340" : 1,
+    "3363" : 4,
+    "3916" : 1,
+    "6653" : 1,
+    "8010" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "2503" : 1,
+    "3116" : 2,
+    "6653" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    5
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    5
+  ],
+  "thirdCoreItemFrequency" : {
+    "3116" : 1,
+    "8010" : 1
+  },
+  "totalGames" : 5,
+  "totalWins" : 1
+}

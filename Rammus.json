@@ -1,0 +1,66 @@
+{
+  "championName" : "Rammus",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3075" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1033" : 1,
+    "2055" : 1,
+    "3009" : 1,
+    "3075" : 1,
+    "3143" : 1,
+    "3364" : 1,
+    "6664" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "6664" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Ghost"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1102,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3143" : 1
+  },
+  "totalGames" : 1,
+  "totalWins" : 0
+}

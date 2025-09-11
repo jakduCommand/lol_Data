@@ -1,0 +1,85 @@
+{
+  "championName" : "KogMaw",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3124" : 1,
+    "3153" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8401
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1055" : 2,
+    "2031" : 1,
+    "2421" : 1,
+    "3006" : 2,
+    "3051" : 1,
+    "3085" : 2,
+    "3124" : 2,
+    "3153" : 1,
+    "3363" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3085" : 1,
+    "3124" : 1
+  },
+  "shoesFrequency" : {
+    "3006" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Barrier"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3085" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 1
+}

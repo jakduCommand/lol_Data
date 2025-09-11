@@ -1,0 +1,64 @@
+{
+  "championName" : "Graves",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3142" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "3036" : 1,
+    "3142" : 1,
+    "3364" : 1,
+    "6670" : 1,
+    "6676" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "6676" : 1
+  },
+  "shoesFrequency" : {
+
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1101
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3036" : 1
+  },
+  "totalGames" : 1,
+  "totalWins" : 1
+}

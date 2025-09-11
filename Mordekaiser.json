@@ -1,0 +1,224 @@
+{
+  "championName" : "Mordekaiser",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3116" : 4,
+    "3152" : 2,
+    "3161" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8401
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 3,
+    "1011" : 1,
+    "1026" : 1,
+    "1028" : 1,
+    "1052" : 3,
+    "1054" : 2,
+    "1056" : 4,
+    "1082" : 1,
+    "2003" : 1,
+    "2031" : 1,
+    "2055" : 1,
+    "2508" : 1,
+    "3009" : 1,
+    "3047" : 1,
+    "3073" : 1,
+    "3108" : 1,
+    "3111" : 1,
+    "3116" : 5,
+    "3147" : 2,
+    "3152" : 2,
+    "3161" : 1,
+    "3173" : 1,
+    "3174" : 1,
+    "3340" : 5,
+    "3364" : 3,
+    "3866" : 1,
+    "3916" : 1,
+    "4633" : 1,
+    "6653" : 1,
+    "8010" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3073" : 1,
+    "3116" : 1,
+    "6653" : 1,
+    "8010" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3047" : 2,
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Exhaust"
+    ],
+    1,
+    [
+      "Teleport",
+      "Flash"
+    ],
+    6
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    4,
+    [
+      2003
+    ],
+    1,
+    [
+      2003,
+      1054
+    ],
+    2,
+    [
+      1103
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "4633" : 1
+  },
+  "totalGames" : 8,
+  "totalWins" : 5
+}

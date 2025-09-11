@@ -1,0 +1,132 @@
+{
+  "championName" : "Lillia",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6653" : 4
+  },
+  "fourthCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1033" : 1,
+    "1052" : 1,
+    "1058" : 1,
+    "1082" : 3,
+    "2503" : 1,
+    "3009" : 1,
+    "3020" : 2,
+    "3041" : 1,
+    "3047" : 1,
+    "3157" : 3,
+    "3340" : 1,
+    "3364" : 3,
+    "3916" : 1,
+    "4633" : 2,
+    "6653" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "2503" : 1,
+    "3157" : 1,
+    "4633" : 2
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3020" : 2,
+    "3047" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      1102
+    ],
+    2,
+    [
+      1102,
+      2003
+    ],
+    1,
+    [
+      1101
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1,
+    "3157" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

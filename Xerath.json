@@ -1,0 +1,161 @@
+{
+  "championName" : "Xerath",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3118" : 1,
+    "6655" : 5
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8014,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1026" : 1,
+    "1052" : 2,
+    "1056" : 6,
+    "1058" : 2,
+    "1082" : 4,
+    "3020" : 4,
+    "3041" : 1,
+    "3118" : 1,
+    "3135" : 1,
+    "3158" : 1,
+    "3175" : 1,
+    "3340" : 1,
+    "3363" : 5,
+    "4628" : 1,
+    "4645" : 3,
+    "4646" : 1,
+    "6655" : 5
+  },
+  "secondCoreItemFrequency" : {
+    "4628" : 1,
+    "4645" : 3,
+    "4646" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 5,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    5,
+    [
+      "Flash",
+      "Barrier"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    6
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1,
+    "3135" : 1
+  },
+  "totalGames" : 6,
+  "totalWins" : 3
+}

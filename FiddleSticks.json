@@ -1,0 +1,148 @@
+{
+  "championName" : "FiddleSticks",
+  "fifthCoreItemFrequency" : {
+    "8010" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "3002" : 1,
+    "3118" : 1,
+    "3152" : 1,
+    "6653" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3742" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8224
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8321,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 1,
+    "1026" : 1,
+    "1052" : 1,
+    "2055" : 1,
+    "3002" : 1,
+    "3020" : 3,
+    "3102" : 1,
+    "3118" : 1,
+    "3152" : 1,
+    "3157" : 2,
+    "3176" : 1,
+    "3190" : 1,
+    "3330" : 4,
+    "3742" : 1,
+    "3876" : 1,
+    "3916" : 1,
+    "6653" : 1,
+    "8010" : 1,
+    "8020" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3102" : 1,
+    "3157" : 1,
+    "3190" : 1,
+    "8020" : 1
+  },
+  "shoesFrequency" : {
+    "3010" : 1,
+    "3020" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    2,
+    [
+      "Flash",
+      "Heal"
+    ],
+    1,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    1,
+    [
+      1056,
+      2003
+    ],
+    1,
+    [
+      1102
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

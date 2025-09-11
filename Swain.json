@@ -1,0 +1,113 @@
+{
+  "championName" : "Swain",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "2503" : 1,
+    "3116" : 1,
+    "6657" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1056" : 1,
+    "1082" : 2,
+    "2031" : 1,
+    "2503" : 1,
+    "3020" : 1,
+    "3047" : 2,
+    "3082" : 1,
+    "3116" : 2,
+    "3121" : 1,
+    "3157" : 1,
+    "3340" : 1,
+    "3363" : 2,
+    "6653" : 3,
+    "6657" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3116" : 1,
+    "6653" : 2
+  },
+  "shoesFrequency" : {
+    "3020" : 1,
+    "3047" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    1,
+    [
+      "Flash",
+      "Ghost"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3119" : 1,
+    "6653" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

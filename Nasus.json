@@ -1,0 +1,92 @@
+{
+  "championName" : "Nasus",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3078" : 1,
+    "6662" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3065" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8446
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1056" : 1,
+    "2031" : 1,
+    "2504" : 1,
+    "3009" : 1,
+    "3047" : 1,
+    "3065" : 1,
+    "3076" : 1,
+    "3078" : 1,
+    "3110" : 2,
+    "3340" : 2,
+    "6662" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3110" : 2
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3047" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1054,
+      2003
+    ],
+    1,
+    [
+      1056,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "2504" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 1
+}

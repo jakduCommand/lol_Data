@@ -1,0 +1,87 @@
+{
+  "championName" : "Kalista",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3153" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1042" : 1,
+    "1055" : 1,
+    "3006" : 1,
+    "3047" : 1,
+    "3085" : 1,
+    "3091" : 1,
+    "3123" : 1,
+    "3124" : 1,
+    "3153" : 2,
+    "3340" : 1,
+    "3363" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3085" : 1,
+    "3124" : 1
+  },
+  "shoesFrequency" : {
+    "3006" : 1,
+    "3047" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Barrier",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3091" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 0
+}

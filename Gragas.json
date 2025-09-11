@@ -1,0 +1,115 @@
+{
+  "championName" : "Gragas",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 1,
+    "4646" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8135,
+        "perk2" : 8126
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1058" : 1,
+    "1082" : 1,
+    "2003" : 1,
+    "2031" : 1,
+    "3020" : 2,
+    "3152" : 2,
+    "3340" : 2,
+    "3364" : 1,
+    "3802" : 2,
+    "3865" : 1,
+    "4646" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3152" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    2,
+    [
+      "Teleport",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    1,
+    [
+      2031,
+      1027
+    ],
+    1,
+    [
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

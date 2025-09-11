@@ -1,0 +1,139 @@
+{
+  "championName" : "Yuumi",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3504" : 1,
+    "6617" : 3,
+    "6620" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8135,
+        "perk2" : 8141
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8463
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8463,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8463,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8463
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1004" : 1,
+    "1082" : 2,
+    "2055" : 2,
+    "3107" : 1,
+    "3109" : 1,
+    "3114" : 5,
+    "3222" : 2,
+    "3364" : 5,
+    "3504" : 3,
+    "3870" : 5,
+    "6617" : 4,
+    "6620" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3109" : 1,
+    "3222" : 2,
+    "3504" : 2
+  },
+  "shoesFrequency" : {
+
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Exhaust",
+      "Heal"
+    ],
+    5
+  ],
+  "startItemFrequency" : [
+    [
+      2055
+    ],
+    3,
+    [
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3107" : 1,
+    "6617" : 1
+  },
+  "totalGames" : 5,
+  "totalWins" : 5
+}

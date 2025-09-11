@@ -1,0 +1,324 @@
+{
+  "championName" : "Sylas",
+  "fifthCoreItemFrequency" : {
+    "3102" : 1,
+    "3157" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "3100" : 3,
+    "3152" : 14,
+    "6657" : 1,
+    "6692" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3041" : 1,
+    "3089" : 2,
+    "3157" : 3,
+    "6333" : 1,
+    "8010" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    5,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 4,
+    "1056" : 3,
+    "1058" : 2,
+    "1082" : 12,
+    "1101" : 1,
+    "2055" : 1,
+    "2420" : 1,
+    "2421" : 1,
+    "3020" : 9,
+    "3041" : 2,
+    "3089" : 3,
+    "3100" : 5,
+    "3102" : 2,
+    "3111" : 2,
+    "3145" : 1,
+    "3147" : 1,
+    "3152" : 13,
+    "3157" : 12,
+    "3158" : 2,
+    "3161" : 1,
+    "3175" : 5,
+    "3340" : 2,
+    "3363" : 3,
+    "3364" : 14,
+    "4629" : 1,
+    "4633" : 3,
+    "4645" : 7,
+    "6333" : 1,
+    "6657" : 1,
+    "6692" : 1,
+    "8010" : 3
+  },
+  "secondCoreItemFrequency" : {
+    "3041" : 1,
+    "3100" : 1,
+    "3157" : 1,
+    "4629" : 1,
+    "4633" : 3,
+    "4645" : 7,
+    "8010" : 2
+  },
+  "shoesFrequency" : {
+    "3020" : 14,
+    "3111" : 2,
+    "3158" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    4,
+    [
+      "Smite",
+      "Flash"
+    ],
+    13,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1102
+    ],
+    1,
+    [
+      1101
+    ],
+    1,
+    [
+      1101,
+      2003
+    ],
+    5,
+    [
+      2003,
+      1102
+    ],
+    6,
+    [
+      1056,
+      2003
+    ],
+    5,
+    [
+      1082,
+      2031
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1,
+    "3089" : 1,
+    "3102" : 1,
+    "3157" : 7,
+    "3161" : 1,
+    "4633" : 1
+  },
+  "totalGames" : 19,
+  "totalWins" : 10
+}

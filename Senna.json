@@ -1,0 +1,213 @@
+{
+  "championName" : "Senna",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3071" : 4,
+    "3087" : 2,
+    "3153" : 1,
+    "3877" : 1,
+    "6620" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8463,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1018" : 1,
+    "1037" : 2,
+    "1038" : 2,
+    "1042" : 2,
+    "1057" : 1,
+    "2055" : 1,
+    "3009" : 6,
+    "3031" : 1,
+    "3033" : 2,
+    "3047" : 1,
+    "3071" : 6,
+    "3085" : 2,
+    "3086" : 1,
+    "3087" : 2,
+    "3094" : 4,
+    "3114" : 1,
+    "3123" : 1,
+    "3153" : 1,
+    "3155" : 1,
+    "3170" : 1,
+    "3171" : 1,
+    "3363" : 3,
+    "3364" : 6,
+    "3869" : 2,
+    "3870" : 1,
+    "3877" : 3,
+    "6617" : 1,
+    "6620" : 1,
+    "6621" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3071" : 1,
+    "3085" : 2,
+    "3094" : 4,
+    "6617" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 7,
+    "3047" : 1,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Heal",
+      "Flash"
+    ],
+    6,
+    [
+      "Flash",
+      "Barrier"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    3,
+    [
+      2003
+    ],
+    6
+  ],
+  "thirdCoreItemFrequency" : {
+    "3033" : 2,
+    "3071" : 1,
+    "6621" : 1
+  },
+  "totalGames" : 9,
+  "totalWins" : 5
+}

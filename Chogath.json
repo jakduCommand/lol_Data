@@ -1,0 +1,156 @@
+{
+  "championName" : "Chogath",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3084" : 5,
+    "3748" : 1,
+    "6657" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1011" : 1,
+    "1029" : 1,
+    "1031" : 2,
+    "1052" : 1,
+    "1054" : 1,
+    "1056" : 4,
+    "1057" : 1,
+    "1082" : 2,
+    "2022" : 1,
+    "2422" : 1,
+    "2502" : 3,
+    "3009" : 1,
+    "3076" : 1,
+    "3082" : 1,
+    "3084" : 5,
+    "3108" : 1,
+    "3111" : 1,
+    "3158" : 1,
+    "3173" : 1,
+    "3174" : 1,
+    "3340" : 4,
+    "3364" : 3,
+    "3748" : 2,
+    "6657" : 1,
+    "6664" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "2502" : 3,
+    "6664" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3047" : 1,
+    "3111" : 1,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    7
+  ],
+  "startItemFrequency" : [
+    [
+      1054,
+      2003
+    ],
+    2,
+    [
+      2003,
+      1056
+    ],
+    5
+  ],
+  "thirdCoreItemFrequency" : {
+    "3748" : 1
+  },
+  "totalGames" : 7,
+  "totalWins" : 2
+}

@@ -1,0 +1,119 @@
+{
+  "championName" : "Urgot",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3071" : 4,
+    "6698" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8446
+      },
+      "subStyle" : 8400
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 2,
+    "1028" : 1,
+    "1029" : 1,
+    "1055" : 4,
+    "2031" : 1,
+    "2422" : 1,
+    "3047" : 1,
+    "3053" : 3,
+    "3071" : 5,
+    "3173" : 1,
+    "3340" : 5,
+    "6698" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3053" : 3,
+    "3071" : 1
+  },
+  "shoesFrequency" : {
+    "3047" : 1,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Ignite"
+    ],
+    1,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3,
+    [
+      "Smite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    4,
+    [
+      1102,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 5,
+  "totalWins" : 1
+}

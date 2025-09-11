@@ -1,0 +1,98 @@
+{
+  "championName" : "Ivern",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3107" : 2,
+    "3118" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3504" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8126,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8321,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    2
+  ],
+  "itemFrequency" : {
+    "1026" : 1,
+    "1082" : 1,
+    "3020" : 1,
+    "3041" : 1,
+    "3067" : 1,
+    "3089" : 1,
+    "3107" : 2,
+    "3114" : 1,
+    "3115" : 1,
+    "3118" : 1,
+    "3158" : 2,
+    "3364" : 3,
+    "3504" : 1,
+    "6617" : 1,
+    "6621" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3041" : 1,
+    "3115" : 1,
+    "6617" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Smite"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1102
+    ],
+    2,
+    [
+      1101,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3089" : 1,
+    "6621" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 0
+}

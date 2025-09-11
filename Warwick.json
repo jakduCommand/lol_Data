@@ -1,0 +1,116 @@
+{
+  "championName" : "Warwick",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3153" : 1,
+    "3181" : 1,
+    "6631" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1037" : 1,
+    "1055" : 1,
+    "2019" : 1,
+    "3053" : 1,
+    "3067" : 1,
+    "3111" : 2,
+    "3123" : 1,
+    "3133" : 2,
+    "3153" : 2,
+    "3170" : 1,
+    "3181" : 1,
+    "3340" : 1,
+    "3363" : 1,
+    "3364" : 1,
+    "6631" : 3
+  },
+  "secondCoreItemFrequency" : {
+    "3153" : 1,
+    "6631" : 2
+  },
+  "shoesFrequency" : {
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Barrier"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    2,
+    [
+      1102
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3053" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

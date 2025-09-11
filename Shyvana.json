@@ -1,0 +1,66 @@
+{
+  "championName" : "Shyvana",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3161" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "2501" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8429
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "2501" : 1,
+    "3111" : 1,
+    "3161" : 1,
+    "3364" : 1,
+    "3748" : 1,
+    "6610" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "6610" : 1
+  },
+  "shoesFrequency" : {
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1103
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3748" : 1
+  },
+  "totalGames" : 1,
+  "totalWins" : 1
+}

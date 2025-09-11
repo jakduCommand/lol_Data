@@ -1,0 +1,184 @@
+{
+  "championName" : "Seraphine",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3003" : 3,
+    "3107" : 1,
+    "6620" : 1,
+    "6655" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8014
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 1,
+    "1052" : 2,
+    "1056" : 1,
+    "1082" : 2,
+    "2003" : 1,
+    "3020" : 2,
+    "3040" : 3,
+    "3067" : 1,
+    "3089" : 1,
+    "3107" : 2,
+    "3114" : 4,
+    "3158" : 4,
+    "3340" : 2,
+    "3363" : 3,
+    "3364" : 2,
+    "3865" : 1,
+    "3870" : 1,
+    "3876" : 1,
+    "4628" : 1,
+    "4645" : 1,
+    "6617" : 3,
+    "6620" : 2,
+    "6655" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "4628" : 1,
+    "4645" : 1,
+    "6617" : 3,
+    "6620" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 2,
+    "3158" : 4
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    4,
+    [
+      "Exhaust",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Heal"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    3,
+    [
+      1056,
+      2003
+    ],
+    2,
+    [
+      2003,
+      3070
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3089" : 1,
+    "3107" : 1
+  },
+  "totalGames" : 7,
+  "totalWins" : 2
+}

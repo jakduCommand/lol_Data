@@ -1,0 +1,65 @@
+{
+  "championName" : "Velkoz",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6655" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8126,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1082" : 1,
+    "3175" : 1,
+    "3364" : 1,
+    "3871" : 1,
+    "3916" : 1,
+    "4628" : 1,
+    "6655" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "4628" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Heal",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 1,
+  "totalWins" : 1
+}

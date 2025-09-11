@@ -1,0 +1,136 @@
+{
+  "championName" : "Janna",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3107" : 2,
+    "3504" : 2,
+    "3870" : 1,
+    "4005" : 1,
+    "6617" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "6616" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8316
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8463,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    5,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8463
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1082" : 2,
+    "2055" : 3,
+    "3009" : 6,
+    "3107" : 7,
+    "3113" : 1,
+    "3114" : 1,
+    "3158" : 2,
+    "3190" : 1,
+    "3364" : 8,
+    "3504" : 3,
+    "3869" : 1,
+    "3870" : 6,
+    "3876" : 1,
+    "4005" : 1,
+    "4642" : 1,
+    "6616" : 2,
+    "6617" : 3,
+    "6621" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3107" : 3,
+    "3504" : 1,
+    "6617" : 1,
+    "6621" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 6,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Heal",
+      "Flash"
+    ],
+    7,
+    [
+      "Exhaust",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    8
+  ],
+  "thirdCoreItemFrequency" : {
+    "3107" : 1,
+    "3190" : 1,
+    "6616" : 1
+  },
+  "totalGames" : 8,
+  "totalWins" : 6
+}

@@ -1,0 +1,140 @@
+{
+  "championName" : "Jinx",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3032" : 13,
+    "6672" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3033" : 1,
+    "6673" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    10,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1018" : 1,
+    "1036" : 1,
+    "1037" : 1,
+    "1038" : 2,
+    "1042" : 4,
+    "1055" : 13,
+    "1083" : 1,
+    "2031" : 1,
+    "3006" : 13,
+    "3031" : 11,
+    "3032" : 13,
+    "3033" : 2,
+    "3035" : 1,
+    "3046" : 2,
+    "3085" : 1,
+    "3123" : 4,
+    "3363" : 13,
+    "3364" : 1,
+    "6672" : 1,
+    "6673" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 10,
+    "3046" : 2
+  },
+  "shoesFrequency" : {
+    "3006" : 13
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Cleanse",
+      "Flash"
+    ],
+    1,
+    [
+      "Ghost",
+      "Flash"
+    ],
+    2,
+    [
+      "Barrier",
+      "Flash"
+    ],
+    11
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    14
+  ],
+  "thirdCoreItemFrequency" : {
+    "3031" : 1,
+    "3033" : 1,
+    "3085" : 1
+  },
+  "totalGames" : 14,
+  "totalWins" : 8
+}

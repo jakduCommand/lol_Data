@@ -1,0 +1,176 @@
+{
+  "championName" : "Katarina",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3100" : 4,
+    "6672" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8105
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8105,
+        "perk2" : 8143
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8105
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8014,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1011" : 1,
+    "1036" : 2,
+    "1054" : 1,
+    "1082" : 4,
+    "2031" : 1,
+    "2421" : 1,
+    "3020" : 3,
+    "3100" : 4,
+    "3111" : 1,
+    "3115" : 1,
+    "3153" : 1,
+    "3157" : 1,
+    "3175" : 1,
+    "3302" : 1,
+    "3340" : 3,
+    "3364" : 3,
+    "4645" : 4,
+    "6631" : 1,
+    "6672" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3115" : 1,
+    "3153" : 1,
+    "4645" : 3,
+    "6631" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 4,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    6
+  ],
+  "startItemFrequency" : [
+    [
+      1054,
+      2003
+    ],
+    2,
+    [
+      1055,
+      2003
+    ],
+    1,
+    [
+      2031,
+      1082
+    ],
+    2,
+    [
+      2003,
+      1036
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 1,
+    "3302" : 1,
+    "4645" : 1
+  },
+  "totalGames" : 6,
+  "totalWins" : 2
+}

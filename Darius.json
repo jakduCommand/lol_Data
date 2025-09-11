@@ -1,0 +1,153 @@
+{
+  "championName" : "Darius",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3071" : 1,
+    "3078" : 2,
+    "3142" : 2,
+    "6631" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3156" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 3,
+    "1029" : 1,
+    "1037" : 1,
+    "1054" : 2,
+    "1057" : 2,
+    "1102" : 1,
+    "2021" : 2,
+    "3009" : 1,
+    "3047" : 2,
+    "3053" : 2,
+    "3071" : 1,
+    "3078" : 2,
+    "3111" : 1,
+    "3142" : 2,
+    "3156" : 1,
+    "3170" : 1,
+    "3173" : 1,
+    "3340" : 3,
+    "3364" : 3,
+    "3742" : 4,
+    "6333" : 1,
+    "6631" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3053" : 1,
+    "3742" : 3
+  },
+  "shoesFrequency" : {
+    "3009" : 2,
+    "3047" : 2,
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Smite"
+    ],
+    2,
+    [
+      "Flash",
+      "Ghost"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1102
+    ],
+    1,
+    [
+      1102
+    ],
+    1,
+    [
+      2003,
+      1055
+    ],
+    1,
+    [
+      1054,
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3053" : 1,
+    "3742" : 1,
+    "6333" : 1
+  },
+  "totalGames" : 6,
+  "totalWins" : 5
+}

@@ -1,0 +1,223 @@
+{
+  "championName" : "Taliyah",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "2503" : 5,
+    "3003" : 4
+  },
+  "fourthCoreItemFrequency" : {
+    "3089" : 1,
+    "4645" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8017,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8410
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8232,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 1,
+    "1056" : 3,
+    "1058" : 2,
+    "1082" : 4,
+    "2055" : 2,
+    "2420" : 1,
+    "2503" : 5,
+    "2508" : 1,
+    "3020" : 5,
+    "3024" : 1,
+    "3040" : 4,
+    "3041" : 1,
+    "3047" : 1,
+    "3089" : 4,
+    "3111" : 1,
+    "3116" : 2,
+    "3137" : 1,
+    "3147" : 1,
+    "3157" : 1,
+    "3158" : 1,
+    "3171" : 1,
+    "3340" : 1,
+    "3363" : 5,
+    "3364" : 3,
+    "3916" : 1,
+    "4645" : 3,
+    "6653" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "3089" : 1,
+    "3116" : 2,
+    "3137" : 1,
+    "3157" : 1,
+    "4645" : 1,
+    "6653" : 3
+  },
+  "shoesFrequency" : {
+    "3020" : 5,
+    "3047" : 1,
+    "3111" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Exhaust",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    5,
+    [
+      "Smite",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    6,
+    [
+      1101
+    ],
+    1,
+    [
+      1101,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1,
+    "3089" : 2,
+    "4645" : 1,
+    "6653" : 1
+  },
+  "totalGames" : 9,
+  "totalWins" : 3
+}

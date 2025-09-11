@@ -1,0 +1,91 @@
+{
+  "championName" : "Annie",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3118" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "3089" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 1,
+    "1026" : 1,
+    "1056" : 1,
+    "1082" : 1,
+    "3089" : 1,
+    "3118" : 2,
+    "3158" : 1,
+    "3175" : 1,
+    "3364" : 2,
+    "3916" : 1,
+    "6653" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "6653" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 1,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ghost",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 2
+}

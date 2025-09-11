@@ -1,0 +1,101 @@
+{
+  "championName" : "Fiora",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3074" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8135
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1036" : 1,
+    "1037" : 1,
+    "1055" : 3,
+    "2021" : 2,
+    "2031" : 1,
+    "3047" : 3,
+    "3074" : 3,
+    "3078" : 2,
+    "3123" : 1,
+    "3340" : 2,
+    "3363" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3078" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

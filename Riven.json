@@ -1,0 +1,94 @@
+{
+  "championName" : "Riven",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6610" : 1,
+    "6692" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    2
+  ],
+  "itemFrequency" : {
+    "1055" : 2,
+    "2003" : 1,
+    "2019" : 1,
+    "3071" : 1,
+    "3133" : 1,
+    "3158" : 1,
+    "3171" : 1,
+    "3340" : 1,
+    "3364" : 2,
+    "6333" : 1,
+    "6610" : 2,
+    "6692" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3071" : 1,
+    "6333" : 1
+  },
+  "shoesFrequency" : {
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1054,
+      1029,
+      2003
+    ],
+    1,
+    [
+      1055,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "6610" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 3
+}

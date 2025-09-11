@@ -1,0 +1,107 @@
+{
+  "championName" : "Nilah",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3032" : 3,
+    "6676" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8135
+      },
+      "subStyle" : 8100
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1036" : 1,
+    "1055" : 3,
+    "3006" : 1,
+    "3031" : 3,
+    "3032" : 3,
+    "3035" : 1,
+    "3047" : 1,
+    "3111" : 1,
+    "3173" : 1,
+    "3363" : 4,
+    "6670" : 2,
+    "6673" : 1,
+    "6676" : 1,
+    "6695" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 3,
+    "6673" : 1
+  },
+  "shoesFrequency" : {
+    "3006" : 1,
+    "3047" : 1,
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Barrier"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+    "6695" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 1
+}

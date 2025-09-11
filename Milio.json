@@ -1,0 +1,153 @@
+{
+  "championName" : "Milio",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3222" : 1,
+    "6620" : 8
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    4,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8429
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1004" : 2,
+    "1052" : 1,
+    "2055" : 3,
+    "3067" : 3,
+    "3109" : 1,
+    "3113" : 1,
+    "3114" : 1,
+    "3158" : 5,
+    "3171" : 4,
+    "3222" : 2,
+    "3364" : 9,
+    "3504" : 1,
+    "3869" : 2,
+    "3870" : 7,
+    "4642" : 2,
+    "6617" : 5,
+    "6620" : 8
+  },
+  "secondCoreItemFrequency" : {
+    "3109" : 1,
+    "3504" : 1,
+    "6617" : 5
+  },
+  "shoesFrequency" : {
+    "3158" : 9
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Heal"
+    ],
+    9
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    9
+  ],
+  "thirdCoreItemFrequency" : {
+    "3222" : 1
+  },
+  "totalGames" : 9,
+  "totalWins" : 5
+}

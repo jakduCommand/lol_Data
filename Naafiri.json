@@ -1,0 +1,142 @@
+{
+  "championName" : "Naafiri",
+  "fifthCoreItemFrequency" : {
+    "6695" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "6692" : 3,
+    "6697" : 1,
+    "6699" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3071" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1055" : 1,
+    "2021" : 1,
+    "2022" : 1,
+    "2031" : 2,
+    "3035" : 2,
+    "3071" : 2,
+    "3123" : 1,
+    "3133" : 1,
+    "3158" : 3,
+    "3161" : 3,
+    "3173" : 2,
+    "3364" : 5,
+    "3814" : 2,
+    "6692" : 3,
+    "6695" : 1,
+    "6697" : 1,
+    "6699" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3071" : 1,
+    "3161" : 3,
+    "3814" : 1
+  },
+  "shoesFrequency" : {
+    "3111" : 2,
+    "3158" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    3,
+    [
+      "Flash",
+      "Smite"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1101,
+      2003
+    ],
+    2,
+    [
+      1054,
+      2003
+    ],
+    1,
+    [
+      1055,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3814" : 1
+  },
+  "totalGames" : 5,
+  "totalWins" : 2
+}

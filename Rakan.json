@@ -1,0 +1,116 @@
+{
+  "championName" : "Rakan",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "2065" : 1,
+    "3107" : 2,
+    "3190" : 1,
+    "3222" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8141,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1029" : 1,
+    "1082" : 1,
+    "2031" : 1,
+    "2065" : 1,
+    "2422" : 1,
+    "3050" : 1,
+    "3067" : 1,
+    "3107" : 2,
+    "3158" : 3,
+    "3171" : 1,
+    "3190" : 4,
+    "3222" : 1,
+    "3364" : 5,
+    "3869" : 2,
+    "3870" : 1,
+    "3876" : 1,
+    "3877" : 1,
+    "4643" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3050" : 1,
+    "3190" : 3
+  },
+  "shoesFrequency" : {
+    "3158" : 4
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2,
+    [
+      "Heal",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    5
+  ],
+  "thirdCoreItemFrequency" : {
+    "4643" : 1
+  },
+  "totalGames" : 5,
+  "totalWins" : 3
+}

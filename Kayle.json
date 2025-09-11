@@ -1,0 +1,112 @@
+{
+  "championName" : "Kayle",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3115" : 2,
+    "3124" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3089" : 1,
+    "3165" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1082" : 1,
+    "3009" : 2,
+    "3089" : 3,
+    "3100" : 1,
+    "3115" : 3,
+    "3116" : 1,
+    "3124" : 1,
+    "3165" : 1,
+    "3170" : 1,
+    "3363" : 3,
+    "4630" : 1,
+    "4645" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3089" : 1,
+    "3115" : 1,
+    "4645" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2031,
+      1027
+    ],
+    1,
+    [
+      2003,
+      1055
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3089" : 1,
+    "3100" : 1,
+    "3116" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 0
+}

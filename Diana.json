@@ -1,0 +1,110 @@
+{
+  "championName" : "Diana",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 1,
+    "4645" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8401
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 1,
+    "1056" : 2,
+    "1058" : 2,
+    "1082" : 3,
+    "2003" : 1,
+    "3020" : 1,
+    "3152" : 1,
+    "3157" : 1,
+    "3173" : 1,
+    "3340" : 1,
+    "3364" : 2,
+    "4645" : 2,
+    "4646" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "4645" : 1,
+    "4646" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 1,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    1,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 2
+}

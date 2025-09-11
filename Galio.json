@@ -1,0 +1,112 @@
+{
+  "championName" : "Galio",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6657" : 1,
+    "6664" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "4645" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8275
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1029" : 2,
+    "1056" : 1,
+    "1082" : 1,
+    "2031" : 1,
+    "3047" : 1,
+    "3108" : 1,
+    "3111" : 1,
+    "3147" : 1,
+    "3157" : 1,
+    "3174" : 1,
+    "3340" : 2,
+    "3363" : 1,
+    "4633" : 2,
+    "4645" : 1,
+    "6657" : 1,
+    "6664" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "4633" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 2,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    2,
+    [
+      1054,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

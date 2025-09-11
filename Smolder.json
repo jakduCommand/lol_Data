@@ -1,0 +1,135 @@
+{
+  "championName" : "Smolder",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3508" : 3,
+    "6697" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1018" : 1,
+    "1042" : 1,
+    "1055" : 4,
+    "2422" : 1,
+    "3009" : 1,
+    "3031" : 2,
+    "3086" : 3,
+    "3144" : 1,
+    "3161" : 2,
+    "3171" : 2,
+    "3363" : 4,
+    "3508" : 3,
+    "6697" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 2,
+    "3161" : 2
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Barrier",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    1,
+    [
+      "Cleanse",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Ghost"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 4,
+  "totalWins" : 3
+}

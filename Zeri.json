@@ -1,0 +1,88 @@
+{
+  "championName" : "Zeri",
+  "fifthCoreItemFrequency" : {
+    "3026" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "3032" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "6673" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8233
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1036" : 2,
+    "1055" : 1,
+    "3006" : 2,
+    "3026" : 1,
+    "3031" : 1,
+    "3032" : 2,
+    "3085" : 2,
+    "3363" : 2,
+    "6673" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3085" : 2
+  },
+  "shoesFrequency" : {
+    "3006" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Cleanse",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Barrier"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3031" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 1
+}

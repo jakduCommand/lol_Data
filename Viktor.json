@@ -1,0 +1,109 @@
+{
+  "championName" : "Viktor",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6655" : 1,
+    "6657" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "3135" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8401
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 1,
+    "1058" : 1,
+    "1082" : 1,
+    "2421" : 1,
+    "3089" : 1,
+    "3108" : 1,
+    "3111" : 2,
+    "3135" : 1,
+    "3157" : 1,
+    "3175" : 1,
+    "3363" : 3,
+    "4630" : 1,
+    "4645" : 1,
+    "6653" : 2,
+    "6655" : 1,
+    "6657" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "4645" : 1,
+    "6653" : 2
+  },
+  "shoesFrequency" : {
+    "3020" : 1,
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3089" : 1,
+    "3157" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

@@ -1,0 +1,99 @@
+{
+  "championName" : "Jhin",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3142" : 4,
+    "6676" : 1,
+    "6695" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3031" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    5,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1038" : 1,
+    "1055" : 3,
+    "2031" : 1,
+    "2055" : 2,
+    "3009" : 4,
+    "3031" : 3,
+    "3033" : 1,
+    "3047" : 1,
+    "3094" : 3,
+    "3142" : 5,
+    "3170" : 1,
+    "3340" : 3,
+    "3363" : 3,
+    "6670" : 1,
+    "6676" : 3,
+    "6695" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 1,
+    "3094" : 2,
+    "3142" : 1,
+    "6676" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 5,
+    "3047" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Barrier"
+    ],
+    6
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    6
+  ],
+  "thirdCoreItemFrequency" : {
+    "3031" : 1,
+    "3033" : 1,
+    "3094" : 1,
+    "6676" : 1
+  },
+  "totalGames" : 6,
+  "totalWins" : 6
+}

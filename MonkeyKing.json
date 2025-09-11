@@ -1,0 +1,89 @@
+{
+  "championName" : "MonkeyKing",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3078" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    2
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1029" : 1,
+    "2019" : 1,
+    "2021" : 1,
+    "2422" : 1,
+    "3071" : 2,
+    "3078" : 3,
+    "3155" : 1,
+    "3173" : 2,
+    "3364" : 3,
+    "6610" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "6610" : 2
+  },
+  "shoesFrequency" : {
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1101,
+      2003
+    ],
+    1,
+    [
+      1102
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "3071" : 2
+  },
+  "totalGames" : 3,
+  "totalWins" : 2
+}

@@ -1,0 +1,111 @@
+{
+  "championName" : "Draven",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3072" : 3,
+    "3142" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3033" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1037" : 2,
+    "1038" : 2,
+    "1055" : 3,
+    "3006" : 2,
+    "3031" : 1,
+    "3033" : 1,
+    "3072" : 3,
+    "3134" : 1,
+    "3142" : 1,
+    "3156" : 1,
+    "3172" : 1,
+    "3340" : 2,
+    "3363" : 2,
+    "6676" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3156" : 1,
+    "6676" : 1
+  },
+  "shoesFrequency" : {
+    "3006" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Cleanse",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Barrier"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+    "3031" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

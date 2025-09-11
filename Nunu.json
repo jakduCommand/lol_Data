@@ -1,0 +1,137 @@
+{
+  "championName" : "Nunu",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3157" : 1,
+    "4646" : 1,
+    "6653" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8233,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8126,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1029" : 1,
+    "1082" : 2,
+    "2504" : 1,
+    "3013" : 1,
+    "3041" : 1,
+    "3067" : 1,
+    "3089" : 1,
+    "3110" : 1,
+    "3111" : 1,
+    "3157" : 1,
+    "3158" : 1,
+    "3173" : 1,
+    "3364" : 4,
+    "3742" : 1,
+    "3869" : 1,
+    "4632" : 2,
+    "4646" : 1,
+    "6653" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "2504" : 1,
+    "3041" : 1,
+    "3089" : 1
+  },
+  "shoesFrequency" : {
+    "3010" : 1,
+    "3111" : 2,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ignite",
+      "Flash"
+    ],
+    1,
+    [
+      "Smite",
+      "Flash"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1102
+    ],
+    3,
+    [
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3110" : 1,
+    "3742" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 3
+}

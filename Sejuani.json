@@ -1,0 +1,65 @@
+{
+  "championName" : "Sejuani",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3068" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 1,
+    "1031" : 1,
+    "2055" : 1,
+    "3068" : 1,
+    "3076" : 1,
+    "3111" : 1,
+    "3364" : 1
+  },
+  "secondCoreItemFrequency" : {
+
+  },
+  "shoesFrequency" : {
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Smite"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1103
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 1,
+  "totalWins" : 0
+}

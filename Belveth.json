@@ -1,0 +1,91 @@
+{
+  "championName" : "Belveth",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6672" : 2
+  },
+  "fourthCoreItemFrequency" : {
+    "6333" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8105
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1029" : 1,
+    "1036" : 1,
+    "1055" : 1,
+    "3047" : 1,
+    "3091" : 1,
+    "3111" : 1,
+    "3153" : 2,
+    "3340" : 1,
+    "3364" : 1,
+    "6333" : 1,
+    "6672" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3153" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 1,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1102
+    ],
+    1,
+    [
+      1102
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3091" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 1
+}

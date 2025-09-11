@@ -1,0 +1,200 @@
+{
+  "championName" : "Sivir",
+  "fifthCoreItemFrequency" : {
+    "3072" : 1
+  },
+  "firstCoreItemFrequency" : {
+    "3032" : 6,
+    "3508" : 4
+  },
+  "fourthCoreItemFrequency" : {
+    "3033" : 1,
+    "6675" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1018" : 4,
+    "1036" : 1,
+    "1037" : 3,
+    "1038" : 3,
+    "1042" : 3,
+    "1055" : 10,
+    "2003" : 1,
+    "3006" : 7,
+    "3031" : 6,
+    "3032" : 6,
+    "3033" : 2,
+    "3046" : 1,
+    "3072" : 1,
+    "3086" : 1,
+    "3123" : 2,
+    "3172" : 3,
+    "3340" : 2,
+    "3363" : 9,
+    "3508" : 4,
+    "6675" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 4,
+    "3046" : 1,
+    "6675" : 2
+  },
+  "shoesFrequency" : {
+    "3006" : 10
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Barrier"
+    ],
+    8,
+    [
+      "Flash",
+      "Cleanse"
+    ],
+    1,
+    [
+      "Ghost",
+      "Flash"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    11
+  ],
+  "thirdCoreItemFrequency" : {
+    "3031" : 2,
+    "3033" : 1,
+    "6675" : 1
+  },
+  "totalGames" : 11,
+  "totalWins" : 6
+}

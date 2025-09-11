@@ -1,0 +1,141 @@
+{
+  "championName" : "Udyr",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3107" : 1,
+    "3110" : 1,
+    "6653" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1029" : 1,
+    "1056" : 1,
+    "1082" : 2,
+    "1102" : 1,
+    "2502" : 1,
+    "3009" : 1,
+    "3041" : 1,
+    "3066" : 1,
+    "3067" : 1,
+    "3107" : 1,
+    "3110" : 1,
+    "3111" : 1,
+    "3114" : 1,
+    "3170" : 1,
+    "3211" : 1,
+    "3340" : 2,
+    "3364" : 2,
+    "3916" : 1,
+    "6653" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "2502" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 2,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ghost",
+      "Teleport"
+    ],
+    1,
+    [
+      "Flash",
+      "Smite"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1102
+    ],
+    1,
+    [
+      1102
+    ],
+    2,
+    [
+      1056,
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3041" : 1
+  },
+  "totalGames" : 4,
+  "totalWins" : 1
+}

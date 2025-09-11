@@ -1,0 +1,107 @@
+{
+  "championName" : "Blitzcrank",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3050" : 2,
+    "3107" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8275
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1004" : 1,
+    "3009" : 3,
+    "3050" : 2,
+    "3067" : 2,
+    "3075" : 1,
+    "3107" : 1,
+    "3190" : 2,
+    "3222" : 1,
+    "3364" : 3,
+    "3876" : 1,
+    "3877" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3075" : 1,
+    "3190" : 1,
+    "3222" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2,
+    [
+      "Heal",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3190" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 1
+}

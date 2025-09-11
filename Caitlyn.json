@@ -1,0 +1,122 @@
+{
+  "championName" : "Caitlyn",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3032" : 2,
+    "6676" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1018" : 1,
+    "1036" : 1,
+    "1055" : 3,
+    "2031" : 1,
+    "3006" : 3,
+    "3009" : 1,
+    "3031" : 4,
+    "3032" : 2,
+    "3035" : 4,
+    "3036" : 1,
+    "3072" : 1,
+    "3172" : 1,
+    "3363" : 5,
+    "6670" : 1,
+    "6676" : 3
+  },
+  "secondCoreItemFrequency" : {
+    "3031" : 4,
+    "3036" : 1
+  },
+  "shoesFrequency" : {
+    "3006" : 4,
+    "3009" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Barrier",
+      "Flash"
+    ],
+    5
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1055
+    ],
+    5
+  ],
+  "thirdCoreItemFrequency" : {
+    "3072" : 1
+  },
+  "totalGames" : 5,
+  "totalWins" : 1
+}

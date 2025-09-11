@@ -1,0 +1,167 @@
+{
+  "championName" : "Thresh",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3109" : 1,
+    "3190" : 7
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "2055" : 7,
+    "3009" : 2,
+    "3024" : 1,
+    "3050" : 2,
+    "3067" : 1,
+    "3082" : 1,
+    "3109" : 3,
+    "3110" : 1,
+    "3111" : 1,
+    "3158" : 2,
+    "3170" : 3,
+    "3190" : 7,
+    "3364" : 8,
+    "3869" : 4,
+    "3876" : 3,
+    "3877" : 1,
+    "8020" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3050" : 1,
+    "3109" : 2,
+    "3110" : 1,
+    "8020" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 5,
+    "3111" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Exhaust",
+      "Flash"
+    ],
+    1,
+    [
+      "Heal",
+      "Flash"
+    ],
+    1,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    6
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    8
+  ],
+  "thirdCoreItemFrequency" : {
+    "3050" : 1,
+    "8020" : 1
+  },
+  "totalGames" : 8,
+  "totalWins" : 4
+}

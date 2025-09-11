@@ -1,0 +1,101 @@
+{
+  "championName" : "Neeko",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8126,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 1,
+    "1058" : 2,
+    "2055" : 3,
+    "2421" : 1,
+    "3108" : 1,
+    "3145" : 1,
+    "3152" : 3,
+    "3157" : 1,
+    "3158" : 3,
+    "3171" : 1,
+    "3364" : 4,
+    "3869" : 4,
+    "3916" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3157" : 1
+  },
+  "shoesFrequency" : {
+    "3158" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Heal",
+      "Flash"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

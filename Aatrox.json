@@ -1,0 +1,184 @@
+{
+  "championName" : "Aatrox",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3161" : 2,
+    "6610" : 3,
+    "6692" : 1,
+    "6699" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3065" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 2,
+    "1033" : 1,
+    "1036" : 3,
+    "1037" : 1,
+    "1054" : 3,
+    "1055" : 2,
+    "2020" : 2,
+    "2021" : 1,
+    "2031" : 1,
+    "3047" : 3,
+    "3065" : 1,
+    "3067" : 1,
+    "3071" : 2,
+    "3111" : 2,
+    "3123" : 2,
+    "3161" : 2,
+    "3174" : 2,
+    "3340" : 4,
+    "3363" : 2,
+    "3364" : 1,
+    "6610" : 5,
+    "6692" : 1,
+    "6694" : 2,
+    "6699" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3071" : 2,
+    "6610" : 2,
+    "6699" : 1
+  },
+  "shoesFrequency" : {
+    "3047" : 5,
+    "3111" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    7
+  ],
+  "startItemFrequency" : [
+    [
+      1054,
+      2003
+    ],
+    5,
+    [
+      1055,
+      2003
+    ],
+    2
+  ],
+  "thirdCoreItemFrequency" : {
+    "6694" : 2
+  },
+  "totalGames" : 7,
+  "totalWins" : 5
+}

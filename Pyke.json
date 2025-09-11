@@ -1,0 +1,120 @@
+{
+  "championName" : "Pyke",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3179" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8242,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1029" : 1,
+    "1036" : 1,
+    "2021" : 1,
+    "3009" : 1,
+    "3082" : 1,
+    "3133" : 1,
+    "3134" : 2,
+    "3156" : 1,
+    "3158" : 2,
+    "3173" : 1,
+    "3179" : 3,
+    "3364" : 4,
+    "3814" : 1,
+    "3869" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "3156" : 1,
+    "3814" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3111" : 1,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Ignite"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 4,
+  "totalWins" : 2
+}

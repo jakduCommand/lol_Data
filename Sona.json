@@ -1,0 +1,129 @@
+{
+  "championName" : "Sona",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6617" : 3,
+    "6620" : 4
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1004" : 1,
+    "1028" : 3,
+    "1052" : 1,
+    "2022" : 1,
+    "2031" : 1,
+    "2055" : 1,
+    "3009" : 5,
+    "3040" : 1,
+    "3070" : 6,
+    "3114" : 1,
+    "3158" : 2,
+    "3170" : 1,
+    "3222" : 1,
+    "3364" : 8,
+    "3504" : 1,
+    "3870" : 3,
+    "3877" : 5,
+    "3916" : 1,
+    "4642" : 3,
+    "6617" : 4,
+    "6620" : 4
+  },
+  "secondCoreItemFrequency" : {
+    "3003" : 1,
+    "3222" : 1,
+    "3504" : 1,
+    "6617" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 6,
+    "3158" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Heal"
+    ],
+    8
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    8
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 8,
+  "totalWins" : 3
+}

@@ -1,0 +1,104 @@
+{
+  "championName" : "Azir",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3115" : 3
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1052" : 1,
+    "1056" : 2,
+    "1082" : 2,
+    "3013" : 1,
+    "3089" : 2,
+    "3102" : 1,
+    "3111" : 1,
+    "3115" : 3,
+    "3116" : 1,
+    "3135" : 1,
+    "3175" : 1,
+    "3363" : 3
+  },
+  "secondCoreItemFrequency" : {
+    "3089" : 1,
+    "3102" : 1,
+    "3116" : 1
+  },
+  "shoesFrequency" : {
+    "3010" : 1,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3089" : 1
+  },
+  "totalGames" : 3,
+  "totalWins" : 3
+}

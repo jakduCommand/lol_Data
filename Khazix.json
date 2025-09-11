@@ -1,0 +1,147 @@
+{
+  "championName" : "Khazix",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3142" : 3,
+    "6698" : 1,
+    "6701" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "6694" : 1,
+    "6695" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8135,
+        "perk2" : 8143
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8135
+      },
+      "subStyle" : 8100
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1036" : 1,
+    "1038" : 1,
+    "1102" : 2,
+    "2019" : 1,
+    "2022" : 2,
+    "2422" : 2,
+    "3033" : 1,
+    "3035" : 1,
+    "3134" : 2,
+    "3142" : 5,
+    "3158" : 1,
+    "3171" : 2,
+    "3340" : 1,
+    "3364" : 4,
+    "3814" : 3,
+    "6694" : 1,
+    "6695" : 1,
+    "6698" : 1,
+    "6701" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3142" : 2,
+    "3814" : 1
+  },
+  "shoesFrequency" : {
+    "3158" : 3
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Smite",
+      "Flash"
+    ],
+    5
+  ],
+  "startItemFrequency" : [
+    [
+      1102
+    ],
+    2,
+    [
+      1102,
+      2003
+    ],
+    3
+  ],
+  "thirdCoreItemFrequency" : {
+    "3033" : 1,
+    "3814" : 2
+  },
+  "totalGames" : 5,
+  "totalWins" : 1
+}

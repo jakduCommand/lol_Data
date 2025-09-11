@@ -1,0 +1,115 @@
+{
+  "championName" : "Elise",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 1,
+    "4646" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8014
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8014
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8014,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1082" : 1,
+    "1102" : 1,
+    "2421" : 1,
+    "3020" : 2,
+    "3102" : 1,
+    "3137" : 1,
+    "3152" : 1,
+    "3340" : 1,
+    "3364" : 2,
+    "3877" : 1,
+    "4646" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "3102" : 1,
+    "3137" : 1
+  },
+  "shoesFrequency" : {
+    "3020" : 2
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Smite"
+    ],
+    2,
+    [
+      "Ignite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    1,
+    [
+      1102,
+      2003
+    ],
+    1,
+    [
+      1102
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 3,
+  "totalWins" : 2
+}

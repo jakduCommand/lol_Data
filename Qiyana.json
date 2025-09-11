@@ -1,0 +1,165 @@
+{
+  "championName" : "Qiyana",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "6697" : 3,
+    "6698" : 1,
+    "6701" : 2
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    2
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1028" : 1,
+    "1036" : 3,
+    "1055" : 1,
+    "2031" : 1,
+    "3035" : 1,
+    "3133" : 2,
+    "3134" : 1,
+    "3142" : 3,
+    "3158" : 4,
+    "3171" : 1,
+    "3364" : 6,
+    "3814" : 2,
+    "6694" : 2,
+    "6695" : 2,
+    "6697" : 3,
+    "6698" : 2,
+    "6701" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3142" : 3,
+    "6695" : 2,
+    "6698" : 1
+  },
+  "shoesFrequency" : {
+    "3158" : 5
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Smite"
+    ],
+    2,
+    [
+      "Ignite",
+      "Flash"
+    ],
+    4
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1036
+    ],
+    1,
+    [
+      1055,
+      2003
+    ],
+    2,
+    [
+      1101
+    ],
+    1,
+    [
+      1102
+    ],
+    1,
+    [
+      1036,
+      2031
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3814" : 2,
+    "6694" : 2
+  },
+  "totalGames" : 6,
+  "totalWins" : 4
+}

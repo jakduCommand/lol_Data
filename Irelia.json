@@ -1,0 +1,117 @@
+{
+  "championName" : "Irelia",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3153" : 6
+  },
+  "fourthCoreItemFrequency" : {
+    "3091" : 1,
+    "6333" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    4,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1028" : 1,
+    "1037" : 1,
+    "1038" : 1,
+    "1043" : 1,
+    "1055" : 2,
+    "1057" : 2,
+    "2019" : 1,
+    "2021" : 1,
+    "3047" : 1,
+    "3091" : 5,
+    "3111" : 1,
+    "3134" : 1,
+    "3153" : 6,
+    "3173" : 4,
+    "3181" : 5,
+    "3340" : 4,
+    "3363" : 2,
+    "6333" : 1,
+    "6672" : 2
+  },
+  "secondCoreItemFrequency" : {
+    "3181" : 4,
+    "6672" : 2
+  },
+  "shoesFrequency" : {
+    "3047" : 1,
+    "3111" : 5
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    4,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2
+  ],
+  "startItemFrequency" : [
+    [
+      1055,
+      2003
+    ],
+    6
+  ],
+  "thirdCoreItemFrequency" : {
+    "3091" : 4,
+    "3181" : 1
+  },
+  "totalGames" : 6,
+  "totalWins" : 4
+}

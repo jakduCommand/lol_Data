@@ -1,0 +1,187 @@
+{
+  "championName" : "Sett",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3084" : 1,
+    "3153" : 1,
+    "6631" : 5
+  },
+  "fourthCoreItemFrequency" : {
+    "2501" : 1,
+    "3161" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "1028" : 1,
+    "1036" : 2,
+    "1037" : 1,
+    "1042" : 1,
+    "1054" : 1,
+    "1055" : 2,
+    "2021" : 4,
+    "2501" : 2,
+    "3044" : 1,
+    "3047" : 2,
+    "3053" : 1,
+    "3071" : 3,
+    "3084" : 1,
+    "3111" : 1,
+    "3153" : 1,
+    "3158" : 1,
+    "3161" : 1,
+    "3170" : 1,
+    "3174" : 1,
+    "3181" : 1,
+    "3340" : 4,
+    "3363" : 2,
+    "3364" : 1,
+    "6631" : 5
+  },
+  "secondCoreItemFrequency" : {
+    "3071" : 3,
+    "3181" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3047" : 3,
+    "3111" : 1,
+    "3158" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    5,
+    [
+      "Flash",
+      "Smite"
+    ],
+    1,
+    [
+      "Ignite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1054
+    ],
+    2,
+    [
+      2003,
+      1055
+    ],
+    4,
+    [
+      2003,
+      1102
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "2501" : 1,
+    "3053" : 1
+  },
+  "totalGames" : 7,
+  "totalWins" : 3
+}

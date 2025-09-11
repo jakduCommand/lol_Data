@@ -1,0 +1,63 @@
+{
+  "championName" : "Amumu",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3118" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 1,
+    "3118" : 1,
+    "3364" : 1,
+    "3877" : 1,
+    "8010" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "8010" : 1
+  },
+  "shoesFrequency" : {
+
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Flash",
+      "Ignite"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+
+  },
+  "totalGames" : 1,
+  "totalWins" : 0
+}

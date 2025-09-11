@@ -1,0 +1,158 @@
+{
+  "championName" : "Akali",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3152" : 4,
+    "4646" : 3,
+    "6653" : 1
+  },
+  "fourthCoreItemFrequency" : {
+
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    4,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1001" : 2,
+    "1052" : 2,
+    "1054" : 2,
+    "1056" : 2,
+    "1058" : 2,
+    "1082" : 5,
+    "2003" : 1,
+    "2031" : 1,
+    "2420" : 2,
+    "3020" : 6,
+    "3047" : 1,
+    "3152" : 4,
+    "3157" : 2,
+    "3340" : 3,
+    "3363" : 3,
+    "3364" : 3,
+    "3916" : 1,
+    "4630" : 1,
+    "4645" : 7,
+    "4646" : 3,
+    "6653" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "4645" : 7
+  },
+  "shoesFrequency" : {
+    "3020" : 6,
+    "3047" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Ignite"
+    ],
+    4,
+    [
+      "Flash",
+      "Ignite"
+    ],
+    2,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1056
+    ],
+    5,
+    [
+      1054,
+      2003
+    ],
+    4
+  ],
+  "thirdCoreItemFrequency" : {
+    "3157" : 2
+  },
+  "totalGames" : 9,
+  "totalWins" : 4
+}

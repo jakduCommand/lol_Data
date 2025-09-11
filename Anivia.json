@@ -1,0 +1,98 @@
+{
+  "championName" : "Anivia",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3118" : 1,
+    "3119" : 1
+  },
+  "fourthCoreItemFrequency" : {
+    "3089" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 1,
+    "1057" : 1,
+    "2055" : 1,
+    "2503" : 1,
+    "3009" : 1,
+    "3089" : 1,
+    "3118" : 1,
+    "3119" : 1,
+    "3135" : 1,
+    "3175" : 1,
+    "3340" : 1,
+    "3364" : 1,
+    "3877" : 1
+  },
+  "secondCoreItemFrequency" : {
+    "2503" : 1
+  },
+  "shoesFrequency" : {
+    "3009" : 1,
+    "3020" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Teleport",
+      "Flash"
+    ],
+    1,
+    [
+      "Ignite",
+      "Flash"
+    ],
+    1
+  ],
+  "startItemFrequency" : [
+    [
+      1056,
+      2003
+    ],
+    1,
+    [
+      2003
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3135" : 1
+  },
+  "totalGames" : 2,
+  "totalWins" : 1
+}

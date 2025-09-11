@@ -1,0 +1,199 @@
+{
+  "championName" : "DrMundo",
+  "fifthCoreItemFrequency" : {
+
+  },
+  "firstCoreItemFrequency" : {
+    "3083" : 5,
+    "3084" : 4
+  },
+  "fourthCoreItemFrequency" : {
+    "3075" : 1
+  },
+  "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1
+  ],
+  "itemFrequency" : {
+    "1011" : 2,
+    "1028" : 4,
+    "1057" : 1,
+    "1102" : 1,
+    "2031" : 1,
+    "2422" : 1,
+    "3009" : 5,
+    "3047" : 1,
+    "3065" : 3,
+    "3066" : 1,
+    "3067" : 1,
+    "3075" : 2,
+    "3077" : 1,
+    "3083" : 5,
+    "3084" : 9,
+    "3105" : 1,
+    "3111" : 1,
+    "3170" : 1,
+    "3340" : 5,
+    "3363" : 1,
+    "3364" : 3,
+    "3742" : 1,
+    "3748" : 3
+  },
+  "secondCoreItemFrequency" : {
+    "3075" : 1,
+    "3084" : 4,
+    "3742" : 1,
+    "3748" : 2
+  },
+  "shoesFrequency" : {
+    "3009" : 6,
+    "3047" : 1,
+    "3111" : 1
+  },
+  "sixthCoreItemFrequency" : {
+
+  },
+  "spellFrequency" : [
+    [
+      "Ghost",
+      "Teleport"
+    ],
+    3,
+    [
+      "Flash",
+      "Teleport"
+    ],
+    3,
+    [
+      "Flash",
+      "Smite"
+    ],
+    3
+  ],
+  "startItemFrequency" : [
+    [
+      2003,
+      1054
+    ],
+    6,
+    [
+      1102
+    ],
+    2,
+    [
+      2003,
+      1102
+    ],
+    1
+  ],
+  "thirdCoreItemFrequency" : {
+    "3065" : 3,
+    "3084" : 1,
+    "3748" : 1
+  },
+  "totalGames" : 9,
+  "totalWins" : 3
+}
