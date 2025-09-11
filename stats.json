@@ -2,6 +2,7 @@
   "Aatrox" : {
     "championName" : "Aatrox",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "fifthCoreItemFrequency" : {
 
     },
@@ -36,18 +37,24 @@
           "perk2" : 9111,
           "perk3" : 9105,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8453,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8473
         },
@@ -9034,6 +9041,8 @@
           "perk1" : 8451,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8446
         },
         "subStyle" : 8400
@@ -9041,6 +9050,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8437,
           "perk2" : 8446,
@@ -9054,6 +9064,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8224,
           "perk3" : 8210,
@@ -9065,6 +9077,9 @@
           "perk2" : 8299
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -9078,8 +9093,13 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8446,
           "perk2" : 8444
+=======
+          "perk1" : 8451,
+          "perk2" : 8473
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8451,
           "perk2" : 8473
@@ -9090,6 +9110,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8437,
           "perk2" : 8446,
@@ -9185,6 +9206,8 @@
         "primaryPerks" : {
           "perk1" : 8008,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
@@ -9201,6 +9224,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8010,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9111,
           "perk3" : 9104,
@@ -9209,24 +9235,36 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8429,
           "perk2" : 8451
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8275,
           "perk2" : 8237
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8008,
           "perk2" : 9111,
           "perk3" : 9103,
+=======
+          "perk1" : 8010,
+          "perk2" : 9111,
+          "perk3" : 9105,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8010,
           "perk2" : 9111,
@@ -9237,8 +9275,13 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8451,
           "perk2" : 8401
+=======
+          "perk1" : 8453,
+          "perk2" : 8444
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8453,
           "perk2" : 8444
@@ -9249,6 +9292,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1055" : 2,
       "2031" : 1,
@@ -9302,6 +9346,8 @@
       "3041" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1001" : 3,
       "1028" : 2,
       "1036" : 1,
@@ -9332,15 +9378,21 @@
   },
   "Ahri" : {
     "championName" : "Ahri",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8112,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8143,
           "perk3" : 8140,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8139,
           "perk3" : 8140,
           "perk4" : 8106
@@ -9358,13 +9410,19 @@
           "perk1" : 8112,
           "perk2" : 8139,
           "perk3" : 8141,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8135
         },
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8321,
           "perk2" : 8347
         },
@@ -9455,6 +9513,9 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8226,
           "perk2" : 8237
@@ -9466,10 +9527,13 @@
         "primaryPerks" : {
           "perk1" : 8112,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8143,
           "perk3" : 8141,
           "perk4" : 8105
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8126,
           "perk3" : 8140,
           "perk4" : 8106
@@ -9503,13 +9567,20 @@
           "perk2" : 8139,
           "perk3" : 8140,
           "perk4" : 8106
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8100,
         "subPerks" : {
           "perk1" : 8210,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8236
+=======
+          "perk2" : 8226
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8226
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -9521,7 +9592,10 @@
         "primaryPerks" : {
           "perk1" : 8112,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8139,
           "perk3" : 8141,
           "perk4" : 8106
@@ -9737,6 +9811,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8112,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8143,
           "perk3" : 8137,
@@ -9745,9 +9822,12 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8226,
           "perk2" : 8237
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8009,
           "perk2" : 8014
         },
@@ -9974,6 +10054,9 @@
         "subPerks" : {
           "perk1" : 8233,
           "perk2" : 8236
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8200
@@ -9989,7 +10072,10 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8453,
           "perk2" : 8473
         },
@@ -10685,6 +10771,9 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8226,
           "perk2" : 8237
@@ -10692,7 +10781,10 @@
         "subStyle" : 8200
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -10708,11 +10800,15 @@
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
       "1026" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1052" : 1,
       "1056" : 2,
@@ -10793,6 +10889,8 @@
           "perk3" : 8140,
           "perk4" : 8135
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1052" : 2,
       "1056" : 5,
       "1058" : 1,
@@ -10963,6 +11061,9 @@
           "perk2" : 8126,
           "perk3" : 8141,
           "perk4" : 8106
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8100,
@@ -10976,7 +11077,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8112,
           "perk2" : 8126,
           "perk3" : 8141,
@@ -11129,6 +11233,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
@@ -11142,6 +11249,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -11360,6 +11468,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2
     ],
     "itemFrequency" : {
@@ -11402,6 +11512,9 @@
           "perk2" : 8009
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -11409,6 +11522,7 @@
         "primaryPerks" : {
           "perk1" : 8439,
           "perk2" : 8463,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 8473,
           "perk4" : 8242
@@ -11420,6 +11534,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8429,
           "perk4" : 8451
         },
@@ -11429,6 +11545,9 @@
           "perk2" : 9105
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -11442,6 +11561,7 @@
         "primaryStyle" : 8300,
         "subPerks" : {
           "perk1" : 8473,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8242
         },
@@ -12992,6 +13112,8 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8451
         },
         "subStyle" : 8400
@@ -13033,6 +13155,9 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8014,
           "perk2" : 8009
@@ -13042,6 +13167,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8226,
@@ -13100,6 +13226,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8128,
           "perk2" : 8126,
           "perk3" : 8140,
@@ -13111,11 +13239,15 @@
           "perk2" : 8210
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1026" : 1,
       "1052" : 1,
@@ -13190,6 +13322,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "2031" : 1,
       "2052" : 2,
       "2503" : 2,
@@ -13205,6 +13339,9 @@
   },
   "Braum" : {
     "championName" : "Braum",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -13212,9 +13349,12 @@
           "perk1" : 8465,
           "perk2" : 8463,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8473,
           "perk4" : 8453
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8444,
           "perk4" : 8451
         },
@@ -13232,6 +13372,9 @@
           "perk2" : 8463,
           "perk3" : 8444,
           "perk4" : 8242
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8400,
@@ -13245,7 +13388,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8465,
           "perk2" : 8463,
           "perk3" : 8473,
@@ -13610,6 +13756,9 @@
       2,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8226,
@@ -13619,20 +13768,27 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8473,
           "perk2" : 8453
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9111,
           "perk2" : 8014
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8226,
@@ -13646,6 +13802,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8437,
           "perk2" : 8446,
           "perk3" : 8473,
@@ -13657,11 +13815,15 @@
           "perk2" : 9104
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8226,
@@ -13690,6 +13852,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8437,
           "perk2" : 8446,
           "perk3" : 8429,
@@ -13701,11 +13865,15 @@
           "perk2" : 8410
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8224,
@@ -13719,6 +13887,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9923,
           "perk2" : 8126,
           "perk3" : 8137,
@@ -13760,11 +13930,15 @@
           "perk2" : 9111
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1004" : 2,
       "1052" : 1,
@@ -13834,6 +14008,8 @@
           "perk3" : 9103,
           "perk4" : 8014
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1001" : 1,
       "1011" : 1,
       "1031" : 2,
@@ -13906,6 +14082,9 @@
           "perk2" : 8009,
           "perk3" : 9104,
           "perk4" : 8017
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8000,
@@ -13919,7 +14098,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 8009,
           "perk3" : 9104,
@@ -14264,6 +14446,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8005,
           "perk2" : 8009,
@@ -14273,7 +14458,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8233,
           "perk2" : 8236
         },
@@ -19489,6 +19677,9 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8345,
           "perk2" : 8304
@@ -19498,6 +19689,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1001" : 1,
       "1036" : 1,
@@ -19561,6 +19753,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1038" : 2,
       "1055" : 3,
       "2422" : 1,
@@ -19616,6 +19810,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
@@ -19625,7 +19822,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8242
         },
@@ -19716,6 +19916,9 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
@@ -19737,6 +19940,7 @@
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2
     ],
@@ -19800,6 +20004,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       3
     ],
     "itemFrequency" : {
@@ -19843,12 +20049,16 @@
   },
   "Mordekaiser" : {
     "championName" : "Mordekaiser",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 9104,
           "perk4" : 8299
@@ -19867,13 +20077,19 @@
           "perk2" : 9111,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9105,
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8444,
+=======
+          "perk1" : 8429,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8429,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -19891,6 +20107,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8453,
           "perk2" : 8401
@@ -19940,6 +20157,8 @@
           "perk1" : 8473,
           "perk2" : 8453
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
@@ -19957,6 +20176,9 @@
         "subPerks" : {
           "perk1" : 8453,
           "perk2" : 8429
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
@@ -19971,6 +20193,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8473,
           "perk2" : 8453
@@ -19993,12 +20216,17 @@
           "perk1" : 8401,
           "perk2" : 8444
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8401,
+          "perk2" : 8444
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1001" : 3,
       "1011" : 1,
@@ -20129,6 +20357,8 @@
           "perk1" : 8304,
           "perk2" : 8313
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1026" : 1,
       "1052" : 1,
       "1056" : 1,
@@ -20198,6 +20428,9 @@
         "subPerks" : {
           "perk1" : 8347,
           "perk2" : 8304
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8300
@@ -20205,6 +20438,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8226,
@@ -20365,20 +20599,31 @@
           "perk2" : 8143,
           "perk3" : 8137,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 9923,
+          "perk2" : 8143,
+          "perk3" : 8137,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8135
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8237,
           "perk2" : 8226
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9105,
           "perk2" : 8017
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -20403,6 +20648,7 @@
           "perk2" : 8009,
           "perk3" : 9105,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -20412,6 +20658,8 @@
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
@@ -20435,6 +20683,9 @@
           "perk2" : 8017
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -20448,8 +20699,13 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8009,
           "perk2" : 8017
+=======
+          "perk1" : 8014,
+          "perk2" : 8009
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8014,
           "perk2" : 8009
@@ -20460,6 +20716,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1028" : 1,
       "1055" : 1,
@@ -20541,6 +20798,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1036" : 3,
       "1037" : 2,
       "1054" : 1,
@@ -20569,6 +20828,9 @@
   },
   "Nami" : {
     "championName" : "Nami",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -20576,7 +20838,10 @@
           "perk1" : 8214,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8233,
           "perk4" : 8236
         },
@@ -20592,6 +20857,9 @@
         "primaryPerks" : {
           "perk1" : 8214,
           "perk2" : 8226,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8210,
           "perk4" : 8237
@@ -20604,7 +20872,11 @@
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       5,
+=======
+      3,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       3,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -20618,20 +20890,27 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8453,
           "perk2" : 8444
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8226,
@@ -20660,6 +20939,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8369,
           "perk2" : 8304,
           "perk3" : 8345,
@@ -20671,6 +20952,9 @@
           "perk2" : 8210
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -20699,6 +20983,7 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8347
         },
@@ -20706,19 +20991,28 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8463,
           "perk2" : 8453
         },
         "subStyle" : 8400
       },
       2,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8214,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8210,
+=======
+          "perk3" : 8234,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8234,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -20726,6 +21020,7 @@
         },
         "primaryStyle" : 8200,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8345
@@ -20774,6 +21069,8 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
@@ -20785,6 +21082,7 @@
           "perk1" : 8214,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8210,
           "perk4" : 8232
         },
@@ -20792,17 +21090,23 @@
         "subPerks" : {
           "perk1" : 8141,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8234,
           "perk4" : 8237
         },
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8126,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8105
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -20920,6 +21224,8 @@
         "subPerks" : {
           "perk1" : 8345,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -20980,11 +21286,15 @@
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8304,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8410
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -21048,6 +21358,8 @@
     "thirdCoreItemFrequency" : {
       "2504" : 1
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -21064,6 +21376,9 @@
       "3340" : 1,
       "3364" : 1,
       "6698" : 1
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     },
     "totalGames" : 2,
@@ -21071,6 +21386,7 @@
   },
   "Nautilus" : {
     "championName" : "Nautilus",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "fifthCoreItemFrequency" : {
 
@@ -21085,11 +21401,14 @@
     },
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8439,
           "perk2" : 8401,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 8473,
           "perk4" : 8242
@@ -21215,6 +21534,9 @@
 =======
           "perk3" : 8444,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk3" : 8444,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
@@ -21229,8 +21551,11 @@
         "primaryPerks" : {
           "perk1" : 8439,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8463,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8401,
           "perk3" : 8444,
           "perk4" : 8451
@@ -21262,6 +21587,9 @@
         "primaryPerks" : {
           "perk1" : 8439,
           "perk2" : 8401,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8473,
           "perk4" : 8242
@@ -21269,8 +21597,13 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8313,
           "perk2" : 8410
+=======
+          "perk1" : 8306,
+          "perk2" : 8347
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8306,
           "perk2" : 8347
@@ -21293,6 +21626,7 @@
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -21418,6 +21752,8 @@
         },
         "subStyle" : 8100
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
@@ -21432,11 +21768,15 @@
           "perk2" : 8306
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8275,
@@ -21445,6 +21785,8 @@
         },
         "primaryStyle" : 8200,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8439,
           "perk2" : 8401,
           "perk3" : 8429,
@@ -21466,6 +21808,9 @@
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8345,
@@ -21476,6 +21821,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1052" : 1,
       "1058" : 2,
@@ -21536,6 +21882,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1028" : 4,
       "1057" : 1,
       "2055" : 2,
@@ -21562,6 +21910,9 @@
   },
   "Neeko" : {
     "championName" : "Neeko",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -21569,6 +21920,7 @@
           "perk1" : 8214,
           "perk2" : 8226,
           "perk3" : 8210,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8236
         },
@@ -21579,6 +21931,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8237
         },
         "primaryStyle" : 8200,
@@ -21651,6 +22005,9 @@
           "perk2" : 8232
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -21668,6 +22025,7 @@
         },
         "subStyle" : 8200
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -21826,6 +22184,8 @@
     },
     "totalGames" : 7,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -21850,11 +22210,15 @@
       "6695" : 1
     },
     "totalGames" : 4,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "totalWins" : 3
   },
   "Nilah" : {
     "championName" : "Nilah",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "fifthCoreItemFrequency" : {
 
@@ -21866,6 +22230,8 @@
     "fourthCoreItemFrequency" : {
 
     },
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
@@ -21884,6 +22250,7 @@
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
       {
         "primaryPerks" : {
@@ -21892,6 +22259,8 @@
           "perk3" : 9103,
           "perk4" : 8299
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -21915,11 +22284,15 @@
           "perk2" : 9111,
           "perk3" : 9104,
           "perk4" : 8014
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8143,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8135
         },
@@ -22032,6 +22405,9 @@
 =======
           "perk2" : 8106
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk2" : 8106
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8100
       },
@@ -22050,6 +22426,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -22123,6 +22500,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -22212,6 +22591,9 @@
   },
   "Nunu" : {
     "championName" : "Nunu",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -22224,6 +22606,7 @@
         "primaryStyle" : 8100,
         "subPerks" : {
           "perk1" : 8234,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8236
         },
@@ -22246,11 +22629,16 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8232
         },
         "subStyle" : 8200
       },
       3,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -22272,7 +22660,11 @@
           "perk1" : 8230,
           "perk2" : 8275,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8233,
+=======
+          "perk3" : 8234,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8234,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -22282,7 +22674,11 @@
         "subPerks" : {
           "perk1" : 8126,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8106
+=======
+          "perk2" : 8105
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8105
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -22292,6 +22688,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1029" : 1,
       "1082" : 2,
@@ -22368,6 +22765,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1052" : 1,
       "1057" : 1,
       "1058" : 1,
@@ -22392,6 +22791,9 @@
   },
   "Olaf" : {
     "championName" : "Olaf",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -22404,7 +22806,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8444,
           "perk2" : 8453
         },
@@ -22435,6 +22840,9 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8345,
           "perk2" : 8410
@@ -22453,23 +22861,30 @@
         "subPerks" : {
           "perk1" : 8410,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8345
         },
         "subStyle" : 8300
       },
       2,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8304
         },
         "subStyle" : 8300
       },
       1,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8014
         },
@@ -22569,6 +22984,8 @@
       "3089" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -22608,6 +23025,9 @@
   },
   "Orianna" : {
     "championName" : "Orianna",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -22616,12 +23036,15 @@
           "perk2" : 8226,
           "perk3" : 8210,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk4" : 8236
         },
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8009,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8237
         },
         "primaryStyle" : 8200,
@@ -22672,6 +23095,9 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8017,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9105
         },
@@ -22681,7 +23107,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8112,
           "perk2" : 8126,
           "perk3" : 8140,
@@ -22697,6 +23126,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8230,
           "perk2" : 8226,
@@ -22714,7 +23146,11 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8230,
+=======
+          "perk1" : 8214,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8214,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -22724,6 +23160,7 @@
         },
         "primaryStyle" : 8200,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8017,
           "perk2" : 9105
@@ -22806,6 +23243,10 @@
           "perk1" : 8451,
           "perk2" : 8473
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8451,
+          "perk2" : 8473
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
       },
@@ -22815,6 +23256,7 @@
           "perk1" : 8214,
           "perk2" : 8226,
           "perk3" : 8210,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8236
         },
@@ -22833,12 +23275,18 @@
           "perk3" : 8210,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8237
         },
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 9105,
+=======
+          "perk1" : 8014,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8014,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -22846,6 +23294,7 @@
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -22949,6 +23398,8 @@
       "6665" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -22982,6 +23433,9 @@
   },
   "Ornn" : {
     "championName" : "Ornn",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -23004,6 +23458,7 @@
           "perk1" : 8437,
           "perk2" : 8446,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8473,
           "perk4" : 8451
         },
@@ -23021,11 +23476,14 @@
           "perk2" : 8446,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8444,
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8226,
           "perk2" : 8237
@@ -23059,11 +23517,14 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8345
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2,
       {
@@ -23174,6 +23635,8 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -23188,11 +23651,15 @@
           "perk2" : 9105
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8005,
           "perk2" : 8009,
@@ -23231,12 +23698,17 @@
         },
         "primaryStyle" : 8000,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8437,
           "perk2" : 8446,
           "perk3" : 8444,
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8226,
@@ -23245,7 +23717,10 @@
         "subStyle" : 8200
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       3,
       {
         "primaryPerks" : {
@@ -23307,6 +23782,9 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
@@ -23323,6 +23801,7 @@
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2,
 =======
@@ -23344,11 +23823,15 @@
         "subStyle" : 8300
       },
       2,
+=======
+      3,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
+<<<<<<< HEAD
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
@@ -23366,12 +23849,18 @@
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9105,
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8014
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8306,
+=======
+          "perk1" : 8304,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8304,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -23380,15 +23869,21 @@
         "subStyle" : 8300
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
       {
         "primaryPerks" : {
           "perk1" : 8005,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
           "perk1" : 8010,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9111,
           "perk3" : 9105,
@@ -23405,7 +23900,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
@@ -23466,6 +23964,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8005,
           "perk2" : 9111,
@@ -23483,8 +23984,11 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8005,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
@@ -23501,6 +24005,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8010,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8009,
           "perk3" : 9105,
@@ -23509,11 +24016,14 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8210,
           "perk2" : 8237
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8429,
           "perk2" : 8451
         },
@@ -23533,12 +24043,16 @@
           "perk2" : 8347
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
       "1001" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1036" : 3,
       "1037" : 1,
@@ -23669,6 +24183,8 @@
         "subPerks" : {
           "perk1" : 8345,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1028" : 5,
       "1029" : 2,
       "1036" : 1,
@@ -23754,6 +24270,9 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8347,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8304
         },
@@ -23764,6 +24283,7 @@
         "primaryPerks" : {
           "perk1" : 8437,
           "perk2" : 8401,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 8444,
           "perk4" : 8453
@@ -23797,6 +24317,8 @@
           "perk2" : 8401,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8473,
           "perk4" : 8453
         },
@@ -23811,6 +24333,7 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8360,
           "perk2" : 8306,
           "perk3" : 8345,
@@ -23818,6 +24341,8 @@
         },
         "primaryStyle" : 8300,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8439,
           "perk2" : 8463,
           "perk3" : 8444,
@@ -23947,6 +24472,9 @@
           "perk4" : 8105
         },
         "primaryStyle" : 8100,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8242,
@@ -23957,6 +24485,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8437,
           "perk2" : 8401,
@@ -24097,6 +24626,8 @@
           "perk2" : 8143,
           "perk3" : 8141,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9923,
           "perk2" : 8126,
           "perk3" : 8140,
@@ -24115,6 +24646,9 @@
           "perk1" : 9923,
           "perk2" : 8126,
           "perk3" : 8137,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8106
         },
@@ -24126,7 +24660,11 @@
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
+=======
+      2,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       2,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -24144,6 +24682,7 @@
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -24259,6 +24798,8 @@
           "perk2" : 8143,
           "perk3" : 8137,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -24300,13 +24841,20 @@
           "perk1" : 8128,
           "perk2" : 8143,
           "perk3" : 8140,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8135
         },
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8009,
+=======
+          "perk1" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 9104,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -24325,6 +24873,7 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8299,
           "perk2" : 8009
         },
@@ -24342,6 +24891,8 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
@@ -24353,7 +24904,11 @@
           "perk1" : 8369,
           "perk2" : 8304,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8313,
+=======
+          "perk3" : 8345,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8345,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -24361,6 +24916,7 @@
         },
         "primaryStyle" : 8300,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8143,
           "perk2" : 8106
@@ -24459,19 +25015,28 @@
     },
     "fullRunePageFrequency" : [
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8106,
           "perk2" : 8143
         },
         "subStyle" : 8100
       },
       1,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8112,
           "perk2" : 8143,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8140,
+=======
+          "perk3" : 8137,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8137,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -24479,6 +25044,7 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8233,
           "perk2" : 8236
@@ -24502,6 +25068,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
         },
@@ -24533,6 +25101,9 @@
   "Quinn" : {
     "championName" : "Quinn",
     "fullRunePageFrequency" : [
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -24548,6 +25119,7 @@
         },
         "subStyle" : 8200
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -24581,10 +25153,13 @@
       },
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
       "1036" : 2,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1037" : 1,
       "1055" : 3,
@@ -24653,6 +25228,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "3013" : 1,
       "3087" : 1,
       "3340" : 1,
@@ -24664,6 +25241,9 @@
   },
   "Rakan" : {
     "championName" : "Rakan",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -24676,8 +25256,11 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8143,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8141,
           "perk2" : 8106
         },
@@ -24694,6 +25277,9 @@
         "primaryStyle" : 8400,
         "subPerks" : {
           "perk1" : 8140,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8106
         },
@@ -24714,6 +25300,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       3,
       {
@@ -24804,6 +25391,8 @@
           "perk1" : 8439,
           "perk2" : 8463,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -24824,12 +25413,16 @@
         "primaryPerks" : {
           "perk1" : 8439,
           "perk2" : 8401,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8429,
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 9111,
           "perk2" : 9104
@@ -24916,6 +25509,8 @@
           "perk3" : 9105,
           "perk4" : 8014
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8009,
           "perk2" : 9105
         },
@@ -25053,6 +25648,9 @@
           "perk2" : 9111,
           "perk3" : 9104,
           "perk4" : 8017
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8000,
@@ -25078,6 +25676,7 @@
         "subStyle" : 8300
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       4,
       {
         "primaryPerks" : {
@@ -25095,6 +25694,8 @@
       },
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -25106,21 +25707,28 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8347
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8143,
           "perk2" : 8105
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
       "1028" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1029" : 1,
       "1036" : 6,
@@ -25215,6 +25823,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1037" : 1,
       "1102" : 1,
       "2003" : 1,
@@ -25235,13 +25845,19 @@
   },
   "Rell" : {
     "championName" : "Rell",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8439,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8463,
           "perk3" : 8429,
           "perk4" : 8451
@@ -25272,6 +25888,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8439,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8401,
           "perk3" : 8473,
@@ -25285,7 +25904,11 @@
         "subStyle" : 8300
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       3,
+=======
+      1,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       1,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -25298,6 +25921,7 @@
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8347
@@ -25335,16 +25959,22 @@
         "subStyle" : 8200
       },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8347,
           "perk2" : 8306
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
       "1028" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1031" : 1,
       "1033" : 1,
@@ -25414,6 +26044,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1029" : 1,
       "1033" : 1,
       "1057" : 1,
@@ -25512,6 +26144,9 @@
   },
   "Renekton" : {
     "championName" : "Renekton",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -25523,6 +26158,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8473,
           "perk2" : 8242
@@ -25546,12 +26182,17 @@
       },
       3,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8139,
           "perk2" : 8106
         },
         "subStyle" : 8100
       },
       1,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -25562,6 +26203,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8451,
           "perk2" : 8473
@@ -25582,6 +26224,9 @@
 =======
           "perk1" : 8444,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8444,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8446
         },
         "subStyle" : 8400
@@ -25591,6 +26236,7 @@
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 9105,
           "perk4" : 8299
@@ -25859,6 +26505,9 @@
 =======
           "perk3" : 9104,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk3" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -25879,7 +26528,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
@@ -26085,12 +26737,16 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8345,
           "perk2" : 8316
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2
     ],
@@ -26160,6 +26816,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       3,
       {
         "primaryPerks" : {
@@ -26235,6 +26893,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8224,
@@ -26244,15 +26905,21 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8347,
           "perk2" : 8313
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8444,
           "perk2" : 8242
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -26261,7 +26928,11 @@
           "perk1" : 8229,
           "perk2" : 8275,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8233,
+=======
+          "perk3" : 8210,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8210,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -26270,20 +26941,27 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8444,
           "perk2" : 8451
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8141,
           "perk2" : 8106
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1056" : 1,
       "1082" : 2,
@@ -26336,6 +27014,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1082" : 1,
       "2420" : 1,
       "3009" : 1,
@@ -26356,6 +27036,9 @@
   },
   "Ryze" : {
     "championName" : "Ryze",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -26363,8 +27046,13 @@
           "perk1" : 8230,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8234,
           "perk4" : 8237
+=======
+          "perk3" : 8210,
+          "perk4" : 8236
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8210,
           "perk4" : 8236
@@ -26381,6 +27069,7 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8230,
           "perk2" : 8226,
           "perk3" : 8210,
@@ -26390,6 +27079,8 @@
         "subPerks" : {
           "perk1" : 8444,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 8009,
           "perk3" : 9105,
@@ -26398,6 +27089,9 @@
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8429,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8451
         },
@@ -26409,6 +27103,7 @@
           "perk1" : 8230,
           "perk2" : 8226,
           "perk3" : 8210,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8237
         },
@@ -26427,16 +27122,21 @@
           "perk3" : 8210,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8236
         },
         "primaryStyle" : 8200,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8347
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8242
         },
@@ -26456,11 +27156,15 @@
           "perk2" : 9105
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1052" : 1,
       "1056" : 2,
@@ -26510,6 +27214,8 @@
       "3089" : 2,
       "3157" : 2
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1052" : 2,
       "1056" : 1,
       "2003" : 1,
@@ -26525,6 +27231,9 @@
       "3363" : 2,
       "3916" : 2,
       "6657" : 3
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     },
     "totalGames" : 4,
@@ -26532,6 +27241,7 @@
   },
   "Samira" : {
     "championName" : "Samira",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "fifthCoreItemFrequency" : {
       "6701" : 1
@@ -26544,6 +27254,8 @@
     },
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
@@ -26551,12 +27263,15 @@
           "perk2" : 9111,
           "perk3" : 9103,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk4" : 8014
         },
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8139,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -26592,6 +27307,9 @@
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8143,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8135
         },
@@ -26608,11 +27326,14 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8345
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8236,
           "perk2" : 8233
         },
@@ -26647,6 +27368,9 @@
           "perk2" : 8453
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -26664,6 +27388,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2
     ],
@@ -26732,6 +27457,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -26793,6 +27520,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8439,
           "perk2" : 8463,
@@ -26809,6 +27539,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1011" : 1,
       "1031" : 1,
@@ -26925,6 +27656,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1011" : 2,
       "1028" : 1,
       "1029" : 1,
@@ -26949,6 +27682,9 @@
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8021,
           "perk2" : 8009,
@@ -26957,6 +27693,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8226,
           "perk2" : 8234
@@ -26993,10 +27730,15 @@
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8410,
           "perk2" : 8345
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -27014,6 +27756,7 @@
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -27119,6 +27862,8 @@
         "subPerks" : {
           "perk1" : 8429,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
@@ -27145,6 +27890,9 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8463,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8453
         },
@@ -27154,10 +27902,13 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8010,
           "perk2" : 8009,
           "perk3" : 9105,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8437,
           "perk2" : 8463,
           "perk3" : 8473,
@@ -27176,11 +27927,15 @@
           "perk1" : 8021,
           "perk2" : 8009,
           "perk3" : 9104,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8210,
           "perk2" : 8236
@@ -27247,15 +28002,21 @@
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1011" : 1,
       "1052" : 2,
@@ -27349,6 +28110,8 @@
       "3161" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1018" : 1,
       "1028" : 1,
       "1055" : 3,
@@ -27469,6 +28232,9 @@
   },
   "Sett" : {
     "championName" : "Sett",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -27481,8 +28247,13 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8473,
           "perk2" : 8451
+=======
+          "perk1" : 8444,
+          "perk2" : 8242
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8444,
           "perk2" : 8242
@@ -27493,6 +28264,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8230,
           "perk2" : 8275,
@@ -27517,13 +28289,23 @@
           "perk2" : 9111,
           "perk3" : 9104,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8010,
+          "perk2" : 9111,
+          "perk3" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8446,
           "perk2" : 8451
+=======
+          "perk1" : 8401,
+          "perk2" : 8444
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8401,
           "perk2" : 8444
@@ -27557,6 +28339,7 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8446,
           "perk2" : 8451
         },
@@ -27564,12 +28347,17 @@
       },
       2,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8451,
           "perk2" : 8444
         },
         "subStyle" : 8400
       },
       1,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -27581,8 +28369,13 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8444,
           "perk2" : 8451
+=======
+          "perk1" : 8451,
+          "perk2" : 8473
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8451,
           "perk2" : 8473
@@ -27594,6 +28387,7 @@
     ],
     "itemFrequency" : {
       "1001" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1028" : 1,
       "1036" : 2,
@@ -27753,6 +28547,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1037" : 4,
       "1055" : 2,
       "2021" : 2,
@@ -27776,6 +28572,9 @@
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9923,
           "perk2" : 8143,
@@ -27792,6 +28591,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 9923,
           "perk2" : 8143,
@@ -27818,6 +28618,8 @@
           "perk1" : 8304,
           "perk2" : 8410
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8226,
           "perk3" : 8210,
@@ -27842,6 +28644,9 @@
         "subPerks" : {
           "perk1" : 8304,
           "perk2" : 8313
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8300
@@ -27857,9 +28662,12 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 9104,
           "perk2" : 8017
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8014,
           "perk2" : 9104
         },
@@ -27892,6 +28700,9 @@
         "subPerks" : {
           "perk1" : 8009,
           "perk2" : 8014
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8000
@@ -27899,6 +28710,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1018" : 1,
       "1028" : 2,
@@ -28009,6 +28821,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1036" : 1,
       "2031" : 1,
       "2052" : 2,
@@ -28040,6 +28854,9 @@
   },
   "Shen" : {
     "championName" : "Shen",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -28052,8 +28869,13 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8410
+=======
+          "perk1" : 8410,
+          "perk2" : 8304
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8410,
           "perk2" : 8304
@@ -28067,7 +28889,10 @@
           "perk1" : 8437,
           "perk2" : 8401,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8429,
           "perk4" : 8451
         },
@@ -28098,6 +28923,9 @@
         "primaryPerks" : {
           "perk1" : 8437,
           "perk2" : 8401,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8444,
           "perk4" : 8451
@@ -28115,7 +28943,11 @@
           "perk1" : 8437,
           "perk2" : 8401,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8444,
+=======
+          "perk3" : 8429,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8429,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -28124,7 +28956,11 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8126,
+=======
+          "perk1" : 8143,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8143,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -28132,6 +28968,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -28187,6 +29024,8 @@
       "2501" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -28272,6 +29111,9 @@
   },
   "Shyvana" : {
     "championName" : "Shyvana",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -28288,6 +29130,7 @@
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -28344,6 +29187,8 @@
       "8010" : 1
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -28380,6 +29225,9 @@
   },
   "Singed" : {
     "championName" : "Singed",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -28392,20 +29240,27 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8126,
           "perk2" : 8106
         },
         "subStyle" : 8100
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8451,
           "perk2" : 8444
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8360,
           "perk2" : 8321,
@@ -28417,6 +29272,8 @@
           "perk1" : 8234,
           "perk2" : 8237
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
@@ -28441,6 +29298,9 @@
         "subPerks" : {
           "perk1" : 8224,
           "perk2" : 8236
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8200
@@ -28448,6 +29308,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8275,
@@ -28473,6 +29334,8 @@
         "subPerks" : {
           "perk1" : 8451,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
@@ -28521,6 +29384,9 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8446,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8429
         },
@@ -28530,7 +29396,11 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8439,
+=======
+          "perk1" : 8437,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8437,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -28540,6 +29410,7 @@
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8234,
           "perk2" : 8237
@@ -28642,12 +29513,17 @@
     },
     "fullRunePageFrequency" : [
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8410
         },
         "subStyle" : 8300
       },
       1,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -28659,7 +29535,10 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9105,
           "perk2" : 9111
         },
@@ -28675,6 +29554,9 @@
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8410,
           "perk2" : 8321
@@ -28684,6 +29566,7 @@
       2,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8351,
           "perk2" : 8304,
@@ -28702,6 +29585,8 @@
         "primaryPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8437,
           "perk2" : 8446,
           "perk3" : 8444,
@@ -28710,8 +29595,13 @@
         "primaryStyle" : 8400,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8410
+=======
+          "perk1" : 8347,
+          "perk2" : 8345
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8347,
           "perk2" : 8345
@@ -28725,7 +29615,10 @@
           "perk1" : 8437,
           "perk2" : 8401,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8473,
           "perk4" : 8451
         },
@@ -28756,12 +29649,16 @@
         "primaryPerks" : {
           "perk1" : 8437,
           "perk2" : 8446,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8444,
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8410
@@ -28895,6 +29792,9 @@
 =======
           "perk1" : 8410,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8410,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8345
         },
         "subStyle" : 8300
@@ -28902,6 +29802,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8008,
           "perk2" : 8009,
@@ -29096,6 +29997,8 @@
         "subPerks" : {
           "perk1" : 8304,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8226,
           "perk3" : 8210,
@@ -29104,11 +30007,15 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8313,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8316
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -29117,6 +30024,8 @@
           "perk2" : 8009,
           "perk3" : 9105,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -29349,6 +30258,9 @@
           "perk1" : 8021,
           "perk2" : 8009,
           "perk3" : 9103,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
@@ -29364,7 +30276,11 @@
         "primaryPerks" : {
           "perk1" : 8021,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 9111,
+=======
+          "perk2" : 8009,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8009,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -29374,9 +30290,12 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8347
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8313,
           "perk2" : 8316
         },
@@ -29409,6 +30328,9 @@
         "subPerks" : {
           "perk1" : 8304,
           "perk2" : 8316
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8300
@@ -29416,6 +30338,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1018" : 1,
       "1042" : 1,
@@ -29490,6 +30413,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1001" : 1,
       "1018" : 1,
       "1029" : 1,
@@ -29514,6 +30439,9 @@
   },
   "Sona" : {
     "championName" : "Sona",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -29521,8 +30449,11 @@
           "perk1" : 8214,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8234,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8210,
           "perk4" : 8237
         },
@@ -29554,15 +30485,21 @@
           "perk1" : 8214,
           "perk2" : 8226,
           "perk3" : 8210,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8236
         },
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8453,
           "perk2" : 8473
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8009,
           "perk2" : 9105
         },
@@ -29580,6 +30517,9 @@
         "subPerks" : {
           "perk1" : 8429,
           "perk2" : 8453
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
@@ -29590,7 +30530,11 @@
           "perk1" : 8214,
           "perk2" : 8226,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk3" : 8234,
+=======
+          "perk3" : 8210,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk3" : 8210,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -29599,15 +30543,21 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 9105,
           "perk2" : 8009
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -29626,7 +30576,11 @@
         "subStyle" : 8000
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       3,
+=======
+      1,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       1,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -29639,6 +30593,7 @@
         },
         "primaryStyle" : 8200,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8429,
           "perk2" : 8453
@@ -29726,6 +30681,8 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8453,
           "perk2" : 8429
         },
@@ -29742,7 +30699,11 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8429,
+=======
+          "perk1" : 8473,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8473,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -29751,6 +30712,7 @@
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
       {
         "primaryPerks" : {
@@ -29758,6 +30720,8 @@
           "perk2" : 8224,
           "perk3" : 8234,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -29797,6 +30761,9 @@
           "perk1" : 8214,
           "perk2" : 8226,
           "perk3" : 8210,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8236
         },
@@ -29811,6 +30778,7 @@
       {
         "primaryPerks" : {
           "perk1" : 8214,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8224,
           "perk3" : 8210,
@@ -29831,6 +30799,9 @@
 =======
           "perk2" : 8226,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk2" : 8226,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8210,
           "perk4" : 8237
         },
@@ -29841,6 +30812,7 @@
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -29915,6 +30887,8 @@
           "perk1" : 8429,
           "perk2" : 8451
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -29942,6 +30916,9 @@
         "subPerks" : {
           "perk1" : 8463,
           "perk2" : 8453
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
@@ -29950,7 +30927,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8465,
           "perk2" : 8463,
           "perk3" : 8444,
@@ -29966,6 +30946,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8214,
           "perk2" : 8226,
@@ -29975,6 +30958,7 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8429,
           "perk2" : 8451
         },
@@ -29982,6 +30966,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8453
         },
@@ -30017,6 +31003,9 @@
   "Swain" : {
     "championName" : "Swain",
     "fullRunePageFrequency" : [
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -30027,6 +31016,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8224,
           "perk2" : 8210
@@ -30153,12 +31143,17 @@
           "perk1" : 8410,
           "perk2" : 8304
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8410,
+          "perk2" : 8304
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8300
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8112,
           "perk2" : 8143,
@@ -30180,17 +31175,26 @@
           "perk3" : 8140,
           "perk4" : 8135
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8128,
           "perk2" : 8126,
           "perk3" : 8140,
           "perk4" : 8106
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8100,
         "subPerks" : {
           "perk1" : 9105,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8299
+=======
+          "perk2" : 8014
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8014
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -30201,10 +31205,13 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8010,
           "perk2" : 8009,
           "perk3" : 9105,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8351,
           "perk2" : 8304,
           "perk3" : 8345,
@@ -30223,11 +31230,15 @@
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8444,
           "perk2" : 8451
@@ -30281,6 +31292,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8242,
           "perk2" : 8429
         },
@@ -30317,6 +31330,9 @@
   "Sylas" : {
     "championName" : "Sylas",
     "fullRunePageFrequency" : [
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -30333,10 +31349,13 @@
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       4,
       {
         "primaryPerks" : {
@@ -30430,6 +31449,9 @@
       2,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8128,
           "perk2" : 8143,
@@ -30438,6 +31460,7 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8347,
           "perk2" : 8304
@@ -30475,16 +31498,22 @@
         "subStyle" : 8300
       },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9111,
           "perk2" : 8014
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
       "1052" : 4,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1056" : 3,
       "1058" : 2,
@@ -30612,6 +31641,8 @@
           "perk3" : 8210,
           "perk4" : 8237
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1054" : 1,
       "1056" : 3,
       "1058" : 2,
@@ -30671,6 +31702,9 @@
           "perk2" : 8226,
           "perk3" : 8210,
           "perk4" : 8236
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8200,
@@ -30687,7 +31721,10 @@
           "perk2" : 8304,
           "perk3" : 8313,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8347
         },
         "primaryStyle" : 8300,
@@ -30733,6 +31770,9 @@
           "perk1" : 8369,
           "perk2" : 8304,
           "perk3" : 8313,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8316
         },
@@ -30747,9 +31787,12 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8230,
           "perk2" : 8224,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8369,
           "perk2" : 8304,
           "perk3" : 8313,
@@ -30767,6 +31810,9 @@
         "primaryPerks" : {
           "perk1" : 8214,
           "perk2" : 8226,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8210,
           "perk4" : 8237
@@ -30774,20 +31820,27 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 9105,
           "perk2" : 8017
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8473,
           "perk2" : 8451
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1056" : 3,
       "1058" : 1,
@@ -30846,6 +31899,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1052" : 1,
       "1056" : 4,
       "1058" : 1,
@@ -30877,6 +31932,9 @@
   },
   "TahmKench" : {
     "championName" : "TahmKench",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -30884,6 +31942,7 @@
           "perk1" : 8437,
           "perk2" : 8401,
           "perk3" : 8444,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8453
         },
@@ -30894,6 +31953,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8242
         },
         "primaryStyle" : 8400,
@@ -30902,6 +31963,9 @@
           "perk2" : 9104
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -30909,9 +31973,15 @@
         "primaryPerks" : {
           "perk1" : 8437,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8401,
           "perk3" : 8444,
           "perk4" : 8242
+=======
+          "perk2" : 8463,
+          "perk3" : 8429,
+          "perk4" : 8451
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8463,
           "perk3" : 8429,
@@ -30925,6 +31995,7 @@
         },
         "subStyle" : 8100
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -31018,6 +32089,8 @@
           "perk1" : 8232,
           "perk2" : 8234
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -31049,6 +32122,9 @@
         "subPerks" : {
           "perk1" : 8226,
           "perk2" : 8236
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8200
@@ -31064,7 +32140,10 @@
         "primaryStyle" : 8100,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8014,
           "perk2" : 8009
         },
@@ -31186,6 +32265,9 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8347,
           "perk2" : 8304
@@ -31195,6 +32277,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8226,
@@ -31253,6 +32336,8 @@
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8112,
           "perk2" : 8143,
           "perk3" : 8140,
@@ -31264,12 +32349,16 @@
           "perk2" : 8275
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
           "perk1" : 8112,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 8139,
           "perk3" : 8141,
@@ -31415,12 +32504,17 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8143,
           "perk3" : 8137,
           "perk4" : 8106
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
@@ -31430,6 +32524,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8230,
           "perk2" : 8275,
@@ -31443,6 +32538,8 @@
         },
         "subStyle" : 8100
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8112,
           "perk2" : 8143,
           "perk3" : 8137,
@@ -31454,6 +32551,9 @@
           "perk2" : 8347
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -31472,8 +32572,11 @@
         "subStyle" : 8300
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
@@ -31490,11 +32593,15 @@
         "subStyle" : 8300
       },
       4,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8010,
           "perk2" : 9111,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 9105,
           "perk4" : 8299
@@ -31504,6 +32611,8 @@
           "perk1" : 8275,
           "perk2" : 8210
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9104,
           "perk4" : 8017
         },
@@ -31556,6 +32665,9 @@
         "subPerks" : {
           "perk1" : 8234,
           "perk2" : 8275
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8200
@@ -31564,8 +32676,11 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8010,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8214,
           "perk2" : 8224,
           "perk3" : 8210,
@@ -31980,6 +33095,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8008,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9111,
           "perk3" : 9104,
@@ -31989,7 +33107,11 @@
         "subPerks" : {
           "perk1" : 8304,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8347
+=======
+          "perk2" : 8313
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8313
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -32000,7 +33122,10 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9923,
           "perk2" : 8143,
           "perk3" : 8140,
@@ -32269,6 +33394,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8008,
           "perk2" : 9111,
@@ -32285,6 +33413,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8112,
           "perk2" : 8143,
@@ -32309,10 +33438,16 @@
           "perk2" : 9111,
           "perk3" : 9104,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8008,
+          "perk2" : 9111,
+          "perk3" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8014
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8347,
           "perk2" : 8304
@@ -32349,16 +33484,22 @@
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8143,
           "perk2" : 8135
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
       "1001" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1028" : 1,
       "1036" : 5,
@@ -32473,6 +33614,8 @@
           "perk1" : 8453,
           "perk2" : 8473
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1018" : 1,
       "1036" : 1,
       "1037" : 1,
@@ -32512,6 +33655,9 @@
         "subPerks" : {
           "perk1" : 8446,
           "perk2" : 8453
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
@@ -32519,6 +33665,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8465,
           "perk2" : 8463,
@@ -32530,6 +33677,8 @@
           "perk1" : 8345,
           "perk2" : 8304
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8224,
           "perk3" : 8234,
@@ -32539,6 +33688,9 @@
         "subPerks" : {
           "perk1" : 8304,
           "perk2" : 8410
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8300
@@ -32546,6 +33698,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8351,
           "perk2" : 8304,
@@ -32643,6 +33796,8 @@
         "primaryPerks" : {
           "perk1" : 8005,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
@@ -32659,6 +33814,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8008,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9111,
           "perk3" : 9104,
@@ -32668,7 +33826,11 @@
         "subPerks" : {
           "perk1" : 8304,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8347
+=======
+          "perk2" : 8410
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8410
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -32679,6 +33841,7 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8112,
           "perk2" : 8139,
           "perk3" : 8140,
@@ -32686,6 +33849,8 @@
         },
         "primaryStyle" : 8100,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
@@ -32819,6 +33984,9 @@
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8473,
@@ -32829,6 +33997,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1058" : 2,
       "1082" : 1,
@@ -33082,6 +34251,8 @@
         "subPerks" : {
           "perk1" : 9104,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1028" : 1,
       "1037" : 1,
       "1054" : 1,
@@ -33149,6 +34320,9 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 9105,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8017
         },
@@ -33159,9 +34333,12 @@
         "primaryPerks" : {
           "perk1" : 8008,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 9111,
           "perk3" : 9103,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8009,
           "perk3" : 9103,
           "perk4" : 8014
@@ -33179,14 +34356,22 @@
           "perk1" : 8008,
           "perk2" : 8009,
           "perk3" : 9104,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8345
+=======
+          "perk1" : 8345,
+          "perk2" : 8304
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8345,
           "perk2" : 8304
@@ -33198,9 +34383,12 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 9923,
           "perk2" : 8143,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8008,
           "perk2" : 9101,
           "perk3" : 9104,
@@ -33233,12 +34421,16 @@
         "primaryPerks" : {
           "perk1" : 8128,
           "perk2" : 8139,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 8140,
           "perk4" : 8135
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 9111,
           "perk2" : 9104
@@ -33247,6 +34439,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8014,
           "perk2" : 8009
         },
@@ -33305,6 +34499,9 @@
         "subStyle" : 8400
       },
       2,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -33330,6 +34527,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8304,
           "perk2" : 8345
@@ -33427,6 +34625,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8429,
           "perk2" : 8451
         },
@@ -33446,6 +34646,9 @@
           "perk2" : 8275
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -33455,6 +34658,7 @@
           "perk2" : 9111,
           "perk3" : 9104,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -33462,6 +34666,8 @@
           "perk1" : 8473,
           "perk2" : 8446
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
@@ -33483,6 +34689,9 @@
         "subPerks" : {
           "perk1" : 8429,
           "perk2" : 8451
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
@@ -33498,8 +34707,11 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8410,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8236,
           "perk2" : 8234
         },
@@ -33765,11 +34977,15 @@
         "primaryStyle" : 8000,
         "subPerks" : {
           "perk1" : 8347,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8304
         },
         "subStyle" : 8300
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2
     ],
@@ -33850,6 +35066,8 @@
       {
         "primaryPerks" : {
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -34275,6 +35493,9 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8008,
           "perk2" : 9111,
@@ -34284,7 +35505,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8316,
           "perk2" : 8304
         },
@@ -34300,12 +35524,16 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8446,
           "perk2" : 8444
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       2,
       {
@@ -34322,6 +35550,8 @@
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -34398,6 +35628,9 @@
           "perk2" : 8232
         },
         "subStyle" : 8200
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -34411,7 +35644,10 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8234,
           "perk2" : 8232
         },
@@ -34427,6 +35663,9 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8444,
           "perk2" : 8453
@@ -34438,7 +35677,11 @@
         "primaryPerks" : {
           "perk1" : 8008,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 9111,
+=======
+          "perk2" : 8009,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8009,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -34447,6 +35690,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8275,
           "perk2" : 8210
@@ -34580,12 +35824,17 @@
           "perk1" : 8446,
           "perk2" : 8453
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8446,
+          "perk2" : 8453
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8400
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8112,
           "perk2" : 8139,
@@ -34826,10 +36075,16 @@
           "perk2" : 9111,
           "perk3" : 9104,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8008,
+          "perk2" : 9111,
+          "perk3" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8234,
           "perk2" : 8232
@@ -35005,6 +36260,9 @@
 =======
           "perk1" : 8429,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8429,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8451
         },
         "subStyle" : 8400
@@ -35012,6 +36270,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1001" : 2,
       "1028" : 1,
@@ -35111,6 +36370,8 @@
         },
         "primaryStyle" : 8200,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1036" : 2,
       "1037" : 1,
       "1054" : 1,
@@ -35144,6 +36405,9 @@
           "perk4" : 8014
         },
         "primaryStyle" : 8000,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8304,
@@ -35155,6 +36419,7 @@
       {
         "primaryPerks" : {
           "perk1" : 8008,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 9111,
           "perk3" : 9104,
@@ -35184,6 +36449,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8009,
           "perk3" : 9103,
           "perk4" : 8014
@@ -35196,12 +36463,16 @@
         "subStyle" : 8300
       },
       2,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
           "perk1" : 8008,
           "perk2" : 8009,
           "perk3" : 9103,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8017
         },
@@ -35212,6 +36483,8 @@
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8014
         },
         "primaryStyle" : 8000,
@@ -35220,6 +36493,9 @@
           "perk2" : 8106
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -35227,6 +36503,7 @@
         "primaryPerks" : {
           "perk1" : 8008,
           "perk2" : 9111,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk3" : 9104,
           "perk4" : 8017
@@ -35396,26 +36673,35 @@
           "perk2" : 9101,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9103,
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8429,
           "perk2" : 8451
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8345
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1042" : 1,
       "1053" : 1,
@@ -35516,6 +36802,8 @@
         "primaryPerks" : {
           "perk1" : 8214,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1018" : 1,
       "1055" : 3,
       "2019" : 1,
@@ -35540,6 +36828,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8229,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8226,
           "perk3" : 8210,
@@ -35548,20 +36839,27 @@
         "primaryStyle" : 8200,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8347,
           "perk2" : 8345
         },
         "subStyle" : 8300
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8014,
           "perk2" : 8009
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8214,
           "perk2" : 8226,
@@ -35651,6 +36949,11 @@
           "perk2" : 8226,
           "perk3" : 8233,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8229,
+          "perk2" : 8226,
+          "perk3" : 8233,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8237
         },
         "primaryStyle" : 8200,
@@ -35663,6 +36966,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1082" : 1,
       "3175" : 1,
@@ -35728,6 +37032,8 @@
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1052" : 2,
       "1056" : 1,
       "1082" : 1,
@@ -35760,11 +37066,15 @@
           "perk2" : 8135
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8112,
           "perk2" : 8139,
@@ -35864,6 +37174,8 @@
         "primaryPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
@@ -35877,8 +37189,11 @@
         "subStyle" : 8300
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
@@ -35895,6 +37210,9 @@
         "subStyle" : 8300
       },
       4,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -35917,7 +37235,10 @@
           "perk2" : 9111,
           "perk3" : 9104,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -35933,6 +37254,9 @@
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9104,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
@@ -35946,6 +37270,7 @@
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1028" : 1,
       "1029" : 1,
@@ -36491,6 +37816,8 @@
         "subPerks" : {
           "perk1" : 8009,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1028" : 5,
       "1029" : 2,
       "1036" : 3,
@@ -36534,6 +37861,9 @@
         "primaryStyle" : 8400,
         "subPerks" : {
           "perk1" : 8017,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 9104
         },
@@ -36543,6 +37873,7 @@
       {
         "primaryPerks" : {
           "perk1" : 8008,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk2" : 9111,
           "perk3" : 9104,
@@ -37393,6 +38724,9 @@
 =======
           "perk2" : 9101,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk2" : 9101,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9104,
           "perk4" : 8299
         },
@@ -37414,7 +38748,11 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8451,
+=======
+          "perk1" : 8242,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8242,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -37427,7 +38765,11 @@
         "primaryPerks" : {
           "perk1" : 8008,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 9101,
+=======
+          "perk2" : 9111,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 9111,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -37441,6 +38783,7 @@
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -37514,6 +38857,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -37572,6 +38917,9 @@
   },
   "Yone" : {
     "championName" : "Yone",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -37579,6 +38927,7 @@
           "perk1" : 8008,
           "perk2" : 9111,
           "perk3" : 9104,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk4" : 8299
         },
@@ -37627,10 +38976,13 @@
           "perk3" : 9104,
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8451,
           "perk2" : 8444
@@ -37649,11 +39001,14 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8444,
           "perk2" : 8451
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1
     ],
@@ -38223,6 +39578,8 @@
           "perk1" : 9105,
           "perk2" : 8299
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
         "primaryPerks" : {
@@ -38235,6 +39592,9 @@
         "subPerks" : {
           "perk1" : 9111,
           "perk2" : 8014
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "subStyle" : 8000
@@ -38243,9 +39603,15 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
+=======
+          "perk1" : 8008,
+          "perk2" : 9101,
+          "perk3" : 9104,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8008,
           "perk2" : 9101,
@@ -38256,7 +39622,11 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8453,
+=======
+          "perk1" : 8451,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk1" : 8451,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -38264,6 +39634,7 @@
         },
         "subStyle" : 8400
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -38277,6 +39648,8 @@
         "subPerks" : {
           "perk1" : 8444,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       2,
       {
         "primaryPerks" : {
@@ -38413,13 +39786,19 @@
         "primaryStyle" : 8200,
         "subPerks" : {
           "perk1" : 8463,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8453
         },
         "subStyle" : 8400
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       4,
       {
         "primaryPerks" : {
@@ -38475,6 +39854,9 @@
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1,
       {
@@ -38486,6 +39868,7 @@
         },
         "primaryStyle" : 8400,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8210,
           "perk2" : 8236
@@ -38620,10 +40003,15 @@
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9111,
           "perk2" : 9105
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -38631,7 +40019,11 @@
         "primaryPerks" : {
           "perk1" : 8010,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8009,
+=======
+          "perk2" : 9111,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 9111,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -38640,6 +40032,7 @@
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8139,
           "perk2" : 8106
@@ -38708,6 +40101,8 @@
       },
       1,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8347,
           "perk2" : 8304
         },
@@ -38737,6 +40132,9 @@
   "Zed" : {
     "championName" : "Zed",
     "fullRunePageFrequency" : [
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       {
         "primaryPerks" : {
@@ -38759,7 +40157,10 @@
           "perk2" : 8009,
           "perk3" : 9105,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8299
         },
         "primaryStyle" : 8000,
@@ -38805,17 +40206,23 @@
           "perk1" : 8010,
           "perk2" : 9111,
           "perk3" : 9105,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8473,
           "perk2" : 8451
         },
         "subStyle" : 8400
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
         },
@@ -38865,6 +40272,9 @@
           "perk2" : 8017
         },
         "subStyle" : 8000
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -38874,7 +40284,11 @@
           "perk2" : 8009,
           "perk3" : 9105,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk4" : 8017
+=======
+          "perk4" : 8299
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk4" : 8299
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -38890,6 +40304,7 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8369,
           "perk2" : 8321,
           "perk3" : 8313,
@@ -38902,6 +40317,8 @@
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8010,
           "perk2" : 8009,
           "perk3" : 9105,
@@ -38928,11 +40345,15 @@
           "perk2" : 8313
         },
         "subStyle" : 8300
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1001" : 4,
       "1033" : 1,
@@ -38957,6 +40378,8 @@
       "3814" : 1,
       "6692" : 8,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1036" : 8,
       "1037" : 2,
       "1054" : 1,
@@ -38981,11 +40404,15 @@
       "3814" : 2,
       "6333" : 1,
       "6692" : 7,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "6694" : 2,
       "6695" : 3,
       "6696" : 1,
       "6697" : 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "6699" : 1
     },
@@ -39069,6 +40496,8 @@
           "perk1" : 8008,
           "perk2" : 9111,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "6699" : 8
     },
     "totalGames" : 12,
@@ -39081,6 +40510,9 @@
         "primaryPerks" : {
           "perk1" : 8021,
           "perk2" : 8009,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9104,
           "perk4" : 8017
@@ -39088,15 +40520,21 @@
         "primaryStyle" : 8000,
         "subPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8236,
           "perk2" : 8233
         },
         "subStyle" : 8200
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8429,
           "perk2" : 8451
         },
         "subStyle" : 8400
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1,
@@ -39104,8 +40542,11 @@
         "primaryPerks" : {
           "perk1" : 8008,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 9111,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8009,
           "perk3" : 9103,
           "perk4" : 8014
@@ -39122,12 +40563,16 @@
         "primaryPerks" : {
           "perk1" : 8008,
           "perk2" : 9101,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk3" : 9104,
           "perk4" : 8017
         },
         "primaryStyle" : 8000,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8345,
           "perk2" : 8304
@@ -39237,6 +40682,8 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8304,
           "perk2" : 8347
         },
@@ -39246,11 +40693,14 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8226,
           "perk3" : 8210,
           "perk4" : 8236
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8008,
           "perk2" : 9101,
           "perk3" : 9103,
@@ -39327,6 +40777,9 @@
           "perk2" : 8226,
           "perk3" : 8210,
           "perk4" : 8237
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         },
         "primaryStyle" : 8200,
@@ -39336,6 +40789,7 @@
         },
         "subStyle" : 8000
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       1,
       {
@@ -39347,6 +40801,8 @@
         },
         "primaryStyle" : 8300,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       1
     ],
     "itemFrequency" : {
@@ -39402,6 +40858,9 @@
           "perk4" : 8451
         },
         "primaryStyle" : 8400,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
         "subPerks" : {
           "perk1" : 8226,
@@ -39412,6 +40871,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8229,
           "perk2" : 8226,
@@ -39529,6 +40989,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8465,
           "perk2" : 8463,
           "perk3" : 8429,
@@ -39584,13 +41046,20 @@
   },
   "Zoe" : {
     "championName" : "Zoe",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
         "primaryPerks" : {
           "perk1" : 8112,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk2" : 8143,
+=======
+          "perk2" : 8139,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
           "perk2" : 8139,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -39605,7 +41074,11 @@
         "subStyle" : 8200
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       2,
+=======
+      1,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       1,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -39633,6 +41106,7 @@
         },
         "primaryStyle" : 8100,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8237,
           "perk2" : 8275
@@ -39683,12 +41157,19 @@
 =======
           "perk1" : 8275,
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+          "perk1" : 8275,
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8210
         },
         "subStyle" : 8200
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       1
+=======
+      2
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
 =======
       2
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
@@ -39696,6 +41177,7 @@
     "itemFrequency" : {
       "1052" : 1,
       "1056" : 3,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1058" : 2,
       "1082" : 6,
@@ -39775,6 +41257,8 @@
 
     },
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1082" : 1,
       "3020" : 3,
       "3041" : 1,
@@ -39794,6 +41278,9 @@
   },
   "Zyra" : {
     "championName" : "Zyra",
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
     "fullRunePageFrequency" : [
       {
@@ -39805,6 +41292,7 @@
         },
         "primaryStyle" : 8200,
         "subPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8105,
           "perk2" : 8139
@@ -39823,6 +41311,8 @@
         "subPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 9105,
           "perk2" : 8017
         },
@@ -39831,6 +41321,7 @@
       1,
       {
         "primaryPerks" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "perk1" : 8128,
           "perk2" : 8126,
@@ -39894,6 +41385,8 @@
         "primaryPerks" : {
 =======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8226,
           "perk3" : 8210,
@@ -39911,7 +41404,10 @@
         "primaryPerks" : {
           "perk1" : 8229,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8275,
           "perk3" : 8210,
           "perk4" : 8232
@@ -39927,6 +41423,9 @@
       {
         "primaryPerks" : {
           "perk1" : 8229,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk2" : 8226,
           "perk3" : 8210,
@@ -39943,6 +41442,7 @@
       {
         "primaryPerks" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "perk1" : 8128,
           "perk2" : 8126,
           "perk3" : 8141,
@@ -39955,6 +41455,8 @@
         },
         "subStyle" : 8000
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
           "perk1" : 8229,
           "perk2" : 8226,
           "perk3" : 8210,
@@ -39966,11 +41468,15 @@
           "perk2" : 8105
         },
         "subStyle" : 8100
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       },
       1
     ],
     "itemFrequency" : {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "1001" : 1,
       "1011" : 1,
@@ -39990,6 +41496,8 @@
       "3108" : 1,
       "3116" : 3,
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "1056" : 1,
       "1082" : 1,
       "2052" : 1,
@@ -39999,11 +41507,15 @@
       "3020" : 2,
       "3089" : 1,
       "3116" : 2,
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "3135" : 1,
       "3158" : 1,
       "3165" : 1,
       "3175" : 2,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "3363" : 3,
       "3364" : 6,
@@ -40071,6 +41583,8 @@
     "totalGames" : 9,
     "totalWins" : 4
 =======
+=======
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
       "3340" : 1,
       "3363" : 2,
       "3364" : 1,
@@ -40083,6 +41597,9 @@
     },
     "totalGames" : 5,
     "totalWins" : 3
+<<<<<<< HEAD
+>>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
+=======
 >>>>>>> 5fc67dcea46ecada53bc52d830c8cc4ee68f5537
   }
 }
