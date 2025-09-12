@@ -20,42 +20,12 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
         "perk1" : 8347,
         "perk2" : 8304
       },
       "subStyle" : 8300
     },
     1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    5,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -84,6 +54,36 @@
         "perk2" : 8451
       },
       "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    5,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
     },
     1
   ],
@@ -129,32 +129,32 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     1,
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     8,
     [
-      "Ignite",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1055
-    ],
-    2,
-    [
       1054,
       2003
     ],
     8,
+    [
+      2003,
+      1055
+    ],
+    2,
     [
       2003,
       1102

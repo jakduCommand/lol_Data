@@ -15,21 +15,6 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8224
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8128,
         "perk2" : 8126,
         "perk3" : 8140,
@@ -54,6 +39,21 @@
       "subPerks" : {
         "perk1" : 8224,
         "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8224
       },
       "subStyle" : 8200
     },
@@ -110,35 +110,35 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
-    ],
-    2,
-    [
-      "Flash",
-      "Heal"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Flash",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
-    1
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerSmite.png"
+    ],
+    2
   ],
   "startItemFrequency" : [
     [
-      2003
-    ],
-    1,
-    [
-      1056,
-      2003
-    ],
-    1,
-    [
       1102
     ],
-    2
+    2,
+    [
+      2003
+    ],
+    1,
+    [
+      2003,
+      1056
+    ],
+    1
   ],
   "thirdCoreItemFrequency" : {
     "3157" : 1

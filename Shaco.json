@@ -16,15 +16,15 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8017
+        "perk1" : 8017,
+        "perk2" : 9105
       },
       "subStyle" : 8000
     },
@@ -48,15 +48,15 @@
       "primaryPerks" : {
         "perk1" : 9923,
         "perk2" : 8143,
-        "perk3" : 8137,
+        "perk3" : 8140,
         "perk4" : 8105
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 9104,
+        "perk2" : 8017
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
     1,
     {
@@ -72,6 +72,21 @@
         "perk2" : 8106
       },
       "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
     },
     1,
     {
@@ -115,21 +130,6 @@
       "subPerks" : {
         "perk1" : 9104,
         "perk2" : 8014
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8017,
-        "perk2" : 9105
       },
       "subStyle" : 8000
     },
@@ -190,20 +190,20 @@
   },
   "spellFrequency" : [
     [
-      "Ignite",
-      "Smite"
+      "SummonerDot.png",
+      "SummonerTeleport.png"
     ],
-    6,
+    1,
     [
-      "Ignite",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2,
     [
-      "Teleport",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerSmite.png"
     ],
-    1
+    6
   ],
   "startItemFrequency" : [
     [
@@ -216,14 +216,14 @@
     ],
     3,
     [
+      2003
+    ],
+    2,
+    [
       3070,
       2003
     ],
-    1,
-    [
-      2003
-    ],
-    2
+    1
   ],
   "thirdCoreItemFrequency" : {
     "3036" : 1,

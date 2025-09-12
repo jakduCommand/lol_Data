@@ -16,6 +16,21 @@
         "perk1" : 8437,
         "perk2" : 8401,
         "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
@@ -30,21 +45,6 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
         "perk3" : 8444,
         "perk4" : 8451
       },
@@ -80,8 +80,8 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
+        "perk1" : 8345,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -119,15 +119,15 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     5
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1054
+      1054,
+      2003
     ],
     5
   ],

@@ -16,21 +16,6 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8463,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8360,
         "perk2" : 8321,
         "perk3" : 8345,
@@ -46,15 +31,15 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
+        "perk1" : 8437,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8410
+        "perk1" : 8347,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
@@ -83,12 +68,42 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8234
       },
       "subStyle" : 8200
     },
     2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -106,32 +121,17 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8453
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8345
+        "perk1" : 8463,
+        "perk2" : 8453
       },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8236,
-        "perk2" : 8226
-      },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
@@ -182,26 +182,26 @@
   },
   "spellFrequency" : [
     [
-      "Heal",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
-    6,
+    3,
     [
-      "Flash",
-      "Barrier"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
-    3
+    6
   ],
   "startItemFrequency" : [
+    [
+      2003
+    ],
+    6,
     [
       2003,
       1055
     ],
-    3,
-    [
-      2003
-    ],
-    6
+    3
   ],
   "thirdCoreItemFrequency" : {
     "3033" : 2,

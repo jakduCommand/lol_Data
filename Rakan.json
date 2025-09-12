@@ -15,17 +15,17 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8321,
-        "perk3" : 8345,
-        "perk4" : 8347
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
+        "perk1" : 8143,
+        "perk2" : 8106
       },
-      "subStyle" : 8200
+      "subStyle" : 8100
     },
     1,
     {
@@ -45,17 +45,17 @@
     3,
     {
       "primaryPerks" : {
-        "perk1" : 8465,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8242
+        "perk1" : 8360,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8106
+        "perk1" : 8226,
+        "perk2" : 8210
       },
-      "subStyle" : 8100
+      "subStyle" : 8200
     },
     1
   ],
@@ -92,13 +92,13 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "Heal",
-      "Flash"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     3
   ],

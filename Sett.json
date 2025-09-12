@@ -22,7 +22,7 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8444,
+        "perk1" : 8473,
         "perk2" : 8451
       },
       "subStyle" : 8400
@@ -45,36 +45,6 @@
     2,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9103,
@@ -90,6 +60,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
@@ -97,10 +82,25 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
+        "perk1" : 8444,
         "perk2" : 8451
       },
       "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
     },
     1
   ],
@@ -146,35 +146,35 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Flash"
-    ],
-    5,
-    [
-      "Flash",
-      "Smite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Ignite",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
-    1
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
+    ],
+    5
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1054
+      1054,
+      2003
     ],
     2,
     [
-      2003,
-      1055
+      1055,
+      2003
     ],
     4,
     [
-      2003,
-      1102
+      1102,
+      2003
     ],
     1
   ],

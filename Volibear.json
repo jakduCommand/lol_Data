@@ -14,34 +14,34 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8232
+        "perk1" : 9105,
+        "perk2" : 8009
       },
-      "subStyle" : 8200
+      "subStyle" : 8000
     },
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8473,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8232
+        "perk1" : 9105,
+        "perk2" : 8009
       },
-      "subStyle" : 8200
+      "subStyle" : 8000
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -61,7 +61,7 @@
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
-        "perk3" : 9104,
+        "perk3" : 9105,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
@@ -76,53 +76,8 @@
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
-        "perk3" : 9104,
+        "perk3" : 9105,
         "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8316
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -149,17 +104,47 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8453
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 9104
+        "perk1" : 8304,
+        "perk2" : 8316
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
     },
     1,
     {
@@ -179,32 +164,47 @@
     2,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8473,
-        "perk4" : 8242
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
+        "perk1" : 8316,
+        "perk2" : 8304
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
     },
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8008,
+        "perk1" : 8005,
         "perk2" : 9111,
         "perk3" : 9105,
-        "perk4" : 8014
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8316
+        "perk1" : 8234,
+        "perk2" : 8232
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
     },
     1
   ],
@@ -264,26 +264,27 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
-    ],
-    4,
-    [
-      "Flash",
-      "Smite"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     10,
     [
-      "Flash",
-      "Ignite"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
+    ],
+    4,
+    [
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
+      2003,
       1102
     ],
-    6,
+    4,
     [
       2003,
       1055
@@ -291,14 +292,13 @@
     1,
     [
       2003,
-      1102
+      1056
     ],
     4,
     [
-      2003,
-      1056
+      1102
     ],
-    4
+    6
   ],
   "thirdCoreItemFrequency" : {
     "3041" : 1,

@@ -17,21 +17,6 @@
         "perk1" : 8008,
         "perk2" : 8009,
         "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    10,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9103,
         "perk4" : 8014
       },
       "primaryStyle" : 8000,
@@ -51,8 +36,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
+        "perk1" : 8304,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
@@ -66,8 +51,23 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    10,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -108,25 +108,25 @@
   },
   "spellFrequency" : [
     [
-      "Cleanse",
-      "Flash"
+      "SummonerBoost.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Ghost",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
-    2,
+    11,
     [
-      "Barrier",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerHaste.png"
     ],
-    11
+    2
   ],
   "startItemFrequency" : [
     [
-      1055,
-      2003
+      2003,
+      1055
     ],
     14
   ],

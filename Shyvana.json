@@ -46,15 +46,15 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1103
+      1103,
+      2003
     ],
     1
   ],

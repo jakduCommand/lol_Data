@@ -21,12 +21,27 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
-    2,
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -36,12 +51,12 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8143,
+        "perk2" : 8105
       },
-      "subStyle" : 8300
+      "subStyle" : 8100
     },
-    3,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -66,27 +81,12 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8105
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
+        "perk1" : 8347,
+        "perk2" : 8304
       },
       "subStyle" : 8300
     },
-    1
+    2
   ],
   "itemFrequency" : {
     "1029" : 3,
@@ -133,38 +133,38 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Ignite"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
-    1,
+    7,
     [
-      "Flash",
-      "Smite"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
-    7
+    1
   ],
   "startItemFrequency" : [
     [
-      1102,
       2003
     ],
-    3,
+    1,
     [
       1101,
       2003
     ],
     1,
     [
+      2003,
       1103
-    ],
-    1,
-    [
-      1103,
-      2003
     ],
     2,
     [
+      1102,
       2003
+    ],
+    3,
+    [
+      1103
     ],
     1
   ],

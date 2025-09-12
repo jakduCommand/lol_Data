@@ -88,15 +88,15 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     3
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1056
+      1056,
+      2003
     ],
     3
   ],

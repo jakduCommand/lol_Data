@@ -30,21 +30,6 @@
       "primaryPerks" : {
         "perk1" : 8128,
         "perk2" : 8126,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
         "perk3" : 8140,
         "perk4" : 8106
       },
@@ -54,6 +39,21 @@
         "perk2" : 8226
       },
       "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
     },
     1,
     {
@@ -73,6 +73,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8369,
         "perk2" : 8304,
         "perk3" : 8345,
@@ -84,21 +99,6 @@
         "perk2" : 8237
       },
       "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
     },
     1
   ],
@@ -135,20 +135,20 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
-    5,
+    1,
     [
-      "Flash",
-      "Barrier"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
-    1
+    5
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1056
+      1056,
+      2003
     ],
     6
   ],

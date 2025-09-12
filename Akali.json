@@ -14,34 +14,19 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8137,
+        "perk3" : 8140,
         "perk4" : 8106
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
+        "perk1" : 8304,
+        "perk2" : 8345
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -76,15 +61,30 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8140,
+        "perk3" : 8137,
         "perk4" : 8106
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8444,
+        "perk2" : 8451
       },
-      "subStyle" : 8300
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
     },
     1
   ],
@@ -123,20 +123,20 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerTeleport.png"
     ],
     4,
     [
-      "Flash",
-      "Ignite"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
-    2,
+    3,
     [
-      "Flash",
-      "Teleport"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
-    3
+    2
   ],
   "startItemFrequency" : [
     [
@@ -145,8 +145,8 @@
     ],
     5,
     [
-      1054,
-      2003
+      2003,
+      1054
     ],
     4
   ],

@@ -16,6 +16,51 @@
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8139,
+        "perk2" : 8135
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8017
       },
@@ -36,55 +81,10 @@
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
         "perk1" : 9111,
         "perk2" : 9104
       },
       "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8139,
-        "perk2" : 8135
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
     },
     1
   ],
@@ -121,25 +121,25 @@
   },
   "spellFrequency" : [
     [
-      "Barrier",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     5,
     [
-      "Cleanse",
-      "Flash"
+      "SummonerBoost.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Exhaust",
-      "Flash"
+      "SummonerExhaust.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
-      1055,
-      2003
+      2003,
+      1055
     ],
     7
   ],

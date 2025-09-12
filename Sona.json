@@ -20,36 +20,6 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    3,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
         "perk1" : 8009,
         "perk2" : 9105
       },
@@ -70,7 +40,37 @@
       },
       "subStyle" : 8400
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    3
   ],
   "itemFrequency" : {
     "1004" : 1,
@@ -110,8 +110,8 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Heal"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     8
   ],

@@ -21,11 +21,11 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8473,
-        "perk2" : 8446
+        "perk2" : 8242
       },
       "subStyle" : 8400
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -51,11 +51,11 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8473,
-        "perk2" : 8242
+        "perk2" : 8446
       },
       "subStyle" : 8400
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -127,13 +127,13 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Flash"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     4,
     [
-      "Flash",
-      "Ignite"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     4
   ],
@@ -144,8 +144,8 @@
     ],
     5,
     [
-      2003,
-      1054
+      1054,
+      2003
     ],
     3
   ],

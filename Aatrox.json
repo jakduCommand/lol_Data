@@ -30,17 +30,32 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8444,
-        "perk2" : 8453
+        "perk2" : 8242
       },
       "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
     },
     1,
     {
@@ -67,8 +82,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
+        "perk1" : 8444,
+        "perk2" : 8453
       },
       "subStyle" : 8400
     },
@@ -90,30 +105,15 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8242
+        "perk1" : 8473,
+        "perk2" : 8451
       },
       "subStyle" : 8400
     },
@@ -159,15 +159,15 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     7
   ],
   "startItemFrequency" : [
     [
-      1054,
-      2003
+      2003,
+      1054
     ],
     5,
     [

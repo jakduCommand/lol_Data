@@ -20,10 +20,40 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8017,
+        "perk1" : 9105,
         "perk2" : 8009
       },
       "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8141,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8105,
+        "perk2" : 8139
+      },
+      "subStyle" : 8100
     },
     1,
     {
@@ -110,38 +140,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
+        "perk1" : 8017,
         "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8105,
-        "perk2" : 8139
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8141,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
       },
       "subStyle" : 8000
     },
@@ -191,20 +191,20 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
-    2,
+    4,
     [
-      "Flash",
-      "Smite"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     3,
     [
-      "Flash",
-      "Ignite"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
-    4
+    2
   ],
   "startItemFrequency" : [
     [
@@ -213,17 +213,17 @@
     ],
     1,
     [
-      2003,
-      1101
-    ],
-    2,
-    [
       2003
     ],
     4,
     [
-      1056,
+      1101,
       2003
+    ],
+    2,
+    [
+      2003,
+      1056
     ],
     2
   ],

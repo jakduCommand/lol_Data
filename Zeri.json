@@ -19,10 +19,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
+        "perk1" : 8236,
+        "perk2" : 8233
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
     1,
     {
@@ -34,10 +34,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8236,
-        "perk2" : 8233
+        "perk1" : 8345,
+        "perk2" : 8304
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
     1
   ],
@@ -63,20 +63,20 @@
   },
   "spellFrequency" : [
     [
-      "Cleanse",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Flash",
-      "Barrier"
+      "SummonerBoost.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
-      1055,
-      2003
+      2003,
+      1055
     ],
     2
   ],

@@ -28,6 +28,36 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8106,
+        "perk2" : 8126
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8233,
@@ -50,23 +80,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8014
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8106,
-        "perk2" : 8126
+        "perk1" : 8126,
+        "perk2" : 8106
       },
       "subStyle" : 8100
     },
@@ -84,21 +99,6 @@
         "perk2" : 8304
       },
       "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
     },
     1,
     {
@@ -125,10 +125,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8126,
-        "perk2" : 8106
+        "perk1" : 8009,
+        "perk2" : 8014
       },
-      "subStyle" : 8100
+      "subStyle" : 8000
     },
     1,
     {
@@ -187,31 +187,31 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     7,
     [
-      "Flash",
-      "Heal"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     1,
     [
-      "Flash",
-      "Exhaust"
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
-      1056,
       2003
     ],
-    7,
+    2,
     [
-      2003
+      2003,
+      1056
     ],
-    2
+    7
   ],
   "thirdCoreItemFrequency" : {
     "3041" : 1,

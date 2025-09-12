@@ -22,8 +22,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -52,8 +52,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8347,
+        "perk2" : 8304
       },
       "subStyle" : 8300
     },
@@ -118,15 +118,15 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     14
   ],
   "startItemFrequency" : [
     [
-      1102,
-      2003
+      2003,
+      1102
     ],
     11,
     [

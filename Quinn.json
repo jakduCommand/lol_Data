@@ -14,9 +14,39 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
         "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
         "perk4" : 8135
       },
       "primaryStyle" : 8100,
@@ -46,21 +76,6 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
         "perk3" : 8141,
         "perk4" : 8135
       },
@@ -68,21 +83,6 @@
       "subPerks" : {
         "perk1" : 8234,
         "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
       },
       "subStyle" : 8200
     },
@@ -119,22 +119,22 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "startItemFrequency" : [
     [
+      1055,
+      2003
+    ],
+    4,
+    [
       1036,
       2031
     ],
-    1,
-    [
-      2003,
-      1055
-    ],
-    4
+    1
   ],
   "thirdCoreItemFrequency" : {
     "3036" : 2

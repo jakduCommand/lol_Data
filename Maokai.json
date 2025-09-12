@@ -65,13 +65,13 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Ignite"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Flash",
-      "Heal"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     1
   ],

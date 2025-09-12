@@ -14,6 +14,21 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8214,
         "perk2" : 8226,
         "perk3" : 8210,
@@ -38,21 +53,6 @@
       "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8321,
-        "perk3" : 8313,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8234
       },
       "subStyle" : 8200
     },
@@ -106,8 +106,8 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     4
   ],

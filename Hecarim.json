@@ -15,36 +15,6 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8017,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8230,
         "perk2" : 8275,
         "perk3" : 8234,
@@ -60,6 +30,21 @@
     2,
     {
       "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8017,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
@@ -71,6 +56,21 @@
         "perk2" : 8347
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
     },
     1
   ],
@@ -108,8 +108,8 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Ghost"
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     5
   ],
@@ -119,8 +119,8 @@
     ],
     4,
     [
-      1102,
-      2003
+      2003,
+      1102
     ],
     1
   ],

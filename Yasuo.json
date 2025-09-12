@@ -14,6 +14,21 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
@@ -29,36 +44,6 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9101,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
         "perk2" : 9101,
         "perk3" : 9104,
         "perk4" : 8299
@@ -67,6 +52,21 @@
       "subPerks" : {
         "perk1" : 8444,
         "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -101,25 +101,25 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Ignite"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "Exhaust",
-      "Flash"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
-    1,
+    2,
     [
-      "Flash",
-      "Teleport"
+      "SummonerExhaust.png",
+      "SummonerFlash.png"
     ],
-    2
+    1
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1055
+      1055,
+      2003
     ],
     5
   ],

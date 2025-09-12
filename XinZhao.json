@@ -21,25 +21,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8347,
+        "perk2" : 8304
       },
       "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
     },
     1,
     {
@@ -51,8 +36,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -81,10 +66,25 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
+        "perk1" : 8316,
         "perk2" : 8304
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
     },
     1
   ],
@@ -121,33 +121,33 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Smite"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     4,
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
+      2003,
+      1101
+    ],
+    1,
+    [
       1102
     ],
     2,
-    [
-      1103
-    ],
-    1,
     [
       1055,
       2003
     ],
     1,
     [
-      1101,
-      2003
+      1103
     ],
     1
   ],

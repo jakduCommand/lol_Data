@@ -65,8 +65,8 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     3
   ],

@@ -22,36 +22,6 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9104
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
         "perk1" : 8444,
         "perk2" : 8453
       },
@@ -82,10 +52,40 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
         "perk1" : 8275,
         "perk2" : 8210
       },
       "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9104
+      },
+      "subStyle" : 8000
     },
     1
   ],
@@ -132,37 +132,37 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Smite"
+      "SummonerFlash.png",
+      "SummonerHaste.png"
+    ],
+    4,
+    [
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Flash",
-      "Ignite"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
-    1,
-    [
-      "Ghost",
-      "Flash"
-    ],
-    4
+    1
   ],
   "startItemFrequency" : [
     [
-      1054,
-      2003
+      2003,
+      1054
     ],
     1,
+    [
+      1055,
+      2003
+    ],
+    4,
     [
       1102,
       2003
     ],
-    1,
-    [
-      2003,
-      1055
-    ],
-    4
+    1
   ],
   "thirdCoreItemFrequency" : {
     "3036" : 1,

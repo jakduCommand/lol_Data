@@ -18,6 +18,21 @@
         "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
         "perk4" : 8236
       },
       "primaryStyle" : 8200,
@@ -37,8 +52,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -62,21 +77,6 @@
       "primaryPerks" : {
         "perk1" : 8229,
         "perk2" : 8226,
-        "perk3" : 8233,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
         "perk3" : 8210,
         "perk4" : 8237
       },
@@ -88,6 +88,21 @@
       "subStyle" : 8300
     },
     1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -116,21 +131,6 @@
         "perk2" : 8017
       },
       "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
     },
     1
   ],
@@ -173,15 +173,15 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     9
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1056
+      1056,
+      2003
     ],
     9
   ],

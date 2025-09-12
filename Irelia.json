@@ -20,21 +20,6 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8316
-      },
-      "subStyle" : 8300
-    },
-    4,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
         "perk1" : 8473,
         "perk2" : 8242
       },
@@ -55,7 +40,22 @@
       },
       "subStyle" : 8300
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    4
   ],
   "itemFrequency" : {
     "1028" : 1,
@@ -91,13 +91,13 @@
   },
   "spellFrequency" : [
     [
-      "Teleport",
-      "Flash"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     4,
     [
-      "Flash",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     2
   ],

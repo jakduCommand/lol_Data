@@ -15,32 +15,17 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8135,
+        "perk2" : 8143
       },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
+      "subStyle" : 8100
     },
     1,
     {
@@ -60,17 +45,17 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8304,
-        "perk3" : 8313,
-        "perk4" : 8347
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8135,
-        "perk2" : 8143
+        "perk1" : 8233,
+        "perk2" : 8236
       },
-      "subStyle" : 8100
+      "subStyle" : 8200
     },
     1,
     {
@@ -86,6 +71,21 @@
         "perk2" : 8135
       },
       "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
     },
     1
   ],
@@ -122,8 +122,8 @@
   },
   "spellFrequency" : [
     [
-      "Smite",
-      "Flash"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     5
   ],
@@ -133,8 +133,8 @@
     ],
     2,
     [
-      1102,
-      2003
+      2003,
+      1102
     ],
     3
   ],

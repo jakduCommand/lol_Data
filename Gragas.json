@@ -81,28 +81,28 @@
   },
   "spellFrequency" : [
     [
-      "Ignite",
-      "Flash"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "Teleport",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     1
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1056
+      1027,
+      2031
     ],
     1,
     [
-      2031,
-      1027
+      2003
     ],
     1,
     [
+      1056,
       2003
     ],
     1

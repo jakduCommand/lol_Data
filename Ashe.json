@@ -14,36 +14,6 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8017
@@ -56,6 +26,21 @@
       "subStyle" : 8300
     },
     1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -74,8 +59,8 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
+        "perk2" : 8009,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -85,7 +70,7 @@
       },
       "subStyle" : 8300
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -97,6 +82,21 @@
       "subPerks" : {
         "perk1" : 8304,
         "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
@@ -144,18 +144,18 @@
   },
   "spellFrequency" : [
     [
-      "Barrier",
-      "Flash"
-    ],
-    5,
-    [
-      "Ghost",
-      "Flash"
+      "SummonerHaste.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "Flash",
-      "Cleanse"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
+    ],
+    5,
+    [
+      "SummonerFlash.png",
+      "SummonerBoost.png"
     ],
     1
   ],

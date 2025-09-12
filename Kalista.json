@@ -67,15 +67,15 @@
   },
   "spellFrequency" : [
     [
-      "Barrier",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     2
   ],
   "startItemFrequency" : [
     [
-      1055,
-      2003
+      2003,
+      1055
     ],
     2
   ],

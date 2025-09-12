@@ -12,6 +12,21 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9101,
         "perk3" : 9105,
@@ -49,40 +64,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
+        "perk1" : 8234,
+        "perk2" : 8224
       },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8224,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
+      "subStyle" : 8200
     },
     1,
     {
@@ -102,6 +87,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
@@ -109,10 +109,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8224
+        "perk1" : 8473,
+        "perk2" : 8242
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
@@ -153,30 +153,30 @@
   },
   "spellFrequency" : [
     [
-      "Ghost",
-      "Flash"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     1,
     [
-      "Flash",
-      "Teleport"
+      "SummonerFlash.png",
+      "SummonerHaste.png"
     ],
     1,
     [
-      "Flash",
-      "Ignite"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "startItemFrequency" : [
     [
-      2003,
-      1054
+      1054,
+      2003
     ],
     5,
     [
-      1055,
-      2003
+      2003,
+      1055
     ],
     2
   ],

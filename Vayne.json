@@ -14,36 +14,6 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9101,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
@@ -52,6 +22,36 @@
       "subPerks" : {
         "perk1" : 8429,
         "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
       },
       "subStyle" : 8400
     },
@@ -85,13 +85,13 @@
   },
   "spellFrequency" : [
     [
-      "Ghost",
-      "Flash"
+      "SummonerHaste.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "Barrier",
-      "Flash"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     2
   ],

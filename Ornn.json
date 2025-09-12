@@ -17,6 +17,36 @@
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
         "perk3" : 8444,
@@ -49,21 +79,6 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8473,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
         "perk3" : 8444,
         "perk4" : 8242
       },
@@ -77,34 +92,19 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8444,
+        "perk3" : 8473,
         "perk4" : 8451
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8226
+        "perk1" : 8304,
+        "perk2" : 8345
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
-    1
+    2
   ],
   "itemFrequency" : {
     "1011" : 1,
@@ -147,8 +147,8 @@
   },
   "spellFrequency" : [
     [
-      "Flash",
-      "Teleport"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     9
   ],
