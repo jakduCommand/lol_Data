@@ -1,16 +1,51 @@
 {
   "championName" : "AurelionSol",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 3,
-    "3116" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8233,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8369,
@@ -31,36 +66,6 @@
         "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8233,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8233,
         "perk4" : 8236
       },
       "primaryStyle" : 8200,
@@ -70,69 +75,66 @@
       },
       "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8233,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 2,
-    "1056" : 3,
-    "1058" : 3,
-    "1082" : 1,
-    "2031" : 1,
-    "2422" : 1,
-    "2503" : 4,
-    "3116" : 5,
-    "3157" : 1,
-    "3175" : 2,
-    "3340" : 1,
-    "3363" : 4,
-    "3916" : 1,
-    "6653" : 1,
-    "8010" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "2503" : 1,
-    "3116" : 2,
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 2,
+      "1056" : 3,
+      "1058" : 3,
+      "1082" : 1,
+      "2031" : 1,
+      "2422" : 1,
+      "2503" : 4,
+      "3116" : 5,
+      "3157" : 1,
+      "3175" : 2,
+      "3340" : 1,
+      "3363" : 4,
+      "3916" : 1,
+      "6653" : 1,
+      "8010" : 1
+    },
+    "boots" : {
+      "3020" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "2503" : 3,
+      "3116" : 2
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "2503" : 1,
+      "3116" : 2,
+      "6653" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      5
+    ],
+    "thirdCore" : {
+      "3116" : 1,
+      "8010" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    5
-  ],
-  "thirdCoreItemFrequency" : {
-    "3116" : 1,
-    "8010" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 1
 }

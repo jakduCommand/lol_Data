@@ -1,15 +1,5 @@
 {
   "championName" : "Blitzcrank",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3050" : 2,
-    "3107" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -20,10 +10,10 @@
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
+        "perk1" : 8234,
+        "perk2" : 8275
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
     },
     1,
     {
@@ -50,58 +40,70 @@
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8275
+        "perk1" : 8473,
+        "perk2" : 8242
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
-  "itemFrequency" : {
-    "1004" : 1,
-    "3009" : 3,
-    "3050" : 2,
-    "3067" : 2,
-    "3075" : 1,
-    "3107" : 1,
-    "3190" : 2,
-    "3222" : 1,
-    "3364" : 3,
-    "3876" : 1,
-    "3877" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3075" : 1,
-    "3190" : 1,
-    "3222" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1004" : 1,
+      "3009" : 3,
+      "3050" : 2,
+      "3067" : 2,
+      "3075" : 1,
+      "3107" : 1,
+      "3190" : 2,
+      "3222" : 1,
+      "3364" : 3,
+      "3876" : 1,
+      "3877" : 2
+    },
+    "boots" : {
+      "3009" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3050" : 2,
+      "3107" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3075" : 1,
+      "3190" : 1,
+      "3222" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3190" : 1
+    }
   },
   "spellFrequency" : [
     [
       "SummonerFlash.png",
-      "SummonerHeal.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    2
-  ],
-  "startItemFrequency" : [
+    2,
     [
-      2003
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
-    3
+    1
   ],
-  "thirdCoreItemFrequency" : {
-    "3190" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

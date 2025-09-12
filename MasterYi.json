@@ -1,17 +1,5 @@
 {
   "championName" : "MasterYi",
-  "fifthCoreItemFrequency" : {
-    "3091" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3073" : 1,
-    "3153" : 2,
-    "6672" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3124" : 1,
-    "3748" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -22,25 +10,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
+        "perk1" : 8304,
+        "perk2" : 8347
       },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8135,
-        "perk2" : 8143
-      },
-      "subStyle" : 8100
+      "subStyle" : 8300
     },
     1,
     {
@@ -82,77 +55,106 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8135,
+        "perk2" : 8143
       },
-      "subStyle" : 8300
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1029" : 1,
-    "1037" : 2,
-    "1043" : 2,
-    "1052" : 1,
-    "1053" : 1,
-    "1102" : 1,
-    "2055" : 1,
-    "2504" : 1,
-    "3006" : 1,
-    "3047" : 1,
-    "3073" : 2,
-    "3091" : 2,
-    "3111" : 1,
-    "3124" : 4,
-    "3153" : 3,
-    "3172" : 1,
-    "3340" : 1,
-    "3364" : 4,
-    "3748" : 1,
-    "6672" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3073" : 1,
-    "3124" : 2,
-    "3153" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 2,
-    "3047" : 1,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1029" : 1,
+      "1037" : 2,
+      "1043" : 2,
+      "1052" : 1,
+      "1053" : 1,
+      "1102" : 1,
+      "2055" : 1,
+      "2504" : 1,
+      "3006" : 1,
+      "3047" : 1,
+      "3073" : 2,
+      "3091" : 2,
+      "3111" : 1,
+      "3124" : 4,
+      "3153" : 3,
+      "3172" : 1,
+      "3340" : 1,
+      "3364" : 4,
+      "3748" : 1,
+      "6672" : 2
+    },
+    "boots" : {
+      "3006" : 2,
+      "3047" : 1,
+      "3111" : 1
+    },
+    "fifthCore" : {
+      "3091" : 1
+    },
+    "firstCore" : {
+      "3073" : 1,
+      "3153" : 2,
+      "6672" : 2
+    },
+    "fourthCore" : {
+      "3124" : 1,
+      "3748" : 1
+    },
+    "secondCore" : {
+      "3073" : 1,
+      "3124" : 2,
+      "3153" : 1
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        1102,
+        2003
+      ],
+      1,
+      [
+        2003,
+        1103
+      ],
+      1,
+      [
+        1102
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "2504" : 1,
+      "3091" : 1,
+      "3124" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1103,
-      2003
-    ],
-    1,
-    [
-      1102
-    ],
-    3,
-    [
-      1102,
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "2504" : 1,
-    "3091" : 1,
-    "3124" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 3
 }

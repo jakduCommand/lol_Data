@@ -1,15 +1,5 @@
 {
   "championName" : "Ivern",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3107" : 2,
-    "3118" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3504" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -42,57 +32,69 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1026" : 1,
-    "1082" : 1,
-    "3020" : 1,
-    "3041" : 1,
-    "3067" : 1,
-    "3089" : 1,
-    "3107" : 2,
-    "3114" : 1,
-    "3115" : 1,
-    "3118" : 1,
-    "3158" : 2,
-    "3364" : 3,
-    "3504" : 1,
-    "6617" : 1,
-    "6621" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3041" : 1,
-    "3115" : 1,
-    "6617" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1026" : 1,
+      "1082" : 1,
+      "3020" : 1,
+      "3041" : 1,
+      "3067" : 1,
+      "3089" : 1,
+      "3107" : 2,
+      "3114" : 1,
+      "3115" : 1,
+      "3118" : 1,
+      "3158" : 2,
+      "3364" : 3,
+      "3504" : 1,
+      "6617" : 1,
+      "6621" : 1
+    },
+    "boots" : {
+      "3020" : 1,
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3107" : 2,
+      "3118" : 1
+    },
+    "fourthCore" : {
+      "3504" : 1
+    },
+    "secondCore" : {
+      "3041" : 1,
+      "3115" : 1,
+      "6617" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      2,
+      [
+        2003,
+        1101
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3089" : 1,
+      "6621" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1102
-    ],
-    2,
-    [
-      2003,
-      1101
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 1,
-    "6621" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

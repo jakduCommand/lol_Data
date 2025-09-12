@@ -1,32 +1,6 @@
 {
   "championName" : "Olaf",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3074" : 1,
-    "6610" : 1,
-    "6631" : 2
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -51,6 +25,21 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
         "perk1" : 8410,
         "perk2" : 8345
       },
@@ -58,46 +47,80 @@
     },
     2
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1029" : 2,
-    "1037" : 1,
-    "1054" : 1,
-    "1055" : 1,
-    "1057" : 1,
-    "2021" : 1,
-    "2501" : 1,
-    "3053" : 2,
-    "3065" : 1,
-    "3066" : 1,
-    "3074" : 1,
-    "3111" : 1,
-    "3158" : 1,
-    "3174" : 1,
-    "3340" : 2,
-    "3363" : 1,
-    "3364" : 1,
-    "6333" : 1,
-    "6610" : 2,
-    "6631" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3053" : 1,
-    "3065" : 1,
-    "6610" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 1,
-    "3111" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1029" : 2,
+      "1037" : 1,
+      "1054" : 1,
+      "1055" : 1,
+      "1057" : 1,
+      "2021" : 1,
+      "2501" : 1,
+      "3053" : 2,
+      "3065" : 1,
+      "3066" : 1,
+      "3074" : 1,
+      "3111" : 1,
+      "3158" : 1,
+      "3174" : 1,
+      "3340" : 2,
+      "3363" : 1,
+      "3364" : 1,
+      "6333" : 1,
+      "6610" : 2,
+      "6631" : 2
+    },
+    "boots" : {
+      "3047" : 1,
+      "3111" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3074" : 1,
+      "6610" : 1,
+      "6631" : 2
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3053" : 1,
+      "3065" : 1,
+      "6610" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1055
+      ],
+      2,
+      [
+        1054,
+        2003
+      ],
+      1,
+      [
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "2501" : 1,
+      "3053" : 1,
+      "6333" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     1,
     [
@@ -106,27 +129,6 @@
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1054,
-      2003
-    ],
-    1,
-    [
-      1055,
-      2003
-    ],
-    2,
-    [
-      1102
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "2501" : 1,
-    "3053" : 1,
-    "6333" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 3
 }

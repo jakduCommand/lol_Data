@@ -1,32 +1,21 @@
 {
   "championName" : "Malphite",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3068" : 1,
-    "3118" : 1,
-    "6664" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8429,
-        "perk4" : 8242
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
+        "perk1" : 8451,
+        "perk2" : 8444
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -44,71 +33,84 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8429,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8200,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8444
+        "perk1" : 8226,
+        "perk2" : 8210
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
     },
-    2
+    1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1029" : 1,
-    "1054" : 1,
-    "1056" : 1,
-    "2003" : 1,
-    "2022" : 1,
-    "2504" : 1,
-    "3020" : 1,
-    "3068" : 1,
-    "3111" : 1,
-    "3118" : 1,
-    "3121" : 1,
-    "3340" : 4,
-    "4646" : 1,
-    "6664" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "2504" : 1,
-    "3119" : 1,
-    "4646" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1029" : 1,
+      "1054" : 1,
+      "1056" : 1,
+      "2003" : 1,
+      "2022" : 1,
+      "2504" : 1,
+      "3020" : 1,
+      "3068" : 1,
+      "3111" : 1,
+      "3118" : 1,
+      "3121" : 1,
+      "3340" : 4,
+      "4646" : 1,
+      "6664" : 1
+    },
+    "boots" : {
+      "3020" : 1,
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3068" : 1,
+      "3118" : 1,
+      "6664" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "2504" : 1,
+      "3119" : 1,
+      "4646" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      2,
+      [
+        1054,
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     4
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1054
-    ],
-    2,
-    [
-      1056,
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 4,
   "totalWins" : 1
 }

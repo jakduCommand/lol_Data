@@ -1,30 +1,19 @@
 {
   "championName" : "Warwick",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3153" : 1,
-    "3181" : 1,
-    "6631" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9111,
+        "perk2" : 8009,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8232
+        "perk1" : 8453,
+        "perk2" : 8444
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1,
     {
@@ -45,72 +34,85 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 8009,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8444
+        "perk1" : 8234,
+        "perk2" : 8232
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
     },
     1
   ],
-  "itemFrequency" : {
-    "1037" : 1,
-    "1055" : 1,
-    "2019" : 1,
-    "3053" : 1,
-    "3067" : 1,
-    "3111" : 2,
-    "3123" : 1,
-    "3133" : 2,
-    "3153" : 2,
-    "3170" : 1,
-    "3181" : 1,
-    "3340" : 1,
-    "3363" : 1,
-    "3364" : 1,
-    "6631" : 3
-  },
-  "secondCoreItemFrequency" : {
-    "3153" : 1,
-    "6631" : 2
-  },
-  "shoesFrequency" : {
-    "3111" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1037" : 1,
+      "1055" : 1,
+      "2019" : 1,
+      "3053" : 1,
+      "3067" : 1,
+      "3111" : 2,
+      "3123" : 1,
+      "3133" : 2,
+      "3153" : 2,
+      "3170" : 1,
+      "3181" : 1,
+      "3340" : 1,
+      "3363" : 1,
+      "3364" : 1,
+      "6631" : 3
+    },
+    "boots" : {
+      "3111" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3153" : 1,
+      "3181" : 1,
+      "6631" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3153" : 1,
+      "6631" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1,
+      [
+        2003,
+        1055
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3053" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
-    ],
-    2,
     [
       "SummonerFlash.png",
       "SummonerSmite.png"
     ],
-    1
-  ],
-  "startItemFrequency" : [
-    [
-      1102
-    ],
     1,
     [
-      1055,
-      2003
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     2
   ],
-  "thirdCoreItemFrequency" : {
-    "3053" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

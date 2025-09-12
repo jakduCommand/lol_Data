@@ -1,31 +1,6 @@
 {
   "championName" : "Gnar",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3071" : 1,
-    "3078" : 2
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -46,6 +21,21 @@
         "perk1" : 8021,
         "perk2" : 9111,
         "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -57,33 +47,55 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1011" : 1,
-    "1028" : 1,
-    "1037" : 1,
-    "1055" : 2,
-    "1057" : 1,
-    "2021" : 1,
-    "2504" : 1,
-    "3047" : 2,
-    "3053" : 1,
-    "3071" : 2,
-    "3078" : 2,
-    "3082" : 1,
-    "3173" : 1,
-    "3340" : 2,
-    "3364" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3053" : 1,
-    "3071" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 2,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1011" : 1,
+      "1028" : 1,
+      "1037" : 1,
+      "1055" : 2,
+      "1057" : 1,
+      "2021" : 1,
+      "2504" : 1,
+      "3047" : 2,
+      "3053" : 1,
+      "3071" : 2,
+      "3078" : 2,
+      "3082" : 1,
+      "3173" : 1,
+      "3340" : 2,
+      "3364" : 1
+    },
+    "boots" : {
+      "3047" : 2,
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3071" : 1,
+      "3078" : 2
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3053" : 1,
+      "3071" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "2504" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -92,16 +104,6 @@
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1055,
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "2504" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

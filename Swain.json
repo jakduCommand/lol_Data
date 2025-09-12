@@ -1,30 +1,19 @@
 {
   "championName" : "Swain",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 1,
-    "3116" : 1,
-    "6657" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 8009,
         "perk3" : 9105,
-        "perk4" : 8017
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8210
+        "perk1" : 8429,
+        "perk2" : 8451
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1,
     {
@@ -47,67 +36,80 @@
         "perk1" : 8010,
         "perk2" : 8009,
         "perk3" : 9105,
-        "perk4" : 8299
+        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
+        "perk1" : 8224,
+        "perk2" : 8210
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
     },
     1
   ],
-  "itemFrequency" : {
-    "1056" : 1,
-    "1082" : 2,
-    "2031" : 1,
-    "2503" : 1,
-    "3020" : 1,
-    "3047" : 2,
-    "3082" : 1,
-    "3116" : 2,
-    "3121" : 1,
-    "3157" : 1,
-    "3340" : 1,
-    "3363" : 2,
-    "6653" : 3,
-    "6657" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3116" : 1,
-    "6653" : 2
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3047" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1056" : 1,
+      "1082" : 2,
+      "2031" : 1,
+      "2503" : 1,
+      "3020" : 1,
+      "3047" : 2,
+      "3082" : 1,
+      "3116" : 2,
+      "3121" : 1,
+      "3157" : 1,
+      "3340" : 1,
+      "3363" : 2,
+      "6653" : 3,
+      "6657" : 1
+    },
+    "boots" : {
+      "3020" : 1,
+      "3047" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "2503" : 1,
+      "3116" : 1,
+      "6657" : 1
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "3116" : 1,
+      "6653" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3119" : 1,
+      "6653" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3119" : 1,
-    "6653" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

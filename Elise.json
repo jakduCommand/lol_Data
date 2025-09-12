@@ -1,31 +1,6 @@
 {
   "championName" : "Elise",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3152" : 1,
-    "4646" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8014
-      },
-      "subStyle" : 8000
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -55,61 +30,88 @@
       },
       "subStyle" : 8000
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8014
+      },
+      "subStyle" : 8000
+    },
     1
   ],
-  "itemFrequency" : {
-    "1082" : 1,
-    "1102" : 1,
-    "2421" : 1,
-    "3020" : 2,
-    "3102" : 1,
-    "3137" : 1,
-    "3152" : 1,
-    "3340" : 1,
-    "3364" : 2,
-    "3877" : 1,
-    "4646" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3102" : 1,
-    "3137" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1082" : 1,
+      "1102" : 1,
+      "2421" : 1,
+      "3020" : 2,
+      "3102" : 1,
+      "3137" : 1,
+      "3152" : 1,
+      "3340" : 1,
+      "3364" : 2,
+      "3877" : 1,
+      "4646" : 1
+    },
+    "boots" : {
+      "3020" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3152" : 1,
+      "4646" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3102" : 1,
+      "3137" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1,
+      [
+        2003
+      ],
+      1,
+      [
+        1102,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    2,
     [
       "SummonerDot.png",
       "SummonerFlash.png"
     ],
-    1
-  ],
-  "startItemFrequency" : [
-    [
-      1102
-    ],
     1,
     [
-      2003
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
-    1,
-    [
-      1102,
-      2003
-    ],
-    1
+    2
   ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 3,
   "totalWins" : 2
 }

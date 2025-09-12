@@ -1,15 +1,5 @@
 {
   "championName" : "Karthus",
-  "fifthCoreItemFrequency" : {
-    "3157" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 2,
-    "3118" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3089" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -57,65 +47,77 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1052" : 1,
-    "1082" : 1,
-    "2055" : 1,
-    "2503" : 2,
-    "2508" : 1,
-    "3020" : 1,
-    "3089" : 1,
-    "3118" : 1,
-    "3135" : 1,
-    "3157" : 2,
-    "3175" : 1,
-    "3364" : 3,
-    "4645" : 1,
-    "6653" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "4645" : 1,
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1052" : 1,
+      "1082" : 1,
+      "2055" : 1,
+      "2503" : 2,
+      "2508" : 1,
+      "3020" : 1,
+      "3089" : 1,
+      "3118" : 1,
+      "3135" : 1,
+      "3157" : 2,
+      "3175" : 1,
+      "3364" : 3,
+      "4645" : 1,
+      "6653" : 1
+    },
+    "boots" : {
+      "3020" : 2
+    },
+    "fifthCore" : {
+      "3157" : 1
+    },
+    "firstCore" : {
+      "2503" : 2,
+      "3118" : 1
+    },
+    "fourthCore" : {
+      "3089" : 1
+    },
+    "secondCore" : {
+      "4645" : 1,
+      "6653" : 1
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        2003,
+        1102
+      ],
+      1,
+      [
+        1101,
+        2003
+      ],
+      1,
+      [
+        1101
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3135" : 1,
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    2,
     [
       "SummonerDot.png",
       "SummonerSmite.png"
     ],
-    1
-  ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1102
-    ],
     1,
     [
-      1101
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
-    1,
-    [
-      2003,
-      1101
-    ],
-    1
+    2
   ],
-  "thirdCoreItemFrequency" : {
-    "3135" : 1,
-    "3157" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 3
 }

@@ -1,31 +1,6 @@
 {
   "championName" : "TwistedFate",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6655" : 1,
-    "6657" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -40,54 +15,81 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
     1
   ],
-  "itemFrequency" : {
-    "1052" : 1,
-    "1056" : 1,
-    "3086" : 1,
-    "3094" : 1,
-    "3100" : 2,
-    "3111" : 1,
-    "3157" : 1,
-    "3171" : 1,
-    "3363" : 1,
-    "3364" : 1,
-    "6655" : 1,
-    "6657" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3100" : 2
-  },
-  "shoesFrequency" : {
-    "3111" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1052" : 1,
+      "1056" : 1,
+      "3086" : 1,
+      "3094" : 1,
+      "3100" : 2,
+      "3111" : 1,
+      "3157" : 1,
+      "3171" : 1,
+      "3363" : 1,
+      "3364" : 1,
+      "6655" : 1,
+      "6657" : 1
+    },
+    "boots" : {
+      "3111" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6655" : 1,
+      "6657" : 1
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "3100" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3094" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3094" : 1
-  },
   "totalGames" : 2,
   "totalWins" : 2
 }

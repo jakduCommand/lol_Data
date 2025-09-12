@@ -1,16 +1,5 @@
 {
   "championName" : "Kayle",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3115" : 2,
-    "3124" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3089" : 1,
-    "3165" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -58,55 +47,68 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1082" : 1,
-    "3009" : 2,
-    "3089" : 3,
-    "3100" : 1,
-    "3115" : 3,
-    "3116" : 1,
-    "3124" : 1,
-    "3165" : 1,
-    "3170" : 1,
-    "3363" : 3,
-    "4630" : 1,
-    "4645" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3089" : 1,
-    "3115" : 1,
-    "4645" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1082" : 1,
+      "3009" : 2,
+      "3089" : 3,
+      "3100" : 1,
+      "3115" : 3,
+      "3116" : 1,
+      "3124" : 1,
+      "3165" : 1,
+      "3170" : 1,
+      "3363" : 3,
+      "4630" : 1,
+      "4645" : 1
+    },
+    "boots" : {
+      "3009" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3115" : 2,
+      "3124" : 1
+    },
+    "fourthCore" : {
+      "3089" : 1,
+      "3165" : 1
+    },
+    "secondCore" : {
+      "3089" : 1,
+      "3115" : 1,
+      "4645" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1055
+      ],
+      2,
+      [
+        1027,
+        2031
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3089" : 1,
+      "3100" : 1,
+      "3116" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2031,
-      1027
-    ],
-    1,
-    [
-      1055,
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 1,
-    "3100" : 1,
-    "3116" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

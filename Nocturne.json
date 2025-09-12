@@ -1,22 +1,12 @@
 {
   "championName" : "Nocturne",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6631" : 2,
-    "6698" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "6701" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8014
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -46,7 +36,7 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8299
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -57,59 +47,71 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1057" : 1,
-    "2055" : 2,
-    "3047" : 1,
-    "3053" : 2,
-    "3066" : 1,
-    "3071" : 1,
-    "3123" : 1,
-    "3170" : 1,
-    "3171" : 1,
-    "3181" : 1,
-    "3363" : 4,
-    "6631" : 2,
-    "6695" : 1,
-    "6698" : 2,
-    "6699" : 2,
-    "6701" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3071" : 1,
-    "6699" : 2
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1057" : 1,
+      "2055" : 2,
+      "3047" : 1,
+      "3053" : 2,
+      "3066" : 1,
+      "3071" : 1,
+      "3123" : 1,
+      "3170" : 1,
+      "3171" : 1,
+      "3181" : 1,
+      "3363" : 4,
+      "6631" : 2,
+      "6695" : 1,
+      "6698" : 2,
+      "6699" : 2,
+      "6701" : 2
+    },
+    "boots" : {
+      "3009" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6631" : 2,
+      "6698" : 2
+    },
+    "fourthCore" : {
+      "6701" : 1
+    },
+    "secondCore" : {
+      "3071" : 1,
+      "6699" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1101
+      ],
+      2,
+      [
+        2003,
+        1102
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3053" : 1,
+      "6695" : 1,
+      "6701" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     4
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1102
-    ],
-    2,
-    [
-      1101
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3053" : 1,
-    "6695" : 1,
-    "6701" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 2
 }

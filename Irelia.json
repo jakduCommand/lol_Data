@@ -1,15 +1,5 @@
 {
   "championName" : "Irelia",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3153" : 6
-  },
-  "fourthCoreItemFrequency" : {
-    "3091" : 1,
-    "6333" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -57,61 +47,73 @@
     },
     4
   ],
-  "itemFrequency" : {
-    "1028" : 1,
-    "1037" : 1,
-    "1038" : 1,
-    "1043" : 1,
-    "1055" : 2,
-    "1057" : 2,
-    "2019" : 1,
-    "2021" : 1,
-    "3047" : 1,
-    "3091" : 5,
-    "3111" : 1,
-    "3134" : 1,
-    "3153" : 6,
-    "3173" : 4,
-    "3181" : 5,
-    "3340" : 4,
-    "3363" : 2,
-    "6333" : 1,
-    "6672" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3181" : 4,
-    "6672" : 2
-  },
-  "shoesFrequency" : {
-    "3047" : 1,
-    "3111" : 5
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1028" : 1,
+      "1037" : 1,
+      "1038" : 1,
+      "1043" : 1,
+      "1055" : 2,
+      "1057" : 2,
+      "2019" : 1,
+      "2021" : 1,
+      "3047" : 1,
+      "3091" : 5,
+      "3111" : 1,
+      "3134" : 1,
+      "3153" : 6,
+      "3173" : 4,
+      "3181" : 5,
+      "3340" : 4,
+      "3363" : 2,
+      "6333" : 1,
+      "6672" : 2
+    },
+    "boots" : {
+      "3047" : 1,
+      "3111" : 5
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3153" : 6
+    },
+    "fourthCore" : {
+      "3091" : 1,
+      "6333" : 1
+    },
+    "secondCore" : {
+      "3181" : 4,
+      "6672" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1055
+      ],
+      6
+    ],
+    "thirdCore" : {
+      "3091" : 4,
+      "3181" : 1
+    }
   },
   "spellFrequency" : [
+    [
+      "SummonerFlash.png",
+      "SummonerDot.png"
+    ],
+    2,
     [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    4,
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    2
+    4
   ],
-  "startItemFrequency" : [
-    [
-      1055,
-      2003
-    ],
-    6
-  ],
-  "thirdCoreItemFrequency" : {
-    "3091" : 4,
-    "3181" : 1
-  },
   "totalGames" : 6,
   "totalWins" : 4
 }

@@ -1,15 +1,5 @@
 {
   "championName" : "Sona",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6617" : 3,
-    "6620" : 4
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -35,10 +25,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
+        "perk1" : 9105,
+        "perk2" : 8009
       },
-      "subStyle" : 8400
+      "subStyle" : 8000
     },
     1,
     {
@@ -50,10 +40,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
+        "perk1" : 8453,
+        "perk2" : 8473
       },
-      "subStyle" : 8000
+      "subStyle" : 8400
     },
     1,
     {
@@ -72,58 +62,70 @@
     },
     3
   ],
-  "itemFrequency" : {
-    "1004" : 1,
-    "1028" : 3,
-    "1052" : 1,
-    "2022" : 1,
-    "2031" : 1,
-    "2055" : 1,
-    "3009" : 5,
-    "3040" : 1,
-    "3070" : 6,
-    "3114" : 1,
-    "3158" : 2,
-    "3170" : 1,
-    "3222" : 1,
-    "3364" : 8,
-    "3504" : 1,
-    "3870" : 3,
-    "3877" : 5,
-    "3916" : 1,
-    "4642" : 3,
-    "6617" : 4,
-    "6620" : 4
-  },
-  "secondCoreItemFrequency" : {
-    "3003" : 1,
-    "3222" : 1,
-    "3504" : 1,
-    "6617" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 6,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1004" : 1,
+      "1028" : 3,
+      "1052" : 1,
+      "2022" : 1,
+      "2031" : 1,
+      "2055" : 1,
+      "3009" : 5,
+      "3040" : 1,
+      "3070" : 6,
+      "3114" : 1,
+      "3158" : 2,
+      "3170" : 1,
+      "3222" : 1,
+      "3364" : 8,
+      "3504" : 1,
+      "3870" : 3,
+      "3877" : 5,
+      "3916" : 1,
+      "4642" : 3,
+      "6617" : 4,
+      "6620" : 4
+    },
+    "boots" : {
+      "3009" : 6,
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6617" : 3,
+      "6620" : 4
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3003" : 1,
+      "3222" : 1,
+      "3504" : 1,
+      "6617" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      8
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     8
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    8
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 8,
   "totalWins" : 3
 }

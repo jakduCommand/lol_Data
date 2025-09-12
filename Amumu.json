@@ -1,14 +1,5 @@
 {
   "championName" : "Amumu",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3118" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -26,21 +17,41 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "3118" : 1,
-    "3364" : 1,
-    "3877" : 1,
-    "8010" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "8010" : 1
-  },
-  "shoesFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "3118" : 1,
+      "3364" : 1,
+      "3877" : 1,
+      "8010" : 1
+    },
+    "boots" : {
 
-  },
-  "sixthCoreItemFrequency" : {
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3118" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "8010" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
@@ -49,15 +60,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 1,
   "totalWins" : 0
 }

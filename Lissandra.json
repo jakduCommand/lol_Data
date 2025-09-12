@@ -1,32 +1,6 @@
 {
   "championName" : "Lissandra",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 1,
-    "3118" : 3,
-    "6655" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8446,
-        "perk3" : 8473,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -71,42 +45,81 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
     1
   ],
-  "itemFrequency" : {
-    "1029" : 1,
-    "1052" : 1,
-    "1056" : 3,
-    "1058" : 3,
-    "1082" : 3,
-    "2421" : 1,
-    "2503" : 1,
-    "3020" : 3,
-    "3089" : 1,
-    "3118" : 3,
-    "3135" : 2,
-    "3145" : 1,
-    "3157" : 2,
-    "3158" : 1,
-    "3175" : 1,
-    "3340" : 1,
-    "3363" : 2,
-    "3364" : 2,
-    "6653" : 1,
-    "6655" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3089" : 1,
-    "3135" : 1,
-    "3157" : 1,
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 4,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1029" : 1,
+      "1052" : 1,
+      "1056" : 3,
+      "1058" : 3,
+      "1082" : 3,
+      "2421" : 1,
+      "2503" : 1,
+      "3020" : 3,
+      "3089" : 1,
+      "3118" : 3,
+      "3135" : 2,
+      "3145" : 1,
+      "3157" : 2,
+      "3158" : 1,
+      "3175" : 1,
+      "3340" : 1,
+      "3363" : 2,
+      "3364" : 2,
+      "6653" : 1,
+      "6655" : 1
+    },
+    "boots" : {
+      "3020" : 4,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "2503" : 1,
+      "3118" : 3,
+      "6655" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3089" : 1,
+      "3135" : 1,
+      "3157" : 1,
+      "6653" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      5
+    ],
+    "thirdCore" : {
+      "3135" : 1,
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -115,17 +128,6 @@
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    5
-  ],
-  "thirdCoreItemFrequency" : {
-    "3135" : 1,
-    "3157" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 3
 }

@@ -1,14 +1,5 @@
 {
   "championName" : "Kalista",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3153" : 2
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -41,47 +32,58 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1042" : 1,
-    "1055" : 1,
-    "3006" : 1,
-    "3047" : 1,
-    "3085" : 1,
-    "3091" : 1,
-    "3123" : 1,
-    "3124" : 1,
-    "3153" : 2,
-    "3340" : 1,
-    "3363" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3085" : 1,
-    "3124" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 1,
-    "3047" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1042" : 1,
+      "1055" : 1,
+      "3006" : 1,
+      "3047" : 1,
+      "3085" : 1,
+      "3091" : 1,
+      "3123" : 1,
+      "3124" : 1,
+      "3153" : 2,
+      "3340" : 1,
+      "3363" : 1
+    },
+    "boots" : {
+      "3006" : 1,
+      "3047" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3153" : 2
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3085" : 1,
+      "3124" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3091" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1055
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3091" : 1
-  },
   "totalGames" : 2,
   "totalWins" : 0
 }

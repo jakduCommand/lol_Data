@@ -1,16 +1,5 @@
 {
   "championName" : "TahmKench",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "2502" : 1,
-    "3084" : 1,
-    "3190" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -21,10 +10,10 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8126,
-        "perk2" : 8106
+        "perk1" : 9104,
+        "perk2" : 9111
       },
-      "subStyle" : 8100
+      "subStyle" : 8000
     },
     1,
     {
@@ -51,59 +40,72 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 9111
+        "perk1" : 8126,
+        "perk2" : 8106
       },
-      "subStyle" : 8000
+      "subStyle" : 8100
     },
     1
   ],
-  "itemFrequency" : {
-    "1011" : 1,
-    "1033" : 1,
-    "2031" : 1,
-    "2055" : 1,
-    "2502" : 1,
-    "3047" : 1,
-    "3067" : 1,
-    "3084" : 2,
-    "3105" : 1,
-    "3109" : 1,
-    "3173" : 1,
-    "3174" : 1,
-    "3190" : 1,
-    "3211" : 1,
-    "3364" : 3,
-    "3876" : 2,
-    "3877" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3084" : 1,
-    "3109" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 2,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1011" : 1,
+      "1033" : 1,
+      "2031" : 1,
+      "2055" : 1,
+      "2502" : 1,
+      "3047" : 1,
+      "3067" : 1,
+      "3084" : 2,
+      "3105" : 1,
+      "3109" : 1,
+      "3173" : 1,
+      "3174" : 1,
+      "3190" : 1,
+      "3211" : 1,
+      "3364" : 3,
+      "3876" : 2,
+      "3877" : 1
+    },
+    "boots" : {
+      "3047" : 2,
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "2502" : 1,
+      "3084" : 1,
+      "3190" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3084" : 1,
+      "3109" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

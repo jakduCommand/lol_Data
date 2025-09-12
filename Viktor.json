@@ -1,15 +1,5 @@
 {
   "championName" : "Viktor",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6655" : 1,
-    "6657" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3135" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -20,8 +10,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8401
+        "perk1" : 8401,
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -35,8 +25,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8401,
-        "perk2" : 8473
+        "perk1" : 8473,
+        "perk2" : 8401
       },
       "subStyle" : 8400
     },
@@ -57,34 +47,57 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1052" : 1,
-    "1058" : 1,
-    "1082" : 1,
-    "2421" : 1,
-    "3089" : 1,
-    "3108" : 1,
-    "3111" : 2,
-    "3135" : 1,
-    "3157" : 1,
-    "3175" : 1,
-    "3363" : 3,
-    "4630" : 1,
-    "4645" : 1,
-    "6653" : 2,
-    "6655" : 1,
-    "6657" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "4645" : 1,
-    "6653" : 2
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3111" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1052" : 1,
+      "1058" : 1,
+      "1082" : 1,
+      "2421" : 1,
+      "3089" : 1,
+      "3108" : 1,
+      "3111" : 2,
+      "3135" : 1,
+      "3157" : 1,
+      "3175" : 1,
+      "3363" : 3,
+      "4630" : 1,
+      "4645" : 1,
+      "6653" : 2,
+      "6655" : 1,
+      "6657" : 2
+    },
+    "boots" : {
+      "3020" : 1,
+      "3111" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6655" : 1,
+      "6657" : 2
+    },
+    "fourthCore" : {
+      "3135" : 1
+    },
+    "secondCore" : {
+      "4645" : 1,
+      "6653" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3089" : 1,
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -93,17 +106,6 @@
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 1,
-    "3157" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

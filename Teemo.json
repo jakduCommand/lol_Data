@@ -1,29 +1,19 @@
 {
   "championName" : "Teemo",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3115" : 2,
-    "3118" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3165" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8347
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8233,
+        "perk2" : 8236
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
     1,
     {
@@ -43,78 +33,90 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8304,
-        "perk3" : 8313,
-        "perk4" : 8347
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
+        "perk1" : 8304,
+        "perk2" : 8347
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
     1
   ],
-  "itemFrequency" : {
-    "1058" : 2,
-    "1082" : 1,
-    "2421" : 1,
-    "3006" : 1,
-    "3020" : 1,
-    "3115" : 2,
-    "3118" : 1,
-    "3165" : 1,
-    "3175" : 1,
-    "3363" : 1,
-    "3364" : 2,
-    "3871" : 1,
-    "4645" : 1,
-    "6653" : 3,
-    "8010" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "6653" : 3
-  },
-  "shoesFrequency" : {
-    "3006" : 1,
-    "3020" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1058" : 2,
+      "1082" : 1,
+      "2421" : 1,
+      "3006" : 1,
+      "3020" : 1,
+      "3115" : 2,
+      "3118" : 1,
+      "3165" : 1,
+      "3175" : 1,
+      "3363" : 1,
+      "3364" : 2,
+      "3871" : 1,
+      "4645" : 1,
+      "6653" : 3,
+      "8010" : 1
+    },
+    "boots" : {
+      "3006" : 1,
+      "3020" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3115" : 2,
+      "3118" : 1
+    },
+    "fourthCore" : {
+      "3165" : 1
+    },
+    "secondCore" : {
+      "6653" : 3
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      1,
+      [
+        1103
+      ],
+      1,
+      [
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "4645" : 1,
+      "8010" : 1
+    }
   },
   "spellFrequency" : [
+    [
+      "SummonerFlash.png",
+      "SummonerSmite.png"
+    ],
+    1,
     [
       "SummonerDot.png",
       "SummonerFlash.png"
     ],
-    2,
-    [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    1
+    2
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    1,
-    [
-      1056,
-      2003
-    ],
-    1,
-    [
-      1103
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "4645" : 1,
-    "8010" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

@@ -1,94 +1,6 @@
 {
   "championName" : "Vladimir",
-  "fifthCoreItemFrequency" : {
-    "3135" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3089" : 1,
-    "3152" : 3,
-    "4628" : 1,
-    "4629" : 6,
-    "4633" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    3,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -121,6 +33,36 @@
     2,
     {
       "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    3,
+    {
+      "primaryPerks" : {
         "perk1" : 8214,
         "perk2" : 8275,
         "perk3" : 8210,
@@ -133,54 +75,125 @@
       },
       "subStyle" : 8000
     },
-    2
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1026" : 2,
-    "1031" : 1,
-    "1052" : 1,
-    "1056" : 7,
-    "1058" : 6,
-    "1082" : 6,
-    "2003" : 1,
-    "2022" : 1,
-    "2055" : 1,
-    "2420" : 1,
-    "3009" : 1,
-    "3020" : 4,
-    "3041" : 1,
-    "3089" : 6,
-    "3108" : 1,
-    "3135" : 1,
-    "3147" : 1,
-    "3152" : 3,
-    "3157" : 1,
-    "3158" : 6,
-    "3340" : 8,
-    "3363" : 5,
-    "4628" : 1,
-    "4629" : 7,
-    "4630" : 1,
-    "4633" : 6
-  },
-  "secondCoreItemFrequency" : {
-    "3089" : 3,
-    "4629" : 1,
-    "4633" : 4
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3020" : 4,
-    "3158" : 6
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1026" : 2,
+      "1031" : 1,
+      "1052" : 1,
+      "1056" : 7,
+      "1058" : 6,
+      "1082" : 6,
+      "2003" : 1,
+      "2022" : 1,
+      "2055" : 1,
+      "2420" : 1,
+      "3009" : 1,
+      "3020" : 4,
+      "3041" : 1,
+      "3089" : 6,
+      "3108" : 1,
+      "3135" : 1,
+      "3147" : 1,
+      "3152" : 3,
+      "3157" : 1,
+      "3158" : 6,
+      "3340" : 8,
+      "3363" : 5,
+      "4628" : 1,
+      "4629" : 7,
+      "4630" : 1,
+      "4633" : 6
+    },
+    "boots" : {
+      "3009" : 1,
+      "3020" : 4,
+      "3158" : 6
+    },
+    "fifthCore" : {
+      "3135" : 1
+    },
+    "firstCore" : {
+      "3089" : 1,
+      "3152" : 3,
+      "4628" : 1,
+      "4629" : 6,
+      "4633" : 1
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "3089" : 3,
+      "4629" : 1,
+      "4633" : 4
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      13
+    ],
+    "thirdCore" : {
+      "3041" : 1,
+      "3089" : 2
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     2,
     [
@@ -189,17 +202,6 @@
     ],
     11
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    13
-  ],
-  "thirdCoreItemFrequency" : {
-    "3041" : 1,
-    "3089" : 2
-  },
   "totalGames" : 13,
   "totalWins" : 7
 }

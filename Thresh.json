@@ -1,16 +1,21 @@
 {
   "championName" : "Thresh",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3109" : 1,
-    "3190" : 7
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8465,
@@ -50,21 +55,6 @@
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8306,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
         "perk1" : 8473,
         "perk2" : 8242
       },
@@ -88,80 +78,92 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8360,
+        "perk1" : 8351,
         "perk2" : 8306,
         "perk3" : 8345,
         "perk4" : 8347
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8473,
+        "perk1" : 8444,
         "perk2" : 8242
       },
       "subStyle" : 8400
     },
     1
   ],
-  "itemFrequency" : {
-    "2055" : 7,
-    "3009" : 2,
-    "3024" : 1,
-    "3050" : 2,
-    "3067" : 1,
-    "3082" : 1,
-    "3109" : 3,
-    "3110" : 1,
-    "3111" : 1,
-    "3158" : 2,
-    "3170" : 3,
-    "3190" : 7,
-    "3364" : 8,
-    "3869" : 4,
-    "3876" : 3,
-    "3877" : 1,
-    "8020" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3050" : 1,
-    "3109" : 2,
-    "3110" : 1,
-    "8020" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 5,
-    "3111" : 1,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "2055" : 7,
+      "3009" : 2,
+      "3024" : 1,
+      "3050" : 2,
+      "3067" : 1,
+      "3082" : 1,
+      "3109" : 3,
+      "3110" : 1,
+      "3111" : 1,
+      "3158" : 2,
+      "3170" : 3,
+      "3190" : 7,
+      "3364" : 8,
+      "3869" : 4,
+      "3876" : 3,
+      "3877" : 1,
+      "8020" : 2
+    },
+    "boots" : {
+      "3009" : 5,
+      "3111" : 1,
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3109" : 1,
+      "3190" : 7
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3050" : 1,
+      "3109" : 2,
+      "3110" : 1,
+      "8020" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      8
+    ],
+    "thirdCore" : {
+      "3050" : 1,
+      "8020" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerExhaust.png",
-      "SummonerFlash.png"
-    ],
-    1,
     [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
     6,
     [
+      "SummonerHeal.png",
+      "SummonerFlash.png"
+    ],
+    1,
+    [
       "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerExhaust.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    8
-  ],
-  "thirdCoreItemFrequency" : {
-    "3050" : 1,
-    "8020" : 1
-  },
   "totalGames" : 8,
   "totalWins" : 4
 }

@@ -1,15 +1,5 @@
 {
   "championName" : "Trundle",
-  "fifthCoreItemFrequency" : {
-    "6665" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3074" : 1,
-    "3078" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3065" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -57,62 +47,74 @@
     },
     2
   ],
-  "itemFrequency" : {
-    "1043" : 1,
-    "1053" : 1,
-    "1102" : 1,
-    "2003" : 1,
-    "3065" : 1,
-    "3074" : 1,
-    "3075" : 2,
-    "3078" : 3,
-    "3111" : 2,
-    "3170" : 1,
-    "3181" : 1,
-    "3340" : 1,
-    "3364" : 3,
-    "3742" : 2,
-    "6665" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3181" : 1,
-    "3742" : 2
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3111" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1043" : 1,
+      "1053" : 1,
+      "1102" : 1,
+      "2003" : 1,
+      "3065" : 1,
+      "3074" : 1,
+      "3075" : 2,
+      "3078" : 3,
+      "3111" : 2,
+      "3170" : 1,
+      "3181" : 1,
+      "3340" : 1,
+      "3364" : 3,
+      "3742" : 2,
+      "6665" : 1
+    },
+    "boots" : {
+      "3009" : 1,
+      "3111" : 2
+    },
+    "fifthCore" : {
+      "6665" : 1
+    },
+    "firstCore" : {
+      "3074" : 1,
+      "3078" : 2
+    },
+    "fourthCore" : {
+      "3065" : 1
+    },
+    "secondCore" : {
+      "3181" : 1,
+      "3742" : 2
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        2031,
+        1036
+      ],
+      1,
+      [
+        1102,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3075" : 2,
+      "3078" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    1,
     [
       "SummonerSmite.png",
       "SummonerFlash.png"
     ],
-    3
-  ],
-  "startItemFrequency" : [
-    [
-      1102,
-      2003
-    ],
     3,
     [
-      2031,
-      1036
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     1
   ],
-  "thirdCoreItemFrequency" : {
-    "3075" : 2,
-    "3078" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 2
 }

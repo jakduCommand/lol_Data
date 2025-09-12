@@ -1,18 +1,21 @@
 {
   "championName" : "Zac",
-  "fifthCoreItemFrequency" : {
-    "3157" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3050" : 1,
-    "3068" : 2,
-    "4633" : 1,
-    "6664" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "6653" : 1
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -26,6 +29,21 @@
         "perk2" : 8299
       },
       "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
     },
     1,
     {
@@ -57,116 +75,100 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8429,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
     1
   ],
-  "itemFrequency" : {
-    "1029" : 1,
-    "1031" : 1,
-    "1054" : 1,
-    "1082" : 2,
-    "2022" : 1,
-    "2504" : 1,
-    "3020" : 1,
-    "3041" : 1,
-    "3050" : 1,
-    "3067" : 2,
-    "3068" : 2,
-    "3075" : 1,
-    "3082" : 1,
-    "3111" : 1,
-    "3152" : 1,
-    "3158" : 2,
-    "3176" : 1,
-    "3211" : 1,
-    "3340" : 2,
-    "3364" : 3,
-    "3869" : 1,
-    "3916" : 1,
-    "4633" : 1,
-    "6653" : 1,
-    "6664" : 1,
-    "8010" : 1,
-    "8020" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "2504" : 1,
-    "3041" : 1,
-    "3075" : 1,
-    "3152" : 1
-  },
-  "shoesFrequency" : {
-    "3010" : 1,
-    "3111" : 1,
-    "3158" : 3
-  },
-  "sixthCoreItemFrequency" : {
-    "8020" : 1
+  "items" : {
+    "allItems" : {
+      "1029" : 1,
+      "1031" : 1,
+      "1054" : 1,
+      "1082" : 2,
+      "2022" : 1,
+      "2504" : 1,
+      "3020" : 1,
+      "3041" : 1,
+      "3050" : 1,
+      "3067" : 2,
+      "3068" : 2,
+      "3075" : 1,
+      "3082" : 1,
+      "3111" : 1,
+      "3152" : 1,
+      "3158" : 2,
+      "3176" : 1,
+      "3211" : 1,
+      "3340" : 2,
+      "3364" : 3,
+      "3869" : 1,
+      "3916" : 1,
+      "4633" : 1,
+      "6653" : 1,
+      "6664" : 1,
+      "8010" : 1,
+      "8020" : 1
+    },
+    "boots" : {
+      "3010" : 1,
+      "3111" : 1,
+      "3158" : 3
+    },
+    "fifthCore" : {
+      "3157" : 1
+    },
+    "firstCore" : {
+      "3050" : 1,
+      "3068" : 2,
+      "4633" : 1,
+      "6664" : 1
+    },
+    "fourthCore" : {
+      "6653" : 1
+    },
+    "secondCore" : {
+      "2504" : 1,
+      "3041" : 1,
+      "3075" : 1,
+      "3152" : 1
+    },
+    "sixthCore" : {
+      "8020" : 1
+    },
+    "starters" : [
+      [
+        1054,
+        2003
+      ],
+      3,
+      [
+        2003
+      ],
+      1,
+      [
+        1101
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "8010" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerFlash.png",
-      "SummonerDot.png"
-    ],
-    2,
-    [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    1,
     [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    2
-  ],
-  "startItemFrequency" : [
+    2,
     [
-      2003
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     1,
     [
-      2003,
-      1054
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
-    3,
-    [
-      1101
-    ],
-    1
+    2
   ],
-  "thirdCoreItemFrequency" : {
-    "8010" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 1
 }

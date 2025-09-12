@@ -1,26 +1,17 @@
 {
   "championName" : "Leblanc",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6655" : 4
-  },
-  "fourthCoreItemFrequency" : {
-    "3041" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
+        "perk3" : 8141,
+        "perk4" : 8105
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
+        "perk1" : 8210,
+        "perk2" : 8236
       },
       "subStyle" : 8200
     },
@@ -44,7 +35,7 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8140,
+        "perk3" : 8137,
         "perk4" : 8135
       },
       "primaryStyle" : 8100,
@@ -59,73 +50,84 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8105
+        "perk3" : 8140,
+        "perk4" : 8135
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
+        "perk1" : 8226,
+        "perk2" : 8237
       },
       "subStyle" : 8200
     },
     1
   ],
-  "itemFrequency" : {
-    "1026" : 1,
-    "1052" : 1,
-    "1056" : 2,
-    "1058" : 1,
-    "1082" : 1,
-    "2055" : 3,
-    "3020" : 2,
-    "3041" : 1,
-    "3175" : 1,
-    "3176" : 1,
-    "3364" : 4,
-    "3871" : 1,
-    "4630" : 1,
-    "4645" : 2,
-    "4646" : 2,
-    "6655" : 4
-  },
-  "secondCoreItemFrequency" : {
-    "4645" : 1,
-    "4646" : 2
-  },
-  "shoesFrequency" : {
-    "3010" : 1,
-    "3020" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1026" : 1,
+      "1052" : 1,
+      "1056" : 2,
+      "1058" : 1,
+      "1082" : 1,
+      "2055" : 3,
+      "3020" : 2,
+      "3041" : 1,
+      "3175" : 1,
+      "3176" : 1,
+      "3364" : 4,
+      "3871" : 1,
+      "4630" : 1,
+      "4645" : 2,
+      "4646" : 2,
+      "6655" : 4
+    },
+    "boots" : {
+      "3010" : 1,
+      "3020" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6655" : 4
+    },
+    "fourthCore" : {
+      "3041" : 1
+    },
+    "secondCore" : {
+      "4645" : 1,
+      "4646" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      3,
+      [
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "4645" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    2,
     [
       "SummonerFlash.png",
       "SummonerTeleport.png"
     ],
+    2,
+    [
+      "SummonerFlash.png",
+      "SummonerDot.png"
+    ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    1,
-    [
-      1056,
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "4645" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 2
 }

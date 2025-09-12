@@ -1,15 +1,5 @@
 {
   "championName" : "Diana",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3152" : 1,
-    "4645" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -30,21 +20,6 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8401,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
         "perk3" : 8140,
         "perk4" : 8106
       },
@@ -55,33 +30,70 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
     1
   ],
-  "itemFrequency" : {
-    "1052" : 1,
-    "1056" : 2,
-    "1058" : 2,
-    "1082" : 3,
-    "2003" : 1,
-    "3020" : 1,
-    "3152" : 1,
-    "3157" : 1,
-    "3173" : 1,
-    "3340" : 1,
-    "3364" : 2,
-    "4645" : 2,
-    "4646" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "4645" : 1,
-    "4646" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1052" : 1,
+      "1056" : 2,
+      "1058" : 2,
+      "1082" : 3,
+      "2003" : 1,
+      "3020" : 1,
+      "3152" : 1,
+      "3157" : 1,
+      "3173" : 1,
+      "3340" : 1,
+      "3364" : 2,
+      "4645" : 2,
+      "4646" : 1
+    },
+    "boots" : {
+      "3020" : 1,
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3152" : 1,
+      "4645" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "4645" : 1,
+      "4646" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -90,21 +102,11 @@
     ],
     1,
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1056
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3157" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 2
 }

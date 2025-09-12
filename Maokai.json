@@ -1,31 +1,6 @@
 {
   "championName" : "Maokai",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3002" : 1,
-    "3190" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8439,
@@ -40,50 +15,77 @@
       },
       "subStyle" : 8100
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "2055" : 1,
-    "3002" : 1,
-    "3170" : 1,
-    "3190" : 2,
-    "3364" : 2,
-    "3869" : 1,
-    "3876" : 1,
-    "8020" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3190" : 1,
-    "8020" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "2055" : 1,
+      "3002" : 1,
+      "3170" : 1,
+      "3190" : 2,
+      "3364" : 2,
+      "3869" : 1,
+      "3876" : 1,
+      "8020" : 1
+    },
+    "boots" : {
+      "3009" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3002" : 1,
+      "3190" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3190" : 1,
+      "8020" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerHeal.png",
+      "SummonerDot.png",
       "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 2,
   "totalWins" : 1
 }

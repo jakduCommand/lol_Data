@@ -1,31 +1,6 @@
 {
   "championName" : "Jax",
-  "fifthCoreItemFrequency" : {
-    "3073" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3078" : 11
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1,
-    "3161" : 1
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -41,21 +16,6 @@
       "subStyle" : 8300
     },
     3,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -74,6 +34,36 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
@@ -87,85 +77,97 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 2,
-    "1028" : 2,
-    "1036" : 1,
-    "1054" : 4,
-    "1055" : 2,
-    "1082" : 1,
-    "1102" : 1,
-    "2019" : 1,
-    "2021" : 3,
-    "2031" : 1,
-    "2055" : 1,
-    "2422" : 1,
-    "3047" : 4,
-    "3073" : 1,
-    "3077" : 1,
-    "3078" : 11,
-    "3091" : 1,
-    "3110" : 1,
-    "3111" : 2,
-    "3123" : 1,
-    "3133" : 1,
-    "3157" : 3,
-    "3158" : 1,
-    "3161" : 1,
-    "3171" : 1,
-    "3340" : 11,
-    "6610" : 6
-  },
-  "secondCoreItemFrequency" : {
-    "6610" : 6
-  },
-  "shoesFrequency" : {
-    "3047" : 4,
-    "3111" : 2,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 2,
+      "1028" : 2,
+      "1036" : 1,
+      "1054" : 4,
+      "1055" : 2,
+      "1082" : 1,
+      "1102" : 1,
+      "2019" : 1,
+      "2021" : 3,
+      "2031" : 1,
+      "2055" : 1,
+      "2422" : 1,
+      "3047" : 4,
+      "3073" : 1,
+      "3077" : 1,
+      "3078" : 11,
+      "3091" : 1,
+      "3110" : 1,
+      "3111" : 2,
+      "3123" : 1,
+      "3133" : 1,
+      "3157" : 3,
+      "3158" : 1,
+      "3161" : 1,
+      "3171" : 1,
+      "3340" : 11,
+      "6610" : 6
+    },
+    "boots" : {
+      "3047" : 4,
+      "3111" : 2,
+      "3158" : 2
+    },
+    "fifthCore" : {
+      "3073" : 1
+    },
+    "firstCore" : {
+      "3078" : 11
+    },
+    "fourthCore" : {
+      "3157" : 1,
+      "3161" : 1
+    },
+    "secondCore" : {
+      "6610" : 6
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        2003,
+        1054
+      ],
+      8,
+      [
+        1055,
+        2003
+      ],
+      2,
+      [
+        1102,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3091" : 1,
+      "3110" : 1,
+      "3157" : 2
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
+    ],
+    2,
+    [
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     1,
     [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    8,
-    [
-      "SummonerFlash.png",
-      "SummonerDot.png"
-    ],
-    2
+    8
   ],
-  "startItemFrequency" : [
-    [
-      1054,
-      2003
-    ],
-    8,
-    [
-      2003,
-      1055
-    ],
-    2,
-    [
-      2003,
-      1102
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3091" : 1,
-    "3110" : 1,
-    "3157" : 2
-  },
   "totalGames" : 11,
   "totalWins" : 5
 }

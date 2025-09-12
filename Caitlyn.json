@@ -1,15 +1,5 @@
 {
   "championName" : "Caitlyn",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3032" : 2,
-    "6676" : 3
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -72,33 +62,55 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1018" : 1,
-    "1036" : 1,
-    "1055" : 3,
-    "2031" : 1,
-    "3006" : 3,
-    "3009" : 1,
-    "3031" : 4,
-    "3032" : 2,
-    "3035" : 4,
-    "3036" : 1,
-    "3072" : 1,
-    "3172" : 1,
-    "3363" : 5,
-    "6670" : 1,
-    "6676" : 3
-  },
-  "secondCoreItemFrequency" : {
-    "3031" : 4,
-    "3036" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 4,
-    "3009" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1018" : 1,
+      "1036" : 1,
+      "1055" : 3,
+      "2031" : 1,
+      "3006" : 3,
+      "3009" : 1,
+      "3031" : 4,
+      "3032" : 2,
+      "3035" : 4,
+      "3036" : 1,
+      "3072" : 1,
+      "3172" : 1,
+      "3363" : 5,
+      "6670" : 1,
+      "6676" : 3
+    },
+    "boots" : {
+      "3006" : 4,
+      "3009" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3032" : 2,
+      "6676" : 3
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3031" : 4,
+      "3036" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      5
+    ],
+    "thirdCore" : {
+      "3072" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -107,16 +119,6 @@
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1055,
-      2003
-    ],
-    5
-  ],
-  "thirdCoreItemFrequency" : {
-    "3072" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 1
 }

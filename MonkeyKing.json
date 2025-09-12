@@ -1,14 +1,5 @@
 {
   "championName" : "MonkeyKing",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3078" : 3
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -41,27 +32,52 @@
     },
     2
   ],
-  "itemFrequency" : {
-    "1028" : 1,
-    "1029" : 1,
-    "2019" : 1,
-    "2021" : 1,
-    "2422" : 1,
-    "3071" : 2,
-    "3078" : 3,
-    "3155" : 1,
-    "3173" : 2,
-    "3364" : 3,
-    "6610" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "6610" : 2
-  },
-  "shoesFrequency" : {
-    "3111" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1028" : 1,
+      "1029" : 1,
+      "2019" : 1,
+      "2021" : 1,
+      "2422" : 1,
+      "3071" : 2,
+      "3078" : 3,
+      "3155" : 1,
+      "3173" : 2,
+      "3364" : 3,
+      "6610" : 2
+    },
+    "boots" : {
+      "3111" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3078" : 3
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "6610" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1101,
+        2003
+      ],
+      1,
+      [
+        1102
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3071" : 2
+    }
   },
   "spellFrequency" : [
     [
@@ -70,20 +86,6 @@
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1101,
-      2003
-    ],
-    1,
-    [
-      1102
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3071" : 2
-  },
   "totalGames" : 3,
   "totalWins" : 2
 }

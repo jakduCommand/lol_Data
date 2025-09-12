@@ -1,30 +1,19 @@
 {
   "championName" : "XinZhao",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3071" : 1,
-    "6610" : 3,
-    "6692" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 9104,
+        "perk2" : 9111
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
     1,
     {
@@ -38,6 +27,21 @@
       "subPerks" : {
         "perk1" : 8304,
         "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8304
       },
       "subStyle" : 8300
     },
@@ -66,58 +70,80 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8316,
+        "perk1" : 8347,
         "perk2" : 8304
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
-    },
     1
   ],
-  "itemFrequency" : {
-    "1028" : 1,
-    "1036" : 1,
-    "2019" : 2,
-    "2021" : 1,
-    "3026" : 1,
-    "3047" : 1,
-    "3071" : 4,
-    "3111" : 3,
-    "3174" : 1,
-    "3340" : 1,
-    "3363" : 1,
-    "3364" : 3,
-    "3748" : 1,
-    "6333" : 1,
-    "6610" : 3,
-    "6692" : 1,
-    "6695" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3071" : 3,
-    "3748" : 1,
-    "6695" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 2,
-    "3111" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1028" : 1,
+      "1036" : 1,
+      "2019" : 2,
+      "2021" : 1,
+      "3026" : 1,
+      "3047" : 1,
+      "3071" : 4,
+      "3111" : 3,
+      "3174" : 1,
+      "3340" : 1,
+      "3363" : 1,
+      "3364" : 3,
+      "3748" : 1,
+      "6333" : 1,
+      "6610" : 3,
+      "6692" : 1,
+      "6695" : 1
+    },
+    "boots" : {
+      "3047" : 2,
+      "3111" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3071" : 1,
+      "6610" : 3,
+      "6692" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3071" : 3,
+      "3748" : 1,
+      "6695" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1103
+      ],
+      1,
+      [
+        1102
+      ],
+      2,
+      [
+        1101,
+        2003
+      ],
+      1,
+      [
+        1055,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3026" : 1,
+      "6333" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -131,30 +157,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1101
-    ],
-    1,
-    [
-      1102
-    ],
-    2,
-    [
-      1055,
-      2003
-    ],
-    1,
-    [
-      1103
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3026" : 1,
-    "6333" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 3
 }

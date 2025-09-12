@@ -1,17 +1,5 @@
 {
   "championName" : "Hecarim",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3161" : 3,
-    "6333" : 1,
-    "6692" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3053" : 2,
-    "3071" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -22,12 +10,12 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 9105
+        "perk1" : 9105,
+        "perk2" : 9111
       },
       "subStyle" : 8000
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -45,6 +33,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
@@ -57,79 +60,78 @@
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
-    },
     1
   ],
-  "itemFrequency" : {
-    "1036" : 1,
-    "1037" : 1,
-    "2055" : 1,
-    "3042" : 1,
-    "3047" : 2,
-    "3053" : 3,
-    "3071" : 4,
-    "3082" : 1,
-    "3133" : 1,
-    "3155" : 1,
-    "3158" : 1,
-    "3161" : 4,
-    "3171" : 1,
-    "3174" : 1,
-    "3364" : 5,
-    "6333" : 4,
-    "6692" : 1,
-    "6695" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3071" : 3,
-    "3161" : 1,
-    "6333" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 3,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1036" : 1,
+      "1037" : 1,
+      "2055" : 1,
+      "3042" : 1,
+      "3047" : 2,
+      "3053" : 3,
+      "3071" : 4,
+      "3082" : 1,
+      "3133" : 1,
+      "3155" : 1,
+      "3158" : 1,
+      "3161" : 4,
+      "3171" : 1,
+      "3174" : 1,
+      "3364" : 5,
+      "6333" : 4,
+      "6692" : 1,
+      "6695" : 1
+    },
+    "boots" : {
+      "3047" : 3,
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3161" : 3,
+      "6333" : 1,
+      "6692" : 1
+    },
+    "fourthCore" : {
+      "3053" : 2,
+      "3071" : 1
+    },
+    "secondCore" : {
+      "3071" : 3,
+      "3161" : 1,
+      "6333" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      4,
+      [
+        1102,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3004" : 1,
+      "3053" : 1,
+      "6333" : 2,
+      "6695" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerHaste.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerHaste.png"
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1102
-    ],
-    4,
-    [
-      2003,
-      1102
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3004" : 1,
-    "3053" : 1,
-    "6333" : 2,
-    "6695" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 3
 }

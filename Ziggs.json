@@ -1,48 +1,6 @@
 {
   "championName" : "Ziggs",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 1,
-    "3003" : 1,
-    "6655" : 7
-  },
-  "fourthCoreItemFrequency" : {
-    "3135" : 1,
-    "6653" : 1
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8014,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -56,6 +14,21 @@
         "perk2" : 8347
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
     },
     1,
     {
@@ -92,6 +65,36 @@
       "primaryPerks" : {
         "perk1" : 8229,
         "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8014,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
         "perk3" : 8233,
         "perk4" : 8237
       },
@@ -117,79 +120,78 @@
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1052" : 1,
-    "1056" : 3,
-    "1058" : 5,
-    "1082" : 4,
-    "2031" : 1,
-    "2503" : 1,
-    "2508" : 1,
-    "3020" : 8,
-    "3040" : 2,
-    "3070" : 2,
-    "3089" : 2,
-    "3135" : 2,
-    "3145" : 2,
-    "3340" : 5,
-    "3363" : 4,
-    "3916" : 1,
-    "4628" : 3,
-    "4630" : 1,
-    "4645" : 1,
-    "6653" : 2,
-    "6655" : 7
-  },
-  "secondCoreItemFrequency" : {
-    "3003" : 1,
-    "3089" : 1,
-    "3135" : 1,
-    "4628" : 2,
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 8
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1052" : 1,
+      "1056" : 3,
+      "1058" : 5,
+      "1082" : 4,
+      "2031" : 1,
+      "2503" : 1,
+      "2508" : 1,
+      "3020" : 8,
+      "3040" : 2,
+      "3070" : 2,
+      "3089" : 2,
+      "3135" : 2,
+      "3145" : 2,
+      "3340" : 5,
+      "3363" : 4,
+      "3916" : 1,
+      "4628" : 3,
+      "4630" : 1,
+      "4645" : 1,
+      "6653" : 2,
+      "6655" : 7
+    },
+    "boots" : {
+      "3020" : 8
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "2503" : 1,
+      "3003" : 1,
+      "6655" : 7
+    },
+    "fourthCore" : {
+      "3135" : 1,
+      "6653" : 1
+    },
+    "secondCore" : {
+      "3003" : 1,
+      "3089" : 1,
+      "3135" : 1,
+      "4628" : 2,
+      "6653" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      9
+    ],
+    "thirdCore" : {
+      "3089" : 1,
+      "4628" : 1,
+      "4645" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     9
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    9
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 1,
-    "4628" : 1,
-    "4645" : 1
-  },
   "totalGames" : 9,
   "totalWins" : 3
 }

@@ -1,15 +1,5 @@
 {
   "championName" : "KogMaw",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3124" : 1,
-    "3153" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -42,44 +32,56 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1055" : 2,
-    "2031" : 1,
-    "2421" : 1,
-    "3006" : 2,
-    "3051" : 1,
-    "3085" : 2,
-    "3124" : 2,
-    "3153" : 1,
-    "3363" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3085" : 1,
-    "3124" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1055" : 2,
+      "2031" : 1,
+      "2421" : 1,
+      "3006" : 2,
+      "3051" : 1,
+      "3085" : 2,
+      "3124" : 2,
+      "3153" : 1,
+      "3363" : 2
+    },
+    "boots" : {
+      "3006" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3124" : 1,
+      "3153" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3085" : 1,
+      "3124" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3085" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1055
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3085" : 1
-  },
   "totalGames" : 2,
   "totalWins" : 1
 }

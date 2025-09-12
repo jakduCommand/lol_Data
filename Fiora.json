@@ -1,28 +1,19 @@
 {
   "championName" : "Fiora",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3074" : 3
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
+        "perk1" : 8010,
+        "perk2" : 8009,
         "perk3" : 9104,
-        "perk4" : 8014
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8135
+        "perk1" : 8444,
+        "perk2" : 8451
       },
-      "subStyle" : 8100
+      "subStyle" : 8400
     },
     1,
     {
@@ -42,60 +33,71 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
+        "perk1" : 8005,
+        "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8299
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
+        "perk1" : 8143,
+        "perk2" : 8135
       },
-      "subStyle" : 8400
+      "subStyle" : 8100
     },
     1
   ],
-  "itemFrequency" : {
-    "1028" : 1,
-    "1036" : 1,
-    "1037" : 1,
-    "1055" : 3,
-    "2021" : 2,
-    "2031" : 1,
-    "3047" : 3,
-    "3074" : 3,
-    "3078" : 2,
-    "3123" : 1,
-    "3340" : 2,
-    "3363" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3078" : 2
-  },
-  "shoesFrequency" : {
-    "3047" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1028" : 1,
+      "1036" : 1,
+      "1037" : 1,
+      "1055" : 3,
+      "2021" : 2,
+      "2031" : 1,
+      "3047" : 3,
+      "3074" : 3,
+      "3078" : 2,
+      "3123" : 1,
+      "3340" : 2,
+      "3363" : 1
+    },
+    "boots" : {
+      "3047" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3074" : 3
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3078" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1055
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

@@ -1,16 +1,5 @@
 {
   "championName" : "Quinn",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3087" : 1,
-    "3142" : 1,
-    "6698" : 3
-  },
-  "fourthCoreItemFrequency" : {
-    "3814" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -23,6 +12,36 @@
       "subPerks" : {
         "perk1" : 8233,
         "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
       },
       "subStyle" : 8200
     },
@@ -56,89 +75,72 @@
       },
       "subStyle" : 8200
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
     1
   ],
-  "itemFrequency" : {
-    "1036" : 2,
-    "1037" : 1,
-    "1055" : 3,
-    "2031" : 1,
-    "3013" : 5,
-    "3031" : 1,
-    "3035" : 1,
-    "3036" : 2,
-    "3087" : 1,
-    "3134" : 2,
-    "3142" : 1,
-    "3340" : 1,
-    "3364" : 4,
-    "3814" : 4,
-    "6670" : 1,
-    "6676" : 1,
-    "6698" : 3
-  },
-  "secondCoreItemFrequency" : {
-    "3814" : 3,
-    "6676" : 1
-  },
-  "shoesFrequency" : {
-    "3010" : 5
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1036" : 2,
+      "1037" : 1,
+      "1055" : 3,
+      "2031" : 1,
+      "3013" : 5,
+      "3031" : 1,
+      "3035" : 1,
+      "3036" : 2,
+      "3087" : 1,
+      "3134" : 2,
+      "3142" : 1,
+      "3340" : 1,
+      "3364" : 4,
+      "3814" : 4,
+      "6670" : 1,
+      "6676" : 1,
+      "6698" : 3
+    },
+    "boots" : {
+      "3010" : 5
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3087" : 1,
+      "3142" : 1,
+      "6698" : 3
+    },
+    "fourthCore" : {
+      "3814" : 1
+    },
+    "secondCore" : {
+      "3814" : 3,
+      "6676" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      4,
+      [
+        1036,
+        2031
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3036" : 2
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     5
   ],
-  "startItemFrequency" : [
-    [
-      1055,
-      2003
-    ],
-    4,
-    [
-      1036,
-      2031
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3036" : 2
-  },
   "totalGames" : 5,
   "totalWins" : 3
 }

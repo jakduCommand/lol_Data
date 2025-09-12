@@ -1,37 +1,11 @@
 {
   "championName" : "Ahri",
-  "fifthCoreItemFrequency" : {
-    "3041" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "2503" : 3,
-    "3118" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1,
-    "4645" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8139,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8226
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8137,
+        "perk3" : 8140,
         "perk4" : 8106
       },
       "primaryStyle" : 8100,
@@ -61,7 +35,22 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8139,
-        "perk3" : 8140,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8137,
         "perk4" : 8106
       },
       "primaryStyle" : 8100,
@@ -73,57 +62,70 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1052" : 1,
-    "1082" : 1,
-    "2503" : 3,
-    "3020" : 2,
-    "3041" : 1,
-    "3089" : 2,
-    "3108" : 1,
-    "3118" : 1,
-    "3137" : 1,
-    "3157" : 1,
-    "3171" : 1,
-    "3175" : 1,
-    "3364" : 4,
-    "4629" : 1,
-    "4645" : 1,
-    "6653" : 2,
-    "8010" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3041" : 1,
-    "3137" : 1,
-    "4629" : 1,
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 3,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1052" : 1,
+      "1082" : 1,
+      "2503" : 3,
+      "3020" : 2,
+      "3041" : 1,
+      "3089" : 2,
+      "3108" : 1,
+      "3118" : 1,
+      "3137" : 1,
+      "3157" : 1,
+      "3171" : 1,
+      "3175" : 1,
+      "3364" : 4,
+      "4629" : 1,
+      "4645" : 1,
+      "6653" : 2,
+      "8010" : 1
+    },
+    "boots" : {
+      "3020" : 3,
+      "3158" : 1
+    },
+    "fifthCore" : {
+      "3041" : 1
+    },
+    "firstCore" : {
+      "2503" : 3,
+      "3118" : 1
+    },
+    "fourthCore" : {
+      "3157" : 1,
+      "4645" : 1
+    },
+    "secondCore" : {
+      "3041" : 1,
+      "3137" : 1,
+      "4629" : 1,
+      "6653" : 1
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      4
+    ],
+    "thirdCore" : {
+      "3089" : 2,
+      "6653" : 1,
+      "8010" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     4
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    4
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 2,
-    "6653" : 1,
-    "8010" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 2
 }

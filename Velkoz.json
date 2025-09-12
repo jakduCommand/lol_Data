@@ -1,14 +1,5 @@
 {
   "championName" : "Velkoz",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6655" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -26,23 +17,43 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1082" : 1,
-    "3175" : 1,
-    "3364" : 1,
-    "3871" : 1,
-    "3916" : 1,
-    "4628" : 1,
-    "6655" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "4628" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1082" : 1,
+      "3175" : 1,
+      "3364" : 1,
+      "3871" : 1,
+      "3916" : 1,
+      "4628" : 1,
+      "6655" : 1
+    },
+    "boots" : {
+      "3020" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6655" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "4628" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
@@ -51,15 +62,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 1,
   "totalWins" : 1
 }

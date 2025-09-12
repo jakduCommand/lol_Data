@@ -1,15 +1,5 @@
 {
   "championName" : "Urgot",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3071" : 4,
-    "6698" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -20,10 +10,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8304
+        "perk1" : 8473,
+        "perk2" : 8451
       },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1,
     {
@@ -50,70 +40,82 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
+        "perk1" : 8410,
+        "perk2" : 8304
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 2,
-    "1028" : 1,
-    "1029" : 1,
-    "1055" : 4,
-    "2031" : 1,
-    "2422" : 1,
-    "3047" : 1,
-    "3053" : 3,
-    "3071" : 5,
-    "3173" : 1,
-    "3340" : 5,
-    "6698" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3053" : 3,
-    "3071" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 1,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 2,
+      "1028" : 1,
+      "1029" : 1,
+      "1055" : 4,
+      "2031" : 1,
+      "2422" : 1,
+      "3047" : 1,
+      "3053" : 3,
+      "3071" : 5,
+      "3173" : 1,
+      "3340" : 5,
+      "6698" : 1
+    },
+    "boots" : {
+      "3047" : 1,
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3071" : 4,
+      "6698" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3053" : 3,
+      "3071" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      4,
+      [
+        1102,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3,
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
-    ],
-    1
-  ],
-  "startItemFrequency" : [
-    [
-      1102,
-      2003
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      1055,
-      2003
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
-    4
+    1
   ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 5,
   "totalWins" : 1
 }

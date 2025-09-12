@@ -1,19 +1,36 @@
 {
   "championName" : "Poppy",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3068" : 1,
-    "3190" : 1,
-    "3742" : 1,
-    "6610" : 2,
-    "6664" : 2
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8242,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8439,
@@ -48,36 +65,6 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8401,
-        "perk3" : 8473,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8473,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
         "perk3" : 8444,
         "perk4" : 8453
       },
@@ -87,36 +74,6 @@
         "perk2" : 8237
       },
       "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8306,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8242,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
     },
     1,
     {
@@ -133,82 +90,127 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
     1
   ],
-  "itemFrequency" : {
-    "1031" : 2,
-    "1054" : 4,
-    "2003" : 1,
-    "2022" : 1,
-    "2055" : 1,
-    "3047" : 2,
-    "3066" : 1,
-    "3068" : 1,
-    "3070" : 2,
-    "3075" : 1,
-    "3076" : 3,
-    "3111" : 3,
-    "3121" : 2,
-    "3134" : 1,
-    "3170" : 2,
-    "3190" : 1,
-    "3340" : 5,
-    "3363" : 1,
-    "3364" : 2,
-    "3742" : 1,
-    "3869" : 1,
-    "3877" : 1,
-    "4401" : 1,
-    "6610" : 3,
-    "6664" : 2,
-    "8020" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3075" : 1,
-    "3119" : 2,
-    "3869" : 1,
-    "4401" : 1,
-    "6610" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 2,
-    "3047" : 2,
-    "3111" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1031" : 2,
+      "1054" : 4,
+      "2003" : 1,
+      "2022" : 1,
+      "2055" : 1,
+      "3047" : 2,
+      "3066" : 1,
+      "3068" : 1,
+      "3070" : 2,
+      "3075" : 1,
+      "3076" : 3,
+      "3111" : 3,
+      "3121" : 2,
+      "3134" : 1,
+      "3170" : 2,
+      "3190" : 1,
+      "3340" : 5,
+      "3363" : 1,
+      "3364" : 2,
+      "3742" : 1,
+      "3869" : 1,
+      "3877" : 1,
+      "4401" : 1,
+      "6610" : 3,
+      "6664" : 2,
+      "8020" : 1
+    },
+    "boots" : {
+      "3009" : 2,
+      "3047" : 2,
+      "3111" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3068" : 1,
+      "3190" : 1,
+      "3742" : 1,
+      "6610" : 2,
+      "6664" : 2
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3075" : 1,
+      "3119" : 2,
+      "3869" : 1,
+      "4401" : 1,
+      "6610" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1054
+      ],
+      5,
+      [
+        1055,
+        2003
+      ],
+      1,
+      [
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "8020" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
-    ],
-    6,
     [
       "SummonerDot.png",
       "SummonerFlash.png"
     ],
-    2
+    2,
+    [
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
+    ],
+    6
   ],
-  "startItemFrequency" : [
-    [
-      1054,
-      2003
-    ],
-    5,
-    [
-      1055,
-      2003
-    ],
-    1,
-    [
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "8020" : 1
-  },
   "totalGames" : 8,
   "totalWins" : 3
 }

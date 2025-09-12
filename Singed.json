@@ -1,18 +1,21 @@
 {
   "championName" : "Singed",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3116" : 3,
-    "6653" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "4629" : 1,
-    "4633" : 1,
-    "8010" : 1
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -45,21 +48,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8429
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
@@ -75,96 +63,110 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8321,
-        "perk3" : 8345,
-        "perk4" : 8347
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8236
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8237
+        "perk1" : 8451,
+        "perk2" : 8429
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
-  "itemFrequency" : {
-    "1031" : 1,
-    "1052" : 1,
-    "1056" : 2,
-    "1082" : 2,
-    "2502" : 1,
-    "3009" : 3,
-    "3047" : 2,
-    "3066" : 1,
-    "3116" : 5,
-    "3152" : 1,
-    "3157" : 1,
-    "3340" : 1,
-    "3363" : 2,
-    "3364" : 2,
-    "4629" : 1,
-    "4633" : 2,
-    "6653" : 4,
-    "8010" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "2502" : 1,
-    "3116" : 1,
-    "3152" : 1,
-    "6653" : 2
-  },
-  "shoesFrequency" : {
-    "3009" : 3,
-    "3047" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1031" : 1,
+      "1052" : 1,
+      "1056" : 2,
+      "1082" : 2,
+      "2502" : 1,
+      "3009" : 3,
+      "3047" : 2,
+      "3066" : 1,
+      "3116" : 5,
+      "3152" : 1,
+      "3157" : 1,
+      "3340" : 1,
+      "3363" : 2,
+      "3364" : 2,
+      "4629" : 1,
+      "4633" : 2,
+      "6653" : 4,
+      "8010" : 2
+    },
+    "boots" : {
+      "3009" : 3,
+      "3047" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3116" : 3,
+      "6653" : 2
+    },
+    "fourthCore" : {
+      "4629" : 1,
+      "4633" : 1,
+      "8010" : 1
+    },
+    "secondCore" : {
+      "2502" : 1,
+      "3116" : 1,
+      "3152" : 1,
+      "6653" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      2,
+      [
+        1056
+      ],
+      1,
+      [
+        1082,
+        2031
+      ],
+      1,
+      [
+        1054,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3116" : 1,
+      "4633" : 1,
+      "8010" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerTeleport.png"
     ],
     3,
+    [
+      "SummonerDot.png",
+      "SummonerFlash.png"
+    ],
+    1,
     [
       "SummonerHaste.png",
       "SummonerDot.png"
     ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerDot.png"
-    ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1056
-    ],
-    1,
-    [
-      1056,
-      2003
-    ],
-    2,
-    [
-      1082,
-      2031
-    ],
-    1,
-    [
-      1054,
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3116" : 1,
-    "4633" : 1,
-    "8010" : 1
-  },
   "totalGames" : 5,
   "totalWins" : 4
 }

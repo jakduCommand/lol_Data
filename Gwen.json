@@ -1,15 +1,5 @@
 {
   "championName" : "Gwen",
-  "fifthCoreItemFrequency" : {
-    "3041" : 1
-  },
-  "firstCoreItemFrequency" : {
-    "3115" : 4,
-    "4633" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -21,11 +11,41 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8304,
-        "perk2" : 8347
+        "perk2" : 8410
       },
       "subStyle" : 8300
     },
     1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -59,21 +79,6 @@
     {
       "primaryPerks" : {
         "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
@@ -81,86 +86,103 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8304,
-        "perk2" : 8410
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 2,
-    "1028" : 1,
-    "1052" : 1,
-    "1056" : 2,
-    "1058" : 1,
-    "1082" : 2,
-    "1101" : 1,
-    "2422" : 1,
-    "3041" : 1,
-    "3089" : 3,
-    "3100" : 2,
-    "3108" : 1,
-    "3111" : 1,
-    "3115" : 6,
-    "3118" : 1,
-    "3157" : 1,
-    "3172" : 1,
-    "3174" : 1,
-    "3175" : 1,
-    "3340" : 1,
-    "3364" : 6,
-    "4632" : 1,
-    "4633" : 2,
-    "4645" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3100" : 2,
-    "3115" : 1,
-    "4645" : 2
-  },
-  "shoesFrequency" : {
-    "3006" : 1,
-    "3020" : 1,
-    "3047" : 1,
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 2,
+      "1028" : 1,
+      "1052" : 1,
+      "1056" : 2,
+      "1058" : 1,
+      "1082" : 2,
+      "1101" : 1,
+      "2422" : 1,
+      "3041" : 1,
+      "3089" : 3,
+      "3100" : 2,
+      "3108" : 1,
+      "3111" : 1,
+      "3115" : 6,
+      "3118" : 1,
+      "3157" : 1,
+      "3172" : 1,
+      "3174" : 1,
+      "3175" : 1,
+      "3340" : 1,
+      "3364" : 6,
+      "4632" : 1,
+      "4633" : 2,
+      "4645" : 2
+    },
+    "boots" : {
+      "3006" : 1,
+      "3020" : 1,
+      "3047" : 1,
+      "3111" : 1
+    },
+    "fifthCore" : {
+      "3041" : 1
+    },
+    "firstCore" : {
+      "3115" : 4,
+      "4633" : 2
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "3100" : 2,
+      "3115" : 1,
+      "4645" : 2
+    },
+    "sixthCore" : {
 
+    },
+    "starters" : [
+      [
+        2003,
+        1054
+      ],
+      1,
+      [
+        2003,
+        1056
+      ],
+      3,
+      [
+        1101
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3089" : 3,
+      "3118" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerTeleport.png",
-      "SummonerDot.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
-    ],
-    1,
     [
       "SummonerDot.png",
       "SummonerFlash.png"
     ],
     2,
     [
-      "SummonerTeleport.png",
+      "SummonerSmite.png",
       "SummonerFlash.png"
+    ],
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
+    ],
+    1,
+    [
+      "SummonerDot.png",
+      "SummonerTeleport.png"
     ],
     1,
     [
@@ -169,26 +191,6 @@
     ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    3,
-    [
-      1054,
-      2003
-    ],
-    1,
-    [
-      1101
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3089" : 3,
-    "3118" : 1
-  },
   "totalGames" : 7,
   "totalWins" : 4
 }

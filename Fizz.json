@@ -1,16 +1,21 @@
 {
   "championName" : "Fizz",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3100" : 2,
-    "6655" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "3135" : 1
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -40,63 +45,60 @@
       },
       "subStyle" : 8200
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
     1
   ],
-  "itemFrequency" : {
-    "1056" : 1,
-    "1058" : 1,
-    "1082" : 2,
-    "2031" : 1,
-    "3020" : 2,
-    "3089" : 1,
-    "3100" : 3,
-    "3135" : 1,
-    "3157" : 2,
-    "3364" : 3,
-    "6655" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3089" : 1,
-    "3100" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1056" : 1,
+      "1058" : 1,
+      "1082" : 2,
+      "2031" : 1,
+      "3020" : 2,
+      "3089" : 1,
+      "3100" : 3,
+      "3135" : 1,
+      "3157" : 2,
+      "3364" : 3,
+      "6655" : 1
+    },
+    "boots" : {
+      "3020" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3100" : 2,
+      "6655" : 1
+    },
+    "fourthCore" : {
+      "3135" : 1
+    },
+    "secondCore" : {
+      "3089" : 1,
+      "3100" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3157" : 2
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1056
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3157" : 2
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

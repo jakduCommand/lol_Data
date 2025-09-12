@@ -1,17 +1,21 @@
 {
   "championName" : "Chogath",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3084" : 5,
-    "3748" : 1,
-    "6657" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    3,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -46,21 +50,6 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    3,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
         "perk3" : 8473,
         "perk4" : 8451
       },
@@ -88,69 +77,82 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1011" : 1,
-    "1029" : 1,
-    "1031" : 2,
-    "1052" : 1,
-    "1054" : 1,
-    "1056" : 4,
-    "1057" : 1,
-    "1082" : 2,
-    "2022" : 1,
-    "2422" : 1,
-    "2502" : 3,
-    "3009" : 1,
-    "3076" : 1,
-    "3082" : 1,
-    "3084" : 5,
-    "3108" : 1,
-    "3111" : 1,
-    "3158" : 1,
-    "3173" : 1,
-    "3174" : 1,
-    "3340" : 4,
-    "3364" : 3,
-    "3748" : 2,
-    "6657" : 1,
-    "6664" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "2502" : 3,
-    "6664" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3047" : 1,
-    "3111" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1011" : 1,
+      "1029" : 1,
+      "1031" : 2,
+      "1052" : 1,
+      "1054" : 1,
+      "1056" : 4,
+      "1057" : 1,
+      "1082" : 2,
+      "2022" : 1,
+      "2422" : 1,
+      "2502" : 3,
+      "3009" : 1,
+      "3076" : 1,
+      "3082" : 1,
+      "3084" : 5,
+      "3108" : 1,
+      "3111" : 1,
+      "3158" : 1,
+      "3173" : 1,
+      "3174" : 1,
+      "3340" : 4,
+      "3364" : 3,
+      "3748" : 2,
+      "6657" : 1,
+      "6664" : 1
+    },
+    "boots" : {
+      "3009" : 1,
+      "3047" : 1,
+      "3111" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3084" : 5,
+      "3748" : 1,
+      "6657" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "2502" : 3,
+      "6664" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1054,
+        2003
+      ],
+      2,
+      [
+        1056,
+        2003
+      ],
+      5
+    ],
+    "thirdCore" : {
+      "3748" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     7
   ],
-  "startItemFrequency" : [
-    [
-      1054,
-      2003
-    ],
-    2,
-    [
-      1056,
-      2003
-    ],
-    5
-  ],
-  "thirdCoreItemFrequency" : {
-    "3748" : 1
-  },
   "totalGames" : 7,
   "totalWins" : 2
 }

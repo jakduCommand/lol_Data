@@ -1,14 +1,5 @@
 {
   "championName" : "Annie",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3118" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3089" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -41,51 +32,62 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1011" : 1,
-    "1026" : 1,
-    "1056" : 1,
-    "1082" : 1,
-    "3089" : 1,
-    "3118" : 2,
-    "3158" : 1,
-    "3175" : 1,
-    "3364" : 2,
-    "3916" : 1,
-    "6653" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "6653" : 1
-  },
-  "shoesFrequency" : {
-    "3020" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1011" : 1,
+      "1026" : 1,
+      "1056" : 1,
+      "1082" : 1,
+      "3089" : 1,
+      "3118" : 2,
+      "3158" : 1,
+      "3175" : 1,
+      "3364" : 2,
+      "3916" : 1,
+      "6653" : 1
+    },
+    "boots" : {
+      "3020" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3118" : 2
+    },
+    "fourthCore" : {
+      "3089" : 1
+    },
+    "secondCore" : {
+      "6653" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3041" : 1
+    }
   },
   "spellFrequency" : [
     [
       "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerHaste.png"
     ],
     1,
     [
-      "SummonerHaste.png",
+      "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    2
-  ],
-  "thirdCoreItemFrequency" : {
-    "3041" : 1
-  },
   "totalGames" : 2,
   "totalWins" : 2
 }

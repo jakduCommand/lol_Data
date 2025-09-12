@@ -1,15 +1,5 @@
 {
   "championName" : "Xayah",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3032" : 1,
-    "3508" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3072" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -28,21 +18,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
@@ -55,57 +30,84 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
     1
   ],
-  "itemFrequency" : {
-    "1018" : 1,
-    "1042" : 1,
-    "1055" : 2,
-    "1083" : 2,
-    "3006" : 2,
-    "3031" : 2,
-    "3032" : 1,
-    "3036" : 2,
-    "3072" : 1,
-    "3172" : 1,
-    "3340" : 1,
-    "3363" : 2,
-    "3508" : 2,
-    "6675" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3031" : 1,
-    "6675" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1018" : 1,
+      "1042" : 1,
+      "1055" : 2,
+      "1083" : 2,
+      "3006" : 2,
+      "3031" : 2,
+      "3032" : 1,
+      "3036" : 2,
+      "3072" : 1,
+      "3172" : 1,
+      "3340" : 1,
+      "3363" : 2,
+      "3508" : 2,
+      "6675" : 1
+    },
+    "boots" : {
+      "3006" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3032" : 1,
+      "3508" : 2
+    },
+    "fourthCore" : {
+      "3072" : 1
+    },
+    "secondCore" : {
+      "3031" : 1,
+      "6675" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3031" : 1,
+      "3036" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
-    ],
-    2,
     [
       "SummonerHaste.png",
       "SummonerFlash.png"
     ],
-    1
-  ],
-  "startItemFrequency" : [
+    1,
     [
-      1055,
-      2003
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
-    3
+    2
   ],
-  "thirdCoreItemFrequency" : {
-    "3031" : 1,
-    "3036" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 3
 }

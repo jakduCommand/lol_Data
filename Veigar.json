@@ -1,32 +1,6 @@
 {
   "championName" : "Veigar",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3152" : 1,
-    "6655" : 1,
-    "6657" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "3003" : 1
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8321,
-        "perk3" : 8313,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -71,38 +45,77 @@
       },
       "subStyle" : 8000
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
     1
   ],
-  "itemFrequency" : {
-    "1056" : 2,
-    "1058" : 2,
-    "2420" : 1,
-    "2421" : 1,
-    "3003" : 1,
-    "3020" : 2,
-    "3040" : 1,
-    "3089" : 2,
-    "3111" : 1,
-    "3135" : 1,
-    "3137" : 1,
-    "3152" : 1,
-    "3158" : 1,
-    "3340" : 1,
-    "3363" : 3,
-    "6655" : 1,
-    "6657" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3003" : 1,
-    "3089" : 2
-  },
-  "shoesFrequency" : {
-    "3020" : 2,
-    "3111" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1056" : 2,
+      "1058" : 2,
+      "2420" : 1,
+      "2421" : 1,
+      "3003" : 1,
+      "3020" : 2,
+      "3040" : 1,
+      "3089" : 2,
+      "3111" : 1,
+      "3135" : 1,
+      "3137" : 1,
+      "3152" : 1,
+      "3158" : 1,
+      "3340" : 1,
+      "3363" : 3,
+      "6655" : 1,
+      "6657" : 2
+    },
+    "boots" : {
+      "3020" : 2,
+      "3111" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3152" : 1,
+      "6655" : 1,
+      "6657" : 2
+    },
+    "fourthCore" : {
+      "3003" : 1
+    },
+    "secondCore" : {
+      "3003" : 1,
+      "3089" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1056
+      ],
+      4
+    ],
+    "thirdCore" : {
+      "3135" : 1,
+      "3137" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -111,17 +124,6 @@
     ],
     4
   ],
-  "startItemFrequency" : [
-    [
-      1056,
-      2003
-    ],
-    4
-  ],
-  "thirdCoreItemFrequency" : {
-    "3135" : 1,
-    "3137" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 3
 }

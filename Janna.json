@@ -1,19 +1,21 @@
 {
   "championName" : "Janna",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3107" : 2,
-    "3504" : 2,
-    "3870" : 1,
-    "4005" : 1,
-    "6617" : 2
-  },
-  "fourthCoreItemFrequency" : {
-    "6616" : 1
-  },
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8463
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -29,21 +31,6 @@
       "subStyle" : 8400
     },
     5,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8234,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8351,
@@ -64,54 +51,80 @@
         "perk1" : 8214,
         "perk2" : 8226,
         "perk3" : 8234,
-        "perk4" : 8236
+        "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
         "perk1" : 8453,
-        "perk2" : 8463
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
     1
   ],
-  "itemFrequency" : {
-    "1082" : 2,
-    "2055" : 3,
-    "3009" : 6,
-    "3107" : 7,
-    "3113" : 1,
-    "3114" : 1,
-    "3158" : 2,
-    "3190" : 1,
-    "3364" : 8,
-    "3504" : 3,
-    "3869" : 1,
-    "3870" : 6,
-    "3876" : 1,
-    "4005" : 1,
-    "4642" : 1,
-    "6616" : 2,
-    "6617" : 3,
-    "6621" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "3107" : 3,
-    "3504" : 1,
-    "6617" : 1,
-    "6621" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 6,
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1082" : 2,
+      "2055" : 3,
+      "3009" : 6,
+      "3107" : 7,
+      "3113" : 1,
+      "3114" : 1,
+      "3158" : 2,
+      "3190" : 1,
+      "3364" : 8,
+      "3504" : 3,
+      "3869" : 1,
+      "3870" : 6,
+      "3876" : 1,
+      "4005" : 1,
+      "4642" : 1,
+      "6616" : 2,
+      "6617" : 3,
+      "6621" : 2
+    },
+    "boots" : {
+      "3009" : 6,
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3107" : 2,
+      "3504" : 2,
+      "3870" : 1,
+      "4005" : 1,
+      "6617" : 2
+    },
+    "fourthCore" : {
+      "6616" : 1
+    },
+    "secondCore" : {
+      "3107" : 3,
+      "3504" : 1,
+      "6617" : 1,
+      "6621" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      8
+    ],
+    "thirdCore" : {
+      "3107" : 1,
+      "3190" : 1,
+      "6616" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerHeal.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     7,
     [
@@ -120,17 +133,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    8
-  ],
-  "thirdCoreItemFrequency" : {
-    "3107" : 1,
-    "3190" : 1,
-    "6616" : 1
-  },
   "totalGames" : 8,
   "totalWins" : 6
 }

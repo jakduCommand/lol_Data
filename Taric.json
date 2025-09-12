@@ -1,30 +1,6 @@
 {
   "championName" : "Taric",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3190" : 2
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8304,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8351,
@@ -54,33 +30,68 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
     1
   ],
-  "itemFrequency" : {
-    "1029" : 1,
-    "1031" : 1,
-    "2055" : 1,
-    "2422" : 1,
-    "3047" : 1,
-    "3067" : 2,
-    "3070" : 2,
-    "3109" : 1,
-    "3110" : 1,
-    "3158" : 1,
-    "3190" : 2,
-    "3364" : 3,
-    "3870" : 3
-  },
-  "secondCoreItemFrequency" : {
-    "3109" : 1,
-    "3110" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 1,
-    "3158" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1029" : 1,
+      "1031" : 1,
+      "2055" : 1,
+      "2422" : 1,
+      "3047" : 1,
+      "3067" : 2,
+      "3070" : 2,
+      "3109" : 1,
+      "3110" : 1,
+      "3158" : 1,
+      "3190" : 2,
+      "3364" : 3,
+      "3870" : 3
+    },
+    "boots" : {
+      "3047" : 1,
+      "3158" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3190" : 2
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3109" : 1,
+      "3110" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      3
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
@@ -89,20 +100,11 @@
     ],
     1,
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 3,
   "totalWins" : 0
 }

@@ -1,15 +1,5 @@
 {
   "championName" : "Kennen",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3152" : 2,
-    "6653" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -57,28 +47,55 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1056" : 1,
-    "1058" : 2,
-    "1082" : 1,
-    "3020" : 2,
-    "3145" : 1,
-    "3152" : 2,
-    "3157" : 1,
-    "3340" : 1,
-    "3363" : 1,
-    "3364" : 1,
-    "3916" : 1,
-    "4645" : 2
-  },
-  "secondCoreItemFrequency" : {
-    "4645" : 2
-  },
-  "shoesFrequency" : {
-    "3020" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1056" : 1,
+      "1058" : 2,
+      "1082" : 1,
+      "3020" : 2,
+      "3145" : 1,
+      "3152" : 2,
+      "3157" : 1,
+      "3340" : 1,
+      "3363" : 1,
+      "3364" : 1,
+      "3916" : 1,
+      "4645" : 2
+    },
+    "boots" : {
+      "3020" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3152" : 2,
+      "6653" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "4645" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      1,
+      [
+        2003,
+        1055
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -87,21 +104,6 @@
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      1055,
-      2003
-    ],
-    2,
-    [
-      2003,
-      1056
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3157" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 3
 }

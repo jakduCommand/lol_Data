@@ -1,14 +1,5 @@
 {
   "championName" : "Lillia",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6653" : 4
-  },
-  "fourthCoreItemFrequency" : {
-    "3157" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -30,12 +21,12 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
-        "perk4" : 8014
+        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -60,73 +51,84 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
-        "perk4" : 8017
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8347,
+        "perk2" : 8304
       },
       "subStyle" : 8300
     },
     1
   ],
-  "itemFrequency" : {
-    "1033" : 1,
-    "1052" : 1,
-    "1058" : 1,
-    "1082" : 3,
-    "2503" : 1,
-    "3009" : 1,
-    "3020" : 2,
-    "3041" : 1,
-    "3047" : 1,
-    "3157" : 3,
-    "3340" : 1,
-    "3364" : 3,
-    "3916" : 1,
-    "4633" : 2,
-    "6653" : 4
-  },
-  "secondCoreItemFrequency" : {
-    "2503" : 1,
-    "3157" : 1,
-    "4633" : 2
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3020" : 2,
-    "3047" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1033" : 1,
+      "1052" : 1,
+      "1058" : 1,
+      "1082" : 3,
+      "2503" : 1,
+      "3009" : 1,
+      "3020" : 2,
+      "3041" : 1,
+      "3047" : 1,
+      "3157" : 3,
+      "3340" : 1,
+      "3364" : 3,
+      "3916" : 1,
+      "4633" : 2,
+      "6653" : 4
+    },
+    "boots" : {
+      "3009" : 1,
+      "3020" : 2,
+      "3047" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6653" : 4
+    },
+    "fourthCore" : {
+      "3157" : 1
+    },
+    "secondCore" : {
+      "2503" : 1,
+      "3157" : 1,
+      "4633" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102,
+        2003
+      ],
+      1,
+      [
+        1101
+      ],
+      1,
+      [
+        1102
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "3041" : 1,
+      "3157" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     4
   ],
-  "startItemFrequency" : [
-    [
-      1101
-    ],
-    1,
-    [
-      1102
-    ],
-    2,
-    [
-      1102,
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3041" : 1,
-    "3157" : 1
-  },
   "totalGames" : 4,
   "totalWins" : 2
 }

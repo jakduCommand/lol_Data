@@ -1,35 +1,8 @@
 {
   "championName" : "Aphelios",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3032" : 2,
-    "6672" : 1,
-    "6676" : 12
-  },
-  "fourthCoreItemFrequency" : {
-    "3036" : 2,
-    "6673" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 9101,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 8009,
         "perk3" : 9103,
@@ -46,37 +19,7 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 9101,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
         "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
         "perk3" : 9103,
         "perk4" : 8017
       },
@@ -91,13 +34,13 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9104,
+        "perk2" : 9101,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
+        "perk1" : 8304,
         "perk2" : 8347
       },
       "subStyle" : 8300
@@ -106,68 +49,8 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
         "perk2" : 9101,
         "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9101,
-        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -196,7 +79,7 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 9101,
+        "perk2" : 9111,
         "perk3" : 9103,
         "perk4" : 8017
       },
@@ -211,68 +94,196 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
+        "perk2" : 9101,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
         "perk2" : 9111,
         "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
         "perk2" : 8347
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
     1
   ],
-  "itemFrequency" : {
-    "1018" : 4,
-    "1036" : 2,
-    "1037" : 1,
-    "1038" : 3,
-    "1042" : 1,
-    "1053" : 1,
-    "1055" : 12,
-    "1083" : 2,
-    "3006" : 8,
-    "3009" : 3,
-    "3031" : 10,
-    "3032" : 2,
-    "3033" : 1,
-    "3035" : 2,
-    "3036" : 6,
-    "3047" : 2,
-    "3085" : 2,
-    "3086" : 2,
-    "3144" : 1,
-    "3172" : 2,
-    "3340" : 1,
-    "3363" : 14,
-    "6670" : 1,
-    "6672" : 1,
-    "6673" : 2,
-    "6676" : 13,
-    "6701" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3031" : 8,
-    "3033" : 1,
-    "3036" : 2,
-    "6676" : 1
-  },
-  "shoesFrequency" : {
-    "3006" : 10,
-    "3009" : 3,
-    "3047" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1018" : 4,
+      "1036" : 2,
+      "1037" : 1,
+      "1038" : 3,
+      "1042" : 1,
+      "1053" : 1,
+      "1055" : 12,
+      "1083" : 2,
+      "3006" : 8,
+      "3009" : 3,
+      "3031" : 10,
+      "3032" : 2,
+      "3033" : 1,
+      "3035" : 2,
+      "3036" : 6,
+      "3047" : 2,
+      "3085" : 2,
+      "3086" : 2,
+      "3144" : 1,
+      "3172" : 2,
+      "3340" : 1,
+      "3363" : 14,
+      "6670" : 1,
+      "6672" : 1,
+      "6673" : 2,
+      "6676" : 13,
+      "6701" : 1
+    },
+    "boots" : {
+      "3006" : 10,
+      "3009" : 3,
+      "3047" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3032" : 2,
+      "6672" : 1,
+      "6676" : 12
+    },
+    "fourthCore" : {
+      "3036" : 2,
+      "6673" : 1
+    },
+    "secondCore" : {
+      "3031" : 8,
+      "3033" : 1,
+      "3036" : 2,
+      "6676" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1055
+      ],
+      15
+    ],
+    "thirdCore" : {
+      "3031" : 2,
+      "3036" : 1,
+      "3085" : 2,
+      "6673" : 1,
+      "6701" : 1
+    }
   },
   "spellFrequency" : [
-    [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
-    ],
-    8,
     [
       "SummonerFlash.png",
       "SummonerBoost.png"
@@ -282,22 +293,13 @@
       "SummonerHaste.png",
       "SummonerFlash.png"
     ],
-    4
-  ],
-  "startItemFrequency" : [
+    4,
     [
-      2003,
-      1055
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
-    15
+    8
   ],
-  "thirdCoreItemFrequency" : {
-    "3031" : 2,
-    "3036" : 1,
-    "3085" : 2,
-    "6673" : 1,
-    "6701" : 1
-  },
   "totalGames" : 15,
   "totalWins" : 8
 }

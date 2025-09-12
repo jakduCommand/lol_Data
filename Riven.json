@@ -1,31 +1,6 @@
 {
   "championName" : "Riven",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "6610" : 1,
-    "6692" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -40,55 +15,82 @@
       },
       "subStyle" : 8300
     },
-    2
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1
   ],
-  "itemFrequency" : {
-    "1055" : 2,
-    "2003" : 1,
-    "2019" : 1,
-    "3071" : 1,
-    "3133" : 1,
-    "3158" : 1,
-    "3171" : 1,
-    "3340" : 1,
-    "3364" : 2,
-    "6333" : 1,
-    "6610" : 2,
-    "6692" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3071" : 1,
-    "6333" : 1
-  },
-  "shoesFrequency" : {
-    "3158" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1055" : 2,
+      "2003" : 1,
+      "2019" : 1,
+      "3071" : 1,
+      "3133" : 1,
+      "3158" : 1,
+      "3171" : 1,
+      "3340" : 1,
+      "3364" : 2,
+      "6333" : 1,
+      "6610" : 2,
+      "6692" : 1
+    },
+    "boots" : {
+      "3158" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "6610" : 1,
+      "6692" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3071" : 1,
+      "6333" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1029,
+        1054
+      ],
+      1,
+      [
+        2003,
+        1055
+      ],
+      2
+    ],
+    "thirdCore" : {
+      "6610" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1055
-    ],
-    2,
-    [
-      1054,
-      2003,
-      1029
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "6610" : 1
-  },
   "totalGames" : 3,
   "totalWins" : 3
 }

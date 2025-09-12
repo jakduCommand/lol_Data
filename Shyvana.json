@@ -1,14 +1,5 @@
 {
   "championName" : "Shyvana",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3161" : 1
-  },
-  "fourthCoreItemFrequency" : {
-    "2501" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -26,23 +17,44 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1028" : 1,
-    "2501" : 1,
-    "3111" : 1,
-    "3161" : 1,
-    "3364" : 1,
-    "3748" : 1,
-    "6610" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "6610" : 1
-  },
-  "shoesFrequency" : {
-    "3111" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1028" : 1,
+      "2501" : 1,
+      "3111" : 1,
+      "3161" : 1,
+      "3364" : 1,
+      "3748" : 1,
+      "6610" : 1
+    },
+    "boots" : {
+      "3111" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3161" : 1
+    },
+    "fourthCore" : {
+      "2501" : 1
+    },
+    "secondCore" : {
+      "6610" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1103
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3748" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -51,16 +63,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1103,
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3748" : 1
-  },
   "totalGames" : 1,
   "totalWins" : 1
 }

@@ -1,14 +1,5 @@
 {
   "championName" : "Graves",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3142" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -26,22 +17,42 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "3036" : 1,
-    "3142" : 1,
-    "3364" : 1,
-    "6670" : 1,
-    "6676" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "6676" : 1
-  },
-  "shoesFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "3036" : 1,
+      "3142" : 1,
+      "3364" : 1,
+      "6670" : 1,
+      "6676" : 1
+    },
+    "boots" : {
 
-  },
-  "sixthCoreItemFrequency" : {
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3142" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "6676" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1101
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3036" : 1
+    }
   },
   "spellFrequency" : [
     [
@@ -50,15 +61,6 @@
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1101
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3036" : 1
-  },
   "totalGames" : 1,
   "totalWins" : 1
 }

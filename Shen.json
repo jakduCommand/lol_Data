@@ -1,15 +1,5 @@
 {
   "championName" : "Shen",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3068" : 2,
-    "3084" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -31,21 +21,6 @@
         "perk1" : 8437,
         "perk2" : 8401,
         "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
         "perk4" : 8453
       },
       "primaryStyle" : 8400,
@@ -55,45 +30,72 @@
       },
       "subStyle" : 8100
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
     1
   ],
-  "itemFrequency" : {
-    "1036" : 1,
-    "1054" : 3,
-    "2031" : 1,
-    "3047" : 3,
-    "3068" : 2,
-    "3076" : 2,
-    "3084" : 1,
-    "3340" : 3,
-    "3748" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3748" : 1
-  },
-  "shoesFrequency" : {
-    "3047" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1036" : 1,
+      "1054" : 3,
+      "2031" : 1,
+      "3047" : 3,
+      "3068" : 2,
+      "3076" : 2,
+      "3084" : 1,
+      "3340" : 3,
+      "3748" : 1
+    },
+    "boots" : {
+      "3047" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3068" : 2,
+      "3084" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3748" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1054
+      ],
+      3
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1054
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 3,
   "totalWins" : 1
 }

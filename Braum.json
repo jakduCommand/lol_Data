@@ -1,37 +1,12 @@
 {
   "championName" : "Braum",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3109" : 1,
-    "3190" : 6
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8465,
         "perk2" : 8463,
         "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8242
+        "perk4" : 8451
       },
       "primaryStyle" : 8400,
       "subPerks" : {
@@ -58,6 +33,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8465,
         "perk2" : 8463,
         "perk3" : 8473,
@@ -65,12 +55,12 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 9111
+        "perk1" : 8345,
+        "perk2" : 8347
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
     },
-    1,
+    3,
     {
       "primaryPerks" : {
         "perk1" : 8465,
@@ -95,18 +85,18 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
+        "perk1" : 9105,
+        "perk2" : 9111
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
-    3,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8465,
         "perk2" : 8463,
         "perk3" : 8444,
-        "perk4" : 8451
+        "perk4" : 8242
       },
       "primaryStyle" : 8400,
       "subPerks" : {
@@ -117,56 +107,68 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1001" : 1,
-    "1028" : 1,
-    "1029" : 2,
-    "1033" : 2,
-    "2031" : 2,
-    "2055" : 3,
-    "3047" : 6,
-    "3067" : 2,
-    "3076" : 1,
-    "3082" : 1,
-    "3109" : 3,
-    "3111" : 2,
-    "3190" : 6,
-    "3364" : 9,
-    "3869" : 5,
-    "3876" : 3,
-    "3877" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "3109" : 2
-  },
-  "shoesFrequency" : {
-    "3047" : 6,
-    "3111" : 2
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1001" : 1,
+      "1028" : 1,
+      "1029" : 2,
+      "1033" : 2,
+      "2031" : 2,
+      "2055" : 3,
+      "3047" : 6,
+      "3067" : 2,
+      "3076" : 1,
+      "3082" : 1,
+      "3109" : 3,
+      "3111" : 2,
+      "3190" : 6,
+      "3364" : 9,
+      "3869" : 5,
+      "3876" : 3,
+      "3877" : 1
+    },
+    "boots" : {
+      "3047" : 6,
+      "3111" : 2
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3109" : 1,
+      "3190" : 6
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3109" : 2
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      9
+    ],
+    "thirdCore" : {
+
+    }
   },
   "spellFrequency" : [
+    [
+      "SummonerHeal.png",
+      "SummonerFlash.png"
+    ],
+    4,
     [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    5,
-    [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
-    ],
-    4
+    5
   ],
-  "startItemFrequency" : [
-    [
-      2003
-    ],
-    9
-  ],
-  "thirdCoreItemFrequency" : {
-
-  },
   "totalGames" : 9,
   "totalWins" : 2
 }

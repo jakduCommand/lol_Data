@@ -1,14 +1,5 @@
 {
   "championName" : "Rammus",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3075" : 1
-  },
-  "fourthCoreItemFrequency" : {
-
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
@@ -26,41 +17,52 @@
     },
     1
   ],
-  "itemFrequency" : {
-    "1033" : 1,
-    "2055" : 1,
-    "3009" : 1,
-    "3075" : 1,
-    "3143" : 1,
-    "3364" : 1,
-    "6664" : 1
-  },
-  "secondCoreItemFrequency" : {
-    "6664" : 1
-  },
-  "shoesFrequency" : {
-    "3009" : 1
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1033" : 1,
+      "2055" : 1,
+      "3009" : 1,
+      "3075" : 1,
+      "3143" : 1,
+      "3364" : 1,
+      "6664" : 1
+    },
+    "boots" : {
+      "3009" : 1
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3075" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "6664" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3143" : 1
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerHaste.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerHaste.png"
     ],
     1
   ],
-  "startItemFrequency" : [
-    [
-      1102,
-      2003
-    ],
-    1
-  ],
-  "thirdCoreItemFrequency" : {
-    "3143" : 1
-  },
   "totalGames" : 1,
   "totalWins" : 0
 }

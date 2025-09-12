@@ -1,33 +1,21 @@
 {
   "championName" : "Viego",
-  "fifthCoreItemFrequency" : {
-
-  },
-  "firstCoreItemFrequency" : {
-    "3078" : 6,
-    "6672" : 7
-  },
-  "fourthCoreItemFrequency" : {
-    "3031" : 1,
-    "6333" : 1,
-    "6673" : 1
-  },
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8210,
+        "perk2" : 8232
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
-    6,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -52,93 +40,107 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8304,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
     6,
     {
       "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8232
+        "perk1" : 8347,
+        "perk2" : 8304
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
-    1
+    6
   ],
-  "itemFrequency" : {
-    "1018" : 3,
-    "1036" : 5,
-    "1037" : 1,
-    "1038" : 1,
-    "1102" : 1,
-    "2003" : 1,
-    "2019" : 1,
-    "2055" : 1,
-    "2422" : 4,
-    "3031" : 1,
-    "3035" : 2,
-    "3036" : 2,
-    "3047" : 5,
-    "3078" : 6,
-    "3111" : 2,
-    "3134" : 1,
-    "3156" : 1,
-    "3170" : 1,
-    "3173" : 1,
-    "3340" : 1,
-    "3364" : 13,
-    "6333" : 1,
-    "6610" : 2,
-    "6670" : 3,
-    "6672" : 7,
-    "6673" : 6,
-    "6676" : 8
-  },
-  "secondCoreItemFrequency" : {
-    "6610" : 2,
-    "6673" : 2,
-    "6676" : 8
-  },
-  "shoesFrequency" : {
-    "3009" : 1,
-    "3047" : 5,
-    "3111" : 3
-  },
-  "sixthCoreItemFrequency" : {
+  "items" : {
+    "allItems" : {
+      "1018" : 3,
+      "1036" : 5,
+      "1037" : 1,
+      "1038" : 1,
+      "1102" : 1,
+      "2003" : 1,
+      "2019" : 1,
+      "2055" : 1,
+      "2422" : 4,
+      "3031" : 1,
+      "3035" : 2,
+      "3036" : 2,
+      "3047" : 5,
+      "3078" : 6,
+      "3111" : 2,
+      "3134" : 1,
+      "3156" : 1,
+      "3170" : 1,
+      "3173" : 1,
+      "3340" : 1,
+      "3364" : 13,
+      "6333" : 1,
+      "6610" : 2,
+      "6670" : 3,
+      "6672" : 7,
+      "6673" : 6,
+      "6676" : 8
+    },
+    "boots" : {
+      "3009" : 1,
+      "3047" : 5,
+      "3111" : 3
+    },
+    "fifthCore" : {
 
+    },
+    "firstCore" : {
+      "3078" : 6,
+      "6672" : 7
+    },
+    "fourthCore" : {
+      "3031" : 1,
+      "6333" : 1,
+      "6673" : 1
+    },
+    "secondCore" : {
+      "6610" : 2,
+      "6673" : 2,
+      "6676" : 8
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102,
+        2003
+      ],
+      11,
+      [
+        1102
+      ],
+      3
+    ],
+    "thirdCore" : {
+      "3036" : 2,
+      "3156" : 1,
+      "6673" : 3
+    }
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     14
   ],
-  "startItemFrequency" : [
-    [
-      2003,
-      1102
-    ],
-    11,
-    [
-      1102
-    ],
-    3
-  ],
-  "thirdCoreItemFrequency" : {
-    "3036" : 2,
-    "3156" : 1,
-    "6673" : 3
-  },
   "totalGames" : 14,
   "totalWins" : 5
 }
