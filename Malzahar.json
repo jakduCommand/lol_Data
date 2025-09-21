@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra's salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient...",
+    "id" : "Malzahar",
+    "image" : {
+      "full" : "Malzahar.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 6,
+      "magic" : 9
+    },
+    "key" : "90",
+    "name" : "Malzahar",
+    "passive" : {
+      "description" : "When he hasn't recently taken damage or been crowd controlled, Malzahar gains massive damage reduction and crowd control immunity, lingering for a short period after taking damage.",
+      "image" : {
+        "full" : "Malzahar_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 48
+      },
+      "name" : "Void Shift"
+    },
+    "spells" : [
+      {
+        "description" : "Malzahar opens up two portals to the Void. After a short delay, they fire projectiles that deal Magic Damage and silence enemy champions.",
+        "id" : "MalzaharQ",
+        "image" : {
+          "full" : "MalzaharQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Call of the Void"
+      },
+      {
+        "description" : "Malzahar summons Voidlings to attack nearby enemies.",
+        "id" : "MalzaharW",
+        "image" : {
+          "full" : "MalzaharW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Void Swarm"
+      },
+      {
+        "description" : "Malzahar infects his target's mind with cruel visions of their demise, dealing damage over time. Using Malzahar's other spells on the target will refresh the visions.<br><br>If the target dies while afflicted by the visions, they pass on to a nearby enemy unit and Malzahar gains Mana. Malzahar's Voidlings are attracted to affected units.",
+        "id" : "MalzaharE",
+        "image" : {
+          "full" : "MalzaharE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Malefic Visions"
+      },
+      {
+        "description" : "Malzahar channels the essence of the Void to suppress an enemy champion over a zone of damaging negative energy.",
+        "id" : "MalzaharR",
+        "image" : {
+          "full" : "MalzaharR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Nether Grasp"
+      }
+    ],
+    "title" : "the Prophet of the Void"
+  },
   "championName" : "Malzahar",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -25,25 +133,25 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8242
+        "perk1" : 8106,
+        "perk2" : 8126
       },
-      "subStyle" : 8400
+      "subStyle" : 8100
     },
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8214,
+        "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8210,
-        "perk4" : 8236
+        "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8444,
+        "perk2" : 8242
       },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1,
     {
@@ -60,23 +168,9 @@
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8106,
-        "perk2" : 8126
-      },
-      "subStyle" : 8100
-    },
     1
   ],
+  "id" : "Malzahar",
   "items" : {
     "allItems" : {
       "1052" : 2,
@@ -116,15 +210,15 @@
     },
     "starters" : [
       [
-        2003,
-        1056
-      ],
-      4,
-      [
         1027,
         2031
       ],
-      1
+      1,
+      [
+        1056,
+        2003
+      ],
+      4
     ],
     "thirdCore" : {
       "3116" : 3
@@ -132,11 +226,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

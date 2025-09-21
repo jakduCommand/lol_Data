@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes...",
+    "id" : "Teemo",
+    "image" : {
+      "full" : "Teemo.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 3,
+      "difficulty" : 6,
+      "magic" : 7
+    },
+    "key" : "17",
+    "name" : "Teemo",
+    "passive" : {
+      "description" : "If Teemo stands still and takes no actions for a short duration, he becomes Invisible indefinitely. If he's in brush, Teemo can enter and maintain his Invisibility while moving. After leaving Invisibility, Teemo gains the Element of Surprise, increasing his Attack Speed for a few seconds.",
+      "image" : {
+        "full" : "TeemoPassive.ASU_Teemo.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 48
+      },
+      "name" : "Guerrilla Warfare"
+    },
+    "spells" : [
+      {
+        "description" : "Obscures an enemy's vision with a powerful venom, dealing damage to the target unit and blinding it for the duration.",
+        "id" : "TeemoQ",
+        "image" : {
+          "full" : "TeemoQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Blinding Dart"
+      },
+      {
+        "description" : "Teemo scampers around, passively increasing his Move Speed until he is struck by an enemy champion or turret. Teemo can sprint to gain bonus Move Speed that isn't stopped by being struck for a short time.",
+        "id" : "TeemoW",
+        "image" : {
+          "full" : "TeemoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Move Quick"
+      },
+      {
+        "description" : "Each of Teemo's attacks will poison the target, dealing damage on impact and each second after for 4 seconds.",
+        "id" : "TeemoE",
+        "image" : {
+          "full" : "TeemoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Toxic Shot"
+      },
+      {
+        "description" : "Teemo throws an explosive poisonous trap using one of the mushrooms stored in his pack. If an enemy steps on the trap, it will release a poisonous cloud, slowing enemies and damaging them over time. If Teemo throws a mushroom onto another mushroom it will bounce, gaining additional range.",
+        "id" : "TeemoR",
+        "image" : {
+          "full" : "TeemoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Noxious Trap"
+      }
+    ],
+    "title" : "the Swift Scout"
+  },
   "championName" : "Teemo",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Teemo",
   "items" : {
     "allItems" : {
       "1058" : 2,
@@ -87,8 +181,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       1,
       [
@@ -108,15 +202,16 @@
   "spellFrequency" : [
     [
       "SummonerFlash.png",
+      "SummonerDot.png"
+    ],
+    2,
+    [
+      "SummonerFlash.png",
       "SummonerSmite.png"
     ],
-    1,
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    2
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

@@ -1,0 +1,138 @@
+{
+  "championDetail" : {
+    "blurb" : "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of...",
+    "id" : "MasterYi",
+    "image" : {
+      "full" : "MasterYi.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 4,
+      "difficulty" : 4,
+      "magic" : 2
+    },
+    "key" : "11",
+    "name" : "Master Yi",
+    "passive" : {
+      "description" : "Every few consecutive basic attack, Master Yi strikes twice.",
+      "image" : {
+        "full" : "MasterYi_Passive1.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Double Strike"
+    },
+    "spells" : [
+      {
+        "description" : "Master Yi teleports across the battlefield with blinding speed, dealing physical damage to multiple units in his path, while simultaneously becoming untargetable. Alpha Strike can critically strike and deals bonus physical damage to monsters. Basic attacks reduce Alpha Strike's cooldown.",
+        "id" : "AlphaStrike",
+        "image" : {
+          "full" : "AlphaStrike.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Alpha Strike"
+      },
+      {
+        "description" : "Master Yi rejuvenates his body by focus of mind, restoring Health and taking reduced damage for a short time. In addition, Master Yi will gain stacks of Double Strike and pause the remaining duration on Wuju Style and Highlander for each second he channels.",
+        "id" : "Meditate",
+        "image" : {
+          "full" : "Meditate.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Meditate"
+      },
+      {
+        "description" : "Grants bonus true damage on basic attacks.",
+        "id" : "WujuStyle",
+        "image" : {
+          "full" : "WujuStyle.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Wuju Style"
+      },
+      {
+        "description" : "Master Yi moves with unparalleled agility, temporarily increasing his Move Speed and Attack Speed as well as making him immune to all slowing effects. While active, Champion kills or assists extend Highlander's duration. Passively reduces cooldown for his other abilities on a kill or assist.",
+        "id" : "Highlander",
+        "image" : {
+          "full" : "Highlander.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Highlander"
+      }
+    ],
+    "title" : "the Wuju Bladesman"
+  },
+  "championName" : "Master Yi",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "MasterYi",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3153" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

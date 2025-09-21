@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker's love with every step, taking nothing for granted. At her command is the Hallowed Mist, an ancient and...",
+    "id" : "Gwen",
+    "image" : {
+      "full" : "Gwen.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 5
+    },
+    "key" : "887",
+    "name" : "Gwen",
+    "passive" : {
+      "description" : "Gwen's attacks deal bonus magic damage based on the targets health. She heals for a portion of the damage dealt to champions by this effect. ",
+      "image" : {
+        "full" : "Gwen_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 48
+      },
+      "name" : "A Thousand Cuts"
+    },
+    "spells" : [
+      {
+        "description" : "Gwen snips her scissors in a cone up to 6 times dealing magic damage. Gwen deals true damage to units in the center and applies her passive to them on each snip.",
+        "id" : "GwenQ",
+        "image" : {
+          "full" : "GwenQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Snip Snip!"
+      },
+      {
+        "description" : "Gwen summons mist that protects her from enemies outside of it. She can only be targeted by enemies who enter the mist.",
+        "id" : "GwenW",
+        "image" : {
+          "full" : "GwenW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Hallowed Mist"
+      },
+      {
+        "description" : "Gwen dashes a short distance then gains Attack Speed, attack range, and magic damage <OnHit>On-Hit<\/OnHit> for a few seconds. If she hits an enemy during that time, this Ability's cooldown is partially refunded. ",
+        "id" : "GwenE",
+        "image" : {
+          "full" : "GwenE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Skip 'n Slash"
+      },
+      {
+        "description" : "Gwen hurls a needle that slows enemies hit, deals magic damage, and applies A Thousand Cuts to champions hit. <br><br>This ability can be cast up to two more times, with each cast throwing additional needles and dealing more damage. ",
+        "id" : "GwenR",
+        "image" : {
+          "full" : "GwenR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Needlework"
+      }
+    ],
+    "title" : "The Hallowed Seamstress"
+  },
   "championName" : "Gwen",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -34,6 +112,21 @@
     {
       "primaryPerks" : {
         "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
         "perk2" : 8009,
         "perk3" : 9104,
         "perk4" : 8299
@@ -46,21 +139,6 @@
       "subStyle" : 8400
     },
     2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -81,17 +159,33 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8304,
-        "perk2" : 8347
+        "perk2" : 8410
       },
       "subStyle" : 8300
     },
     1
   ],
+  "id" : "Gwen",
   "items" : {
     "allItems" : {
       "1001" : 2,
@@ -145,17 +239,17 @@
     },
     "starters" : [
       [
-        2003,
-        1054
+        1054,
+        2003
       ],
       1,
       [
-        2003,
-        1056
+        1101
       ],
       3,
       [
-        1101
+        1056,
+        2003
       ],
       3
     ],
@@ -166,8 +260,13 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
+    ],
+    2,
+    [
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     2,
     [
@@ -176,21 +275,17 @@
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    1,
-    [
       "SummonerDot.png",
       "SummonerTeleport.png"
     ],
     1,
     [
-      "SummonerSmite.png",
-      "SummonerHaste.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
-    2
+    1
   ],
   "totalGames" : 7,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

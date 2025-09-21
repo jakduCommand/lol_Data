@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned...",
+    "id" : "Kayle",
+    "image" : {
+      "full" : "Kayle.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 6,
+      "difficulty" : 7,
+      "magic" : 7
+    },
+    "key" : "10",
+    "name" : "Kayle",
+    "passive" : {
+      "description" : "Kayle's attacks are empowered by the heavens as she levels up and spends skill points. Her wings are lit aflame as she progressively gains Attack Speed, Move Speed, Attack Range, and waves of fire on her attacks.",
+      "image" : {
+        "full" : "Kayle_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 0
+      },
+      "name" : "Divine Ascent"
+    },
+    "spells" : [
+      {
+        "description" : "Kayle conjures a portal, summoning a celestial sword that pierces through enemies, slowing, damaging, and reducing the resistances of all hit.",
+        "id" : "KayleQ",
+        "image" : {
+          "full" : "KayleQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Radiant Blast"
+      },
+      {
+        "description" : "Blessed by the divine, Kayle heals and grants Move Speed to herself and the nearest ally.",
+        "id" : "KayleW",
+        "image" : {
+          "full" : "KayleW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Celestial Blessing"
+      },
+      {
+        "description" : "Passive: Kayle's celestial sword, Virtue, deals bonus magic damage to enemies she attacks.<br><br>Active: Kayle's next attack smites her target with celestial fire, dealing bonus damage proportionate to their missing health.",
+        "id" : "KayleE",
+        "image" : {
+          "full" : "KayleE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Starfire Spellblade"
+      },
+      {
+        "description" : "Kayle makes an ally invulnerable and calls upon former Aspects of Justice to purify the area around her target with a holy rain of swords.",
+        "id" : "KayleR",
+        "image" : {
+          "full" : "KayleR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Divine Judgment"
+      }
+    ],
+    "title" : "the Righteous"
+  },
   "championName" : "Kayle",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Kayle",
   "items" : {
     "allItems" : {
       "1082" : 1,
@@ -86,15 +180,15 @@
     },
     "starters" : [
       [
+        2031,
+        1027
+      ],
+      1,
+      [
         2003,
         1055
       ],
-      2,
-      [
-        1027,
-        2031
-      ],
-      1
+      2
     ],
     "thirdCore" : {
       "3089" : 1,
@@ -104,11 +198,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

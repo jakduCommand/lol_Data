@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural...",
+    "id" : "Pyke",
+    "image" : {
+      "full" : "Pyke.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 3,
+      "difficulty" : 7,
+      "magic" : 1
+    },
+    "key" : "555",
+    "name" : "Pyke",
+    "passive" : {
+      "description" : "When Pyke is hidden from enemies, he regenerates damage that he has recently taken from champions. Pyke also cannot gain extra Maximum Health from any source, and instead gains Bonus AD.",
+      "image" : {
+        "full" : "PykePassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 48
+      },
+      "name" : "Gift of the Drowned Ones"
+    },
+    "spells" : [
+      {
+        "description" : "Pyke either stabs an enemy in front of him or pulls an enemy towards him.",
+        "id" : "PykeQ",
+        "image" : {
+          "full" : "PykeQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Bone Skewer"
+      },
+      {
+        "description" : "Pyke enters Camouflage and gains significant Move Speed that decays over time.",
+        "id" : "PykeW",
+        "image" : {
+          "full" : "PykeW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Ghostwater Dive"
+      },
+      {
+        "description" : "Pyke dashes and leaves behind a phantom that will return to him, stunning enemy champions along its path.",
+        "id" : "PykeE",
+        "image" : {
+          "full" : "PykeE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Phantom Undertow"
+      },
+      {
+        "description" : "Pyke blinks to and executes low health enemies, allowing him to cast this spell again and granting additional gold to an ally who assists.",
+        "id" : "PykeR",
+        "image" : {
+          "full" : "PykeR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Death From Below"
+      }
+    ],
+    "title" : "the Bloodharbor Ripper"
+  },
   "championName" : "Pyke",
   "fullRunePageFrequency" : [
     {
@@ -12,21 +105,6 @@
       "subPerks" : {
         "perk1" : 8473,
         "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8139,
-        "perk3" : 8137,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8242,
-        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -60,8 +138,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8242,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Pyke",
   "items" : {
     "allItems" : {
       "1029" : 1,
@@ -118,5 +212,6 @@
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

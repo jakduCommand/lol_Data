@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Milio is a warmhearted boy from Ixtal who has, despite his young age, mastered the fire axiom and discovered something new: soothing fire. With this newfound power, Milio plans to help his family escape their exile by joining the Yun Tal—just like his...",
+    "id" : "Milio",
+    "image" : {
+      "full" : "Milio.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 8
+    },
+    "key" : "902",
+    "name" : "Milio",
+    "passive" : {
+      "description" : "Milio's abilities enchant allies on touch, making their next damage deal a burst of extra damage and burn the target.",
+      "image" : {
+        "full" : "Milio_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 96
+      },
+      "name" : "Fired Up!"
+    },
+    "spells" : [
+      {
+        "description" : "Kick a ball that knocks back an enemy. The ball launches upward on hit and falls toward the enemy, damaging and slowing enemies in the area upon impact.",
+        "id" : "MilioQ",
+        "image" : {
+          "full" : "MilioQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Ultra Mega Fire Kick"
+      },
+      {
+        "description" : "Create an empowering zone that heals allies and increases attack range to those inside. The zone follows the ally nearest to the cast point.",
+        "id" : "MilioW",
+        "image" : {
+          "full" : "MilioW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Cozy Campfire"
+      },
+      {
+        "description" : "Milio tosses a shield to an ally, temporarily increasing their movement speed. This ability has 2 charges.",
+        "id" : "MilioE",
+        "image" : {
+          "full" : "MilioE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Warm Hugs"
+      },
+      {
+        "description" : "Milio unleashes a wave of soothing flames that heal and remove crowd control effects from allies in range.",
+        "id" : "MilioR",
+        "image" : {
+          "full" : "MilioR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Breath of Life"
+      }
+    ],
+    "title" : "The Gentle Flame"
+  },
   "championName" : "Milio",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -12,21 +120,6 @@
       "subPerks" : {
         "perk1" : 8453,
         "perk2" : 8429
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -63,15 +156,15 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
+        "perk1" : 8214,
+        "perk2" : 8275,
         "perk3" : 8210,
-        "perk4" : 8237
+        "perk4" : 8232
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8453
+        "perk1" : 8453,
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -92,6 +185,7 @@
     },
     1
   ],
+  "id" : "Milio",
   "items" : {
     "allItems" : {
       "1004" : 2,
@@ -151,5 +245,6 @@
     9
   ],
   "totalGames" : 9,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

@@ -1,0 +1,138 @@
+{
+  "championDetail" : {
+    "blurb" : "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
+    "id" : "LeeSin",
+    "image" : {
+      "full" : "LeeSin.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "64",
+    "name" : "Lee Sin",
+    "passive" : {
+      "description" : "After Lee Sin uses an ability, his next 2 basic attacks gain Attack Speed and return Energy.",
+      "image" : {
+        "full" : "LeeSinPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 48
+      },
+      "name" : "Flurry"
+    },
+    "spells" : [
+      {
+        "description" : "Sonic Wave: Lee Sin projects a discordant wave of sound to locate his enemies, dealing physical damage to the first enemy it encounters. If Sonic Wave hits, Lee Sin can cast Resonating Strike for the next 3 seconds.<br>Resonating Strike: Lee Sin dashes to the enemy hit by Sonic Wave, dealing physical damage based on the target's missing Health.",
+        "id" : "LeeSinQOne",
+        "image" : {
+          "full" : "LeeSinQOne.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Sonic Wave \/ Resonating Strike"
+      },
+      {
+        "description" : "Safeguard: Lee Sin rushes to target ally, shielding himself from damage. If the ally is a champion, they are also shielded. After using Safeguard, Lee Sin can cast Iron Will.<br>Iron Will: Lee Sin's intense training allows him to thrive in battle. Lee Sin gains Life Steal and Spell Vamp.",
+        "id" : "LeeSinWOne",
+        "image" : {
+          "full" : "LeeSinWOne.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Safeguard \/ Iron Will"
+      },
+      {
+        "description" : "Tempest: Lee Sin smashes the ground, sending out a shockwave that deals magic damage and reveals enemy units hit. If Tempest hits an enemy, Lee Sin can cast cripple.<br>Cripple: Lee Sin cripples nearby enemies damaged by Tempest, reducing their Move Speed. Move Speed recovers gradually over the duration.",
+        "id" : "LeeSinEOne",
+        "image" : {
+          "full" : "LeeSinEOne.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Tempest \/ Cripple"
+      },
+      {
+        "description" : "Lee Sin performs a powerful roundhouse kick launching his target back, dealing physical damage to the target and any enemies they collide with. Enemies the target collides with are knocked into the air for a short duration. This technique was taught to him by Jesse Perring, although Lee Sin does not kick players off the map.",
+        "id" : "LeeSinR",
+        "image" : {
+          "full" : "LeeSinR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Dragon's Rage"
+      }
+    ],
+    "title" : "the Blind Monk"
+  },
+  "championName" : "Lee Sin",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "LeeSin",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3111" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3161" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "6692" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

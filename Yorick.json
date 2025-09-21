@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking wraiths that he gathers to him. Yorick's monstrous...",
+    "id" : "Yorick",
+    "image" : {
+      "full" : "Yorick.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 6,
+      "difficulty" : 6,
+      "magic" : 4
+    },
+    "key" : "83",
+    "name" : "Yorick",
+    "passive" : {
+      "description" : "<font color='#FF9900'>The Cursed Horde:<\/font> Yorick can summon Mist Walkers to swarm and attack nearby enemies.",
+      "image" : {
+        "full" : "Yorick_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 48
+      },
+      "name" : "Shepherd of Souls"
+    },
+    "spells" : [
+      {
+        "description" : "Yorick deals bonus damage on his next attack and heals himself. If the target is a champion or large monster or if the target dies, a grave will be dug.",
+        "id" : "YorickQ",
+        "image" : {
+          "full" : "YorickQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Last Rites"
+      },
+      {
+        "description" : "Yorick summons a destructible wall at target location that will block enemy movement.",
+        "id" : "YorickW",
+        "image" : {
+          "full" : "YorickW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Dark Procession"
+      },
+      {
+        "description" : "Yorick throws a globule of Black Mist that reduces armor, damages, slows and marks enemies. Summoned units gain move speed when moving towards marked targets. ",
+        "id" : "YorickE",
+        "image" : {
+          "full" : "YorickE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Mourning Mist"
+      },
+      {
+        "description" : "Yorick summons the Maiden of the Mist that causes Yorick's attacks against the Maiden's target to deal bonus damage. The Maiden will also automatically raise Walkers from dead enemies.",
+        "id" : "YorickR",
+        "image" : {
+          "full" : "YorickR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Eulogy of the Isles"
+      }
+    ],
+    "title" : "Shepherd of Souls"
+  },
   "championName" : "Yorick",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -35,6 +113,21 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
         "perk3" : 8429,
         "perk4" : 8451
       },
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Yorick",
   "items" : {
     "allItems" : {
       "1036" : 2,
@@ -108,5 +202,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

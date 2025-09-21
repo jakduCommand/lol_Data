@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump...",
+    "id" : "Blitzcrank",
+    "image" : {
+      "full" : "Blitzcrank.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 8,
+      "difficulty" : 4,
+      "magic" : 5
+    },
+    "key" : "53",
+    "name" : "Blitzcrank",
+    "passive" : {
+      "description" : "Blitzcrank gains a shield based on their mana when dropping to low health.",
+      "image" : {
+        "full" : "Blitzcrank_ManaBarrier.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 48
+      },
+      "name" : "Mana Barrier"
+    },
+    "spells" : [
+      {
+        "description" : "Blitzcrank fires their right hand to grab an opponent on its path, dealing damage and dragging it back to them.",
+        "id" : "RocketGrab",
+        "image" : {
+          "full" : "RocketGrab.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Rocket Grab"
+      },
+      {
+        "description" : "Blitzcrank super charges themself to get dramatically increased Move and Attack Speed. They are temporarily slowed after the effect ends.",
+        "id" : "Overdrive",
+        "image" : {
+          "full" : "Overdrive.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Overdrive"
+      },
+      {
+        "description" : "Blitzcrank charges up their fist to make the next attack deal double damage and pop their target up in the air.",
+        "id" : "PowerFist",
+        "image" : {
+          "full" : "PowerFist.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Power Fist"
+      },
+      {
+        "description" : "Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly.",
+        "id" : "StaticField",
+        "image" : {
+          "full" : "StaticField.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Static Field"
+      }
+    ],
+    "title" : "the Great Steam Golem"
+  },
   "championName" : "Blitzcrank",
   "fullRunePageFrequency" : [
     {
@@ -18,21 +111,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8306,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8351,
         "perk2" : 8306,
         "perk3" : 8345,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
     1
   ],
+  "id" : "Blitzcrank",
   "items" : {
     "allItems" : {
       "1004" : 1,
@@ -94,16 +188,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "SummonerHeal.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     1
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

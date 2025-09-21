@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more...",
+    "id" : "Khazix",
+    "image" : {
+      "full" : "Khazix.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 4,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "121",
+    "name" : "Kha'Zix",
+    "passive" : {
+      "description" : "Nearby enemies that are <font color='#FFF673'>Isolated<\/font> from their allies are marked. Kha'Zix's abilities have interactions with <font color='#FFF673'>Isolated<\/font> targets.<br><br>When Kha'Zix is not visible to the enemy team, he gains Unseen Threat, causing his next basic attack against an enemy champion to deal bonus magic damage and slow them for a few seconds.",
+      "image" : {
+        "full" : "Khazix_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 0
+      },
+      "name" : "Unseen Threat"
+    },
+    "spells" : [
+      {
+        "description" : "Deals physical damage to the target. Damage increased on <font color='#FFF673'>Isolated<\/font> targets. If he chooses to <font color='#00DD33'>Evolve Reaper Claws<\/font>, this refunds a percent of it's cooldown against <font color='#FFF673'>Isolated<\/font> targets. Kha'Zix also gains increased range on his basic attacks and Taste Their Fear.",
+        "id" : "KhazixQ",
+        "image" : {
+          "full" : "KhazixQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Taste Their Fear"
+      },
+      {
+        "description" : "Kha'Zix fires exploding spikes that deal physical damage to enemies hit. Kha'Zix is healed if he is also within the explosion radius. If he chooses to <font color='#00DD33'>Evolve Spike Racks<\/font>, Void Spike now fires three spikes in a cone, slow enemies hit, and reveals enemy champions hit for 2 seconds. <font color='#FFF673'>Isolated<\/font> targets are slowed for extra.",
+        "id" : "KhazixW",
+        "image" : {
+          "full" : "KhazixW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Void Spike"
+      },
+      {
+        "description" : "Kha'Zix leaps to an area, dealing physical damage upon landing. If he chooses to <font color='#00DD33'>Evolve Wings<\/font>, Leap's range increases by 200 and the cooldown resets on champion kill or assist.",
+        "id" : "KhazixE",
+        "image" : {
+          "full" : "KhazixE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Leap"
+      },
+      {
+        "description" : "Each rank allows Kha'Zix to evolve one of his abilities, giving it a unique additional effect. When activated, Kha'Zix becomes <font color='#91d7ee'>Invisible<\/font>, triggering Unseen Threat and increasing Move Speed. If he chooses to <font color='#00DD33'>Evolve Adaptive Cloaking<\/font>, Void Assault gains increased <font color='#91d7ee'>Invisibility<\/font> duration, and an additional use.",
+        "id" : "KhazixR",
+        "image" : {
+          "full" : "KhazixR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Void Assault"
+      }
+    ],
+    "title" : "the Voidreaver"
+  },
+  "championName" : "Kha'Zix",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "Khazix",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3142" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

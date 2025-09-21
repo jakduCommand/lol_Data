@@ -1,17 +1,110 @@
 {
+  "championDetail" : {
+    "blurb" : "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun's Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city's pipes, occasionally...",
+    "id" : "Zac",
+    "image" : {
+      "full" : "Zac.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 7,
+      "difficulty" : 8,
+      "magic" : 7
+    },
+    "key" : "154",
+    "name" : "Zac",
+    "passive" : {
+      "description" : "Each time Zac hits an enemy with an ability, he sheds a chunk of himself that can be reabsorbed to restore Health. Upon taking fatal damage, Zac splits into 4 bloblets that attempt to recombine. If any bloblets remain, he will revive with an amount of Health depending on the Health of the surviving bloblets. Each bloblet has a percentage of Zac's maximum Health, Armor and Magic Resistance. This ability has a 5 minute cooldown.",
+      "image" : {
+        "full" : "ZacPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 48
+      },
+      "name" : "Cell Division"
+    },
+    "spells" : [
+      {
+        "description" : "Zac stretches an arm, grabbing an enemy. Attacking a different enemy will cause him to throw both targets towards each other.",
+        "id" : "ZacQ",
+        "image" : {
+          "full" : "ZacQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Stretching Strikes"
+      },
+      {
+        "description" : "Zac explodes outward towards nearby enemies, dealing a percentage of their maximum health as magic damage.",
+        "id" : "ZacW",
+        "image" : {
+          "full" : "ZacW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Unstable Matter"
+      },
+      {
+        "description" : "Zac attaches his arms to the ground and stretches back, launching himself forward.",
+        "id" : "ZacE",
+        "image" : {
+          "full" : "ZacE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Elastic Slingshot"
+      },
+      {
+        "description" : "Zac bounces four times, knocking up enemies hit and slowing them.",
+        "id" : "ZacR",
+        "image" : {
+          "full" : "ZacR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Let's Bounce!"
+      }
+    ],
+    "title" : "the Secret Weapon"
+  },
   "championName" : "Zac",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8453
+        "perk1" : 8453,
+        "perk2" : 8444
       },
       "subStyle" : 8400
     },
@@ -34,21 +127,6 @@
     {
       "primaryPerks" : {
         "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8429,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
         "perk2" : 8446,
         "perk3" : 8429,
         "perk4" : 8453
@@ -63,20 +141,36 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8429,
+        "perk4" : 8453
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8444
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
       },
       "subStyle" : 8400
     },
     1
   ],
+  "id" : "Zac",
   "items" : {
     "allItems" : {
       "1029" : 1,
@@ -135,14 +229,14 @@
     },
     "starters" : [
       [
+        2003
+      ],
+      1,
+      [
         1054,
         2003
       ],
       3,
-      [
-        2003
-      ],
-      1,
       [
         1101
       ],
@@ -154,6 +248,11 @@
   },
   "spellFrequency" : [
     [
+      "SummonerDot.png",
+      "SummonerFlash.png"
+    ],
+    2,
+    [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
@@ -162,13 +261,9 @@
       "SummonerFlash.png",
       "SummonerSmite.png"
     ],
-    1,
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    2
+    1
   ],
   "totalGames" : 5,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

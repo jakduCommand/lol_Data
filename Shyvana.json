@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan...",
+    "id" : "Shyvana",
+    "image" : {
+      "full" : "Shyvana.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "102",
+    "name" : "Shyvana",
+    "passive" : {
+      "description" : "Shyvana deals bonus damage to dragons and gains Armor and Magic Resistance. As Shyvana and her allies slay more dragons, she gains more bonus Armor and Magic Resistance.",
+      "image" : {
+        "full" : "ShyvanaReinforcedScales.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 0
+      },
+      "name" : "Fury of the Dragonborn"
+    },
+    "spells" : [
+      {
+        "description" : "Shyvana strikes twice on her next attack and grants herself Attack Speed for her next attacks. Basic attacks reduce the cooldown of Twin Bite by 0.5 seconds.<br><br><font color='#FF3300'>Dragon Form: <\/font>Twin Bite cleaves all units in front of Shyvana.",
+        "id" : "ShyvanaDoubleAttack",
+        "image" : {
+          "full" : "ShyvanaDoubleAttack.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Twin Bite"
+      },
+      {
+        "description" : "Shyvana surrounds herself in fire, dealing magic damage per second to nearby enemies and moving faster for 3 seconds, part of this damage is applied again when Shyvana basic attacks an enemy with Burnout active. The Move Speed reduces over the duration of the spell. Basic attacks extend the duration of Burnout. <br><br><font color='#FF3300'>Dragon Form: <\/font>Burnout grows in size.",
+        "id" : "ShyvanaImmolationAura",
+        "image" : {
+          "full" : "ShyvanaImmolationAura.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Burnout"
+      },
+      {
+        "description" : "Shyvana unleashes a fireball that deals damage to all enemies it encounters and leaves cinders on the target, marking them for 5 seconds. Shyvana's basic attacks on marked targets deal a percentage of their maximum Health as damage on-hit.<br><br><font color='#FF3300'>Dragon Form: <\/font>Flame Breath explodes on impact or at target location, dealing bonus damage and scorching the earth for a short duration.",
+        "id" : "ShyvanaFireball",
+        "image" : {
+          "full" : "ShyvanaFireball.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Flame Breath"
+      },
+      {
+        "description" : "Shyvana transforms into a dragon and takes flight to a target location. Enemies along her path take damage and are knocked toward her target location.<br><br>Shyvana passively gains Fury per second and gains 2 Fury on basic attack.",
+        "id" : "ShyvanaTransformCast",
+        "image" : {
+          "full" : "ShyvanaTransformCast.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Dragon's Descent"
+      }
+    ],
+    "title" : "the Half-Dragon"
+  },
   "championName" : "Shyvana",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Shyvana",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -47,8 +141,8 @@
     },
     "starters" : [
       [
-        2003,
-        1103
+        1103,
+        2003
       ],
       1
     ],
@@ -58,11 +152,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

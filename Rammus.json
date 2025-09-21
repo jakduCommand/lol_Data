@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast...",
+    "id" : "Rammus",
+    "image" : {
+      "full" : "Rammus.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 10,
+      "difficulty" : 5,
+      "magic" : 5
+    },
+    "key" : "33",
+    "name" : "Rammus",
+    "passive" : {
+      "description" : "Rammus gains bonus Attack Damage scaling with his Armor and Magic Resistance.",
+      "image" : {
+        "full" : "Armordillo_ScavengeArmor.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 48
+      },
+      "name" : "Spiked Shell"
+    },
+    "spells" : [
+      {
+        "description" : "Rammus accelerates in a ball towards his enemies, dealing damage and slowing targets affected by the impact.",
+        "id" : "PowerBall",
+        "image" : {
+          "full" : "PowerBall.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Powerball"
+      },
+      {
+        "description" : "Rammus goes into a defensive formation, vastly increasing his Armor and Magic Resistance, and returning damage to enemies that attack him.",
+        "id" : "DefensiveBallCurl",
+        "image" : {
+          "full" : "DefensiveBallCurl.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Defensive Ball Curl"
+      },
+      {
+        "description" : "Rammus taunts an enemy champion or monster into a reckless assault against him.",
+        "id" : "PuncturingTaunt",
+        "image" : {
+          "full" : "PuncturingTaunt.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Frenzying Taunt"
+      },
+      {
+        "description" : "Rammus hops into the air and slams down at a target area, dealing magic damage and slowing enemies. If cast while Rammus is in Powerball, Rammus knocks up enemies near the center as well.",
+        "id" : "Tremors2",
+        "image" : {
+          "full" : "Tremors2.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Soaring Slam"
+      }
+    ],
+    "title" : "the Armordillo"
+  },
   "championName" : "Rammus",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Rammus",
   "items" : {
     "allItems" : {
       "1033" : 1,
@@ -58,11 +152,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

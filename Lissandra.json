@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Lissandra's magic twists the pure power of ice into something dark and terrible. With the force of her black ice, she does more than freeze—she impales and crushes those who oppose her. To the terrified denizens of the north, she is known only as ''The...",
+    "id" : "Lissandra",
+    "image" : {
+      "full" : "Lissandra.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 8
+    },
+    "key" : "127",
+    "name" : "Lissandra",
+    "passive" : {
+      "description" : "When an enemy champion dies near Lissandra they become a Frozen Thrall. Frozen Thralls slow nearby enemies and then, after a delay, shatter from the intense cold, dealing magic damage to nearby targets.",
+      "image" : {
+        "full" : "Lissandra_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Iceborn Subjugation"
+    },
+    "spells" : [
+      {
+        "description" : "Throws a spear of ice that shatters when it hits an enemy, dealing magic damage and slowing Move Speed. Shards pass through the target, dealing the same damage to other enemies hit.",
+        "id" : "LissandraQ",
+        "image" : {
+          "full" : "LissandraQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Ice Shard"
+      },
+      {
+        "description" : "Freezes nearby enemies in ice, dealing magic damage and rooting them.",
+        "id" : "LissandraW",
+        "image" : {
+          "full" : "LissandraW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Ring of Frost"
+      },
+      {
+        "description" : "Lissandra creates an ice claw that deals magic damage. Reactivating this ability transports Lissandra to the claw's current location.",
+        "id" : "LissandraE",
+        "image" : {
+          "full" : "LissandraE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Glacial Path"
+      },
+      {
+        "description" : "If cast on an enemy champion, the target is frozen solid, stunning it. If cast on Lissandra, she encases herself in dark ice, healing herself while becoming untargetable and invulnerable. Dark ice then emanates from the target dealing magic damage to enemies and slowing Move Speed.",
+        "id" : "LissandraR",
+        "image" : {
+          "full" : "LissandraR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Frozen Tomb"
+      }
+    ],
+    "title" : "the Ice Witch"
+  },
   "championName" : "Lissandra",
   "fullRunePageFrequency" : [
     {
@@ -18,15 +111,15 @@
     2,
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8106
+        "perk1" : 8439,
+        "perk2" : 8446,
+        "perk3" : 8473,
+        "perk4" : 8451
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8400,
       "subPerks" : {
         "perk1" : 8226,
-        "perk2" : 8237
+        "perk2" : 8236
       },
       "subStyle" : 8200
     },
@@ -48,20 +141,21 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8446,
-        "perk3" : 8473,
-        "perk4" : 8451
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8106
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8226,
-        "perk2" : 8236
+        "perk2" : 8237
       },
       "subStyle" : 8200
     },
     1
   ],
+  "id" : "Lissandra",
   "items" : {
     "allItems" : {
       "1029" : 1,
@@ -111,8 +205,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       5
     ],
@@ -123,11 +217,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

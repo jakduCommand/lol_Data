@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans...",
+    "id" : "Sejuani",
+    "image" : {
+      "full" : "Sejuani.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 7,
+      "difficulty" : 4,
+      "magic" : 6
+    },
+    "key" : "113",
+    "name" : "Sejuani",
+    "passive" : {
+      "description" : "After being out of combat, Sejuani gains Frost Armor which grants Armor and Magic Resist and immunity to slows. Frost Armor persists for a short time after Sejuani takes damage.  Sejuani can damage a stunned enemy to shatter it, dealing massive magic damage.",
+      "image" : {
+        "full" : "Sejuani_passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 96
+      },
+      "name" : "Fury of the North"
+    },
+    "spells" : [
+      {
+        "description" : "Sejuani charges forward, knocking enemies into the air. The charge stops after hitting an enemy champion.",
+        "id" : "SejuaniQ",
+        "image" : {
+          "full" : "SejuaniQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Arctic Assault"
+      },
+      {
+        "description" : "Sejuani swings her mace twice, dealing damage, slowing enemies and applying Frost stacks.",
+        "id" : "SejuaniW",
+        "image" : {
+          "full" : "SejuaniW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Winter's Wrath"
+      },
+      {
+        "description" : "Sejuani freezes and stuns an enemy champion that has maximum Frost stacks.",
+        "id" : "SejuaniE",
+        "image" : {
+          "full" : "SejuaniE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Permafrost"
+      },
+      {
+        "description" : "Sejuani throws her bola that freezes and stuns the first champion hit and creates an ice storm that slows other enemies.",
+        "id" : "SejuaniR",
+        "image" : {
+          "full" : "SejuaniR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Glacial Prison"
+      }
+    ],
+    "title" : "Fury of the North"
+  },
   "championName" : "Sejuani",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Sejuani",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -57,11 +151,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

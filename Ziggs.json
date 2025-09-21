@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor's assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town...",
+    "id" : "Ziggs",
+    "image" : {
+      "full" : "Ziggs.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 4,
+      "difficulty" : 4,
+      "magic" : 9
+    },
+    "key" : "115",
+    "name" : "Ziggs",
+    "passive" : {
+      "description" : "Periodically, Ziggs' next basic attack deals bonus magic damage. This cooldown is reduced whenever Ziggs uses an ability.",
+      "image" : {
+        "full" : "ZiggsPassiveReady.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 48
+      },
+      "name" : "Short Fuse"
+    },
+    "spells" : [
+      {
+        "description" : "Ziggs throws a bouncing bomb that deals magic damage.",
+        "id" : "ZiggsQ",
+        "image" : {
+          "full" : "ZiggsQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Bouncing Bomb"
+      },
+      {
+        "description" : "Ziggs flings an explosive charge that detonates after a delay, or when this ability is activated again. The explosion deals magic damage to enemies, knocking them away. Ziggs is also knocked away, but takes no damage. <br><br>Ziggs can use the Satchel to hexplode vulnerable enemy turrets.",
+        "id" : "ZiggsW",
+        "image" : {
+          "full" : "ZiggsW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Satchel Charge"
+      },
+      {
+        "description" : "Ziggs scatters proximity mines that detonate on enemy contact, dealing magic damage and slowing. Successive mine detonations on the same target deal reduced damage.",
+        "id" : "ZiggsE",
+        "image" : {
+          "full" : "ZiggsE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Hexplosive Minefield"
+      },
+      {
+        "description" : "Ziggs deploys his ultimate creation, the Mega Inferno Bomb, hurling it an enormous distance. Enemies in the primary blast zone take more damage than those farther away.",
+        "id" : "ZiggsR",
+        "image" : {
+          "full" : "ZiggsR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Mega Inferno Bomb"
+      }
+    ],
+    "title" : "the Hexplosives Expert"
+  },
   "championName" : "Ziggs",
   "fullRunePageFrequency" : [
     {
@@ -12,51 +105,6 @@
       "subPerks" : {
         "perk1" : 8304,
         "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8321,
-        "perk3" : 8313,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8345
       },
       "subStyle" : 8300
     },
@@ -120,8 +168,54 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
     1
   ],
+  "id" : "Ziggs",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -174,8 +268,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       9
     ],
@@ -193,5 +287,6 @@
     9
   ],
   "totalGames" : 9,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

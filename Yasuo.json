@@ -1,17 +1,125 @@
 {
+  "championDetail" : {
+    "blurb" : "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self...",
+    "id" : "Yasuo",
+    "image" : {
+      "full" : "Yasuo.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 4,
+      "difficulty" : 10,
+      "magic" : 4
+    },
+    "key" : "157",
+    "name" : "Yasuo",
+    "passive" : {
+      "description" : "Yasuo's Critical Strike Chance is increased. Additionally, Yasuo builds toward a shield whenever he is moving. The shield triggers when he takes damage from a champion or monster.",
+      "image" : {
+        "full" : "Yasuo_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "Way of the Wanderer"
+    },
+    "spells" : [
+      {
+        "description" : "Thrusts forward, damaging all enemies in a line.<br><br>On hit, grants a stack of Gathering Storm for a few seconds. At 2 stacks, Steel Tempest fires a whirlwind that knocks <font color='#6655CC'>Airborne<\/font>.<br><br>Steel Tempest is treated as a basic attack and scales with all the same things.",
+        "id" : "YasuoQ1Wrapper",
+        "image" : {
+          "full" : "YasuoQ1Wrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Steel Tempest"
+      },
+      {
+        "description" : "Creates a moving wall that blocks all enemy projectiles for 4 seconds.",
+        "id" : "YasuoW",
+        "image" : {
+          "full" : "YasuoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Wind Wall"
+      },
+      {
+        "description" : "Dashes through target enemy, dealing magic damage. Each cast increases subsequent dash's damage, up to a max amount.<br><br>Cannot be re-cast on the same enemy for a few seconds.<br><br><font color='#99FF99'>If Steel Tempest is cast while dashing, it will strike as a circle.<\/font>",
+        "id" : "YasuoE",
+        "image" : {
+          "full" : "YasuoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Sweeping Blade"
+      },
+      {
+        "description" : "Blinks to an <factionIonia1>Airborne<\/factionIonia1> enemy champion, dealing physical damage and holding all <factionIonia1>Airborne<\/factionIonia1> enemies in the area in the air. Grants maximum Flow but resets all stacks of Gathering Storm.<br><br>For a moderate time afterwards, Yasuo's critical strikes gain significant Bonus Armor Penetration.",
+        "id" : "YasuoR",
+        "image" : {
+          "full" : "YasuoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Last Breath"
+      }
+    ],
+    "title" : "the Unforgiven"
+  },
   "championName" : "Yasuo",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9101,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8451,
-        "perk2" : 8444
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -34,34 +142,20 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9111,
+        "perk2" : 9101,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8451,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8401,
         "perk2" : 8444
       },
       "subStyle" : 8400
     },
-    2
+    1
   ],
+  "id" : "Yasuo",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -102,8 +196,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       5
     ],
@@ -130,5 +224,6 @@
     1
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

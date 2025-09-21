@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "An unhinged and impulsive criminal from the undercity, Jinx is haunted by the consequences of her past—but that doesn't stop her from bringing her own chaotic brand of pandemonium to Piltover and Zaun. She uses her arsenal of DIY weapons to devastating...",
+    "id" : "Jinx",
+    "image" : {
+      "full" : "Jinx.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 2,
+      "difficulty" : 6,
+      "magic" : 4
+    },
+    "key" : "222",
+    "name" : "Jinx",
+    "passive" : {
+      "description" : "Jinx receives massively increased Move Speed and Attack Speed whenever she helps kill or destroy an enemy champions epic jungle monster, or structure.",
+      "image" : {
+        "full" : "Jinx_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 96
+      },
+      "name" : "Get Excited!"
+    },
+    "spells" : [
+      {
+        "description" : "Jinx modifies her basic attacks by swapping between Pow-Pow, her minigun and Fishbones, her rocket launcher. Attacks with Pow-Pow grant Attack Speed, while attacks with Fishbones deal area of effect damage, gain increased range, but drain Mana and attack slower.",
+        "id" : "JinxQ",
+        "image" : {
+          "full" : "JinxQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Switcheroo!"
+      },
+      {
+        "description" : "Jinx uses Zapper, her shock pistol, to fire a blast that deals damage to the first enemy hit, slowing and revealing it.",
+        "id" : "JinxW",
+        "image" : {
+          "full" : "JinxW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Zap!"
+      },
+      {
+        "description" : "Jinx throws out a line of snare grenades that explode after 5 seconds, lighting enemies on fire. Flame Chompers will bite enemy champions who walk over them, rooting them in place.",
+        "id" : "JinxE",
+        "image" : {
+          "full" : "JinxE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Flame Chompers!"
+      },
+      {
+        "description" : "Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health.",
+        "id" : "JinxR",
+        "image" : {
+          "full" : "JinxR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Super Mega Death Rocket!"
+      }
+    ],
+    "title" : "the Loose Cannon"
+  },
   "championName" : "Jinx",
   "fullRunePageFrequency" : [
     {
@@ -6,16 +99,16 @@
         "perk1" : 8008,
         "perk2" : 8009,
         "perk3" : 9103,
-        "perk4" : 8017
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
+        "perk1" : 8233,
+        "perk2" : 8236
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -51,17 +144,18 @@
         "perk1" : 8008,
         "perk2" : 8009,
         "perk3" : 9103,
-        "perk4" : 8014
+        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
+        "perk1" : 8345,
+        "perk2" : 8347
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
-    2
+    1
   ],
+  "id" : "Jinx",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -109,8 +203,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       14
     ],
@@ -122,21 +216,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerBoost.png"
+      "SummonerHaste.png",
+      "SummonerFlash.png"
+    ],
+    2,
+    [
+      "SummonerBoost.png",
+      "SummonerFlash.png"
     ],
     1,
     [
       "SummonerFlash.png",
       "SummonerBarrier.png"
     ],
-    11,
-    [
-      "SummonerFlash.png",
-      "SummonerHaste.png"
-    ],
-    2
+    11
   ],
   "totalGames" : 14,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

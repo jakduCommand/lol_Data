@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave...",
+    "id" : "XinZhao",
+    "image" : {
+      "full" : "XinZhao.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 6,
+      "difficulty" : 2,
+      "magic" : 3
+    },
+    "key" : "5",
+    "name" : "Xin Zhao",
+    "passive" : {
+      "description" : "Every third attack deals bonus damage and heals Xin Zhao.",
+      "image" : {
+        "full" : "XinZhaoReworkP.XinZhaoRework.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 0
+      },
+      "name" : "Determination"
+    },
+    "spells" : [
+      {
+        "description" : "Xin Zhao's next 3 standard attacks deal increased damage with the third attack knocking an opponent into the air.",
+        "id" : "XinZhaoQ",
+        "image" : {
+          "full" : "XinZhaoQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Three Talon Strike"
+      },
+      {
+        "description" : "Xin Zhao slashes in front of himself with his spear, then thrusts it forward, slowing affected enemies and marking them as Challenged.",
+        "id" : "XinZhaoW",
+        "image" : {
+          "full" : "XinZhaoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Wind Becomes Lightning"
+      },
+      {
+        "description" : "Xin Zhao charges to an enemy, gaining increased Attack Speed and dealing damage to all enemies in the area, slowing them briefly. This Ability gains increased range against Challenged targets.",
+        "id" : "XinZhaoE",
+        "image" : {
+          "full" : "XinZhaoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Audacious Charge"
+      },
+      {
+        "description" : "Xin Zhao passively challenges an enemy he damaged recently. When activated, Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back, becoming impervious to damage dealt by champions outside of the circle created.",
+        "id" : "XinZhaoR",
+        "image" : {
+          "full" : "XinZhaoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Crescent Guard"
+      }
+    ],
+    "title" : "the Seneschal of Demacia"
+  },
+  "championName" : "Xin Zhao",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "XinZhao",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3111" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3071" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3748" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "6333" : 1
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

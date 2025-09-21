@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel specter Thresh. But refusing to...",
+    "id" : "Senna",
+    "image" : {
+      "full" : "Senna.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 6
+    },
+    "key" : "235",
+    "name" : "Senna",
+    "passive" : {
+      "description" : "When units die near Senna, their souls are periodically trapped by the Black Mist. Senna can attack these souls to free them, absorbing the Mist that held them in death. Mist fuels her Relic Cannon's power with increased Attack Damage, Attack Range, and Critical Strike Chance. <br><br>Attacks from Senna's Relic Cannon take longer to fire, deal bonus damage, and briefly grant her a portion of her target's Move Speed.",
+      "image" : {
+        "full" : "Senna_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 96
+      },
+      "name" : "Absolution"
+    },
+    "spells" : [
+      {
+        "description" : "From the twin barrels of her Relic Cannon, Senna fires a unified beam of light and shadow through a target, healing allies and damaging enemies.",
+        "id" : "SennaQ",
+        "image" : {
+          "full" : "SennaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Piercing Darkness"
+      },
+      {
+        "description" : "Senna sends forth a wave of Black Mist. If it hits an enemy it latches onto them hungrily, rooting them and everything nearby after a brief delay.",
+        "id" : "SennaW",
+        "image" : {
+          "full" : "SennaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Last Embrace"
+      },
+      {
+        "description" : "Senna draws the Mist she has stored in her weapon into a storm around her, embracing darkness and becoming a wraith within. Allies who enter the area are camouflaged and also appear as wraiths as the Mist shrouds them. Wraiths gain increased Move Speed, are unselectable, and hide their identities.",
+        "id" : "SennaE",
+        "image" : {
+          "full" : "SennaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Curse of the Black Mist"
+      },
+      {
+        "description" : "Senna calls upon the relic stones of fallen Sentinels, splitting her relic cannon into a holy array of shadow and light. She then fires a global beam that shields allies from harm, while damaging enemies caught in the center.",
+        "id" : "SennaR",
+        "image" : {
+          "full" : "SennaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Dawning Shadow"
+      }
+    ],
+    "title" : "the Redeemer"
+  },
   "championName" : "Senna",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8021,
@@ -33,17 +141,47 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8463,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8453
+        "perk3" : 8429,
+        "perk4" : 8451
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8345
+        "perk1" : 8226,
+        "perk2" : 8234
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8236,
+        "perk2" : 8226
+      },
+      "subStyle" : 8200
     },
     1,
     {
@@ -75,53 +213,9 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8463,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8236,
-        "perk2" : 8226
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8463,
-        "perk3" : 8429,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Senna",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -183,14 +277,14 @@
     },
     "starters" : [
       [
-        2003
-      ],
-      6,
-      [
         2003,
         1055
       ],
-      3
+      3,
+      [
+        2003
+      ],
+      6
     ],
     "thirdCore" : {
       "3033" : 2,
@@ -200,16 +294,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     6,
     [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     3
   ],
   "totalGames" : 9,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

@@ -1,21 +1,144 @@
 {
+  "championDetail" : {
+    "blurb" : "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe...",
+    "id" : "Taliyah",
+    "image" : {
+      "full" : "Taliyah.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 7,
+      "difficulty" : 5,
+      "magic" : 8
+    },
+    "key" : "163",
+    "name" : "Taliyah",
+    "passive" : {
+      "description" : "Taliyah gains Move Speed near walls.",
+      "image" : {
+        "full" : "Taliyah_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Rock Surfing"
+    },
+    "spells" : [
+      {
+        "description" : "Taliyah throws a volley of rocks in a target direction, moving freely as she casts. This creates Worked Ground below her. If Taliyah casts Threaded Volley on Worked Ground, she consumes the ground to throw a stronger boulder that slows enemies.",
+        "id" : "TaliyahQ",
+        "image" : {
+          "full" : "TaliyahQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Threaded Volley"
+      },
+      {
+        "description" : "Taliyah causes an area of ground to erupt and throws enemies within it in a direction of her choosing.",
+        "id" : "TaliyahWVC",
+        "image" : {
+          "full" : "TaliyahWVC.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Seismic Shove"
+      },
+      {
+        "description" : "Taliyah creates a slowing minefield. If enemies dash through it or are knocked through it, the mines explode and stun them.",
+        "id" : "TaliyahE",
+        "image" : {
+          "full" : "TaliyahE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Unraveled Earth"
+      },
+      {
+        "description" : "Taliyah creates a very long wall and then surfs it.",
+        "id" : "TaliyahR",
+        "image" : {
+          "full" : "TaliyahR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Weaver's Wall"
+      }
+    ],
+    "title" : "the Stoneweaver"
+  },
   "championName" : "Taliyah",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8128,
-        "perk2" : 8139,
-        "perk3" : 8137,
-        "perk4" : 8105
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8410
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8232,
+        "perk2" : 8234
       },
       "subStyle" : 8200
     },
-    2,
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -49,33 +172,18 @@
     {
       "primaryPerks" : {
         "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8135
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8105
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8210,
+        "perk2" : 8236
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -105,23 +213,9 @@
       },
       "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8304,
-        "perk3" : 8313,
-        "perk4" : 8410
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8232,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Taliyah",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -182,8 +276,8 @@
     },
     "starters" : [
       [
-        1101,
-        2003
+        2003,
+        1101
       ],
       2,
       [
@@ -205,21 +299,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
+    ],
+    5,
+    [
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     3,
     [
       "SummonerFlash.png",
       "SummonerExhaust.png"
     ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    5
+    1
   ],
   "totalGames" : 9,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

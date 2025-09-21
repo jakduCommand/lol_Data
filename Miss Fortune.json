@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally...",
+    "id" : "MissFortune",
+    "image" : {
+      "full" : "MissFortune.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 2,
+      "difficulty" : 1,
+      "magic" : 5
+    },
+    "key" : "21",
+    "name" : "Miss Fortune",
+    "passive" : {
+      "description" : "Miss Fortune deals bonus physical damage whenever she basic attacks a new target.",
+      "image" : {
+        "full" : "MissFortune_W.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 96
+      },
+      "name" : "Love Tap"
+    },
+    "spells" : [
+      {
+        "description" : "Miss Fortune fires a bullet at an enemy, damaging them and a target behind them. Both strikes can also apply Love Tap.",
+        "id" : "MissFortuneRicochetShot",
+        "image" : {
+          "full" : "MissFortuneRicochetShot.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Double Up"
+      },
+      {
+        "description" : "Miss Fortune passively gains Move Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut.",
+        "id" : "MissFortuneViciousStrikes",
+        "image" : {
+          "full" : "MissFortuneViciousStrikes.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Strut"
+      },
+      {
+        "description" : "Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them.",
+        "id" : "MissFortuneScattershot",
+        "image" : {
+          "full" : "MissFortuneScattershot.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Make It Rain"
+      },
+      {
+        "description" : "Miss Fortune channels a barrage of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike",
+        "id" : "MissFortuneBulletTime",
+        "image" : {
+          "full" : "MissFortuneBulletTime.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Bullet Time"
+      }
+    ],
+    "title" : "the Bounty Hunter"
+  },
+  "championName" : "Miss Fortune",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "MissFortune",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3142" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1055
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

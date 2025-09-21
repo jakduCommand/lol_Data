@@ -1,21 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving specter tortured by an...",
+    "id" : "Viego",
+    "image" : {
+      "full" : "Viego.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 2
+    },
+    "key" : "234",
+    "name" : "Viego",
+    "passive" : {
+      "description" : "Enemies who fall before Viego become wraiths. By attacking a wraith, Viego temporarily seizes control of the dead enemy's body, healing for a percentage of his target's max health and gaining access to their basic abilities and items. He replaces their Ultimate with a free cast of his own.",
+      "image" : {
+        "full" : "Viego_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 0
+      },
+      "name" : "Sovereign's Domination"
+    },
+    "spells" : [
+      {
+        "description" : "Viego's spectral blade passively deals bonus percent current Health damage <OnHit>On-Hit<\/OnHit> and strikes twice vs. enemies he recently hit with an Ability, stealing Health.<br><br>Viego can activate this Ability to thrust his zweihander forward, impaling enemies in front of him.",
+        "id" : "ViegoQ",
+        "image" : {
+          "full" : "ViegoQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Blade of the Ruined King"
+      },
+      {
+        "description" : "Viego charges up before dashing forward, releasing a ball of concentrated Black Mist that stuns the first enemy hit.",
+        "id" : "ViegoW",
+        "image" : {
+          "full" : "ViegoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Spectral Maw"
+      },
+      {
+        "description" : "Viego commands the Black Mist to haunt and surround a piece of terrain. Viego can hide in the Mist as a wraith, gaining camouflage, Move Speed, and Attack Speed.",
+        "id" : "ViegoE",
+        "image" : {
+          "full" : "ViegoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Harrowed Path"
+      },
+      {
+        "description" : "Viego teleports to a nearby location and executes an enemy champion on arrival, piercing their heart and causing a destructive shockwave around them that knocks away their allies.",
+        "id" : "ViegoR",
+        "image" : {
+          "full" : "ViegoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Heartbreaker"
+      }
+    ],
+    "title" : "The Ruined King"
+  },
   "championName" : "Viego",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8232
+        "perk1" : 8347,
+        "perk2" : 8304
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
-    1,
+    6,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -48,20 +141,21 @@
     6,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8210,
+        "perk2" : 8232
       },
-      "subStyle" : 8300
+      "subStyle" : 8200
     },
-    6
+    1
   ],
+  "id" : "Viego",
   "items" : {
     "allItems" : {
       "1018" : 3,
@@ -119,14 +213,14 @@
     },
     "starters" : [
       [
+        1102
+      ],
+      3,
+      [
         1102,
         2003
       ],
-      11,
-      [
-        1102
-      ],
-      3
+      11
     ],
     "thirdCore" : {
       "3036" : 2,
@@ -142,5 +236,6 @@
     14
   ],
   "totalGames" : 14,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

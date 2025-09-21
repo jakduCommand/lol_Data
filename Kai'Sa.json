@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered...",
+    "id" : "Kaisa",
+    "image" : {
+      "full" : "Kaisa.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "145",
+    "name" : "Kai'Sa",
+    "passive" : {
+      "description" : "Kai'Sa's basic attacks stack Plasma, dealing increasing bonus magic damage. Allies' immobilizing effects help stack Plasma. Additionally, Kai'Sa's item purchases upgrade her basic spells to have more powerful properties.",
+      "image" : {
+        "full" : "Kaisa_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 96
+      },
+      "name" : "Second Skin"
+    },
+    "spells" : [
+      {
+        "description" : "Kai'Sa shoots a swarm of missiles that seek out nearby targets.<br><br>Living Weapon: Icathian Rain is upgraded to shoot more missiles.",
+        "id" : "KaisaQ",
+        "image" : {
+          "full" : "KaisaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Icathian Rain"
+      },
+      {
+        "description" : "Kai'Sa shoots a long range missile, marking enemies with her passive.<br><br>Living Weapon: Void Seeker is upgraded to apply more passive marks and reduce cooldown on champion hit.",
+        "id" : "KaisaW",
+        "image" : {
+          "full" : "KaisaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Void Seeker"
+      },
+      {
+        "description" : "Kai'Sa briefly increases her Move Speed, then increases her Attack Speed.<br><br>Living Weapon: Supercharge is upgraded to briefly grant Invisibility.",
+        "id" : "KaisaE",
+        "image" : {
+          "full" : "KaisaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Supercharge"
+      },
+      {
+        "description" : "Kai'Sa dashes near an enemy champion.",
+        "id" : "KaisaR",
+        "image" : {
+          "full" : "KaisaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Killer Instinct"
+      }
+    ],
+    "title" : "Daughter of the Void"
+  },
+  "championName" : "Kai'Sa",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "Kaisa",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3006" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3087" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3124" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1055,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3115" : 1
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

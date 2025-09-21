@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Illaoi's powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes' spirits from their bodies and shatter their perception of reality. All who challenge the “Truth Bearer...",
+    "id" : "Illaoi",
+    "image" : {
+      "full" : "Illaoi.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "420",
+    "name" : "Illaoi",
+    "passive" : {
+      "description" : "Illaoi and the <font color='#669900'>Vessels<\/font> she creates spawn Tentacles on nearby impassible terrain. Tentacles swing at spirits, <font color='#669900'>Vessels<\/font>, and victims of Illaoi's Harsh lesson. Tentacles deal physical damage to enemies hit, and will heal Illaoi if they damage a champion.",
+      "image" : {
+        "full" : "Illaoi_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 48
+      },
+      "name" : "Prophet of an Elder God"
+    },
+    "spells" : [
+      {
+        "description" : "Increases the damage dealt by Tentacles. When activated, Illaoi smashes down a Tentacle that deals physical damage.",
+        "id" : "IllaoiQ",
+        "image" : {
+          "full" : "IllaoiQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Tentacle Smash"
+      },
+      {
+        "description" : "Illaoi leaps to her target, dealing physical damage and causing nearby Tentacles to also swing at the target.",
+        "id" : "IllaoiW",
+        "image" : {
+          "full" : "IllaoiW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Harsh Lesson"
+      },
+      {
+        "description" : "Illaoi rips the spirit from a foe's body, forcing it to stand before her. Spirits echo a percentage of the damage they take to the original target. If killed, or if the target gets too far from the spirit, the target will become a <font color='#669900'>Vessel<\/font> and begin spawning Tentacles.",
+        "id" : "IllaoiE",
+        "image" : {
+          "full" : "IllaoiE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Test of Spirit"
+      },
+      {
+        "description" : "Illaoi smashes her idol into the ground, dealing physical damage to nearby enemies. A Tentacle spawns for each enemy champion hit.",
+        "id" : "IllaoiR",
+        "image" : {
+          "full" : "IllaoiR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Leap of Faith"
+      }
+    ],
+    "title" : "the Kraken Priestess"
+  },
   "championName" : "Illaoi",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Illaoi",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -47,8 +141,8 @@
     },
     "starters" : [
       [
-        2003,
-        1054
+        1054,
+        2003
       ],
       1
     ],
@@ -58,11 +152,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

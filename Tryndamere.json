@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the...",
+    "id" : "Tryndamere",
+    "image" : {
+      "full" : "Tryndamere.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 5,
+      "difficulty" : 5,
+      "magic" : 2
+    },
+    "key" : "23",
+    "name" : "Tryndamere",
+    "passive" : {
+      "description" : "Tryndamere gains Fury for each attack, critical strike, and killing blow he makes. Fury passively increases his Critical Strike Chance and can be consumed with his Bloodlust spell.",
+      "image" : {
+        "full" : "Tryndamere_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Battle Fury"
+    },
+    "spells" : [
+      {
+        "description" : "Tryndamere thrives on the thrills of combat, increasing his Attack Damage as he is more and more wounded. He can cast Bloodlust to consume his Fury and heal himself.",
+        "id" : "TryndamereQ",
+        "image" : {
+          "full" : "TryndamereQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Bloodlust"
+      },
+      {
+        "description" : "Tryndamere lets out an insulting cry, decreasing surrounding champions' Attack Damage. Enemies with their backs turned to Tryndamere also have their Move Speed reduced.",
+        "id" : "TryndamereW",
+        "image" : {
+          "full" : "TryndamereW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Mocking Shout"
+      },
+      {
+        "description" : "Tryndamere slices toward a target unit, dealing damage to enemies in his path.",
+        "id" : "TryndamereE",
+        "image" : {
+          "full" : "TryndamereE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Spinning Slash"
+      },
+      {
+        "description" : "Tryndamere's lust for battle becomes so strong that he is unable to die, no matter how wounded he becomes.",
+        "id" : "UndyingRage",
+        "image" : {
+          "full" : "UndyingRage.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Undying Rage"
+      }
+    ],
+    "title" : "the Barbarian King"
+  },
   "championName" : "Tryndamere",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    2,
     {
       "primaryPerks" : {
         "perk1" : 9923,
@@ -40,12 +118,12 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8210
+        "perk1" : 8446,
+        "perk2" : 8444
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -70,6 +148,21 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
         "perk1" : 8444,
         "perk2" : 8453
       },
@@ -77,6 +170,7 @@
     },
     1
   ],
+  "id" : "Tryndamere",
   "items" : {
     "allItems" : {
       "1018" : 3,
@@ -133,20 +227,20 @@
     },
     "starters" : [
       [
-        1102,
-        2003
-      ],
-      1,
-      [
-        1054,
-        2003
+        2003,
+        1102
       ],
       1,
       [
         1055,
         2003
       ],
-      4
+      4,
+      [
+        1054,
+        2003
+      ],
+      1
     ],
     "thirdCore" : {
       "3036" : 1,
@@ -155,21 +249,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerFlash.png"
     ],
     4,
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 6,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

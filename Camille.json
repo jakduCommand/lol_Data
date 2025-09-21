@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros—an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly runs smoothly. Adaptable and precise, she views sloppy...",
+    "id" : "Camille",
+    "image" : {
+      "full" : "Camille.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "164",
+    "name" : "Camille",
+    "passive" : {
+      "description" : "Basic attacks on champions grant a shield equal to a percentage of Camille's maximum health against their damage type (Physical or Magic) for a brief duration.",
+      "image" : {
+        "full" : "Camille_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 96
+      },
+      "name" : "Adaptive Defenses"
+    },
+    "spells" : [
+      {
+        "description" : "Camille's next attack deals bonus damage and grants bonus Move Speed. This spell can be recast for a short period of time, doing significantly increased bonus damage if Camille delays a period of time between the two attacks.",
+        "id" : "CamilleQ",
+        "image" : {
+          "full" : "CamilleQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Precision Protocol"
+      },
+      {
+        "description" : "Camille blasts in a cone after a delay, dealing damage. Enemies in the outer half are slowed and take extra damage, while also healing Camille.",
+        "id" : "CamilleW",
+        "image" : {
+          "full" : "CamilleW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Tactical Sweep"
+      },
+      {
+        "description" : "Camille pulls herself to a wall, leaping off and knocking up enemy champions upon landing.",
+        "id" : "CamilleE",
+        "image" : {
+          "full" : "CamilleE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Hookshot"
+      },
+      {
+        "description" : "Camille dashes to target champion, anchoring them to the area. She also deals bonus magic damage to the target with her basic attacks.",
+        "id" : "CamilleR",
+        "image" : {
+          "full" : "CamilleR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "The Hextech Ultimatum"
+      }
+    ],
+    "title" : "the Steel Shadow"
+  },
   "championName" : "Camille",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -30,8 +108,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Camille",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -67,8 +161,8 @@
     },
     "starters" : [
       [
-        2003,
-        1054
+        1054,
+        2003
       ],
       1,
       [
@@ -82,16 +176,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
+      "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 2,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

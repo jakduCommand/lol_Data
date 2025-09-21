@@ -1,49 +1,112 @@
 {
+  "championDetail" : {
+    "blurb" : "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without...",
+    "id" : "Zoe",
+    "image" : {
+      "full" : "Zoe.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 7,
+      "difficulty" : 5,
+      "magic" : 8
+    },
+    "key" : "142",
+    "name" : "Zoe",
+    "passive" : {
+      "description" : "Zoe's next basic attack after casting a spell deals bonus magic damage.",
+      "image" : {
+        "full" : "Zoe_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 48
+      },
+      "name" : "More Sparkles!"
+    },
+    "spells" : [
+      {
+        "description" : "Zoe fires a missile that she can redirect in flight. Deals more damage the longer it flies in a straight line.",
+        "id" : "ZoeQ",
+        "image" : {
+          "full" : "ZoeQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Paddle Star!"
+      },
+      {
+        "description" : "Zoe can pick up the remnants of enemy summoner spell and active item casts and cast them once herself. Whenever she casts a summoner spell, she gains 3 missiles that fire at the nearest target.",
+        "id" : "ZoeW",
+        "image" : {
+          "full" : "ZoeW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Spell Thief"
+      },
+      {
+        "description" : "Causes the target to become drowsy, then fall asleep. While asleep, the target's Magic Resist is reduced. The first source of damage that breaks the sleep is doubled, up to a cap.",
+        "id" : "ZoeE",
+        "image" : {
+          "full" : "ZoeE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Sleepy Trouble Bubble"
+      },
+      {
+        "description" : "Blink to a nearby position for 1 second. Then blink back.",
+        "id" : "ZoeR",
+        "image" : {
+          "full" : "ZoeR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Portal Jump"
+      }
+    ],
+    "title" : "the Aspect of Twilight"
+  },
   "championName" : "Zoe",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    2,
-    {
-      "primaryPerks" : {
         "perk1" : 8214,
-        "perk2" : 8275,
+        "perk2" : 8226,
         "perk3" : 8210,
         "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8313,
-        "perk2" : 8347
+        "perk1" : 8139,
+        "perk2" : 8105
       },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8275
-      },
-      "subStyle" : 8200
+      "subStyle" : 8100
     },
     1,
     {
@@ -63,19 +126,34 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8275
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8214,
-        "perk2" : 8226,
+        "perk2" : 8275,
         "perk3" : 8210,
         "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8139,
-        "perk2" : 8105
+        "perk1" : 8313,
+        "perk2" : 8347
       },
-      "subStyle" : 8100
+      "subStyle" : 8300
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -90,8 +168,24 @@
       },
       "subStyle" : 8200
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    2
   ],
+  "id" : "Zoe",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -143,8 +237,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       6,
       [
@@ -160,15 +254,16 @@
   "spellFrequency" : [
     [
       "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerDot.png"
     ],
-    1,
+    7,
     [
-      "SummonerDot.png",
+      "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    7
+    1
   ],
   "totalGames" : 8,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

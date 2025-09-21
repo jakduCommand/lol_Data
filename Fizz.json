@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him—for many are the tales...",
+    "id" : "Fizz",
+    "image" : {
+      "full" : "Fizz.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 4,
+      "difficulty" : 6,
+      "magic" : 7
+    },
+    "key" : "105",
+    "name" : "Fizz",
+    "passive" : {
+      "description" : "Fizz can move through units and takes a flat amount of reduced damage from all sources",
+      "image" : {
+        "full" : "Fizz_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 0
+      },
+      "name" : "Nimble Fighter"
+    },
+    "spells" : [
+      {
+        "description" : "Fizz dashes through his target, dealing magic damage and applying on hit effects.",
+        "id" : "FizzQ",
+        "image" : {
+          "full" : "FizzQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Urchin Strike"
+      },
+      {
+        "description" : "Fizz's attacks bleed his enemies, dealing magic damage over several seconds. Fizz can empower his next attack to deal bonus damage and empower his further attacks for a short time.",
+        "id" : "FizzW",
+        "image" : {
+          "full" : "FizzW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Seastone Trident"
+      },
+      {
+        "description" : "Fizz hops into the air, landing gracefully upon his spear and becoming untargetable. From this position, Fizz can either slam the ground or choose to jump again before smashing back down.",
+        "id" : "FizzE",
+        "image" : {
+          "full" : "FizzE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Playful \/ Trickster"
+      },
+      {
+        "description" : "Fizz tosses a fish in a direction that attaches to any champion that touches it, slowing the target. After a short delay, a shark erupts from the ground, knocking up the target and knocking any nearby enemies aside. All enemies hit are dealt magic damage and slowed.",
+        "id" : "FizzR",
+        "image" : {
+          "full" : "FizzR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Chum the Waters"
+      }
+    ],
+    "title" : "the Tidal Trickster"
+  },
   "championName" : "Fizz",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Fizz",
   "items" : {
     "allItems" : {
       "1056" : 1,
@@ -83,8 +177,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       3
     ],
@@ -94,11 +188,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

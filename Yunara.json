@@ -1,41 +1,104 @@
 {
+  "championDetail" : {
+    "blurb" : "Unwavering in her devotion to Ionia, Yunara has spent centuries cloistered away in the spirit realm honing her skills with the Aion Er'na, a legendary Kinkou relic. Despite all she has sacrificed, Yunara's vow to rid the land of disharmony and strife...",
+    "id" : "Yunara",
+    "image" : {
+      "full" : "Yunara.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 2,
+      "difficulty" : 4,
+      "magic" : 0
+    },
+    "key" : "804",
+    "name" : "Yunara",
+    "passive" : {
+      "description" : "Yunara's Critical Strikes deal bonus magic damage.",
+      "image" : {
+        "full" : "Yunara_Passive.Yunara.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 48
+      },
+      "name" : "Vow of the First Lands"
+    },
+    "spells" : [
+      {
+        "description" : "Yunara gains Attack Speed, bonus damage On-Hit, and her Attacks spread to nearby enemies.",
+        "id" : "YunaraQ",
+        "image" : {
+          "full" : "YunaraQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Cultivation of Spirit"
+      },
+      {
+        "description" : "Yunara fires a spinning prayer bead that deals damage and slows enemies. While in her Transcendent State she instead fires off a laser that deals damage and slows enemies.",
+        "id" : "YunaraW",
+        "image" : {
+          "full" : "YunaraW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Arc of Judgment | Arc of Ruin"
+      },
+      {
+        "description" : "Yunara gains decaying movement speed and becomes Ghosted. While in her Transcendent State she instead dashes in a direction.",
+        "id" : "YunaraE",
+        "image" : {
+          "full" : "YunaraE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Kanmei's Steps | Untouchable Shadow"
+      },
+      {
+        "description" : "Yunara enters a Transcendent State that upgrades her basic Abilities.",
+        "id" : "YunaraR",
+        "image" : {
+          "full" : "YunaraR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Transcend One's Self"
+      }
+    ],
+    "title" : "the Unbroken Faith"
+  },
   "championName" : "Yunara",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    4,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -64,38 +127,23 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9101,
-        "perk3" : 9104,
+        "perk2" : 9111,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8143,
+        "perk2" : 8106
       },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
+      "subStyle" : 8100
     },
     1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
-        "perk3" : 9104,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -106,6 +154,36 @@
       "subStyle" : 8300
     },
     2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    4,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -124,19 +202,35 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
+        "perk2" : 8009,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8106
+        "perk1" : 8347,
+        "perk2" : 8345
       },
-      "subStyle" : 8100
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
     },
     1
   ],
+  "id" : "Yunara",
   "items" : {
     "allItems" : {
       "1018" : 4,
@@ -203,8 +297,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       18
     ],
@@ -214,23 +308,23 @@
   },
   "spellFrequency" : [
     [
-      "SummonerBoost.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerExhaust.png",
       "SummonerFlash.png"
     ],
     2,
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerBoost.png"
     ],
     1,
     [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
+    ],
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     12,
     [
@@ -240,5 +334,6 @@
     2
   ],
   "totalGames" : 18,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

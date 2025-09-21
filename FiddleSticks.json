@@ -1,109 +1,119 @@
 {
-  "championName" : "FiddleSticks",
+  "championDetail" : {
+    "blurb" : "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe...",
+    "id" : "Fiddlesticks",
+    "image" : {
+      "full" : "Fiddlesticks.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 3,
+      "difficulty" : 9,
+      "magic" : 9
+    },
+    "key" : "9",
+    "name" : "Fiddlesticks",
+    "passive" : {
+      "description" : "Fiddlesticks' trinket is replaced by scarecrow effigies.",
+      "image" : {
+        "full" : "FiddlesticksP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "A Harmless Scarecrow"
+    },
+    "spells" : [
+      {
+        "description" : "Fiddlesticks damaging enemies with spells while unseen or targeting an enemy with Terrify's activation strikes a target unit with fear, causing it to flee in terror for a duration.",
+        "id" : "FiddleSticksQ",
+        "image" : {
+          "full" : "FiddleSticksQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Terrify"
+      },
+      {
+        "description" : "Fiddlesticks drains health from nearby enemies, dealing bonus execute damage at the end of the duration.",
+        "id" : "FiddleSticksW",
+        "image" : {
+          "full" : "FiddleSticksW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Bountiful Harvest"
+      },
+      {
+        "description" : "Fiddlesticks slashes an area with its scythe, slowing all enemies hit and silencing enemies hit in the center of the slash.",
+        "id" : "FiddleSticksE",
+        "image" : {
+          "full" : "FiddleSticksE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Reap"
+      },
+      {
+        "description" : "A murder of crows flock wildly around Fiddlesticks, dealing damage per second to all enemy units in the area.",
+        "id" : "FiddleSticksR",
+        "image" : {
+          "full" : "FiddleSticksR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Crowstorm"
+      }
+    ],
+    "title" : "the Ancient Fear"
+  },
+  "championName" : "Fiddlesticks",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8224
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8126,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8232
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8321,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1
+
   ],
+  "id" : "Fiddlesticks",
   "items" : {
     "allItems" : {
-      "1011" : 1,
-      "1026" : 1,
-      "1052" : 1,
-      "2055" : 1,
-      "3002" : 1,
-      "3020" : 3,
-      "3102" : 1,
-      "3118" : 1,
-      "3152" : 1,
-      "3157" : 2,
-      "3176" : 1,
-      "3190" : 1,
-      "3330" : 4,
-      "3742" : 1,
-      "3876" : 1,
-      "3916" : 1,
-      "6653" : 1,
-      "8010" : 1,
-      "8020" : 1
+
     },
     "boots" : {
-      "3010" : 1,
-      "3020" : 3
+      "3020" : 1
     },
     "fifthCore" : {
       "8010" : 1
     },
     "firstCore" : {
-      "3002" : 1,
-      "3118" : 1,
-      "3152" : 1,
-      "6653" : 1
+      "3118" : 1
     },
     "fourthCore" : {
       "3742" : 1
     },
     "secondCore" : {
-      "3102" : 1,
-      "3157" : 1,
-      "3190" : 1,
       "8020" : 1
     },
     "sixthCore" : {
@@ -114,14 +124,6 @@
         1056,
         2003
       ],
-      1,
-      [
-        1102
-      ],
-      2,
-      [
-        2003
-      ],
       1
     ],
     "thirdCore" : {
@@ -129,22 +131,9 @@
     }
   },
   "spellFrequency" : [
-    [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
-    ],
-    2,
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
-    ],
-    1
+
   ],
-  "totalGames" : 4,
-  "totalWins" : 2
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

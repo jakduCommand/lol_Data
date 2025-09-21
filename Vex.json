@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting...",
+    "id" : "Vex",
+    "image" : {
+      "full" : "Vex.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 0,
+      "defense" : 0,
+      "difficulty" : 0,
+      "magic" : 0
+    },
+    "key" : "711",
+    "name" : "Vex",
+    "passive" : {
+      "description" : "Vex periodically becomes empowered, causing her next basic Ability to fear enemies and interrupt dashes. Whenever a nearby enemy dashes, Vex applies a mark that can be consumed for bonus damage that also reduces the cooldown of her empowered state.",
+      "image" : {
+        "full" : "Icons_Vex_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 96
+      },
+      "name" : "Doom 'n Gloom"
+    },
+    "spells" : [
+      {
+        "description" : "Launch a damaging missile that accelerates mid-flight.",
+        "id" : "VexQ",
+        "image" : {
+          "full" : "VexQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Mistral Bolt"
+      },
+      {
+        "description" : "Gain a shield and damage nearby enemies.",
+        "id" : "VexW",
+        "image" : {
+          "full" : "VexW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Personal Space"
+      },
+      {
+        "description" : "Summon a damaging and slowing zone that applies Gloom to enemies.",
+        "id" : "VexE",
+        "image" : {
+          "full" : "VexE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Looming Darkness"
+      },
+      {
+        "description" : "Fire a missile that marks an enemy champion.  Recast to dash to them and deal damage.",
+        "id" : "VexR",
+        "image" : {
+          "full" : "VexR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Shadow Surge"
+      }
+    ],
+    "title" : "the Gloomist"
+  },
   "championName" : "Vex",
   "fullRunePageFrequency" : [
     {
@@ -25,8 +118,8 @@
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
+        "perk1" : 8237,
+        "perk2" : 8226
       },
       "subStyle" : 8200
     },
@@ -40,13 +133,14 @@
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8226
+        "perk1" : 8226,
+        "perk2" : 8210
       },
       "subStyle" : 8200
     },
     2
   ],
+  "id" : "Vex",
   "items" : {
     "allItems" : {
       "1052" : 2,
@@ -88,8 +182,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       5
     ],
@@ -100,16 +194,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2,
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

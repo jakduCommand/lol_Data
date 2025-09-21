@@ -1,17 +1,125 @@
 {
+  "championDetail" : {
+    "blurb" : "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice...",
+    "id" : "Ashe",
+    "image" : {
+      "full" : "Ashe.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 3,
+      "difficulty" : 4,
+      "magic" : 2
+    },
+    "key" : "22",
+    "name" : "Ashe",
+    "passive" : {
+      "description" : "Ashe's attacks slow their target, causing her to deal increased damage to these targets.<br><br>Ashe's critical strikes deal no bonus damage but apply an empowered slow to the target.",
+      "image" : {
+        "full" : "Ashe_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 48
+      },
+      "name" : "Frost Shot"
+    },
+    "spells" : [
+      {
+        "description" : "Ashe builds up Focus by attacking. At maximum Focus, Ashe can cast Ranger's Focus to consume all stacks of Focus, temporarily increasing her Attack Speed and transforming her basic attack into a powerful flurry attack for the duration.",
+        "id" : "AsheQ",
+        "image" : {
+          "full" : "AsheQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Ranger's Focus"
+      },
+      {
+        "description" : "Ashe fires arrows in a cone for increased damage. Also applies Frost Shot.",
+        "id" : "Volley",
+        "image" : {
+          "full" : "Volley.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Volley"
+      },
+      {
+        "description" : "Ashe sends her Hawk Spirit on a scouting mission anywhere on the map.",
+        "id" : "AsheSpiritOfTheHawk",
+        "image" : {
+          "full" : "AsheSpiritOfTheHawk.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Hawkshot"
+      },
+      {
+        "description" : "Ashe fires a missile of ice in a straight line. If the arrow collides with an enemy Champion, it deals damage and stuns the Champion, stunning for longer the farther arrow has traveled. In addition, surrounding enemy units take damage and are slowed.",
+        "id" : "EnchantedCrystalArrow",
+        "image" : {
+          "full" : "EnchantedCrystalArrow.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Enchanted Crystal Arrow"
+      }
+    ],
+    "title" : "the Frost Archer"
+  },
   "championName" : "Ashe",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 8009,
-        "perk3" : 9104,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
+        "perk1" : 8410,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
@@ -40,23 +148,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
+        "perk1" : 8304,
+        "perk2" : 8410
       },
       "subStyle" : 8300
     },
@@ -65,7 +158,7 @@
       "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 8009,
-        "perk3" : 9103,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -92,6 +185,7 @@
     },
     1
   ],
+  "id" : "Ashe",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -145,8 +239,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       8
     ],
@@ -158,21 +252,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerBoost.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
-    ],
-    5,
-    [
       "SummonerFlash.png",
       "SummonerHaste.png"
     ],
-    2
+    2,
+    [
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
+    ],
+    5,
+    [
+      "SummonerBoost.png",
+      "SummonerFlash.png"
+    ],
+    1
   ],
   "totalGames" : 8,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

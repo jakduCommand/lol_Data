@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Anivia is a benevolent winged spirit who endures endless cycles of life, death, and rebirth to protect the Freljord. A demigod born of unforgiving ice and bitter winds, she wields those elemental powers to thwart any who dare disturb her homeland...",
+    "id" : "Anivia",
+    "image" : {
+      "full" : "Anivia.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 4,
+      "difficulty" : 10,
+      "magic" : 10
+    },
+    "key" : "34",
+    "name" : "Anivia",
+    "passive" : {
+      "description" : "Upon taking fatal damage, Anivia reverts to an egg and is reborn with full health.",
+      "image" : {
+        "full" : "Anivia_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 0
+      },
+      "name" : "Rebirth"
+    },
+    "spells" : [
+      {
+        "description" : "Anivia brings her wings together and summons a sphere of ice that flies towards her opponents, chilling and damaging anyone in its path. When the sphere explodes it does moderate damage in a radius, stunning anyone in the area.",
+        "id" : "FlashFrost",
+        "image" : {
+          "full" : "FlashFrost.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Flash Frost"
+      },
+      {
+        "description" : "Anivia condenses the moisture in the air into an impassable wall of ice to block all movement. The wall only lasts a short duration before it melts.",
+        "id" : "Crystallize",
+        "image" : {
+          "full" : "Crystallize.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Crystallize"
+      },
+      {
+        "description" : "With a flap of her wings, Anivia blasts a freezing gust of wind at her target, dealing damage. If the target was recently hit by Flash Frost or damaged by a fully formed Glacial Storm, the damage they take is doubled.",
+        "id" : "Frostbite",
+        "image" : {
+          "full" : "Frostbite.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Frostbite"
+      },
+      {
+        "description" : "Anivia summons a driving rain of ice and hail to damage her enemies and slow their advance.",
+        "id" : "GlacialStorm",
+        "image" : {
+          "full" : "GlacialStorm.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Glacial Storm"
+      }
+    ],
+    "title" : "the Cryophoenix"
+  },
   "championName" : "Anivia",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8126,
-        "perk3" : 8141,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -30,8 +108,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8141,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
     1
   ],
+  "id" : "Anivia",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -70,12 +164,12 @@
     },
     "starters" : [
       [
-        2003
+        2003,
+        1056
       ],
       1,
       [
-        2003,
-        1056
+        2003
       ],
       1
     ],
@@ -90,11 +184,12 @@
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 2,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

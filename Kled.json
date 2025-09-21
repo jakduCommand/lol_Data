@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the...",
+    "id" : "Kled",
+    "image" : {
+      "full" : "Kled.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 2
+    },
+    "key" : "240",
+    "name" : "Kled",
+    "passive" : {
+      "description" : "Kled rides his trusty steed, Skaarl, who takes damage for him. When Skaarl's health depletes, Kled dismounts.<br><br>While dismounted, Kled's abilities change and he deals less damage to champions. Kled can restore Skaarl's courage by fighting enemies. At maximum courage, Kled remounts with a portion of Skaarl's health.",
+      "image" : {
+        "full" : "Kled_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 0
+      },
+      "name" : "Skaarl, the Cowardly Lizard"
+    },
+    "spells" : [
+      {
+        "description" : "Kled throws a bear trap that damages and hooks an enemy champion. If shackled for a short duration, the target takes additional physical damage and is yanked toward Kled.<br><br>When dismounted, this ability is replaced by Pocket Pistol, a ranged gun blast that knocks back Kled and restores courage.",
+        "id" : "KledQ",
+        "image" : {
+          "full" : "KledQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Bear Trap on a Rope"
+      },
+      {
+        "description" : "Kled gains massive attack speed for four attacks. The fourth attack deals more damage.",
+        "id" : "KledW",
+        "image" : {
+          "full" : "KledW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Violent Tendencies"
+      },
+      {
+        "description" : "Kled dashes, dealing physical damage and gaining a short burst of speed. Kled can cast this ability again to dash back through his initial target, dealing the same damage.",
+        "id" : "KledE",
+        "image" : {
+          "full" : "KledE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Jousting"
+      },
+      {
+        "description" : "Kled and Skaarl charge to a location, leaving a speed-granting trail behind them and gaining a shield. Skaarl locks onto and rams the first enemy champion encountered.",
+        "id" : "KledR",
+        "image" : {
+          "full" : "KledR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Chaaaaaaaarge!!!"
+      }
+    ],
+    "title" : "the Cantankerous Cavalier"
+  },
   "championName" : "Kled",
   "fullRunePageFrequency" : [
     {
@@ -20,15 +113,15 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8444,
+        "perk3" : 8473,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 9105
+        "perk1" : 8304,
+        "perk2" : 8347
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
     },
     1,
     {
@@ -50,18 +143,19 @@
       "primaryPerks" : {
         "perk1" : 8437,
         "perk2" : 8446,
-        "perk3" : 8473,
+        "perk3" : 8444,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 9111,
+        "perk2" : 9105
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
     1
   ],
+  "id" : "Kled",
   "items" : {
     "allItems" : {
       "1036" : 1,
@@ -110,8 +204,8 @@
       ],
       3,
       [
-        2003,
-        1054
+        1054,
+        2003
       ],
       1
     ],
@@ -128,11 +222,12 @@
     ],
     3,
     [
-      "SummonerExhaust.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerExhaust.png"
     ],
     1
   ],
   "totalGames" : 4,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

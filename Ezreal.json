@@ -1,36 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way...",
+    "id" : "Ezreal",
+    "image" : {
+      "full" : "Ezreal.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 6
+    },
+    "key" : "81",
+    "name" : "Ezreal",
+    "passive" : {
+      "description" : "Ezreal gains increasing Attack Speed each time he successfully hits a spell, stacking up to 5 times.",
+      "image" : {
+        "full" : "Ezreal_RisingSpellForce.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 0
+      },
+      "name" : "Rising Spell Force"
+    },
+    "spells" : [
+      {
+        "description" : "Ezreal fires a damaging bolt of energy which reduces all of his cooldowns slightly if it strikes an enemy unit.",
+        "id" : "EzrealQ",
+        "image" : {
+          "full" : "EzrealQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Mystic Shot"
+      },
+      {
+        "description" : "Ezreal fires an orb that sticks to the first champion or objective hit. If Ezreal hits an enemy with the orb, it detonates and deals damage.",
+        "id" : "EzrealW",
+        "image" : {
+          "full" : "EzrealW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Essence Flux"
+      },
+      {
+        "description" : "Ezreal teleports to a target nearby location and fires a homing bolt which strikes the nearest enemy unit. Prioritizes enemies stuck with Essence Flux.",
+        "id" : "EzrealE",
+        "image" : {
+          "full" : "EzrealE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Arcane Shift"
+      },
+      {
+        "description" : "Ezreal winds up before firing a powerful barrage of energy that deals massive damage to each unit it passes through (damage is reduced for minions and non-epic monsters).",
+        "id" : "EzrealR",
+        "image" : {
+          "full" : "EzrealR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Trueshot Barrage"
+      }
+    ],
+    "title" : "the Prodigal Explorer"
+  },
   "championName" : "Ezreal",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -63,6 +126,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 8009,
         "perk3" : 9103,
@@ -75,8 +153,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Ezreal",
   "items" : {
     "allItems" : {
       "1036" : 2,
@@ -131,11 +225,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

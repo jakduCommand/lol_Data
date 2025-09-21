@@ -1,19 +1,157 @@
 {
+  "championDetail" : {
+    "blurb" : "A prodigy from the rough streets of Zaun, Ekko is able to manipulate time to twist any situation to his advantage. He uses his own invention, the Z-Drive, to explore the branching possibilities of reality, crafting the perfect moment to seemingly...",
+    "id" : "Ekko",
+    "image" : {
+      "full" : "Ekko.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 3,
+      "difficulty" : 8,
+      "magic" : 7
+    },
+    "key" : "245",
+    "name" : "Ekko",
+    "passive" : {
+      "description" : "Every third attack or damaging spell on the same target deals bonus magic damage, and grants Ekko a burst of speed if the target is a champion.<br><br>",
+      "image" : {
+        "full" : "Ekko_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 96
+      },
+      "name" : "Z-Drive Resonance"
+    },
+    "spells" : [
+      {
+        "description" : "Ekko throws a temporal grenade that expands into a time-distortion field upon hitting an enemy champion, slowing and damaging anyone caught inside. After a delay, the grenade rewinds back to Ekko, dealing damage on its return.",
+        "id" : "EkkoQ",
+        "image" : {
+          "full" : "EkkoQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Timewinder"
+      },
+      {
+        "description" : "Ekko's basic attacks deal bonus magic damage to low health enemies. He can cast Parallel Convergence to split the timeline, creating an anomaly after a few seconds that slows enemies caught inside. If Ekko enters the anomaly, he gains shielding and stuns enemies by suspending them in time.",
+        "id" : "EkkoW",
+        "image" : {
+          "full" : "EkkoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Parallel Convergence"
+      },
+      {
+        "description" : "Ekko rolls evasively while charging up his Z-Drive. His next attack deals bonus damage and warps reality, teleporting him to his target.",
+        "id" : "EkkoE",
+        "image" : {
+          "full" : "EkkoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Phase Dive"
+      },
+      {
+        "description" : "Ekko shatters his timeline, becoming untargetable and rewinding to a more favorable point in time. He returns to whenever he was a few seconds ago, and heals for a percentage of the damage received in that duration. Enemies near his arrival zone take massive damage.",
+        "id" : "EkkoR",
+        "image" : {
+          "full" : "EkkoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Chronobreak"
+      }
+    ],
+    "title" : "the Boy Who Shattered Time"
+  },
   "championName" : "Ekko",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 9923,
-        "perk2" : 8139,
-        "perk3" : 8140,
-        "perk4" : 8106
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8242
+        "perk1" : 8233,
+        "perk2" : 8236
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
     },
     1,
     {
@@ -33,51 +171,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    2,
-    {
-      "primaryPerks" : {
         "perk1" : 8128,
         "perk2" : 8143,
         "perk3" : 8140,
@@ -94,19 +187,20 @@
     {
       "primaryPerks" : {
         "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
+        "perk1" : 8446,
+        "perk2" : 8242
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
+  "id" : "Ekko",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -157,20 +251,20 @@
     },
     "starters" : [
       [
-        1101,
+        1102,
         2003
       ],
-      2,
+      3,
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       4,
       [
-        2003,
-        1102
+        1101,
+        2003
       ],
-      3
+      2
     ],
     "thirdCore" : {
       "3089" : 4,
@@ -180,16 +274,17 @@
   },
   "spellFrequency" : [
     [
+      "SummonerFlash.png",
+      "SummonerSmite.png"
+    ],
+    5,
+    [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    4,
-    [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    5
+    4
   ],
   "totalGames" : 9,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

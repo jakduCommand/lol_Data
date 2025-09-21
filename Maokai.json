@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his...",
+    "id" : "Maokai",
+    "image" : {
+      "full" : "Maokai.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 8,
+      "difficulty" : 3,
+      "magic" : 6
+    },
+    "key" : "57",
+    "name" : "Maokai",
+    "passive" : {
+      "description" : "Maokai's basic attack also heals him and deals additional damage on a moderate cooldown. Each time Maokai casts a spell or is struck by an enemy's spell, this cooldown is reduced.",
+      "image" : {
+        "full" : "Maokai_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 48
+      },
+      "name" : "Sap Magic"
+    },
+    "spells" : [
+      {
+        "description" : "Maokai knocks back nearby enemies with a shockwave, dealing magic damage and slowing them.",
+        "id" : "MaokaiQ",
+        "image" : {
+          "full" : "MaokaiQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Bramble Smash"
+      },
+      {
+        "description" : "Maokai contorts into a mass of moving roots, becoming untargetable and dashing to the target. Upon arrival, he roots the target.",
+        "id" : "MaokaiW",
+        "image" : {
+          "full" : "MaokaiW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Twisted Advance"
+      },
+      {
+        "description" : "Maokai flings a sapling to the target area to stand guard. More effective in brush.",
+        "id" : "MaokaiE",
+        "image" : {
+          "full" : "MaokaiE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Sapling Toss"
+      },
+      {
+        "description" : "Maokai summons a colossal wall of brambles and thorns that slowly advances forwards, damaging and rooting any enemies in the path.",
+        "id" : "MaokaiR",
+        "image" : {
+          "full" : "MaokaiR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Nature's Grasp"
+      }
+    ],
+    "title" : "the Twisted Treant"
+  },
   "championName" : "Maokai",
   "fullRunePageFrequency" : [
     {
@@ -32,6 +125,7 @@
     },
     1
   ],
+  "id" : "Maokai",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -87,5 +181,6 @@
     1
   ],
   "totalGames" : 2,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

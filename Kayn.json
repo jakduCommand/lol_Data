@@ -1,6 +1,129 @@
 {
+  "championDetail" : {
+    "blurb" : "A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of...",
+    "id" : "Kayn",
+    "image" : {
+      "full" : "Kayn.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 6,
+      "difficulty" : 8,
+      "magic" : 1
+    },
+    "key" : "141",
+    "name" : "Kayn",
+    "passive" : {
+      "description" : "Kayn wields an ancient weapon and fights Rhaast, the darkin within it, for control. Either the <font color='#fe5c50'>Darkin<\/font> will triumph, or Kayn will master Rhaast and become the <font color='#8484fb'>Shadow Assassin<\/font>.<br><br><font color='#fe5c50'>Darkin:<\/font> Heal for a percentage of spell damage dealt to champions.<br><br><font color='#8484fb'>Shadow Assassin:<\/font> For the first few seconds in combat with enemy champions, deal bonus damage.",
+      "image" : {
+        "full" : "Kayn_Passive_Primary.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 0
+      },
+      "name" : "The Darkin Scythe"
+    },
+    "spells" : [
+      {
+        "description" : "Kayn dashes, then slashes. Both deal damage.",
+        "id" : "KaynQ",
+        "image" : {
+          "full" : "KaynQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Reaping Slash"
+      },
+      {
+        "description" : "Kayn damages and slows targets in a line.",
+        "id" : "KaynW",
+        "image" : {
+          "full" : "KaynW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Blade's Reach"
+      },
+      {
+        "description" : "Kayn can walk through terrain.",
+        "id" : "KaynE",
+        "image" : {
+          "full" : "KaynE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Shadow Step"
+      },
+      {
+        "description" : "Kayn hides in an enemy's body, dealing massive damage when he bursts out.",
+        "id" : "KaynR",
+        "image" : {
+          "full" : "KaynR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Umbral Trespass"
+      }
+    ],
+    "title" : "the Shadow Reaper"
+  },
   "championName" : "Kayn",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8128,
@@ -20,21 +143,6 @@
       "primaryPerks" : {
         "perk1" : 8128,
         "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8143,
         "perk3" : 8140,
         "perk4" : 8135
       },
@@ -45,23 +153,9 @@
       },
       "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
     1
   ],
+  "id" : "Kayn",
   "items" : {
     "allItems" : {
       "1036" : 5,
@@ -111,8 +205,8 @@
       ],
       2,
       [
-        2003,
-        1102
+        1102,
+        2003
       ],
       3
     ],
@@ -122,11 +216,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

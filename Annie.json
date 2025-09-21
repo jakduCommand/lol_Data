@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable...",
+    "id" : "Annie",
+    "image" : {
+      "full" : "Annie.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 3,
+      "difficulty" : 6,
+      "magic" : 10
+    },
+    "key" : "1",
+    "name" : "Annie",
+    "passive" : {
+      "description" : "After casting 4 spells, Annie's next offensive spell will stun the target.<br><br>Annie begins the game and respawns with Pyromania available.",
+      "image" : {
+        "full" : "Annie_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 0
+      },
+      "name" : "Pyromania"
+    },
+    "spells" : [
+      {
+        "description" : "Annie hurls a Mana infused fireball, dealing damage and refunding the Mana cost if it destroys the target.",
+        "id" : "AnnieQ",
+        "image" : {
+          "full" : "AnnieQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Disintegrate"
+      },
+      {
+        "description" : "Annie casts a blazing cone of fire, dealing damage to all enemies in the area.",
+        "id" : "AnnieW",
+        "image" : {
+          "full" : "AnnieW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Incinerate"
+      },
+      {
+        "description" : "Grants Annie or an ally a shield, a burst of Move Speed, and damages enemies who strike her with attacks or spells.",
+        "id" : "AnnieE",
+        "image" : {
+          "full" : "AnnieE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Molten Shield"
+      },
+      {
+        "description" : "Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him.",
+        "id" : "AnnieR",
+        "image" : {
+          "full" : "AnnieR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Summon: Tibbers"
+      }
+    ],
+    "title" : "the Dark Child"
+  },
   "championName" : "Annie",
   "fullRunePageFrequency" : [
     {
@@ -32,6 +125,7 @@
     },
     1
   ],
+  "id" : "Annie",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -67,8 +161,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       2
     ],
@@ -78,16 +172,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHaste.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerTeleport.png",
+      "SummonerHaste.png",
       "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 2,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

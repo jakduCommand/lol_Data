@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his...",
+    "id" : "Trundle",
+    "image" : {
+      "full" : "Trundle.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 6,
+      "difficulty" : 5,
+      "magic" : 2
+    },
+    "key" : "48",
+    "name" : "Trundle",
+    "passive" : {
+      "description" : "When an enemy unit dies near Trundle, he heals for a percent of its maximum Health.",
+      "image" : {
+        "full" : "Trundle_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 48
+      },
+      "name" : "King's Tribute"
+    },
+    "spells" : [
+      {
+        "description" : "Trundle bites his opponent, dealing damage, briefly slowing and sapping some of their Attack Damage.",
+        "id" : "TrundleTrollSmash",
+        "image" : {
+          "full" : "TrundleTrollSmash.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Chomp"
+      },
+      {
+        "description" : "Trundle turns target location into his domain, gaining Attack Speed, Move Speed, and increased healing from all sources while on it.",
+        "id" : "trundledesecrate",
+        "image" : {
+          "full" : "trundledesecrate.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Frozen Domain"
+      },
+      {
+        "description" : "Trundle creates an ice pillar at target location, becoming impassable terrain and slowing all nearby enemy units.",
+        "id" : "TrundleCircle",
+        "image" : {
+          "full" : "TrundleCircle.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Pillar of Ice"
+      },
+      {
+        "description" : "Trundle immediately steals a percent of his target's Health, Armor and Magic Resistance. Over the next 4 seconds the amount of Health, Armor, and Magic Resistance stolen is doubled.",
+        "id" : "TrundlePain",
+        "image" : {
+          "full" : "TrundlePain.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Subjugate"
+      }
+    ],
+    "title" : "the Troll King"
+  },
   "championName" : "Trundle",
   "fullRunePageFrequency" : [
     {
@@ -18,21 +111,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9104,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8300
     },
-    2
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1
   ],
+  "id" : "Trundle",
   "items" : {
     "allItems" : {
       "1043" : 1,
@@ -88,15 +182,15 @@
     },
     "starters" : [
       [
+        2003,
+        1102
+      ],
+      3,
+      [
         2031,
         1036
       ],
-      1,
-      [
-        1102,
-        2003
-      ],
-      3
+      1
     ],
     "thirdCore" : {
       "3075" : 2,
@@ -105,16 +199,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    3,
-    [
       "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    1
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerSmite.png"
+    ],
+    3
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

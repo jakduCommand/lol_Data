@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in...",
+    "id" : "Fiora",
+    "image" : {
+      "full" : "Fiora.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 4,
+      "difficulty" : 3,
+      "magic" : 2
+    },
+    "key" : "114",
+    "name" : "Fiora",
+    "passive" : {
+      "description" : "Fiora has revealed a <keywordMajor>Vital<\/keywordMajor> on this Champion. If she hits the <keywordMajor>Vital<\/keywordMajor>, she <healing>restores Health<\/healing> and gains <speed>Move Speed<\/speed>.",
+      "image" : {
+        "full" : "Fiora_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 0
+      },
+      "name" : "Duelist's Dance"
+    },
+    "spells" : [
+      {
+        "description" : "Fiora lunges in a direction and stabs a nearby enemy, dealing physical damage and applying on-hit effects.",
+        "id" : "FioraQ",
+        "image" : {
+          "full" : "FioraQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Lunge"
+      },
+      {
+        "description" : "Fiora parries all incoming damage and disables for a short time, then stabs in a direction. This stab slows the first enemy champion hit, or stuns them if Fiora blocked an immobilizing effect with this ability.",
+        "id" : "FioraW",
+        "image" : {
+          "full" : "FioraW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Riposte"
+      },
+      {
+        "description" : "Fiora has increased attack speed for the next two attacks. The first attack slows the target, and the second attack will critically strike.",
+        "id" : "FioraE",
+        "image" : {
+          "full" : "FioraE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Bladework"
+      },
+      {
+        "description" : "Fiora reveals all four Vitals on an enemy champion and gains Move Speed while near them. If Fiora hits all four Vitals or if the target dies after she has hit at least one, Fiora and her allies in the area are healed over the next few seconds.",
+        "id" : "FioraR",
+        "image" : {
+          "full" : "FioraR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Grand Challenge"
+      }
+    ],
+    "title" : "the Grand Duelist"
+  },
   "championName" : "Fiora",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -29,6 +107,21 @@
         "perk2" : 8316
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
     },
     1,
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Fiora",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -82,8 +176,8 @@
     },
     "starters" : [
       [
-        1055,
-        2003
+        2003,
+        1055
       ],
       3
     ],
@@ -99,5 +193,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a...",
+    "id" : "Riven",
+    "image" : {
+      "full" : "Riven.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 8,
+      "magic" : 1
+    },
+    "key" : "92",
+    "name" : "Riven",
+    "passive" : {
+      "description" : "Riven's abilities charge her blade, and her basic attacks expend charges to deal an additional damage.",
+      "image" : {
+        "full" : "RivenRunicBlades.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 96
+      },
+      "name" : "Runic Blade"
+    },
+    "spells" : [
+      {
+        "description" : "Riven lashes out in a series of strikes. This ability can be reactivated three times in a short time frame with the third hit knocking back nearby enemies.",
+        "id" : "RivenTriCleave",
+        "image" : {
+          "full" : "RivenTriCleave.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Broken Wings"
+      },
+      {
+        "description" : "Riven emits a Ki Burst, damaging and stunning nearby enemies.",
+        "id" : "RivenMartyr",
+        "image" : {
+          "full" : "RivenMartyr.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Ki Burst"
+      },
+      {
+        "description" : "Riven steps forward a short distance and blocks incoming damage.",
+        "id" : "RivenFeint",
+        "image" : {
+          "full" : "RivenFeint.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Valor"
+      },
+      {
+        "description" : "Riven empowers her keepsake weapon with energy, and gains Attack Damage and Range. During this time, she also gains the ability to use Wind Slash, a powerful ranged attack, once.",
+        "id" : "RivenFengShuiEngine",
+        "image" : {
+          "full" : "RivenFengShuiEngine.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Blade of the Exile"
+      }
+    ],
+    "title" : "the Exile"
+  },
   "championName" : "Riven",
   "fullRunePageFrequency" : [
     {
@@ -32,6 +125,7 @@
     },
     1
   ],
+  "id" : "Riven",
   "items" : {
     "allItems" : {
       "1055" : 2,
@@ -69,16 +163,16 @@
     },
     "starters" : [
       [
-        2003,
-        1029,
-        1054
+        1055,
+        2003
       ],
-      1,
+      2,
       [
+        1054,
         2003,
-        1055
+        1029
       ],
-      2
+      1
     ],
     "thirdCore" : {
       "6610" : 1
@@ -86,11 +180,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

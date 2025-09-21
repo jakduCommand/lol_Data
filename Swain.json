@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new...",
+    "id" : "Swain",
+    "image" : {
+      "full" : "Swain.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 6,
+      "difficulty" : 8,
+      "magic" : 9
+    },
+    "key" : "50",
+    "name" : "Swain",
+    "passive" : {
+      "description" : "Swain's ravens collect <i>Soul Fragments<\/i> that heal him and permanently increase his maximum health.",
+      "image" : {
+        "full" : "Swain_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "Ravenous Flock"
+    },
+    "spells" : [
+      {
+        "description" : "Swain unleashes several bolts of eldritch power that pierce through enemies. Enemies hit take more damage for each bolt they are struck by.",
+        "id" : "SwainQ",
+        "image" : {
+          "full" : "SwainQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Death's Hand"
+      },
+      {
+        "description" : "Swain opens a demon eye that deals damage and slows enemies. Champions hit are revealed and also grant Swain a Soul Fragment.",
+        "id" : "SwainW",
+        "image" : {
+          "full" : "SwainW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Vision of Empire"
+      },
+      {
+        "description" : "Swain launches a wave of demonic power forward. It then returns to Swain and roots enemies it hits. Swain can then choose to pull all rooted champions closer. This ability has a shorter cooldown during Demonic Ascension.",
+        "id" : "SwainE",
+        "image" : {
+          "full" : "SwainE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Nevermove"
+      },
+      {
+        "description" : "Swain transforms into a demon and drains health from nearby enemy champions, minions, and neutral monsters. Swain can cast Demonflare to decimate and slow nearby enemies with a nova of soulfire. This form is indefinite as long as Swain drains enemy champions.",
+        "id" : "SwainR",
+        "image" : {
+          "full" : "SwainR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Demonic Ascension"
+      }
+    ],
+    "title" : "the Noxian Grand General"
+  },
   "championName" : "Swain",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -30,23 +138,9 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Swain",
   "items" : {
     "allItems" : {
       "1056" : 1,
@@ -88,8 +182,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       3
     ],
@@ -105,11 +199,12 @@
     ],
     2,
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

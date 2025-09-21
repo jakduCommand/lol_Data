@@ -1,19 +1,127 @@
 {
+  "championDetail" : {
+    "blurb" : "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his...",
+    "id" : "Sion",
+    "image" : {
+      "full" : "Sion.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 9,
+      "difficulty" : 5,
+      "magic" : 3
+    },
+    "key" : "14",
+    "name" : "Sion",
+    "passive" : {
+      "description" : "After being killed, Sion will temporarily reanimate with rapidly decaying Health. His attacks become very rapid, heal him, and deal bonus damage based on his target's maximum Health.",
+      "image" : {
+        "full" : "Sion_Passive1.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "Glory in Death"
+    },
+    "spells" : [
+      {
+        "description" : "Sion charges a powerful swing in an area in front of himself that will deal damage to enemies when released. If he charges for enough time, enemies hit by the swing will also be knocked up and stunned.",
+        "id" : "SionQ",
+        "image" : {
+          "full" : "SionQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Decimating Smash"
+      },
+      {
+        "description" : "Sion shields himself and can reactivate after 3 seconds to deal Magic Damage to enemies nearby. When Sion kills enemies, he passively gains maximum Health.",
+        "id" : "SionW",
+        "image" : {
+          "full" : "SionW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Soul Furnace"
+      },
+      {
+        "description" : "Sion fires a short range shockwave that damages and slows and reduces the Armor of the first enemy hit. If the shockwave hits a minion or monster, it will be knocked back, damaging, slowing, and reducing the Armor of all enemies that it passes through.",
+        "id" : "SionE",
+        "image" : {
+          "full" : "SionE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Roar of the Slayer"
+      },
+      {
+        "description" : "Sion charges in a direction, ramping up speed over time. He can steer his charge slightly with the mouse cursor location. When he collides with an enemy he deals damage and knocks them up based on the distance he has charged.",
+        "id" : "SionR",
+        "image" : {
+          "full" : "SionR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Unstoppable Onslaught"
+      }
+    ],
+    "title" : "The Undead Juggernaut"
+  },
   "championName" : "Sion",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8304,
-        "perk3" : 8345,
-        "perk4" : 8410
+        "perk1" : 8439,
+        "perk2" : 8446,
+        "perk3" : 8429,
+        "perk4" : 8451
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8451
+        "perk1" : 8321,
+        "perk2" : 8410
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
     },
     1,
     {
@@ -48,35 +156,21 @@
     2,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8410
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8410
+        "perk1" : 8446,
+        "perk2" : 8451
       },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8446,
-        "perk3" : 8429,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8321,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1
   ],
+  "id" : "Sion",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -156,5 +250,6 @@
     1
   ],
   "totalGames" : 6,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

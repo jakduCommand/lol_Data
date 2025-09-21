@@ -1,34 +1,112 @@
 {
+  "championDetail" : {
+    "blurb" : "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from...",
+    "id" : "Morgana",
+    "image" : {
+      "full" : "Morgana.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 6,
+      "difficulty" : 1,
+      "magic" : 8
+    },
+    "key" : "25",
+    "name" : "Morgana",
+    "passive" : {
+      "description" : "Morgana drains spirit from her enemies, healing as she deals damage to champions, large minions, and medium and larger jungler monsters.",
+      "image" : {
+        "full" : "FallenAngel_Empathize.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 96
+      },
+      "name" : "Soul Siphon"
+    },
+    "spells" : [
+      {
+        "description" : "Morgana binds an enemy in place with dark magic, forcing them to feel the pain they've caused and dealing magic damage. ",
+        "id" : "MorganaQ",
+        "image" : {
+          "full" : "MorganaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Dark Binding"
+      },
+      {
+        "description" : "Morgana casts a cursed shadow on an area, damaging enemies who dare stand in her dark circle. They receive magic damage over time, which increases the lower health they are.",
+        "id" : "MorganaW",
+        "image" : {
+          "full" : "MorganaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Tormented Shadow"
+      },
+      {
+        "description" : "Morgana anoints an ally with a protective barrier of starfire, which absorbs magical damage and disabling effects until it is broken.",
+        "id" : "MorganaE",
+        "image" : {
+          "full" : "MorganaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Black Shield"
+      },
+      {
+        "description" : "Morgana unleashes the full force of her Celestial power as she unbinds her wings and hovers above the ground. She lashes chains of dark pain onto nearby enemy champions, gaining Move Speed. The chains slow and deal initial damage and, after a delay, stun those who are unable to break them.",
+        "id" : "MorganaR",
+        "image" : {
+          "full" : "MorganaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Soul Shackles"
+      }
+    ],
+    "title" : "the Fallen"
+  },
   "championName" : "Morgana",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8304,
-        "perk3" : 8313,
-        "perk4" : 8316
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
+        "perk1" : 9105,
+        "perk2" : 8017
       },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8321,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
+      "subStyle" : 8000
     },
     1,
     {
@@ -48,25 +126,25 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8313,
+        "perk4" : 8316
       },
-      "primaryStyle" : 8200,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 9105
+        "perk1" : 8226,
+        "perk2" : 8210
       },
-      "subStyle" : 8000
+      "subStyle" : 8200
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8210,
-        "perk4" : 8237
+        "perk4" : 8236
       },
       "primaryStyle" : 8200,
       "subPerks" : {
@@ -85,13 +163,29 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
+        "perk1" : 8009,
+        "perk2" : 9105
       },
       "subStyle" : 8000
     },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8321,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
     1
   ],
+  "id" : "Morgana",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -163,8 +257,8 @@
   },
   "spellFrequency" : [
     [
-      "SummonerHeal.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     1,
     [
@@ -179,5 +273,6 @@
     1
   ],
   "totalGames" : 7,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

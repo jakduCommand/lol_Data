@@ -1,6 +1,189 @@
 {
+  "championDetail" : {
+    "blurb" : "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily...",
+    "id" : "Vladimir",
+    "image" : {
+      "full" : "Vladimir.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 6,
+      "difficulty" : 7,
+      "magic" : 8
+    },
+    "key" : "8",
+    "name" : "Vladimir",
+    "passive" : {
+      "description" : "Every 30 points of bonus Health gives Vladimir 1 Ability Power and every 1 point of Ability Power gives Vladimir 1.6 bonus Health (does not stack with itself).",
+      "image" : {
+        "full" : "VladimirP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "Crimson Pact"
+    },
+    "spells" : [
+      {
+        "description" : "Vladimir steals life from the target enemy. When Vladimir's resource is full, Transfusion will benefit from massively increased damage and healing for a brief time.",
+        "id" : "VladimirQ",
+        "image" : {
+          "full" : "VladimirQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Transfusion"
+      },
+      {
+        "description" : "Vladimir sinks into a pool of blood, becoming untargetable for 2 seconds. Additionally, enemies on the pool are slowed and Vladimir siphons life from them.",
+        "id" : "VladimirSanguinePool",
+        "image" : {
+          "full" : "VladimirSanguinePool.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Sanguine Pool"
+      },
+      {
+        "description" : "Vladimir pays his own health to charge up a reservoir of blood which, when released, deals damage in the area around him but can be blocked by enemy units.",
+        "id" : "VladimirE",
+        "image" : {
+          "full" : "VladimirE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Tides of Blood"
+      },
+      {
+        "description" : "Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit.",
+        "id" : "VladimirHemoplague",
+        "image" : {
+          "full" : "VladimirHemoplague.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Hemoplague"
+      }
+    ],
+    "title" : "the Crimson Reaper"
+  },
   "championName" : "Vladimir",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8299,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    3,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -25,103 +208,14 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    3,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8299,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
         "perk1" : 8451,
         "perk2" : 8473
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
     1
   ],
+  "id" : "Vladimir",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -197,11 +291,12 @@
     ],
     2,
     [
-      "SummonerHaste.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerHaste.png"
     ],
     11
   ],
   "totalGames" : 13,
-  "totalWins" : 7
+  "totalWins" : 7,
+  "version" : "15.18.1"
 }

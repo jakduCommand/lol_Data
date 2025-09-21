@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward...",
+    "id" : "Ahri",
+    "image" : {
+      "full" : "Ahri.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 8
+    },
+    "key" : "103",
+    "name" : "Ahri",
+    "passive" : {
+      "description" : "After killing 9 minions or monsters, Ahri heals.<br>After taking down an enemy champion, Ahri heals for a greater amount.",
+      "image" : {
+        "full" : "Ahri_SoulEater2.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 0
+      },
+      "name" : "Essence Theft"
+    },
+    "spells" : [
+      {
+        "description" : "Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back. ",
+        "id" : "AhriQ",
+        "image" : {
+          "full" : "AhriQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Orb of Deception"
+      },
+      {
+        "description" : "Ahri gains a brief burst of Move Speed and releases three fox-fires, that lock onto and attack nearby enemies.",
+        "id" : "AhriW",
+        "image" : {
+          "full" : "AhriW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Fox-Fire"
+      },
+      {
+        "description" : "Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her.",
+        "id" : "AhriE",
+        "image" : {
+          "full" : "AhriE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Charm"
+      },
+      {
+        "description" : "Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown, and gains additional recasts when taking down enemy champions.",
+        "id" : "AhriR",
+        "image" : {
+          "full" : "AhriR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Spirit Rush"
+      }
+    ],
+    "title" : "the Nine-Tailed Fox"
+  },
   "championName" : "Ahri",
   "fullRunePageFrequency" : [
     {
@@ -12,6 +105,21 @@
       "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8237,
+        "perk2" : 8226
       },
       "subStyle" : 8200
     },
@@ -40,21 +148,6 @@
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8237,
-        "perk2" : 8226
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8210
       },
@@ -62,6 +155,7 @@
     },
     1
   ],
+  "id" : "Ahri",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -108,8 +202,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       4
     ],
@@ -121,11 +215,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

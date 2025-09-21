@@ -1,111 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "From the moment she was born, Aurora navigated life with a unique ability to move between the spirit and material realms. Determined to learn more about the spirit realm's inhabitants, she left her home to further her research and happened upon a...",
+    "id" : "Aurora",
+    "image" : {
+      "full" : "Aurora.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 8
+    },
+    "key" : "893",
+    "name" : "Aurora",
+    "passive" : {
+      "description" : "Aurora's spells and attacks exorcise spirits from the enemies she damages. Exorcised spirits follow Aurora around and heal her.",
+      "image" : {
+        "full" : "AuroraPassive.Aurora.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 48
+      },
+      "name" : "Spirit Abjuration"
+    },
+    "spells" : [
+      {
+        "description" : "Aurora sends out a missile that curses any enemies it hits. She can then recast the ability to draw active curses back toward herself, damaging foes who are hit along the way.",
+        "id" : "AuroraQ",
+        "image" : {
+          "full" : "AuroraQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Twofold Hex"
+      },
+      {
+        "description" : "Aurora leaps in a direction of her choosing, entering the spirit realm upon landing, becoming invisible, and gaining Move Speed for a short duration of time.",
+        "id" : "AuroraW",
+        "image" : {
+          "full" : "AuroraW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Across the Veil"
+      },
+      {
+        "description" : "Aurora converges the realms, sending out a blast of spirit magic that damages and slows enemies before Aurora hops backward to safety.",
+        "id" : "AuroraE",
+        "image" : {
+          "full" : "AuroraE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "The Weirding"
+      },
+      {
+        "description" : "Aurora leaps in a direction of her choosing, releasing a shockwave that damages and slows any enemies it hits. Afterward, she creates an area that slows enemies within it and allows Aurora to teleport from one side of the area to the other.",
+        "id" : "AuroraR",
+        "image" : {
+          "full" : "AuroraR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Between Worlds"
+      }
+    ],
+    "title" : "the Witch Between Worlds"
+  },
   "championName" : "Aurora",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8321,
-        "perk3" : 8313,
-        "perk4" : 8316
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8135
-      },
-      "subStyle" : 8100
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -138,17 +126,92 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
       },
-      "primaryStyle" : 8200,
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8316
+      },
+      "primaryStyle" : 8300,
       "subPerks" : {
         "perk1" : 8143,
-        "perk2" : 8106
+        "perk2" : 8135
       },
       "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
     },
     1,
     {
@@ -157,6 +220,36 @@
         "perk2" : 8139,
         "perk3" : 8140,
         "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8141,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
       },
       "primaryStyle" : 8100,
       "subPerks" : {
@@ -183,20 +276,21 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
+        "perk1" : 8143,
+        "perk2" : 8106
       },
-      "subStyle" : 8200
+      "subStyle" : 8100
     },
     1
   ],
+  "id" : "Aurora",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -255,8 +349,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       13
     ],
@@ -274,5 +368,6 @@
     13
   ],
   "totalGames" : 13,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

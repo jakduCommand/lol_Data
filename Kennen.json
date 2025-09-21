@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his...",
+    "id" : "Kennen",
+    "image" : {
+      "full" : "Kennen.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 4,
+      "difficulty" : 4,
+      "magic" : 7
+    },
+    "key" : "85",
+    "name" : "Kennen",
+    "passive" : {
+      "description" : "Kennen stuns enemies he hits 3 times with his abilities.",
+      "image" : {
+        "full" : "Kennen_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "Mark of the Storm"
+    },
+    "spells" : [
+      {
+        "description" : "Kennen throws a fast moving shuriken towards a location, causing damage and adding a Mark of the Storm to any opponent that it hits.",
+        "id" : "KennenShurikenHurlMissile1",
+        "image" : {
+          "full" : "KennenShurikenHurlMissile1.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Thundering Shuriken"
+      },
+      {
+        "description" : "Kennen passively deals extra damage and adds a Mark of the Storm to his target every few attacks, and he can activate this ability to damage and add another Mark of the Storm to targets who are already marked.",
+        "id" : "KennenBringTheLight",
+        "image" : {
+          "full" : "KennenBringTheLight.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Electrical Surge"
+      },
+      {
+        "description" : "Kennen morphs into a lightning form, enabling him to pass through units and apply a Mark of the Storm. Kennen gains Move Speed when entering this form, and attack speed when leaving it.",
+        "id" : "KennenLightningRush",
+        "image" : {
+          "full" : "KennenLightningRush.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Lightning Rush"
+      },
+      {
+        "description" : "Kennen summons a storm that strikes at nearby enemy champions for magical damage.",
+        "id" : "KennenShurikenStorm",
+        "image" : {
+          "full" : "KennenShurikenStorm.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Slicing Maelstrom"
+      }
+    ],
+    "title" : "the Heart of the Tempest"
+  },
   "championName" : "Kennen",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Kennen",
   "items" : {
     "allItems" : {
       "1056" : 1,
@@ -83,15 +177,15 @@
     },
     "starters" : [
       [
+        1055,
+        2003
+      ],
+      2,
+      [
         1056,
         2003
       ],
-      1,
-      [
-        2003,
-        1055
-      ],
-      2
+      1
     ],
     "thirdCore" : {
       "3157" : 1
@@ -105,5 +199,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

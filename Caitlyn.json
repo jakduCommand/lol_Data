@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Renowned as its finest peacekeeper, Caitlyn Kiramman is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she...",
+    "id" : "Caitlyn",
+    "image" : {
+      "full" : "Caitlyn.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 2,
+      "difficulty" : 6,
+      "magic" : 2
+    },
+    "key" : "51",
+    "name" : "Caitlyn",
+    "passive" : {
+      "description" : "Every few basic attacks, or against a target she has trapped or netted, Caitlyn will fire a headshot dealing bonus damage that scales with her critical strike chance. On trapped or netted targets, Caitlyn's Headshot attack range is doubled.",
+      "image" : {
+        "full" : "Caitlyn_Headshot.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Headshot"
+    },
+    "spells" : [
+      {
+        "description" : "Caitlyn revs up her rifle for 1 second to unleash a penetrating shot that deals physical damage (deals less damage to subsequent targets).",
+        "id" : "CaitlynQ",
+        "image" : {
+          "full" : "CaitlynQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Piltover Peacemaker"
+      },
+      {
+        "description" : "Caitlyn sets a trap that, when sprung, reveals and immobilizes the enemy champion for 1.5 seconds, granting Caitlyn an empowered Headshot.",
+        "id" : "CaitlynW",
+        "image" : {
+          "full" : "CaitlynW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Yordle Snap Trap"
+      },
+      {
+        "description" : "Caitlyn fires a heavy net to slow her target. The recoil knocks Caitlyn back.",
+        "id" : "CaitlynE",
+        "image" : {
+          "full" : "CaitlynE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "90 Caliber Net"
+      },
+      {
+        "description" : "Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally.",
+        "id" : "CaitlynR",
+        "image" : {
+          "full" : "CaitlynR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Ace in the Hole"
+      }
+    ],
+    "title" : "the Sheriff of Piltover"
+  },
   "championName" : "Caitlyn",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9101,
-        "perk3" : 9103,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -34,18 +112,18 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 8009,
+        "perk2" : 9101,
         "perk3" : 9103,
-        "perk4" : 8017
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
+        "perk1" : 8304,
+        "perk2" : 8345
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -60,8 +138,24 @@
       },
       "subStyle" : 8200
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2
   ],
+  "id" : "Caitlyn",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -103,8 +197,8 @@
     },
     "starters" : [
       [
-        1055,
-        2003
+        2003,
+        1055
       ],
       5
     ],
@@ -120,5 +214,6 @@
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

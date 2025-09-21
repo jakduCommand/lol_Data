@@ -1,6 +1,174 @@
 {
+  "championDetail" : {
+    "blurb" : "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive...",
+    "id" : "Talon",
+    "image" : {
+      "full" : "Talon.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 3,
+      "difficulty" : 7,
+      "magic" : 1
+    },
+    "key" : "91",
+    "name" : "Talon",
+    "passive" : {
+      "description" : "Talon's spells Wound champions and large monsters, stacking up to 3 times. When Talon attacks a champion with 3 stacks of Wound, they bleed for heavy damage over time.",
+      "image" : {
+        "full" : "TalonP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 48
+      },
+      "name" : "Blade's End"
+    },
+    "spells" : [
+      {
+        "description" : "Talon stabs the target unit. If they are within melee range, this attack deals critical damage. If they are outside melee range, Talon will leap at his target before stabbing them. Talon refunds some health and cooldown if this ability kills the target.",
+        "id" : "TalonQ",
+        "image" : {
+          "full" : "TalonQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Noxian Diplomacy"
+      },
+      {
+        "description" : "Talon sends out a volley of daggers that then return back to him, dealing physical damage every time it passes through an enemy. The returning blades deal bonus damage and slow units hit.",
+        "id" : "TalonW",
+        "image" : {
+          "full" : "TalonW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Rake"
+      },
+      {
+        "description" : "Talon vaults over any terrain or structure, up to a max distance. This ability has a low cooldown, but puts the used terrain on a long cooldown.",
+        "id" : "TalonE",
+        "image" : {
+          "full" : "TalonE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Assassin's Path"
+      },
+      {
+        "description" : "Talon disperses a ring of blades and becomes Invisible while gaining additional Move Speed. When Talon emerges from Invisibility, the blades converge on his location. Each time the blades move, Shadow Assault deals physical damage to enemies hit by at least one blade.",
+        "id" : "TalonR",
+        "image" : {
+          "full" : "TalonR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Shadow Assault"
+      }
+    ],
+    "title" : "the Blade's Shadow"
+  },
   "championName" : "Talon",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -33,51 +201,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8230,
         "perk2" : 8275,
         "perk3" : 8233,
@@ -89,51 +212,6 @@
         "perk2" : 8105
       },
       "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
     },
     1,
     {
@@ -150,8 +228,24 @@
       },
       "subStyle" : 8200
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8210
+      },
+      "subStyle" : 8200
+    },
     1
   ],
+  "id" : "Talon",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -214,24 +308,24 @@
     },
     "starters" : [
       [
-        1055,
-        2003
-      ],
-      2,
-      [
-        1102
-      ],
-      4,
-      [
         2003,
         1102
       ],
       3,
       [
+        1102
+      ],
+      4,
+      [
         1036,
         2031
       ],
-      1
+      1,
+      [
+        1055,
+        2003
+      ],
+      2
     ],
     "thirdCore" : {
       "3142" : 1,
@@ -242,21 +336,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerSmite.png"
     ],
     2,
     [
-      "SummonerDot.png",
+      "SummonerSmite.png",
       "SummonerFlash.png"
     ],
-    3,
+    5,
     [
       "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerDot.png"
     ],
-    5
+    3
   ],
   "totalGames" : 10,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

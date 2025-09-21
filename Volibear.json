@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created...",
+    "id" : "Volibear",
+    "image" : {
+      "full" : "Volibear.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 7,
+      "difficulty" : 3,
+      "magic" : 4
+    },
+    "key" : "106",
+    "name" : "Volibear",
+    "passive" : {
+      "description" : "Volibear's Attacks and abilities grant Attack Speed, and eventually cause his Attacks to deal bonus magic damage to nearby enemies.",
+      "image" : {
+        "full" : "Volibear_Icon_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 0
+      },
+      "name" : "The Relentless Storm"
+    },
+    "spells" : [
+      {
+        "description" : "Volibear gains speed towards enemies, <status>Stunning<\/status> and damaging the first one he Attacks.",
+        "id" : "VolibearQ",
+        "image" : {
+          "full" : "VolibearQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Thundering Smash"
+      },
+      {
+        "description" : "Volibear damages an enemy, applying on-hit effects and marking them.  Casting this ability again on the same target deals bonus damage and Heals Volibear.",
+        "id" : "VolibearW",
+        "image" : {
+          "full" : "VolibearW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Frenzied Maul"
+      },
+      {
+        "description" : "Volibear summons a lightning bolt at a location, dealing damage and Slowing enemies while granting Volibear a Shield if he's inside the blast radius.",
+        "id" : "VolibearE",
+        "image" : {
+          "full" : "VolibearE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Sky Splitter"
+      },
+      {
+        "description" : "Volibear leaps to a target location, Slowing and damaging enemies beneath him while gaining bonus Health.  Enemy towers near his landing location become temporarily disabled.",
+        "id" : "VolibearR",
+        "image" : {
+          "full" : "VolibearR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Stormbringer"
+      }
+    ],
+    "title" : "the Relentless Storm"
+  },
   "championName" : "Volibear",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -10,10 +118,40 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8232
+        "perk1" : 8316,
+        "perk2" : 8304
       },
-      "subStyle" : 8200
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
     },
     1,
     {
@@ -48,22 +186,22 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8316
+        "perk1" : 9105,
+        "perk2" : 8009
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8005,
+        "perk1" : 8008,
         "perk2" : 9111,
         "perk3" : 9105,
         "perk4" : 8299
@@ -75,36 +213,6 @@
       },
       "subStyle" : 8200
     },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8106
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8473,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
     1,
     {
       "primaryPerks" : {
@@ -119,51 +227,6 @@
         "perk2" : 8316
       },
       "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8316
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
     },
     1,
     {
@@ -183,6 +246,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
         "perk1" : 8008,
         "perk2" : 8009,
         "perk3" : 9105,
@@ -195,8 +273,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
     1
   ],
+  "id" : "Volibear",
   "items" : {
     "allItems" : {
       "1006" : 2,
@@ -265,22 +359,22 @@
     },
     "starters" : [
       [
+        2003,
+        1056
+      ],
+      4,
+      [
         1102
       ],
       6,
       [
+        1102,
+        2003
+      ],
+      4,
+      [
         2003,
-        1102
-      ],
-      4,
-      [
-        1056,
-        2003
-      ],
-      4,
-      [
-        1055,
-        2003
+        1055
       ],
       1
     ],
@@ -295,21 +389,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
+      "SummonerDot.png",
       "SummonerFlash.png"
     ],
-    4,
+    1,
     [
       "SummonerSmite.png",
       "SummonerFlash.png"
     ],
     10,
     [
-      "SummonerDot.png",
+      "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    1
+    4
   ],
   "totalGames" : 15,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

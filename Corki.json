@@ -1,51 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He...",
+    "id" : "Corki",
+    "image" : {
+      "full" : "Corki.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 3,
+      "difficulty" : 6,
+      "magic" : 6
+    },
+    "key" : "42",
+    "name" : "Corki",
+    "passive" : {
+      "description" : "A percentage of Corki's basic attack damage is dealt as bonus <trueDamage>true damage<\/trueDamage>.",
+      "image" : {
+        "full" : "Corki_RapidReload.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 96
+      },
+      "name" : "Hextech Munitions"
+    },
+    "spells" : [
+      {
+        "description" : "Corki fires a flash bomb at a target location, dealing magic damage to enemies in the area. This attack additionally reveals units in the area for a duration.",
+        "id" : "PhosphorusBomb",
+        "image" : {
+          "full" : "PhosphorusBomb.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Phosphorus Bomb"
+      },
+      {
+        "description" : "Corki flies a short distance, dropping bombs that create a trail of fire that damages opponents who remain in it.",
+        "id" : "CarpetBomb",
+        "image" : {
+          "full" : "CarpetBomb.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Valkyrie"
+      },
+      {
+        "description" : "Corki's gatling gun rapidly fires in a cone in front of him, dealing damage and reducing enemy Armor and Magic Resist.",
+        "id" : "GGun",
+        "image" : {
+          "full" : "GGun.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Gatling Gun"
+      },
+      {
+        "description" : "Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage.",
+        "id" : "MissileBarrage",
+        "image" : {
+          "full" : "MissileBarrage.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Missile Barrage"
+      }
+    ],
+    "title" : "the Daring Bombardier"
+  },
   "championName" : "Corki",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8316,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -61,21 +109,6 @@
       "subStyle" : 8300
     },
     1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8316
-      },
-      "subStyle" : 8300
-    },
-    3,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -110,6 +143,66 @@
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8316
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8316,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
         "perk3" : 9104,
         "perk4" : 8014
       },
@@ -122,6 +215,7 @@
     },
     1
   ],
+  "id" : "Corki",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -191,26 +285,27 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerExhaust.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    6,
-    [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerExhaust.png",
+      "SummonerFlash.png"
     ],
     1,
     [
       "SummonerFlash.png",
       "SummonerBarrier.png"
     ],
-    2
+    2,
+    [
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
+    ],
+    6,
+    [
+      "SummonerHeal.png",
+      "SummonerFlash.png"
+    ],
+    1
   ],
   "totalGames" : 10,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

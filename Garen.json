@@ -1,51 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its...",
+    "id" : "Garen",
+    "image" : {
+      "full" : "Garen.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 7,
+      "difficulty" : 5,
+      "magic" : 1
+    },
+    "key" : "86",
+    "name" : "Garen",
+    "passive" : {
+      "description" : "If Garen has not recently been struck by damage or enemy abilities, he regenerates a percentage of his total health each second.",
+      "image" : {
+        "full" : "Garen_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 0
+      },
+      "name" : "Perseverance"
+    },
+    "spells" : [
+      {
+        "description" : "Garen gains a burst of Move Speed, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and silencing them.",
+        "id" : "GarenQ",
+        "image" : {
+          "full" : "GarenQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Decisive Strike"
+      },
+      {
+        "description" : "Garen passively increases his Armor and Magic Resist by killing enemies. He may also activate this ability to give him a shield and tenacity for a brief moment followed by a lesser amount of damage reduction for a longer duration.",
+        "id" : "GarenW",
+        "image" : {
+          "full" : "GarenW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Courage"
+      },
+      {
+        "description" : "Garen rapidly spins his sword around his body, dealing physical damage to nearby enemies.",
+        "id" : "GarenE",
+        "image" : {
+          "full" : "GarenE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Judgment"
+      },
+      {
+        "description" : "Garen calls upon the might of Demacia to attempt to execute an enemy champion.",
+        "id" : "GarenR",
+        "image" : {
+          "full" : "GarenR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Demacian Justice"
+      }
+    ],
+    "title" : "The Might of Demacia"
+  },
   "championName" : "Garen",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8224,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8224,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8446,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -63,17 +111,17 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9101,
-        "perk3" : 9105,
-        "perk4" : 8017
+        "perk1" : 8230,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8236
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8234
+        "perk1" : 8446,
+        "perk2" : 8444
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1,
     {
@@ -105,8 +153,54 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9101,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8224,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Garen",
   "items" : {
     "allItems" : {
       "1037" : 2,
@@ -154,15 +248,15 @@
     },
     "starters" : [
       [
+        1054,
+        2003
+      ],
+      5,
+      [
         2003,
         1055
       ],
-      2,
-      [
-        2003,
-        1054
-      ],
-      5
+      2
     ],
     "thirdCore" : {
       "3161" : 3
@@ -170,21 +264,22 @@
   },
   "spellFrequency" : [
     [
+      "SummonerHaste.png",
+      "SummonerFlash.png"
+    ],
+    1,
+    [
       "SummonerFlash.png",
-      "SummonerHaste.png"
+      "SummonerTeleport.png"
     ],
     1,
     [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    5,
-    [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
-    ],
-    1
+    5
   ],
   "totalGames" : 7,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed...",
+    "id" : "Renekton",
+    "image" : {
+      "full" : "Renekton.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 3,
+      "magic" : 2
+    },
+    "key" : "58",
+    "name" : "Renekton",
+    "passive" : {
+      "description" : "Renekton's attacks generate Fury, increased when he is low on life. This Fury can empower his abilities with bonus effects.",
+      "image" : {
+        "full" : "Renekton_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 48
+      },
+      "name" : "Reign of Anger"
+    },
+    "spells" : [
+      {
+        "description" : "Renekton swings his blade, dealing moderate physical damage to all targets around him, and heals for a small portion of the damage dealt. If he has more than 50 Fury, his damage and heal are increased.",
+        "id" : "RenektonCleave",
+        "image" : {
+          "full" : "RenektonCleave.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Cull the Meek"
+      },
+      {
+        "description" : "Renekton slashes his target twice, dealing moderate physical damage and stuns them for 0.75 seconds. If Renekton has more than 50 Fury, he slashes his target three times, destroying damage shields on the target, dealing high physical damage, and stunning them for 1.5 seconds.",
+        "id" : "RenektonPreExecute",
+        "image" : {
+          "full" : "RenektonPreExecute.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Ruthless Predator"
+      },
+      {
+        "description" : "Renekton dashes, dealing damage to units along the way. Empowered, Renekton deals bonus damage and reduces the Armor of units hit.",
+        "id" : "RenektonSliceAndDice",
+        "image" : {
+          "full" : "RenektonSliceAndDice.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Slice and Dice"
+      },
+      {
+        "description" : "Renekton transforms into the Tyrant form, gaining bonus Health and dealing damage to enemies around him. While in this form, Renekton gains Fury periodically.",
+        "id" : "RenektonReignOfTheTyrant",
+        "image" : {
+          "full" : "RenektonReignOfTheTyrant.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Dominus"
+      }
+    ],
+    "title" : "the Butcher of the Sands"
+  },
   "championName" : "Renekton",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -35,17 +113,32 @@
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8446
+        "perk1" : 8444,
+        "perk2" : 8451
       },
       "subStyle" : 8400
     },
-    1,
+    3,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -70,13 +163,14 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
+        "perk1" : 8473,
+        "perk2" : 8446
       },
       "subStyle" : 8400
     },
-    3
+    1
   ],
+  "id" : "Renekton",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -128,15 +222,15 @@
     },
     "starters" : [
       [
-        2003,
-        1054
-      ],
-      3,
-      [
         1055,
         2003
       ],
-      5
+      5,
+      [
+        2003,
+        1054
+      ],
+      3
     ],
     "thirdCore" : {
       "3053" : 1,
@@ -151,11 +245,12 @@
     ],
     4,
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     4
   ],
   "totalGames" : 8,
-  "totalWins" : 6
+  "totalWins" : 6,
+  "version" : "15.18.1"
 }

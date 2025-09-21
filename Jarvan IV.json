@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "Prince Jarvan, scion of the Lightshield dynasty, is heir apparent to the throne of Demacia. Raised to be a paragon of his nation's greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to fight on the front...",
+    "id" : "JarvanIV",
+    "image" : {
+      "full" : "JarvanIV.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 8,
+      "difficulty" : 5,
+      "magic" : 3
+    },
+    "key" : "59",
+    "name" : "Jarvan IV",
+    "passive" : {
+      "description" : "Jarvan's first basic attack on an enemy deals bonus physical damage based on their current Health. This effect cannot occur again on the same enemy for a few seconds.",
+      "image" : {
+        "full" : "JarvanIVP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Martial Cadence"
+    },
+    "spells" : [
+      {
+        "description" : "Jarvan IV extends his lance, dealing physical damage and lowering the Armor of enemies in its path. Additionally, this will pull Jarvan to his Demacian Standard, knocking up enemies in his path.",
+        "id" : "JarvanIVDragonStrike",
+        "image" : {
+          "full" : "JarvanIVDragonStrike.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Dragon Strike"
+      },
+      {
+        "description" : "Jarvan IV calls upon the ancient kings of Demacia to shield him from harm and slow surrounding enemies.",
+        "id" : "JarvanIVGoldenAegis",
+        "image" : {
+          "full" : "JarvanIVGoldenAegis.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Golden Aegis"
+      },
+      {
+        "description" : "Jarvan IV carries the pride of Demacia, passively granting him bonus Attack Speed. Activating Demacian Standard allows Jarvan IV to place a Demacian flag that deals magic damage on impact and grants Attack Speed to nearby allied champions.",
+        "id" : "JarvanIVDemacianStandard",
+        "image" : {
+          "full" : "JarvanIVDemacianStandard.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Demacian Standard"
+      },
+      {
+        "description" : "Jarvan IV heroically leaps into battle at a target with such force that he terraforms the surrounding area to create an arena around them. Nearby enemies are damaged at the moment of impact.",
+        "id" : "JarvanIVCataclysm",
+        "image" : {
+          "full" : "JarvanIVCataclysm.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Cataclysm"
+      }
+    ],
+    "title" : "the Exemplar of Demacia"
+  },
+  "championName" : "Jarvan IV",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "JarvanIV",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3047" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "6692" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "6610" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003,
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

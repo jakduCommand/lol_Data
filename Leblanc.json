@@ -1,133 +1,139 @@
 {
-  "championName" : "Leblanc",
+  "championDetail" : {
+    "blurb" : "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone...",
+    "id" : "Leblanc",
+    "image" : {
+      "full" : "Leblanc.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 4,
+      "difficulty" : 9,
+      "magic" : 10
+    },
+    "key" : "7",
+    "name" : "LeBlanc",
+    "passive" : {
+      "description" : "When LeBlanc drops below 40% Health, she becomes invisible for 1 second and creates a Mirror Image that deals no damage and lasts for up to 8 seconds.",
+      "image" : {
+        "full" : "LeblancP.Leblanc_Rework.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "Mirror Image"
+    },
+    "spells" : [
+      {
+        "description" : "LeBlanc projects a sigil, dealing damage and marking the target for 3.5 seconds. Damaging the marked target with an ability detonates the sigil, dealing additional damage. If either part kills the target, Leblanc refunds the Mana cost and part of this spell's remaining Cooldown.",
+        "id" : "LeblancQ",
+        "image" : {
+          "full" : "LeblancQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Sigil of Malice"
+      },
+      {
+        "description" : "LeBlanc dashes to a location, dealing damage to enemies near her destination. For the next 4 seconds, activate Distortion again to return LeBlanc to her starting location.",
+        "id" : "LeblancW",
+        "image" : {
+          "full" : "LeblancW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Distortion"
+      },
+      {
+        "description" : "LeBlanc launches a chain that shackles the first enemy hit. If the target remains shackled for 1.5 seconds, LeBlanc roots them and deals additional damage.",
+        "id" : "LeblancE",
+        "image" : {
+          "full" : "LeblancE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Ethereal Chains"
+      },
+      {
+        "description" : "LeBlanc casts a mimicked version of one of her basic spells.",
+        "id" : "LeblancR",
+        "image" : {
+          "full" : "LeblancR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Mimic"
+      }
+    ],
+    "title" : "the Deceiver"
+  },
+  "championName" : "LeBlanc",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8141,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1
+
   ],
+  "id" : "Leblanc",
   "items" : {
     "allItems" : {
-      "1026" : 1,
-      "1052" : 1,
-      "1056" : 2,
-      "1058" : 1,
-      "1082" : 1,
-      "2055" : 3,
-      "3020" : 2,
-      "3041" : 1,
-      "3175" : 1,
-      "3176" : 1,
-      "3364" : 4,
-      "3871" : 1,
-      "4630" : 1,
-      "4645" : 2,
-      "4646" : 2,
-      "6655" : 4
+
     },
     "boots" : {
-      "3010" : 1,
-      "3020" : 3
+      "3020" : 1
     },
     "fifthCore" : {
 
     },
     "firstCore" : {
-      "6655" : 4
+      "6655" : 1
     },
     "fourthCore" : {
-      "3041" : 1
+
     },
     "secondCore" : {
-      "4645" : 1,
-      "4646" : 2
+      "4645" : 1
     },
     "sixthCore" : {
 
     },
     "starters" : [
       [
-        1056,
-        2003
-      ],
-      3,
-      [
-        2003
+        2003,
+        1056
       ],
       1
     ],
     "thirdCore" : {
-      "4645" : 1
+
     }
   },
   "spellFrequency" : [
-    [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    2,
-    [
-      "SummonerFlash.png",
-      "SummonerDot.png"
-    ],
-    2
+
   ],
-  "totalGames" : 4,
-  "totalWins" : 2
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

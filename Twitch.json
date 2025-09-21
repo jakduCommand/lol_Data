@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really...",
+    "id" : "Twitch",
+    "image" : {
+      "full" : "Twitch.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 2,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "29",
+    "name" : "Twitch",
+    "passive" : {
+      "description" : "Twitch's basic attacks infect the target, dealing true damage each second.",
+      "image" : {
+        "full" : "Twitch_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 96
+      },
+      "name" : "Deadly Venom"
+    },
+    "spells" : [
+      {
+        "description" : "Twitch becomes Camouflaged for a short duration and gains Move Speed. When leaving Camouflage, Twitch gains Attack Speed for a short duration.<br><br>When an enemy champion with Deadly Venom dies, Ambush's cooldown is reset.",
+        "id" : "TwitchHideInShadows",
+        "image" : {
+          "full" : "TwitchHideInShadows.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Ambush"
+      },
+      {
+        "description" : "Twitch hurls a cask of venom that explodes in an area, slowing targets and applying deadly venom to the target.",
+        "id" : "TwitchVenomCask",
+        "image" : {
+          "full" : "TwitchVenomCask.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Venom Cask"
+      },
+      {
+        "description" : "Twitch wreaks further havoc on poisoned enemies with a blast of his vile diseases.",
+        "id" : "TwitchExpunge",
+        "image" : {
+          "full" : "TwitchExpunge.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Contaminate"
+      },
+      {
+        "description" : "Twitch unleashes the full power of his crossbow, shooting bolts over a great distance that pierce all enemies caught in their path.",
+        "id" : "TwitchFullAutomatic",
+        "image" : {
+          "full" : "TwitchFullAutomatic.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Spray and Pray"
+      }
+    ],
+    "title" : "the Plague Rat"
+  },
   "championName" : "Twitch",
   "fullRunePageFrequency" : [
     {
@@ -12,6 +105,36 @@
       "subPerks" : {
         "perk1" : 8236,
         "perk2" : 8233
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8410,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8224,
+        "perk2" : 8236
       },
       "subStyle" : 8200
     },
@@ -45,38 +168,9 @@
       },
       "subStyle" : 8100
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
     1
   ],
+  "id" : "Twitch",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -118,15 +212,15 @@
     },
     "starters" : [
       [
+        2003,
+        1056
+      ],
+      3,
+      [
         1055,
         2003
       ],
-      1,
-      [
-        1056,
-        2003
-      ],
-      3
+      1
     ],
     "thirdCore" : {
       "3157" : 1
@@ -134,12 +228,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
     ],
     1,
     [
-      "SummonerExhaust.png",
+      "SummonerDot.png",
       "SummonerFlash.png"
     ],
     1,
@@ -150,5 +244,6 @@
     3
   ],
   "totalGames" : 5,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

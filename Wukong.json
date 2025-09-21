@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial...",
+    "id" : "MonkeyKing",
+    "image" : {
+      "full" : "MonkeyKing.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 3,
+      "magic" : 2
+    },
+    "key" : "62",
+    "name" : "Wukong",
+    "passive" : {
+      "description" : "Wukong gains stacking armor and max health regeneration while fighting champions and monsters.",
+      "image" : {
+        "full" : "MonkeyKingStoneSkin.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 96
+      },
+      "name" : "Stone Skin"
+    },
+    "spells" : [
+      {
+        "description" : "Wukong's next attack gains attack range, deals bonus damage, and reduces the target's armor for a few seconds.",
+        "id" : "MonkeyKingDoubleAttack",
+        "image" : {
+          "full" : "MonkeyKingDoubleAttack.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Crushing Blow"
+      },
+      {
+        "description" : "Wukong becomes <font color='#91d7ee'>Invisible<\/font> and dashes in a direction, leaving behind a clone that will attack nearby enemies.",
+        "id" : "MonkeyKingDecoy",
+        "image" : {
+          "full" : "MonkeyKingDecoy.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Warrior Trickster"
+      },
+      {
+        "description" : "Wukong dashes to a targeted enemy and sends out images to attack enemies near his target, dealing damage to each enemy struck.",
+        "id" : "MonkeyKingNimbus",
+        "image" : {
+          "full" : "MonkeyKingNimbus.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Nimbus Strike"
+      },
+      {
+        "description" : "Wukong's extends his staff and spins it around repeatedly, gaining Move Speed.<br><br>Enemies struck take damage and are knocked up.",
+        "id" : "MonkeyKingSpinToWin",
+        "image" : {
+          "full" : "MonkeyKingSpinToWin.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Cyclone"
+      }
+    ],
+    "title" : "the Monkey King"
+  },
+  "championName" : "Wukong",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "MonkeyKing",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3078" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1101,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

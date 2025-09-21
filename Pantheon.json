@@ -1,36 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn...",
+    "id" : "Pantheon",
+    "image" : {
+      "full" : "Pantheon.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 4,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "80",
+    "name" : "Pantheon",
+    "passive" : {
+      "description" : "Every few spells or attacks, Pantheon's next spell is empowered.",
+      "image" : {
+        "full" : "Pantheon_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "Mortal Will"
+    },
+    "spells" : [
+      {
+        "description" : "Pantheon either thrusts his spear or throws his spear in the chosen direction.",
+        "id" : "PantheonQ",
+        "image" : {
+          "full" : "PantheonQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Comet Spear"
+      },
+      {
+        "description" : "Pantheon dashes to a target, damaging and stunning them.",
+        "id" : "PantheonW",
+        "image" : {
+          "full" : "PantheonW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Shield Vault"
+      },
+      {
+        "description" : "Pantheon sets his shield, becoming invulnerable to damage from the front and striking repeatedly with his spear.",
+        "id" : "PantheonE",
+        "image" : {
+          "full" : "PantheonE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Aegis Assault"
+      },
+      {
+        "description" : "Pantheon composes himself and then leaps into the air, landing at a chosen location as a comet.",
+        "id" : "PantheonR",
+        "image" : {
+          "full" : "PantheonR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Grand Starfall"
+      }
+    ],
+    "title" : "the Unbreakable Spear"
+  },
   "championName" : "Pantheon",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
         "perk2" : 9111,
-        "perk3" : 9104,
+        "perk3" : 9105,
         "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
+        "perk1" : 8306,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -48,32 +126,47 @@
     2,
     {
       "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
+        "perk1" : 8010,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
+        "perk1" : 8347,
+        "perk2" : 8304
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
     },
     1,
     {
       "primaryPerks" : {
         "perk1" : 8005,
-        "perk2" : 9111,
+        "perk2" : 8009,
         "perk3" : 9105,
-        "perk4" : 8014
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8306
+        "perk1" : 8444,
+        "perk2" : 8451
       },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1,
     {
@@ -115,8 +208,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
+        "perk1" : 8347,
+        "perk2" : 8306
       },
       "subStyle" : 8300
     },
@@ -155,18 +248,19 @@
       "primaryPerks" : {
         "perk1" : 8005,
         "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8299
+        "perk3" : 9104,
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8237
+        "perk1" : 8473,
+        "perk2" : 8451
       },
-      "subStyle" : 8200
+      "subStyle" : 8400
     },
     1
   ],
+  "id" : "Pantheon",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -237,31 +331,31 @@
     },
     "starters" : [
       [
-        1102,
-        2003
-      ],
-      4,
-      [
-        2003
-      ],
-      4,
-      [
-        1055,
-        2003
-      ],
-      2,
-      [
         1102
       ],
       1,
       [
-        1036,
-        2031
+        2003
+      ],
+      4,
+      [
+        1054,
+        2003
       ],
       1,
       [
         2003,
-        1054
+        1055
+      ],
+      2,
+      [
+        2003,
+        1102
+      ],
+      4,
+      [
+        2031,
+        1036
       ],
       1
     ],
@@ -274,16 +368,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    5,
-    [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    8
+    8,
+    [
+      "SummonerSmite.png",
+      "SummonerFlash.png"
+    ],
+    5
   ],
   "totalGames" : 13,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

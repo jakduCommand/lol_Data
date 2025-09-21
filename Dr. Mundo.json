@@ -1,0 +1,138 @@
+{
+  "championDetail" : {
+    "blurb" : "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun's most infamous asylum. After \"curing\" the...",
+    "id" : "DrMundo",
+    "image" : {
+      "full" : "DrMundo.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 7,
+      "difficulty" : 5,
+      "magic" : 6
+    },
+    "key" : "36",
+    "name" : "Dr. Mundo",
+    "passive" : {
+      "description" : "Dr. Mundo resists the first Immobilizing effect that hits him, instead losing Health and dropping a chemical cannister nearby. Dr. Mundo can pick it up by walking over it, restoring Health and reducing this Ability's Cooldown.<br><br>Dr. Mundo also has significantly increased Health regeneration.<br>",
+      "image" : {
+        "full" : "DrMundo_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 96
+      },
+      "name" : "Goes Where He Pleases"
+    },
+    "spells" : [
+      {
+        "description" : "Dr. Mundo throws an infected bonesaw, dealing damage to the first enemy hit based on their current health and slowing them.",
+        "id" : "DrMundoQ",
+        "image" : {
+          "full" : "DrMundoQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Infected Bonesaw"
+      },
+      {
+        "description" : "Dr. Mundo electrocutes himself, dealing persistent damage to nearby enemies and storing a portion of damage he takes. At the end of the duration or on Recast, Dr. Mundo deals a burst of damage to nearby enemies. If the burst hit an enemy, he heals a percentage of the stored damage.",
+        "id" : "DrMundoW",
+        "image" : {
+          "full" : "DrMundoW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Heart Zapper"
+      },
+      {
+        "description" : "Passive - Dr. Mundo gains bonus Attack Damage, increasing based on his max Health.<br><br>Active - Dr. Mundo slams his “medical” bag into an enemy, dealing additional damage based on his missing Health. If the enemy dies they are swatted away, dealing damage to enemies they pass through.",
+        "id" : "DrMundoE",
+        "image" : {
+          "full" : "DrMundoE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Blunt Force Trauma"
+      },
+      {
+        "description" : "Dr. Mundo pumps himself with chemicals, instantly healing a percent of his missing Health. He then gains Move Speed and regenerates a portion of his maximum Health over a long duration.",
+        "id" : "DrMundoR",
+        "image" : {
+          "full" : "DrMundoR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Maximum Dosage"
+      }
+    ],
+    "title" : "the Madman of Zaun"
+  },
+  "championName" : "Dr. Mundo",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "DrMundo",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3009" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3084" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "3742" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3065" : 1
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

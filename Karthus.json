@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of...",
+    "id" : "Karthus",
+    "image" : {
+      "full" : "Karthus.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 10
+    },
+    "key" : "30",
+    "name" : "Karthus",
+    "passive" : {
+      "description" : "Upon dying, Karthus enters a spirit form that allows him to continue casting spells.",
+      "image" : {
+        "full" : "Karthus_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 96
+      },
+      "name" : "Death Defied"
+    },
+    "spells" : [
+      {
+        "description" : "Karthus unleashes a delayed blast at a location, dealing damage to nearby enemies. Deals increased damage to isolated enemies. ",
+        "id" : "KarthusLayWasteA1",
+        "image" : {
+          "full" : "KarthusLayWasteA1.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Lay Waste"
+      },
+      {
+        "description" : "Karthus creates a passable screen of leeching energy. Any enemy units that walk through the screen have their Move Speed and Magic Resist reduced for a period.",
+        "id" : "KarthusWallOfPain",
+        "image" : {
+          "full" : "KarthusWallOfPain.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Wall of Pain"
+      },
+      {
+        "description" : "Karthus passively steals energy from his victims, gaining Mana on each kill. Alternatively, Karthus can surround himself in the souls of his prey, dealing damage to nearby enemies, but quickly draining his own Mana.",
+        "id" : "KarthusDefile",
+        "image" : {
+          "full" : "KarthusDefile.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Defile"
+      },
+      {
+        "description" : "After channeling for 3 seconds, Karthus deals damage to all enemy champions.",
+        "id" : "KarthusFallenOne",
+        "image" : {
+          "full" : "KarthusFallenOne.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Requiem"
+      }
+    ],
+    "title" : "the Deathsinger"
+  },
   "championName" : "Karthus",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 8299
-      },
-      "subStyle" : 8000
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8128,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8000
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 8299
+      },
+      "subStyle" : 8000
+    },
     1
   ],
+  "id" : "Karthus",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -108,16 +202,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerDot.png"
     ],
     1,
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     2
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

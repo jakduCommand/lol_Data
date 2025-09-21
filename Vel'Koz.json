@@ -1,0 +1,138 @@
+{
+  "championDetail" : {
+    "blurb" : "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to...",
+    "id" : "Velkoz",
+    "image" : {
+      "full" : "Velkoz.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 8,
+      "magic" : 10
+    },
+    "key" : "161",
+    "name" : "Vel'Koz",
+    "passive" : {
+      "description" : "Vel'Koz's abilities apply <keywordName>Organic Deconstruction<\/keywordName> to enemies on hit. If 3 stacks are accumulated, the enemy will take a burst of true damage.",
+      "image" : {
+        "full" : "VelKoz_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 96
+      },
+      "name" : "Organic Deconstruction"
+    },
+    "spells" : [
+      {
+        "description" : "Vel'Koz shoots a bolt of plasma that splits in two on reactivation or upon hitting an enemy. The bolt slows and damages on hit.",
+        "id" : "VelkozQ",
+        "image" : {
+          "full" : "VelkozQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Plasma Fission"
+      },
+      {
+        "description" : "Vel'Koz opens a rift to the void that deals an initial burst of damage, then explodes for a second burst of damage after a delay.",
+        "id" : "VelkozW",
+        "image" : {
+          "full" : "VelkozW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Void Rift"
+      },
+      {
+        "description" : "Vel'Koz causes an area to explode, knocking up enemies, and knocking close enemies slightly away.",
+        "id" : "VelkozE",
+        "image" : {
+          "full" : "VelkozE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Tectonic Disruption"
+      },
+      {
+        "description" : "Vel'Koz unleashes a channelled beam that follows the cursor for 2.5 seconds that deals magic damage. Organic Deconstruction Researches enemy champions causing them to take true damage instead.",
+        "id" : "VelkozR",
+        "image" : {
+          "full" : "VelkozR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Life Form Disintegration Ray"
+      }
+    ],
+    "title" : "the Eye of the Void"
+  },
+  "championName" : "Vel'Koz",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "Velkoz",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3020" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "6655" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "4628" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

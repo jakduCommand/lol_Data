@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only...",
+    "id" : "Naafiri",
+    "image" : {
+      "full" : "Naafiri.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 5,
+      "difficulty" : 2,
+      "magic" : 0
+    },
+    "key" : "950",
+    "name" : "Naafiri",
+    "passive" : {
+      "description" : "Naafiri spawns packmates that attack the targets of her attacks and abilities.",
+      "image" : {
+        "full" : "Icons_Naafiri_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 96
+      },
+      "name" : "We Are More"
+    },
+    "spells" : [
+      {
+        "description" : "Naafiri hurls up to two daggers, each inflicting bleed, or each inflicting bonus damage if the target is already bleeding.<br><br>Packmates leap to attack the first champion or monster hit by this skill.<br>",
+        "id" : "NaafiriQ",
+        "image" : {
+          "full" : "NaafiriQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Darkin Daggers"
+      },
+      {
+        "description" : "Naafiri becomes Untargetable and empowers her pack, spawning additional packmates and gaining increased Move Speed and Attack Damage.<br>",
+        "id" : "NaafiriR",
+        "image" : {
+          "full" : "NaafiriR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "The Call of the Pack"
+      },
+      {
+        "description" : "Naafiri dashes and damages enemies in an area around her, recalling her packmates and fully healing them.",
+        "id" : "NaafiriE",
+        "image" : {
+          "full" : "NaafiriE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Eviscerate"
+      },
+      {
+        "description" : "Naafiri and her packmates dash at a champion, dealing damage. Naafiri reveals nearby enemies if she scores a takedown and can recast this Ability once. The second cast grants a shield.",
+        "id" : "NaafiriW",
+        "image" : {
+          "full" : "NaafiriW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Hounds' Pursuit"
+      }
+    ],
+    "title" : "the Hound of a Hundred Bites"
+  },
   "championName" : "Naafiri",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    2,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -33,21 +111,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 9923,
         "perk2" : 8143,
         "perk3" : 8140,
@@ -60,8 +123,39 @@
       },
       "subStyle" : 8200
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
     1
   ],
+  "id" : "Naafiri",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -108,20 +202,20 @@
     },
     "starters" : [
       [
-        1054,
-        2003
-      ],
-      1,
-      [
-        1101,
-        2003
+        2003,
+        1101
       ],
       2,
       [
         2003,
         1055
       ],
-      2
+      2,
+      [
+        1054,
+        2003
+      ],
+      1
     ],
     "thirdCore" : {
       "3814" : 1
@@ -129,16 +223,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     2,
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     3
   ],
   "totalGames" : 5,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

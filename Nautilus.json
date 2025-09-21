@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to...",
+    "id" : "Nautilus",
+    "image" : {
+      "full" : "Nautilus.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 6,
+      "difficulty" : 6,
+      "magic" : 6
+    },
+    "key" : "111",
+    "name" : "Nautilus",
+    "passive" : {
+      "description" : "Nautilus' first Attack against a target deals increased physical damage and roots them briefly.",
+      "image" : {
+        "full" : "Nautilus_StaggeringBlow.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Staggering Blow"
+    },
+    "spells" : [
+      {
+        "description" : "Nautilus hurls his anchor forward.  Colliding with an enemy pulls them and Nautilus together, dealing magic damage.  Colliding with terrain pulls Nautilus towards it.",
+        "id" : "NautilusAnchorDrag",
+        "image" : {
+          "full" : "NautilusAnchorDrag.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Dredge Line"
+      },
+      {
+        "description" : "Nautilus gains a temporary Shield.  While it persists, his Attacks deal damage over time to his target and surrounding enemies.",
+        "id" : "NautilusPiercingGaze",
+        "image" : {
+          "full" : "NautilusPiercingGaze.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Titan's Wrath"
+      },
+      {
+        "description" : "Nautilus creates three exploding waves around himself. Each explosion damages and slows enemies.",
+        "id" : "NautilusSplashZone",
+        "image" : {
+          "full" : "NautilusSplashZone.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Riptide"
+      },
+      {
+        "description" : "Nautilus fires a shockwave into the earth that chases an opponent. This shockwave rips up the earth above it, knocking enemies into the air. When it reaches the opponent, the shockwave erupts, knocking his target into the air and stunning them.",
+        "id" : "NautilusGrandLine",
+        "image" : {
+          "full" : "NautilusGrandLine.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Depth Charge"
+      }
+    ],
+    "title" : "the Titan of the Depths"
+  },
   "championName" : "Nautilus",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8439,
@@ -25,12 +103,12 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
+        "perk1" : 8306,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8439,
@@ -64,18 +142,18 @@
     {
       "primaryPerks" : {
         "perk1" : 8360,
-        "perk2" : 8306,
+        "perk2" : 8304,
         "perk3" : 8345,
         "perk4" : 8347
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
+        "perk1" : 8453,
+        "perk2" : 8444
       },
       "subStyle" : 8400
     },
-    3,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8439,
@@ -85,8 +163,53 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8313,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
         "perk1" : 8306,
-        "perk2" : 8345
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8306,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
@@ -109,8 +232,8 @@
     {
       "primaryPerks" : {
         "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8444,
+        "perk2" : 8401,
+        "perk3" : 8473,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
@@ -124,49 +247,20 @@
     {
       "primaryPerks" : {
         "perk1" : 8360,
-        "perk2" : 8304,
+        "perk2" : 8306,
         "perk3" : 8345,
         "perk4" : 8347
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8444
+        "perk1" : 8473,
+        "perk2" : 8242
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8313,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8401,
-        "perk3" : 8473,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1
+    3
   ],
+  "id" : "Nautilus",
   "items" : {
     "allItems" : {
       "1001" : 2,
@@ -227,14 +321,14 @@
     },
     "starters" : [
       [
-        1103,
         2003
       ],
-      1,
+      14,
       [
-        2003
+        2003,
+        1103
       ],
-      14
+      1
     ],
     "thirdCore" : {
       "2502" : 1,
@@ -243,21 +337,22 @@
   },
   "spellFrequency" : [
     [
+      "SummonerDot.png",
+      "SummonerFlash.png"
+    ],
+    11,
+    [
       "SummonerFlash.png",
       "SummonerHeal.png"
     ],
     3,
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerSmite.png"
     ],
-    11
+    1
   ],
   "totalGames" : 15,
-  "totalWins" : 10
+  "totalWins" : 10,
+  "version" : "15.18.1"
 }

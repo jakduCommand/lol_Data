@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking...",
+    "id" : "Nocturne",
+    "image" : {
+      "full" : "Nocturne.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 5,
+      "difficulty" : 4,
+      "magic" : 2
+    },
+    "key" : "56",
+    "name" : "Nocturne",
+    "passive" : {
+      "description" : "Every few seconds, Nocturne's next attack strikes surrounding enemies for bonus physical damage and heals himself. <br><br>Nocturne's basic attacks reduce this cooldown.",
+      "image" : {
+        "full" : "Nocturne_UmbraBlades.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 0
+      },
+      "name" : "Umbra Blades"
+    },
+    "spells" : [
+      {
+        "description" : "Nocturne throws a shadow blade that deals damage, leaves a Dusk Trail, and causes champions to leave a Dusk Trail. While on the trail, Nocturne can move through units and has increased Move Speed and Attack Damage.",
+        "id" : "NocturneDuskbringer",
+        "image" : {
+          "full" : "NocturneDuskbringer.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Duskbringer"
+      },
+      {
+        "description" : "Nocturne empowers his blades, passively gaining Attack Speed. Activating Shroud of Darkness allows Nocturne to fade into the shadows, creating a magical barrier which blocks a single enemy ability and doubles his passive Attack Speed if successful.",
+        "id" : "NocturneShroudofDarkness",
+        "image" : {
+          "full" : "NocturneShroudofDarkness.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Shroud of Darkness"
+      },
+      {
+        "description" : "Nocturne plants a nightmare into his target's mind, dealing damage each second and applying fear to the target if they do not get out of range by the end of the duration.",
+        "id" : "NocturneUnspeakableHorror",
+        "image" : {
+          "full" : "NocturneUnspeakableHorror.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Unspeakable Horror"
+      },
+      {
+        "description" : "Nocturne reduces the sight radius of all enemy champions and removes their ally vision in the process. He can then launch himself at a nearby enemy champion.",
+        "id" : "NocturneParanoia",
+        "image" : {
+          "full" : "NocturneParanoia.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Paranoia"
+      }
+    ],
+    "title" : "the Eternal Nightmare"
+  },
   "championName" : "Nocturne",
   "fullRunePageFrequency" : [
     {
@@ -6,7 +99,7 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8299
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -36,7 +129,7 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8014
+        "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Nocturne",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -113,5 +207,6 @@
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

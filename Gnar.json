@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Gnar is a primeval yordle whose playful antics can erupt into a toddler's outrage in an instant, transforming him into a massive beast bent on destruction. Frozen in True Ice for millennia, the curious creature broke free and now hops about a changed...",
+    "id" : "Gnar",
+    "image" : {
+      "full" : "Gnar.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 5,
+      "difficulty" : 8,
+      "magic" : 5
+    },
+    "key" : "150",
+    "name" : "Gnar",
+    "passive" : {
+      "description" : "While in combat Gnar generates Rage. At maximum Rage his next ability will transform him into Mega Gnar, granting increased survivability and access to new spells.",
+      "image" : {
+        "full" : "Gnar_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "Rage Gene"
+    },
+    "spells" : [
+      {
+        "description" : "Gnar throws a boomerang that damages and slows enemies it hits before returning to him. If he catches the boomerang its cooldown is reduced.<br><br>Mega Gnar instead throws a boulder that stops on the first unit hit, damaging and slowing everything nearby. It can then be picked up to reduce the cooldown.",
+        "id" : "GnarQ",
+        "image" : {
+          "full" : "GnarQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Boomerang Throw \/ Boulder Toss"
+      },
+      {
+        "description" : "Gnar's attacks and spells hype him up, dealing bonus damage and granting him Move Speed.<br><br>Mega Gnar is too enraged to be hyper and instead can rear up on his hind legs and smash down on the area in front of him, stunning enemies in an area.",
+        "id" : "GnarW",
+        "image" : {
+          "full" : "GnarW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Hyper \/ Wallop"
+      },
+      {
+        "description" : "Gnar leaps to a location and bounces off the head of any unit he lands on, traveling further.<br><br>Mega Gnar is too large to bounce and instead lands with earth-shattering force, dealing damage in an area around him.",
+        "id" : "GnarE",
+        "image" : {
+          "full" : "GnarE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Hop \/ Crunch"
+      },
+      {
+        "description" : "Mega Gnar throws everything around him in a chosen direction, dealing damage and slowing them.  Any enemy that hits a wall is stunned and takes bonus damage.",
+        "id" : "GnarR",
+        "image" : {
+          "full" : "GnarR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "GNAR!"
+      }
+    ],
+    "title" : "the Missing Link"
+  },
   "championName" : "Gnar",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Gnar",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -105,5 +199,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

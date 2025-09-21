@@ -1,6 +1,129 @@
 {
+  "championDetail" : {
+    "blurb" : "Mel Medarda is the presumed heir of the Medarda family, once one of the most powerful in Noxus. In appearance she is a graceful aristocrat, but beneath the surface lies a skilled politician who makes it her business to know everything about everyone she...",
+    "id" : "Mel",
+    "image" : {
+      "full" : "Mel.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 9
+    },
+    "key" : "800",
+    "name" : "Mel",
+    "passive" : {
+      "description" : "Whenever Mel uses an ability, she gains three bonus projectiles (up to nine maximum) on her next attack.<br><br>When Mel deals damage through an ability or attack, she applies Overwhelm, which can stack infinitely. If the enemy is hit by Mel with enough Overwhelm damage, the stacks are consumed to execute the target.",
+      "image" : {
+        "full" : "Mel_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 96
+      },
+      "name" : "Searing Brilliance"
+    },
+    "spells" : [
+      {
+        "description" : "Mel fires a barrage of projectiles that explode around a target location, dealing damage repeatedly to enemies within the area.",
+        "id" : "MelQ",
+        "image" : {
+          "full" : "MelQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Radiant Volley"
+      },
+      {
+        "description" : "Mel forms a barrier around herself that reflects enemy projectiles back at the attacker, prevents her from taking damage, and grants her movement speed.",
+        "id" : "MelW",
+        "image" : {
+          "full" : "MelW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Rebuttal"
+      },
+      {
+        "description" : "Mel fires a radiant orb forward, rooting those at its center while the area around it slows enemies and deals damage over time.",
+        "id" : "MelE",
+        "image" : {
+          "full" : "MelE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Solar Snare"
+      },
+      {
+        "description" : "Mel strikes all enemies marked with Overwhelm regardless of their distance from her, dealing additional damage for each stack of Overwhelm.<br><br>Ranks of Golden Eclipse increase Overwhelm's damage.",
+        "id" : "MelR",
+        "image" : {
+          "full" : "MelR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Golden Eclipse"
+      }
+    ],
+    "title" : "the Soul's Reflection"
+  },
   "championName" : "Mel",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8009,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -10,10 +133,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
+        "perk1" : 9105,
+        "perk2" : 8017
       },
-      "subStyle" : 8300
+      "subStyle" : 8000
     },
     1,
     {
@@ -40,8 +163,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
+        "perk1" : 8009,
+        "perk2" : 9105
       },
       "subStyle" : 8000
     },
@@ -51,47 +174,18 @@
         "perk1" : 8229,
         "perk2" : 8226,
         "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
         "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 9105
+        "perk1" : 8345,
+        "perk2" : 8347
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
     },
     1
   ],
+  "id" : "Mel",
   "items" : {
     "allItems" : {
       "1026" : 1,
@@ -143,8 +237,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       8
     ],
@@ -157,11 +251,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     8
   ],
   "totalGames" : 8,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

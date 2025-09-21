@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming...",
+    "id" : "Lillia",
+    "image" : {
+      "full" : "Lillia.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 0,
+      "defense" : 2,
+      "difficulty" : 8,
+      "magic" : 10
+    },
+    "key" : "876",
+    "name" : "Lillia",
+    "passive" : {
+      "description" : "Hitting a champion or monster with a skill will deal additional max Health damage over time.",
+      "image" : {
+        "full" : "Lillia_Icon_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 48
+      },
+      "name" : "Dream-Laden Bough"
+    },
+    "spells" : [
+      {
+        "description" : "Passively, Lillia gains stacking Move Speed when hitting enemies with spells. She can activate this to deal magic damage to nearby enemies, dealing extra true damage on the edge.",
+        "id" : "LilliaQ",
+        "image" : {
+          "full" : "LilliaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Blooming Blows"
+      },
+      {
+        "description" : "Lillia deals damage in a nearby area, dealing heavy damage in the center.",
+        "id" : "LilliaW",
+        "image" : {
+          "full" : "LilliaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Watch Out! Eep!"
+      },
+      {
+        "description" : "Lillia hurls a seed that damages and slows those it lands on. If it doesn't hit anything, it will continue rolling until it hits a wall or target.",
+        "id" : "LilliaE",
+        "image" : {
+          "full" : "LilliaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Swirlseed"
+      },
+      {
+        "description" : "Lillia causes all enemies with Dream Dust on them to become Drowsy before falling asleep. Those enemies will take extra damage on being forcibly woken up.",
+        "id" : "LilliaR",
+        "image" : {
+          "full" : "LilliaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Lilting Lullaby"
+      }
+    ],
+    "title" : "the Bashful Bloom"
+  },
   "championName" : "Lillia",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8232
-      },
-      "subStyle" : 8200
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -55,6 +133,21 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
         "perk1" : 8347,
         "perk2" : 8304
       },
@@ -62,6 +155,7 @@
     },
     1
   ],
+  "id" : "Lillia",
   "items" : {
     "allItems" : {
       "1033" : 1,
@@ -104,18 +198,18 @@
     },
     "starters" : [
       [
-        1102,
-        2003
-      ],
-      1,
-      [
-        1101
+        2003,
+        1102
       ],
       1,
       [
         1102
       ],
-      2
+      2,
+      [
+        1101
+      ],
+      1
     ],
     "thirdCore" : {
       "3041" : 1,
@@ -124,11 +218,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerSmite.png"
     ],
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

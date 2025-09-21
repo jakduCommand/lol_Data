@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a...",
+    "id" : "Sona",
+    "image" : {
+      "full" : "Sona.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 2,
+      "difficulty" : 4,
+      "magic" : 8
+    },
+    "key" : "37",
+    "name" : "Sona",
+    "passive" : {
+      "description" : "<passive>Accelerando<\/passive>: Sona gains non-Ultimate ability haste permanently for her basic abilities as she uses her abilities well, up to a cap. Beyond that cap, further successful uses reduce her ultimate's remaining cooldown instead.<br><br><passive>Power Chord<\/passive>: Every few spell casts, Sona's next attack will deal bonus magic damage in addition to an additional effect based on what basic Ability Sona last activated.",
+      "image" : {
+        "full" : "Sona_Passive_Charged.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 0
+      },
+      "name" : "Power Chord"
+    },
+    "spells" : [
+      {
+        "description" : "Sona plays the Hymn of Valor, sends out bolts of sound, dealing magic damage to two nearby enemies, prioritizing champions and monsters. Sona gains a temporary aura that grants allies tagged by the zone bonus damage on their next attack against enemies.",
+        "id" : "SonaQ",
+        "image" : {
+          "full" : "SonaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Hymn of Valor"
+      },
+      {
+        "description" : "Sona plays the Aria of Perseverance, sending out protective melodies, healing Sona and a nearby wounded ally. Sona gains a temporary aura that grants allies tagged by the zone a temporary shield.",
+        "id" : "SonaW",
+        "image" : {
+          "full" : "SonaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Aria of Perseverance"
+      },
+      {
+        "description" : "Sona plays the Song of Celerity, granting nearby allies bonus Move Speed. Sona gains a temporary aura that grants allied champions tagged by the zone bonus Move Speed.",
+        "id" : "SonaE",
+        "image" : {
+          "full" : "SonaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Song of Celerity"
+      },
+      {
+        "description" : "Sona plays her ultimate chord, stunning enemy champions and forcing them to dance and dealing magic damage to them.",
+        "id" : "SonaR",
+        "image" : {
+          "full" : "SonaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Crescendo"
+      }
+    ],
+    "title" : "Maven of the Strings"
+  },
   "championName" : "Sona",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    3,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -25,10 +133,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
+        "perk1" : 8453,
+        "perk2" : 8473
       },
-      "subStyle" : 8000
+      "subStyle" : 8400
     },
     1,
     {
@@ -40,28 +148,14 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
+        "perk1" : 9105,
+        "perk2" : 8009
       },
-      "subStyle" : 8400
+      "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    3
+    1
   ],
+  "id" : "Sona",
   "items" : {
     "allItems" : {
       "1004" : 1,
@@ -121,11 +215,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerHeal.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerHeal.png"
     ],
     8
   ],
   "totalGames" : 8,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

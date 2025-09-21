@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient...",
+    "id" : "Nasus",
+    "image" : {
+      "full" : "Nasus.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 6
+    },
+    "key" : "75",
+    "name" : "Nasus",
+    "passive" : {
+      "description" : "Nasus drains his foe's spiritual energy, giving him bonus Life Steal.",
+      "image" : {
+        "full" : "Nasus_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 96
+      },
+      "name" : "Soul Eater"
+    },
+    "spells" : [
+      {
+        "description" : "Nasus strikes his foe, dealing damage and increasing the power of his future Siphoning Strikes if he slays his target.",
+        "id" : "NasusQ",
+        "image" : {
+          "full" : "NasusQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Siphoning Strike"
+      },
+      {
+        "description" : "Nasus ages an enemy champion, decelerating their Move Speed and Attack Speed over time.",
+        "id" : "NasusW",
+        "image" : {
+          "full" : "NasusW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Wither"
+      },
+      {
+        "description" : "Nasus unleashes a spirit flame at a location, dealing damage and reducing the Armor of enemies who stand on it.",
+        "id" : "NasusE",
+        "image" : {
+          "full" : "NasusE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Spirit Fire"
+      },
+      {
+        "description" : "Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies, has a reduced cooldown on Siphoning Strike, and gains bonus Armor and Magic Resistance.",
+        "id" : "NasusR",
+        "image" : {
+          "full" : "NasusR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Fury of the Sands"
+      }
+    ],
+    "title" : "the Curator of the Sands"
+  },
   "championName" : "Nasus",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8226,
-        "perk3" : 8234,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8446
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -30,8 +108,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8446
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Nasus",
   "items" : {
     "allItems" : {
       "1056" : 1,
@@ -68,13 +162,13 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1054
       ],
       1,
       [
-        1054,
-        2003
+        2003,
+        1056
       ],
       1
     ],
@@ -84,11 +178,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     2
   ],
   "totalGames" : 2,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

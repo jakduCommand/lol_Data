@@ -1,6 +1,144 @@
 {
+  "championDetail" : {
+    "blurb" : "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her...",
+    "id" : "Leona",
+    "image" : {
+      "full" : "Leona.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 8,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "89",
+    "name" : "Leona",
+    "passive" : {
+      "description" : "Damaging spells afflict enemies with Sunlight for 1.5 seconds. When allied Champions deal damage to those targets, they consume the Sunlight to deal additional magic damage.",
+      "image" : {
+        "full" : "LeonaSunlight.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 48
+      },
+      "name" : "Sunlight"
+    },
+    "spells" : [
+      {
+        "description" : "Leona uses her shield to perform her next basic attack, dealing bonus magic damage and stunning the target.",
+        "id" : "LeonaShieldOfDaybreak",
+        "image" : {
+          "full" : "LeonaShieldOfDaybreak.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Shield of Daybreak"
+      },
+      {
+        "description" : "Leona raises her shield to gain Damage Reduction, Armor, and Magic Resist. When the duration first ends, if there are nearby enemies, she will deal magic damage to them and prolong the duration of the effect.",
+        "id" : "LeonaSolarBarrier",
+        "image" : {
+          "full" : "LeonaSolarBarrier.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Eclipse"
+      },
+      {
+        "description" : "Leona projects a solar image of her sword, dealing magic damage to all enemies in a line. When the image fades, the last enemy champion struck will be briefly immobilized and Leona will dash to them.",
+        "id" : "LeonaZenithBlade",
+        "image" : {
+          "full" : "LeonaZenithBlade.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Zenith Blade"
+      },
+      {
+        "description" : "Leona calls down a beam of solar energy, dealing damage to enemies in an area. Enemies in the center of the area are stunned, while enemies on the outside are slowed.",
+        "id" : "LeonaSolarFlare",
+        "image" : {
+          "full" : "LeonaSolarFlare.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Solar Flare"
+      }
+    ],
+    "title" : "the Radiant Dawn"
+  },
   "championName" : "Leona",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8463,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8351,
@@ -35,52 +173,7 @@
       "primaryPerks" : {
         "perk1" : 8439,
         "perk2" : 8463,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
         "perk3" : 8473,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8306,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8463,
-        "perk3" : 8444,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
@@ -92,6 +185,7 @@
     },
     1
   ],
+  "id" : "Leona",
   "items" : {
     "allItems" : {
       "1028" : 2,
@@ -158,5 +252,6 @@
     1
   ],
   "totalGames" : 7,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon's power. Imbued...",
+    "id" : "Diana",
+    "image" : {
+      "full" : "Diana.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 8
+    },
+    "key" : "131",
+    "name" : "Diana",
+    "passive" : {
+      "description" : "Every third strike cleaves nearby enemies for an additional magic damage. After casting a spell, Diana gains Attack Speed for 5 seconds.",
+      "image" : {
+        "full" : "Diana_Passive_LunarBlade.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 96
+      },
+      "name" : "Moonsilver Blade"
+    },
+    "spells" : [
+      {
+        "description" : "Unleashes a bolt of lunar energy in an arc dealing magic damage.<br><br>Afflicts enemies struck with Moonlight, revealing them if they are not stealthed for 3 seconds.",
+        "id" : "DianaQ",
+        "image" : {
+          "full" : "DianaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Crescent Strike"
+      },
+      {
+        "description" : "Diana creates three orbiting spheres that detonate on contact with enemies to deal damage in an area. She also gains a temporary shield that absorbs damage. If her third sphere detonates, the shield gains additional strength.",
+        "id" : "DianaOrbs",
+        "image" : {
+          "full" : "DianaOrbs.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Pale Cascade"
+      },
+      {
+        "description" : "Becomes the living embodiment of the vengeful moon, dashing to an enemy and dealing magic damage.<br><br>Lunar Rush has no cooldown when used to dash to an enemy afflicted with Moonlight. All other enemies will have the Moonlight debuff removed regardless of whether they were the target of Lunar Rush.",
+        "id" : "DianaTeleport",
+        "image" : {
+          "full" : "DianaTeleport.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Lunar Rush"
+      },
+      {
+        "description" : "Diana reveals and draws in all nearby enemies and slows them.<br><br>If Diana pulls in one or more enemy champions, the moonlight crashes down onto her after a short delay, dealing magic damage in an area around her, increased for each target beyond the first pulled.",
+        "id" : "DianaR",
+        "image" : {
+          "full" : "DianaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Moonfall"
+      }
+    ],
+    "title" : "Scorn of the Moon"
+  },
   "championName" : "Diana",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Diana",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -86,8 +180,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       3
     ],
@@ -97,16 +191,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    2
+    2,
+    [
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
+    ],
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

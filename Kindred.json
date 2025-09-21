@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his...",
+    "id" : "Kindred",
+    "image" : {
+      "full" : "Kindred.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 2,
+      "difficulty" : 4,
+      "magic" : 2
+    },
+    "key" : "203",
+    "name" : "Kindred",
+    "passive" : {
+      "description" : "Kindred can mark targets to Hunt. Successfully completing a Hunt permanently empowers Kindred's basic abilities. Every 4 hunts completed also increases Kindred's basic attack range.",
+      "image" : {
+        "full" : "Kindred_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 0
+      },
+      "name" : "Mark of the Kindred"
+    },
+    "spells" : [
+      {
+        "description" : "Kindred tumbles and shoots up to three arrows at nearby targets.",
+        "id" : "KindredQ",
+        "image" : {
+          "full" : "KindredQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Dance of Arrows"
+      },
+      {
+        "description" : "Wolf enrages and attacks enemies around him.  Lamb passively gains stacks by moving and attacking. When fully charged, Lamb's next attack restores health.",
+        "id" : "KindredW",
+        "image" : {
+          "full" : "KindredW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Wolf's Frenzy"
+      },
+      {
+        "description" : "Lamb fires a carefully placed shot, slowing the target. If Lamb attacks the target two more times, her third attack instead directs Wolf to pounce on the enemy, savaging them for massive damage.",
+        "id" : "KindredEWrapper",
+        "image" : {
+          "full" : "KindredEWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Mounting Dread"
+      },
+      {
+        "description" : "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed.",
+        "id" : "KindredR",
+        "image" : {
+          "full" : "KindredR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Lamb's Respite"
+      }
+    ],
+    "title" : "The Eternal Hunters"
+  },
   "championName" : "Kindred",
   "fullRunePageFrequency" : [
     {
@@ -6,7 +99,7 @@
         "perk1" : 8005,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8017
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -41,7 +134,7 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8143,
-        "perk2" : 8135
+        "perk2" : 8105
       },
       "subStyle" : 8100
     },
@@ -51,12 +144,12 @@
         "perk1" : 8005,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8014
+        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8143,
-        "perk2" : 8105
+        "perk2" : 8135
       },
       "subStyle" : 8100
     },
@@ -77,6 +170,7 @@
     },
     1
   ],
+  "id" : "Kindred",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -120,18 +214,18 @@
     },
     "starters" : [
       [
-        1101
+        1102
       ],
-      2,
+      1,
       [
-        1101,
-        2003
+        2003,
+        1101
       ],
       4,
       [
-        1102
+        1101
       ],
-      1
+      2
     ],
     "thirdCore" : {
       "3036" : 1,
@@ -146,5 +240,6 @@
     7
   ],
   "totalGames" : 7,
-  "totalWins" : 6
+  "totalWins" : 6,
+  "version" : "15.18.1"
 }

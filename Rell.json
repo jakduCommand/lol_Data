@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control...",
+    "id" : "Rell",
+    "image" : {
+      "full" : "Rell.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 0,
+      "defense" : 0,
+      "difficulty" : 0,
+      "magic" : 0
+    },
+    "key" : "526",
+    "name" : "Rell",
+    "passive" : {
+      "description" : "Rell's Attacks and Abilities deal additional magic damage and steal Armor and Magic Resist on hit.",
+      "image" : {
+        "full" : "RellP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 48
+      },
+      "name" : "Break the Mold"
+    },
+    "spells" : [
+      {
+        "description" : "Rell deals magic damage to units in a line, breaking their shields and stunning them. ",
+        "id" : "RellQ",
+        "image" : {
+          "full" : "RellQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Shattering Strike"
+      },
+      {
+        "description" : "Mounted: Rell Dismounts, crashing down in her armor, Knocking enemies up and gaining a large Shield. While dismounted, she gains Armor, Magic Resist, Attack Speed, and Attack Range, but is Slowed.<br><br>Dismounted: Rell forms her Mount, gaining a burst of speed and Knocking Up the next enemy she attacks.<br><br>",
+        "id" : "RellW_Dismount",
+        "image" : {
+          "full" : "RellW_Dismount.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Ferromancy: Crash Down"
+      },
+      {
+        "description" : "Passive: Rell gains out of combat Move Speed.<br><br>Active: Rell and an ally gain ramping Move Speed, doubled toward enemies and each other. Her next Attack explodes, dealing magic damage.<br>",
+        "id" : "RellE",
+        "image" : {
+          "full" : "RellE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Full Tilt"
+      },
+      {
+        "description" : "Rell explodes in a magnetic fury, violently Pulling nearby enemies toward herself. Then Rell constantly Drags nearby enemies toward herself for a short while, dealing magic damage over time.",
+        "id" : "RellR",
+        "image" : {
+          "full" : "RellR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Magnet Storm"
+      }
+    ],
+    "title" : "the Iron Maiden"
+  },
   "championName" : "Rell",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8439,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8360,
@@ -50,6 +128,21 @@
       "primaryPerks" : {
         "perk1" : 8439,
         "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8439,
+        "perk2" : 8401,
         "perk3" : 8473,
         "perk4" : 8242
       },
@@ -62,6 +155,7 @@
     },
     3
   ],
+  "id" : "Rell",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -119,16 +213,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     5,
     [
-      "SummonerExhaust.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
     ],
     1
   ],
   "totalGames" : 6,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

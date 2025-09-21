@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they...",
+    "id" : "Akshan",
+    "image" : {
+      "full" : "Akshan.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 0,
+      "defense" : 0,
+      "difficulty" : 0,
+      "magic" : 0
+    },
+    "key" : "166",
+    "name" : "Akshan",
+    "passive" : {
+      "description" : "Every three hits from Akshan's Attacks and Abilities deals bonus damage and grants him a Shield if the target was a champion.<br><br>When Akshan Attacks, he fires an additional Attack for reduced damage. If he cancels the additional Attack, he instead gains Move Speed.",
+      "image" : {
+        "full" : "akshan_p.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "Dirty Fighting"
+    },
+    "spells" : [
+      {
+        "description" : "Akshan throws a boomerang that deals damage going out and coming back, extending its range each time it hits an enemy.",
+        "id" : "AkshanQ",
+        "image" : {
+          "full" : "AkshanQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Avengerang"
+      },
+      {
+        "description" : "Akshan passively marks enemy champions as Scoundrels when they kill his ally champions. If Akshan kills a Scoundrel, he resurrects the allies they killed, gains bonus gold, and clears all marks.<br><br>When activated, Akshan enters camouflage and gains Move Speed and Mana Regen while moving towards Scoundrels. Akshan loses the camouflage quickly while he is not in brush or near terrain.",
+        "id" : "AkshanW",
+        "image" : {
+          "full" : "AkshanW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Going Rogue"
+      },
+      {
+        "description" : "Akshan fires a grappling hook into terrain then swings around it, repeatedly firing at the nearest enemy while swinging. He can jump off early or gets knocked off when colliding with champions or terrain.",
+        "id" : "AkshanE",
+        "image" : {
+          "full" : "AkshanE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Heroic Swing"
+      },
+      {
+        "description" : "Akshan locks onto an enemy champion and starts storing bullets. When released, he fires all stored bullets, dealing damage based on missing health to the first champion, minion, or structure hit.",
+        "id" : "AkshanR",
+        "image" : {
+          "full" : "AkshanR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Comeuppance"
+      }
+    ],
+    "title" : "the Rogue Sentinel"
+  },
   "championName" : "Akshan",
   "fullRunePageFrequency" : [
     {
@@ -10,8 +103,23 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8242
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -40,25 +148,10 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
+        "perk1" : 8473,
+        "perk2" : 8242
       },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1,
     {
@@ -85,13 +178,14 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8401,
-        "perk2" : 8473
+        "perk1" : 8304,
+        "perk2" : 8345
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
     1
   ],
+  "id" : "Akshan",
   "items" : {
     "allItems" : {
       "1055" : 2,
@@ -146,8 +240,8 @@
       5,
       [
         1055,
-        2003,
-        1001
+        1001,
+        2003
       ],
       1
     ],
@@ -159,16 +253,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     3,
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     3
   ],
   "totalGames" : 6,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

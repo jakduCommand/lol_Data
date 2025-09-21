@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Nilah is an ascetic warrior from a distant land, seeking the world's deadliest, most titanic opponents so that she might challenge and destroy them. Having won her power through an encounter with the long-imprisoned demon of joy, she has no emotions...",
+    "id" : "Nilah",
+    "image" : {
+      "full" : "Nilah.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 4,
+      "difficulty" : 10,
+      "magic" : 4
+    },
+    "key" : "895",
+    "name" : "Nilah",
+    "passive" : {
+      "description" : "Nilah gains increased experience from last-hitting minions along with the ability to enhance and share nearby healing and shielding from her allies.",
+      "image" : {
+        "full" : "NIlahP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 0
+      },
+      "name" : "Joy Unending"
+    },
+    "spells" : [
+      {
+        "description" : "With a snap of her whip-blade, Nilah damages any enemies she hits in a straight line in her chosen direction. This action extends her attack range for a short duration.",
+        "id" : "NilahQ",
+        "image" : {
+          "full" : "NilahQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Formless Blade"
+      },
+      {
+        "description" : "Nilah envelops herself in mist, increasing her movement speed and allowing her to gracefully dodge all incoming attacks. Any allies she touches during the mist's duration will also gain this effect.",
+        "id" : "NilahW",
+        "image" : {
+          "full" : "NilahW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Jubilant Veil"
+      },
+      {
+        "description" : "Nilah enthusiastically dashes toward her target, dealing damage to any enemies she passes through on the way.",
+        "id" : "NilahE",
+        "image" : {
+          "full" : "NilahE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Slipstream"
+      },
+      {
+        "description" : "Twirling her whip-blade in joyful exuberance, Nilah deals damage to enemies around her before pulling them closer with her weapon.",
+        "id" : "NilahR",
+        "image" : {
+          "full" : "NilahR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Apotheosis"
+      }
+    ],
+    "title" : "the Joy Unbound"
+  },
   "championName" : "Nilah",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     2
   ],
+  "id" : "Nilah",
   "items" : {
     "allItems" : {
       "1036" : 1,
@@ -99,11 +193,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerBarrier.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerBarrier.png"
     ],
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

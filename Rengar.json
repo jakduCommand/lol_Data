@@ -1,19 +1,112 @@
 {
+  "championDetail" : {
+    "blurb" : "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who...",
+    "id" : "Rengar",
+    "image" : {
+      "full" : "Rengar.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 4,
+      "difficulty" : 8,
+      "magic" : 2
+    },
+    "key" : "107",
+    "name" : "Rengar",
+    "passive" : {
+      "description" : "While in Brush, Rengar leaps at his target with his basic attack.<br><br>Rengar generates Ferocity whenever he casts an ability. At Max Ferocity, his next ability is empowered.<br><br>Killing enemy champions awards trophies on Rengar's <font color='#BBFFFF'>Bonetooth Necklace<\/font>, granting bonus attack damage.",
+      "image" : {
+        "full" : "Rengar_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Unseen Predator"
+    },
+    "spells" : [
+      {
+        "description" : "Rengar's next Attack brutally stabs his target for bonus damage.<br><br>Ferocity effect: deals increased damage and grants Attack Speed.",
+        "id" : "RengarQ",
+        "image" : {
+          "full" : "RengarQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Savagery"
+      },
+      {
+        "description" : "Rengar lets out a battle roar, damaging enemies and healing for some of the recent damage he has taken.<br><br>Ferocity effect: additionally breaks crowd control effects.",
+        "id" : "RengarW",
+        "image" : {
+          "full" : "RengarW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Battle Roar"
+      },
+      {
+        "description" : "Rengar throws a bola, slowing the first target hit for a short duration.<br><br>Ferocity effect: roots the target.",
+        "id" : "RengarE",
+        "image" : {
+          "full" : "RengarE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Bola Strike"
+      },
+      {
+        "description" : "Rengar's predatory instincts take over, <font color='#cd90ee'>Camouflaging<\/font> him and revealing the nearest enemy champion in a large radius around him. During Thrill of the Hunt, Rengar gains Move Speed and he can leap to the tracked enemy without being in brush, reducing their armor.",
+        "id" : "RengarR",
+        "image" : {
+          "full" : "RengarR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Thrill of the Hunt"
+      }
+    ],
+    "title" : "the Pridestalker"
+  },
   "championName" : "Rengar",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8017
+        "perk1" : 8143,
+        "perk2" : 8105
       },
-      "subStyle" : 8000
+      "subStyle" : 8100
     },
     1,
     {
@@ -33,17 +126,17 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8106
+        "perk1" : 9104,
+        "perk2" : 8017
       },
-      "subStyle" : 8100
+      "subStyle" : 8000
     },
     1,
     {
@@ -71,12 +164,13 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8143,
-        "perk2" : 8105
+        "perk2" : 8106
       },
       "subStyle" : 8100
     },
     1
   ],
+  "id" : "Rengar",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -134,13 +228,13 @@
       ],
       2,
       [
-        2003
-      ],
-      1,
-      [
         1102
       ],
-      2
+      2,
+      [
+        2003
+      ],
+      1
     ],
     "thirdCore" : {
       "3036" : 1,
@@ -152,15 +246,16 @@
   "spellFrequency" : [
     [
       "SummonerFlash.png",
+      "SummonerDot.png"
+    ],
+    1,
+    [
+      "SummonerFlash.png",
       "SummonerSmite.png"
     ],
-    4,
-    [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    1
+    4
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

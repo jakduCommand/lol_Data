@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great...",
+    "id" : "Olaf",
+    "image" : {
+      "full" : "Olaf.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 5,
+      "difficulty" : 3,
+      "magic" : 3
+    },
+    "key" : "2",
+    "name" : "Olaf",
+    "passive" : {
+      "description" : "Olaf gains Attack Speed and Life Steal based on his missing Health.",
+      "image" : {
+        "full" : "Olaf_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 0
+      },
+      "name" : "Berserker Rage"
+    },
+    "spells" : [
+      {
+        "description" : "Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and reducing their Armor and Move Speed. If Olaf picks up the axe, the ability's cooldown is reset.",
+        "id" : "OlafAxeThrowCast",
+        "image" : {
+          "full" : "OlafAxeThrowCast.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Undertow"
+      },
+      {
+        "description" : "Olaf's Attack Speed is increased and he gains a Shield.",
+        "id" : "OlafFrenziedStrikes",
+        "image" : {
+          "full" : "OlafFrenziedStrikes.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Tough It Out"
+      },
+      {
+        "description" : "Olaf attacks with such force that it deals true damage to his target and himself, refunding the Health cost if he destroys the target.",
+        "id" : "OlafRecklessStrike",
+        "image" : {
+          "full" : "OlafRecklessStrike.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Reckless Swing"
+      },
+      {
+        "description" : "Olaf passively gains increased armor and magic resist. He can activate this ability to become immune to disables for as long as he keeps attacking.",
+        "id" : "OlafRagnarok",
+        "image" : {
+          "full" : "OlafRagnarok.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Ragnarok"
+      }
+    ],
+    "title" : "the Berserker"
+  },
   "championName" : "Olaf",
   "fullRunePageFrequency" : [
     {
@@ -25,12 +118,12 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8410
+        "perk1" : 8410,
+        "perk2" : 8345
       },
       "subStyle" : 8300
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -40,13 +133,14 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8410,
-        "perk2" : 8345
+        "perk1" : 8345,
+        "perk2" : 8410
       },
       "subStyle" : 8300
     },
-    2
+    1
   ],
+  "id" : "Olaf",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -97,17 +191,17 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1102
+      ],
+      1,
+      [
+        1055,
+        2003
       ],
       2,
       [
         1054,
         2003
-      ],
-      1,
-      [
-        1102
       ],
       1
     ],
@@ -120,15 +214,16 @@
   "spellFrequency" : [
     [
       "SummonerHaste.png",
-      "SummonerSmite.png"
-    ],
-    1,
-    [
-      "SummonerHaste.png",
       "SummonerFlash.png"
     ],
-    3
+    3,
+    [
+      "SummonerSmite.png",
+      "SummonerHaste.png"
+    ],
+    1
   ],
   "totalGames" : 4,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

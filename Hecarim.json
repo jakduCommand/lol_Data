@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was obliterated by the destructive energies of the Ruination, along with all his...",
+    "id" : "Hecarim",
+    "image" : {
+      "full" : "Hecarim.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 6,
+      "difficulty" : 6,
+      "magic" : 4
+    },
+    "key" : "120",
+    "name" : "Hecarim",
+    "passive" : {
+      "description" : "Hecarim gains Attack Damage equal to a percentage of his bonus Move Speed.",
+      "image" : {
+        "full" : "Hecarim_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Warpath"
+    },
+    "spells" : [
+      {
+        "description" : "Hecarim cleaves nearby enemies dealing physical damage. If Hecarim damages at least one enemy, he increases the damage and lowers the cooldown of subsequent Rampages.",
+        "id" : "HecarimRapidSlash",
+        "image" : {
+          "full" : "HecarimRapidSlash.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Rampage"
+      },
+      {
+        "description" : "Hecarim gains Armor and Magic Resist. Hecarim deals magic damage to nearby enemies, and gains Health equal to a percentage of any damage those enemies suffer.",
+        "id" : "HecarimW",
+        "image" : {
+          "full" : "HecarimW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Spirit of Dread"
+      },
+      {
+        "description" : "Hecarim gains increasing Move Speed and can move through units for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability.",
+        "id" : "HecarimRamp",
+        "image" : {
+          "full" : "HecarimRamp.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Devastating Charge"
+      },
+      {
+        "description" : "Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing nearby enemies to flee in terror.",
+        "id" : "HecarimUlt",
+        "image" : {
+          "full" : "HecarimUlt.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Onslaught of Shadows"
+      }
+    ],
+    "title" : "the Shadow of War"
+  },
   "championName" : "Hecarim",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -40,12 +118,12 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9111,
-        "perk2" : 9105
+        "perk1" : 9105,
+        "perk2" : 9111
       },
       "subStyle" : 8000
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -60,8 +138,24 @@
       },
       "subStyle" : 8300
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9111,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    2
   ],
+  "id" : "Hecarim",
   "items" : {
     "allItems" : {
       "1036" : 1,
@@ -113,8 +207,8 @@
       ],
       4,
       [
-        1102,
-        2003
+        2003,
+        1102
       ],
       1
     ],
@@ -127,11 +221,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

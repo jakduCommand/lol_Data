@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes—until the day his village was...",
+    "id" : "Kassadin",
+    "image" : {
+      "full" : "Kassadin.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 5,
+      "difficulty" : 8,
+      "magic" : 8
+    },
+    "key" : "38",
+    "name" : "Kassadin",
+    "passive" : {
+      "description" : "Kassadin takes reduced magic damage and ignores unit collision.",
+      "image" : {
+        "full" : "Kassadin_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 96
+      },
+      "name" : "Void Stone"
+    },
+    "spells" : [
+      {
+        "description" : "Kassadin fires an orb of void energy at a target, dealing damage and interrupting channels. The excess energy forms around himself, granting a temporary shield that absorbs magic damage.",
+        "id" : "NullLance",
+        "image" : {
+          "full" : "NullLance.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Null Sphere"
+      },
+      {
+        "description" : "Passive: Kassadin's basic attacks deal bonus magic damage. Active: Kassadin's next basic attack deals significant bonus magic damage and restores Mana.",
+        "id" : "NetherBlade",
+        "image" : {
+          "full" : "NetherBlade.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Nether Blade"
+      },
+      {
+        "description" : "Kassadin draws energy from spells cast in his vicinity. Upon charging up, Kassadin can use Force Pulse to damage and slow enemies in a cone in front of him.",
+        "id" : "ForcePulse",
+        "image" : {
+          "full" : "ForcePulse.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Force Pulse"
+      },
+      {
+        "description" : "Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage.",
+        "id" : "RiftWalk",
+        "image" : {
+          "full" : "RiftWalk.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Riftwalk"
+      }
+    ],
+    "title" : "the Void Walker"
+  },
   "championName" : "Kassadin",
   "fullRunePageFrequency" : [
     {
@@ -11,9 +104,39 @@
       "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8009,
-        "perk2" : 8299
+        "perk2" : 8014
       },
       "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8224,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
     },
     1,
     {
@@ -35,48 +158,19 @@
       "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
         "perk3" : 8137,
         "perk4" : 8106
       },
       "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8009,
-        "perk2" : 8014
+        "perk2" : 8299
       },
       "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8224,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8106
-      },
-      "subStyle" : 8100
-    },
     1
   ],
+  "id" : "Kassadin",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -128,20 +222,20 @@
     },
     "starters" : [
       [
+        1056,
+        2003
+      ],
+      1,
+      [
         1054,
         2003
       ],
       1,
       [
-        2031,
-        1082
+        1082,
+        2031
       ],
-      4,
-      [
-        1056,
-        2003
-      ],
-      1
+      4
     ],
     "thirdCore" : {
       "3118" : 1,
@@ -150,16 +244,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     5,
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     1
   ],
   "totalGames" : 6,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

@@ -1,16 +1,109 @@
 {
+  "championDetail" : {
+    "blurb" : "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven...",
+    "id" : "Xerath",
+    "image" : {
+      "full" : "Xerath.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 1,
+      "defense" : 3,
+      "difficulty" : 8,
+      "magic" : 10
+    },
+    "key" : "101",
+    "name" : "Xerath",
+    "passive" : {
+      "description" : "Xerath's basic attacks periodically restore Mana. Whenever Xerath kills a unit, this cooldown is reduced.",
+      "image" : {
+        "full" : "Xerath_Passive1.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 0
+      },
+      "name" : "Mana Surge"
+    },
+    "spells" : [
+      {
+        "description" : "Fires a long-range beam of energy, dealing magic damage to all targets hit.",
+        "id" : "XerathArcanopulseChargeUp",
+        "image" : {
+          "full" : "XerathArcanopulseChargeUp.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Arcanopulse"
+      },
+      {
+        "description" : "Calls down a barrage of arcane energy, slowing and dealing magic damage to all enemies in an area. Targets in the middle receive additional damage and a stronger slow.",
+        "id" : "XerathArcaneBarrage2",
+        "image" : {
+          "full" : "XerathArcaneBarrage2.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Eye of Destruction"
+      },
+      {
+        "description" : "Deals magic damage to an enemy and stuns them.",
+        "id" : "XerathMageSpear",
+        "image" : {
+          "full" : "XerathMageSpear.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Shocking Orb"
+      },
+      {
+        "description" : "Xerath immobilizes himself and gains numerous long-range barrages.",
+        "id" : "XerathLocusOfPower2",
+        "image" : {
+          "full" : "XerathLocusOfPower2.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Rite of the Arcane"
+      }
+    ],
+    "title" : "the Magus Ascendant"
+  },
   "championName" : "Xerath",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8369,
-        "perk2" : 8304,
+        "perk2" : 8321,
         "perk3" : 8345,
         "perk4" : 8347
       },
       "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8226,
+        "perk1" : 8224,
         "perk2" : 8237
       },
       "subStyle" : 8200
@@ -18,17 +111,17 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
       },
-      "primaryStyle" : 8200,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8009,
-        "perk2" : 8017
+        "perk1" : 8226,
+        "perk2" : 8237
       },
-      "subStyle" : 8000
+      "subStyle" : 8200
     },
     1,
     {
@@ -63,12 +156,12 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8137,
-        "perk4" : 8106
+        "perk1" : 8369,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
       },
-      "primaryStyle" : 8100,
+      "primaryStyle" : 8300,
       "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8237
@@ -78,20 +171,21 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8321,
-        "perk3" : 8345,
-        "perk4" : 8347
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8224,
-        "perk2" : 8237
+        "perk1" : 8009,
+        "perk2" : 8017
       },
-      "subStyle" : 8200
+      "subStyle" : 8000
     },
     1
   ],
+  "id" : "Xerath",
   "items" : {
     "allItems" : {
       "1026" : 1,
@@ -153,11 +247,12 @@
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "totalGames" : 6,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

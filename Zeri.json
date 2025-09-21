@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A headstrong, spirited young woman from Zaun's working-class, Zeri channels her electric magic to charge herself and her custom-crafted gun. Her volatile power mirrors her emotions, its sparks reflecting her lightning-fast approach to life. Deeply...",
+    "id" : "Zeri",
+    "image" : {
+      "full" : "Zeri.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "221",
+    "name" : "Zeri",
+    "passive" : {
+      "description" : "Zeri's Attacks deal magic damage and are treated as Abilities. Moving and casting Burst Fire stores up energy in Zeri's Sparkpack. When fully charged her next Attack deals bonus damage.",
+      "image" : {
+        "full" : "ZeriP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 48
+      },
+      "name" : "Living Battery"
+    },
+    "spells" : [
+      {
+        "description" : "Burst Fire shoots a burst of 7 rounds that deal attack damage to the first enemy hit. This Ability is treated as an Attack.",
+        "id" : "ZeriQ",
+        "image" : {
+          "full" : "ZeriQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Burst Fire"
+      },
+      {
+        "description" : "Zeri fires an electric pulse that slows and damages the first enemy hit. If the pulse hits a wall it expands into a long range laser.",
+        "id" : "ZeriW",
+        "image" : {
+          "full" : "ZeriW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Ultrashock Laser"
+      },
+      {
+        "description" : "Zeri dashes a short distance and energizes her next 3 shots of Burst Fire, causing them to pierce through enemies. She will vault and grind over any terrain she touches.",
+        "id" : "ZeriE",
+        "image" : {
+          "full" : "ZeriE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Spark Surge"
+      },
+      {
+        "description" : "Zeri discharges a nova of electricity and overcharges herself, gaining increased damage and stacking Move Speed that refreshes and gets stronger every time she hits an enemy champion. While overcharged, Burst fire becomes a faster triple shot that chains lightning between enemies.",
+        "id" : "ZeriR",
+        "image" : {
+          "full" : "ZeriR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Lightning Crash"
+      }
+    ],
+    "title" : "The Spark of Zaun"
+  },
   "championName" : "Zeri",
   "fullRunePageFrequency" : [
     {
@@ -32,6 +125,7 @@
     },
     1
   ],
+  "id" : "Zeri",
   "items" : {
     "allItems" : {
       "1036" : 2,
@@ -86,5 +180,6 @@
     1
   ],
   "totalGames" : 2,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

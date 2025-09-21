@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself—and, in an instant, the...",
+    "id" : "Brand",
+    "image" : {
+      "full" : "Brand.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 4,
+      "magic" : 9
+    },
+    "key" : "63",
+    "name" : "Brand",
+    "passive" : {
+      "description" : "Brand's spells light his targets ablaze, dealing damage over 4 seconds, stacking up to 3 times. If Brand kills an enemy while it is ablaze he regains mana. When Blaze reaches max stacks on a Champion or large monster, it becomes unstable. It detonates in 2 seconds, applying spell effects and dealing massive damage in an area around the victim.",
+      "image" : {
+        "full" : "BrandP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 48
+      },
+      "name" : "Blaze"
+    },
+    "spells" : [
+      {
+        "description" : "Brand launches a ball of fire forward that deals magic damage. If the target is ablaze, Sear will stun the target for @StunDuration@ seconds.",
+        "id" : "BrandQ",
+        "image" : {
+          "full" : "BrandQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Sear"
+      },
+      {
+        "description" : "After a short delay, Brand creates a Pillar of Flame at a target area, dealing magic damage to enemy units within the area. Units that are ablaze take an additional 25% damage.",
+        "id" : "BrandW",
+        "image" : {
+          "full" : "BrandW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Pillar of Flame"
+      },
+      {
+        "description" : "Brand conjures a powerful blast at his target that spreads to nearby enemies, dealing magic damage. If the target is ablaze, Conflagration's spread is doubled.",
+        "id" : "BrandE",
+        "image" : {
+          "full" : "BrandE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Conflagration"
+      },
+      {
+        "description" : "Brand unleashes a devastating torrent of fire that bounces up to 5 times off of Brand and nearby enemies, dealing magic damage to enemies each time bounce. Bounces prioritize stacking Blaze to max on Champions. If a target is ablaze, Pyroclasm will briefly slow them.",
+        "id" : "BrandR",
+        "image" : {
+          "full" : "BrandR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Pyroclasm"
+      }
+    ],
+    "title" : "the Burning Vengeance"
+  },
   "championName" : "Brand",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -36,6 +114,21 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
         "perk4" : 8014
       },
       "primaryStyle" : 8000,
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Brand",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -87,8 +181,8 @@
     },
     "starters" : [
       [
-        1056,
-        2003
+        2003,
+        1056
       ],
       1,
       [
@@ -107,21 +201,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerBarrier.png",
+      "SummonerSmite.png",
       "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerSmite.png",
-      "SummonerHaste.png"
+      "SummonerHaste.png",
+      "SummonerSmite.png"
     ],
     1,
     [
       "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerBarrier.png"
     ],
     1
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

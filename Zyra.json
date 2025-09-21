@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks...",
+    "id" : "Zyra",
+    "image" : {
+      "full" : "Zyra.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 3,
+      "difficulty" : 7,
+      "magic" : 8
+    },
+    "key" : "143",
+    "name" : "Zyra",
+    "passive" : {
+      "description" : "Seeds spawn around Zyra periodically, becoming faster with level. Zyra can cast Deadly Spines or Grasping Roots near seeds to grow plants, who fight for Zyra.",
+      "image" : {
+        "full" : "ZyraP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 96
+      },
+      "name" : "Garden of Thorns"
+    },
+    "spells" : [
+      {
+        "description" : "Thick vines spread through the ground and explode into spines, dealing magic damage to enemies within the area. If cast near a seed, Deadly Spines grows a Thorn Spitter plant, which fires at enemies from afar.",
+        "id" : "ZyraQ",
+        "image" : {
+          "full" : "ZyraQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Deadly Spines"
+      },
+      {
+        "description" : "Zyra plants a seed, lasting up to 60 seconds. Deadly Spines and Grasping Roots cast near seeds will turn them into plants who fight for Zyra. Zyra can store multiple seeds at once, and killing enemies reduces Rampant Growth's recharge time.",
+        "id" : "ZyraW",
+        "image" : {
+          "full" : "ZyraW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Rampant Growth"
+      },
+      {
+        "description" : "Zyra sends forth vines through the ground to ensnare her target, dealing damage and rooting enemies they come across. If cast near a seed, Grasping Roots grows a Vine Lasher, whose short range attacks reduce enemy Move Speed.",
+        "id" : "ZyraE",
+        "image" : {
+          "full" : "ZyraE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Grasping Roots"
+      },
+      {
+        "description" : "Zyra summons a twisted thicket at her target location, dealing damage to enemies as it expands and knocking them airborne as it contracts. Plants within the thicket are enraged.",
+        "id" : "ZyraR",
+        "image" : {
+          "full" : "ZyraR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell17.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Stranglethorns"
+      }
+    ],
+    "title" : "Rise of the Thorns"
+  },
   "championName" : "Zyra",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8017,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8229,
@@ -14,21 +122,6 @@
         "perk2" : 8014
       },
       "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8128,
-        "perk2" : 8126,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
     },
     1,
     {
@@ -48,36 +141,6 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8017,
-        "perk2" : 8009
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8126,
-        "perk3" : 8137,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8017,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8126,
         "perk3" : 8137,
@@ -93,15 +156,15 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
+        "perk1" : 8112,
+        "perk2" : 8126,
+        "perk3" : 8137,
+        "perk4" : 8106
       },
-      "primaryStyle" : 8200,
+      "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8009
+        "perk1" : 8017,
+        "perk2" : 9105
       },
       "subStyle" : 8000
     },
@@ -135,8 +198,39 @@
       },
       "subStyle" : 8000
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8128,
+        "perk2" : 8126,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8237
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8009
+      },
+      "subStyle" : 8000
+    },
     1
   ],
+  "id" : "Zyra",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -192,24 +286,24 @@
     },
     "starters" : [
       [
-        2003,
-        1101
-      ],
-      2,
-      [
-        2003
-      ],
-      4,
-      [
         1102,
         2003
       ],
       1,
       [
         2003,
-        1056
+        1101
       ],
-      2
+      2,
+      [
+        1056,
+        2003
+      ],
+      2,
+      [
+        2003
+      ],
+      4
     ],
     "thirdCore" : {
       "3041" : 1,
@@ -219,21 +313,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
-    ],
-    3,
-    [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     2,
     [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    4
+    4,
+    [
+      "SummonerFlash.png",
+      "SummonerSmite.png"
+    ],
+    3
   ],
   "totalGames" : 9,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a...",
+    "id" : "Taric",
+    "image" : {
+      "full" : "Taric.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 8,
+      "difficulty" : 3,
+      "magic" : 5
+    },
+    "key" : "44",
+    "name" : "Taric",
+    "passive" : {
+      "description" : "Spellcasts empower Taric's next 2 basic attacks to deal bonus magic damage, reduce his spell cooldowns, and attack in quick succession.",
+      "image" : {
+        "full" : "Taric_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 48
+      },
+      "name" : "Bravado"
+    },
+    "spells" : [
+      {
+        "description" : "Heals nearby allied champions based on charges stored. Bravado-empowered attacks grant a charge of Starlight's Touch.",
+        "id" : "TaricQ",
+        "image" : {
+          "full" : "TaricQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Starlight's Touch"
+      },
+      {
+        "description" : "Passively increase the Armor of Taric and any allied champion with Bastion.<br><br>Actively shields an ally and grants them Bastion for as long as they remain near Taric. Taric's spells also cast off the ally with Bastion.",
+        "id" : "TaricW",
+        "image" : {
+          "full" : "TaricW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell13.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Bastion"
+      },
+      {
+        "description" : "Taric readies a beam of starlight that, after a brief delay, deals magic damage and stuns enemies.",
+        "id" : "TaricE",
+        "image" : {
+          "full" : "TaricE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Dazzle"
+      },
+      {
+        "description" : "Pulses cosmic energy onto nearby allied champions after a delay, making them invulnerable for a short duration.",
+        "id" : "TaricR",
+        "image" : {
+          "full" : "TaricR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Cosmic Radiance"
+      }
+    ],
+    "title" : "the Shield of Valoran"
+  },
   "championName" : "Taric",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8351,
-        "perk2" : 8304,
-        "perk3" : 8345,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8465,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8351,
+        "perk2" : 8304,
+        "perk3" : 8345,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Taric",
   "items" : {
     "allItems" : {
       "1029" : 1,
@@ -95,16 +189,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerExhaust.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerFlash.png",
       "SummonerDot.png"
     ],
-    2
+    2,
+    [
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
+    ],
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

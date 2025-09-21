@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff...",
+    "id" : "Rumble",
+    "image" : {
+      "full" : "Rumble.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 6,
+      "difficulty" : 10,
+      "magic" : 8
+    },
+    "key" : "68",
+    "name" : "Rumble",
+    "passive" : {
+      "description" : "Every spell Rumble casts gives him Heat. When he reaches 50% Heat he reaches Danger Zone, granting all his basic abilities bonus effects. When he reaches 100% Heat, he starts Overheating, gaining bonus Attack Speed and granting his basic attacks bonus damage, but making him unable to cast spells for a few seconds.",
+      "image" : {
+        "full" : "Rumble_JunkyardTitan1.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 96
+      },
+      "name" : "Junkyard Titan"
+    },
+    "spells" : [
+      {
+        "description" : "Rumble torches opponents in front of him, dealing magic damage in a cone for 3 seconds. While in Danger Zone this damage is increased.",
+        "id" : "RumbleFlameThrower",
+        "image" : {
+          "full" : "RumbleFlameThrower.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Flamespitter"
+      },
+      {
+        "description" : "Rumble pulls up a shield, protecting him from damage and granting him a quick burst of speed. While in Danger Zone, the shield strength and speed bonus is increased.",
+        "id" : "RumbleShield",
+        "image" : {
+          "full" : "RumbleShield.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Scrap Shield"
+      },
+      {
+        "description" : "Rumble launches a harpoon, electrocuting his target with magic damage, slowing their Move Speed, and reducing their Magic Resist. Rumble can carry 2 harpoons at a time. While in Danger Zone the damage and slow percentage is increased.",
+        "id" : "RumbleGrenade",
+        "image" : {
+          "full" : "RumbleGrenade.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Electro Harpoon"
+      },
+      {
+        "description" : "Rumble fires off a group of rockets, creating a wall of flames that damages and slows enemies.",
+        "id" : "RumbleCarpetBomb",
+        "image" : {
+          "full" : "RumbleCarpetBomb.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "The Equalizer"
+      }
+    ],
+    "title" : "the Mechanized Menace"
+  },
   "championName" : "Rumble",
   "fullRunePageFrequency" : [
     {
@@ -32,6 +125,7 @@
     },
     1
   ],
+  "id" : "Rumble",
   "items" : {
     "allItems" : {
       "1056" : 1,
@@ -76,11 +170,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
     ],
     2
   ],
   "totalGames" : 2,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

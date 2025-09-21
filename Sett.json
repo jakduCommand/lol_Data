@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to...",
+    "id" : "Sett",
+    "image" : {
+      "full" : "Sett.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 2,
+      "magic" : 1
+    },
+    "key" : "875",
+    "name" : "Sett",
+    "passive" : {
+      "description" : "Sett's basic attacks alternate between left and right punch. Right punch is slightly stronger and faster. Sett also hates losing, gaining additional health regeneration based off of his missing health.",
+      "image" : {
+        "full" : "Sett_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 96
+      },
+      "name" : "Pit Grit"
+    },
+    "spells" : [
+      {
+        "description" : "Sett's next two attacks deal additional damage based off of the target's max health. Sett also gains Move Speed while moving towards enemy champions.",
+        "id" : "SettQ",
+        "image" : {
+          "full" : "SettQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Knuckle Down"
+      },
+      {
+        "description" : "Sett passively stores damage he takes as Grit. On cast, Sett expends all stored Grit to gain a shield and punch an area, dealing true damage in the center and physical damage on the sides.",
+        "id" : "SettW",
+        "image" : {
+          "full" : "SettW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Haymaker"
+      },
+      {
+        "description" : "Sett pulls in all enemies on opposite sides of him, dealing damage and stunning them. If enemies were only on one side, they are slowed instead of stunned.",
+        "id" : "SettE",
+        "image" : {
+          "full" : "SettE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Facebreaker"
+      },
+      {
+        "description" : "Sett carries an enemy champion through the air and slams them into the ground, dealing damage and slowing all enemies near where they land.",
+        "id" : "SettR",
+        "image" : {
+          "full" : "SettR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "The Show Stopper"
+      }
+    ],
+    "title" : "the Boss"
+  },
   "championName" : "Sett",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8446,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -20,30 +128,15 @@
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
-        "perk3" : 9103,
+        "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8446,
+        "perk1" : 8473,
         "perk2" : 8451
       },
       "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8275,
-        "perk3" : 8234,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8306,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
     },
     1,
     {
@@ -78,20 +171,21 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
+        "perk1" : 8230,
+        "perk2" : 8275,
+        "perk3" : 8234,
+        "perk4" : 8232
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
+        "perk1" : 8306,
+        "perk2" : 8347
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
     1
   ],
+  "id" : "Sett",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -147,20 +241,20 @@
     },
     "starters" : [
       [
+        2003,
+        1055
+      ],
+      4,
+      [
         1102,
         2003
       ],
       1,
       [
-        1054,
-        2003
-      ],
-      2,
-      [
         2003,
-        1055
+        1054
       ],
-      4
+      2
     ],
     "thirdCore" : {
       "2501" : 1,
@@ -170,12 +264,12 @@
   "spellFrequency" : [
     [
       "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerSmite.png"
     ],
     1,
     [
       "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerDot.png"
     ],
     1,
     [
@@ -185,5 +279,6 @@
     5
   ],
   "totalGames" : 7,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments...",
+    "id" : "Ryze",
+    "image" : {
+      "full" : "Ryze.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 10
+    },
+    "key" : "13",
+    "name" : "Ryze",
+    "passive" : {
+      "description" : "<mainText>Ryze's spells deal extra damage based on his Bonus Mana, and he gains a percentage increase to his maximum Mana based on his Ability Power.<\/mainText>",
+      "image" : {
+        "full" : "Ryze_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 96
+      },
+      "name" : "Arcane Mastery"
+    },
+    "spells" : [
+      {
+        "description" : "Passively, Ryze's other basic abilities reset the cooldown of Overload and charge a rune. When Ryze casts Overload with 2 runes charged, he gains a brief burst of Move Speed.<br><br>On cast, Ryze throws a charge of pure energy in a line, dealing damage to the first enemy struck. If the target has Flux on it, Overload deals extra damage and bounces to nearby enemies with Flux.",
+        "id" : "RyzeQWrapper",
+        "image" : {
+          "full" : "RyzeQWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Overload"
+      },
+      {
+        "description" : "Ryze traps a target in a cage of runes, damaging them and slowing their movement. If the target has Flux on it, they are instead rooted.",
+        "id" : "RyzeW",
+        "image" : {
+          "full" : "RyzeW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Rune Prison"
+      },
+      {
+        "description" : "Ryze releases an orb of pure magical power that damages an enemy and debuffs all nearby enemies. Ryze's spells have additional effects against the debuffed enemy.",
+        "id" : "RyzeE",
+        "image" : {
+          "full" : "RyzeE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Spell Flux"
+      },
+      {
+        "description" : "Passively, Overload deals even more damage against targets with Flux.<br><br>On cast, Ryze creates a portal to a nearby location. After a few seconds, allies standing near the portal are teleported to the target location.",
+        "id" : "RyzeR",
+        "image" : {
+          "full" : "RyzeR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell11.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Realm Warp"
+      }
+    ],
+    "title" : "the Rune Mage"
+  },
   "championName" : "Ryze",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8230,
-        "perk2" : 8226,
-        "perk3" : 8234,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8230,
@@ -29,6 +107,21 @@
         "perk2" : 8345
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8230,
+        "perk2" : 8226,
+        "perk3" : 8234,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
     },
     1,
     {
@@ -62,6 +155,7 @@
     },
     1
   ],
+  "id" : "Ryze",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -100,15 +194,15 @@
     },
     "starters" : [
       [
-        1056,
-        2003
-      ],
-      3,
-      [
         2031,
         1027
       ],
-      1
+      1,
+      [
+        2003,
+        1056
+      ],
+      3
     ],
     "thirdCore" : {
       "3089" : 2,
@@ -117,11 +211,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

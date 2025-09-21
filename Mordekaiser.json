@@ -1,6 +1,159 @@
 {
+  "championDetail" : {
+    "blurb" : "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but...",
+    "id" : "Mordekaiser",
+    "image" : {
+      "full" : "Mordekaiser.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 7
+    },
+    "key" : "82",
+    "name" : "Mordekaiser",
+    "passive" : {
+      "description" : "Mordekaiser gains a powerful damage aura and Move Speed after landing 3 attacks or spells against champions or monsters.",
+      "image" : {
+        "full" : "MordekaiserPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 96
+      },
+      "name" : "Darkness Rise"
+    },
+    "spells" : [
+      {
+        "description" : "Mordekaiser smashes the ground with his mace dealing damage to each enemy struck. Damage is increased when hitting a single enemy.",
+        "id" : "MordekaiserQ",
+        "image" : {
+          "full" : "MordekaiserQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Obliterate"
+      },
+      {
+        "description" : "Mordekaiser stores damage he deals and takes to create a shield. He may consume the shield to heal.",
+        "id" : "MordekaiserW",
+        "image" : {
+          "full" : "MordekaiserW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Indestructible"
+      },
+      {
+        "description" : "Mordekaiser pulls all enemies in an area.",
+        "id" : "MordekaiserE",
+        "image" : {
+          "full" : "MordekaiserE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Death's Grasp"
+      },
+      {
+        "description" : "Mordekaiser drags his victim to a different dimension with him and steals a portion of their stats. If he kills them, he keeps the stats until the victim respawns.",
+        "id" : "MordekaiserR",
+        "image" : {
+          "full" : "MordekaiserR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Realm of Death"
+      }
+    ],
+    "title" : "the Iron Revenant"
+  },
   "championName" : "Mordekaiser",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8010,
@@ -12,6 +165,21 @@
       "subPerks" : {
         "perk1" : 8444,
         "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8139,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8401,
+        "perk2" : 8444
       },
       "subStyle" : 8400
     },
@@ -45,83 +213,9 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8139,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8401,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
     1
   ],
+  "id" : "Mordekaiser",
   "items" : {
     "allItems" : {
       "1001" : 3,
@@ -182,13 +276,8 @@
     },
     "starters" : [
       [
-        1056,
+        1054,
         2003
-      ],
-      4,
-      [
-        2003,
-        1054
       ],
       2,
       [
@@ -198,7 +287,12 @@
       [
         1103
       ],
-      1
+      1,
+      [
+        2003,
+        1056
+      ],
+      4
     ],
     "thirdCore" : {
       "4633" : 1
@@ -206,21 +300,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    6,
-    [
       "SummonerSmite.png",
       "SummonerFlash.png"
     ],
     1,
     [
       "SummonerFlash.png",
-      "SummonerExhaust.png"
+      "SummonerTeleport.png"
+    ],
+    6,
+    [
+      "SummonerExhaust.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 8,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

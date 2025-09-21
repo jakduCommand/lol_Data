@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Raised on the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with very little respect for authority. She has always been a shrewd survivor, both from her youthful troublemaking topside and an unfairly long stint in Stillwater...",
+    "id" : "Vi",
+    "image" : {
+      "full" : "Vi.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "254",
+    "name" : "Vi",
+    "passive" : {
+      "description" : "Vi charges a shield over time. The shield can be activated by hitting an enemy with an ability.",
+      "image" : {
+        "full" : "ViPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Blast Shield"
+    },
+    "spells" : [
+      {
+        "description" : "Vi charges her gauntlets and unleashes a vault shattering punch, carrying her forward. Enemies she hits are knocked back and receive a stack of Denting Blows.",
+        "id" : "ViQ",
+        "image" : {
+          "full" : "ViQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Vault Breaker"
+      },
+      {
+        "description" : "Vi's punches break her opponent's Armor, dealing bonus damage and granting her Attack Speed.",
+        "id" : "ViW",
+        "image" : {
+          "full" : "ViW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Denting Blows"
+      },
+      {
+        "description" : "Vi's next attack blasts through her target, dealing damage to enemies behind it.",
+        "id" : "ViE",
+        "image" : {
+          "full" : "ViE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Relentless Force"
+      },
+      {
+        "description" : "Vi runs down an enemy, knocking aside anyone in the way. When she reaches her target she knocks it into the air, jumps after it, and slams it back into the ground.",
+        "id" : "ViR",
+        "image" : {
+          "full" : "ViR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Cease and Desist"
+      }
+    ],
+    "title" : "the Piltover Enforcer"
+  },
   "championName" : "Vi",
   "fullRunePageFrequency" : [
     {
@@ -6,7 +99,7 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8014
+        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -36,7 +129,7 @@
         "perk1" : 8010,
         "perk2" : 9111,
         "perk3" : 9104,
-        "perk4" : 8017
+        "perk4" : 8014
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Vi",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -103,5 +197,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. He bursts from the shadows to prey upon...",
+    "id" : "Warwick",
+    "image" : {
+      "full" : "Warwick.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 5,
+      "difficulty" : 3,
+      "magic" : 3
+    },
+    "key" : "19",
+    "name" : "Warwick",
+    "passive" : {
+      "description" : "Warwick's basic attacks deal bonus magic damage. If Warwick is below 50% health, he heals the same amount. If Warwick is below 25% health, this healing triples.",
+      "image" : {
+        "full" : "WarwickP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 0
+      },
+      "name" : "Eternal Hunger"
+    },
+    "spells" : [
+      {
+        "description" : "Warwick lunges forward and bites his target, dealing damage based on their maximum health and healing for damage dealt.",
+        "id" : "WarwickQ",
+        "image" : {
+          "full" : "WarwickQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Jaws of the Beast"
+      },
+      {
+        "description" : "Warwick senses enemies below 50% health, gaining Move Speed toward and attack speed against them. When they fall below 25% health, he frenzies and these bonuses triple.",
+        "id" : "WarwickW",
+        "image" : {
+          "full" : "WarwickW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Blood Hunt"
+      },
+      {
+        "description" : "Warwick gains damage reduction for 2.5 seconds. At the end, or if re-activated, he howls, causing nearby enemies to flee for 1 second.",
+        "id" : "WarwickE",
+        "image" : {
+          "full" : "WarwickE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Primal Howl"
+      },
+      {
+        "description" : "Warwick leaps in a direction (scaling with his bonus Move Speed), suppressing the first champion he collides with for 1.5 seconds.",
+        "id" : "WarwickR",
+        "image" : {
+          "full" : "WarwickR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Infinite Duress"
+      }
+    ],
+    "title" : "the Uncaged Wrath of Zaun"
+  },
   "championName" : "Warwick",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8234,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -30,23 +138,9 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8234,
-        "perk2" : 8232
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Warwick",
   "items" : {
     "allItems" : {
       "1037" : 1,
@@ -88,14 +182,14 @@
     },
     "starters" : [
       [
-        1102
-      ],
-      1,
-      [
         2003,
         1055
       ],
-      2
+      2,
+      [
+        1102
+      ],
+      1
     ],
     "thirdCore" : {
       "3053" : 1
@@ -103,16 +197,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerSmite.png"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
-    1,
+    2,
     [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
-    2
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

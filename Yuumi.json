@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for...",
+    "id" : "Yuumi",
+    "image" : {
+      "full" : "Yuumi.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 1,
+      "difficulty" : 2,
+      "magic" : 8
+    },
+    "key" : "350",
+    "name" : "Yuumi",
+    "passive" : {
+      "description" : "Periodically, when Yuumi strikes a champion with an attack or ability, she restores health to herself and the next ally she Attaches to.<br><br>While Attached, Yuumi generates a special bond with her allies. The ally with the strongest bond enhances Yuumi's abilities while she is Attached to them.",
+      "image" : {
+        "full" : "YuumiP2.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Feline Friendship"
+    },
+    "spells" : [
+      {
+        "description" : "Yuumi fires a missile, dealing damage and slowing first target hit. It deals bonus damage and an enchanced slow if it takes at least 1.35 seconds to get to its target. While on her Best Friend, the slow is always enhanced and grants bonus On-Hit damage to her ally.<br><br>While Attached, the missile can be controlled with your cursor for a brief period.",
+        "id" : "YuumiQ",
+        "image" : {
+          "full" : "YuumiQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Prowling Projectile"
+      },
+      {
+        "description" : "Yuumi dashes to a target ally, becoming untargetable from everything except turrets. While on her Best Friend, she gains Heal & Shield Power and grants her Ally On-Hit healing.",
+        "id" : "YuumiW",
+        "image" : {
+          "full" : "YuumiW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "You and Me!"
+      },
+      {
+        "description" : "Shields Yuumi and boosts Move Speed and Attack Speed. If she's attached, she passes it to her ally instead.<br>",
+        "id" : "YuumiE",
+        "image" : {
+          "full" : "YuumiE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Zoomies"
+      },
+      {
+        "description" : "Yuumi channels five waves that damage enemies and heal allies. Yuumi can move, attach, and cast Zoomies! while channeling. While on her Best Friend, this spell also follows her mouse.",
+        "id" : "YuumiR",
+        "image" : {
+          "full" : "YuumiR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Final Chapter"
+      }
+    ],
+    "title" : "the Magical Cat"
+  },
   "championName" : "Yuumi",
   "fullRunePageFrequency" : [
     {
@@ -10,8 +103,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8463,
-        "perk2" : 8453
+        "perk1" : 8453,
+        "perk2" : 8463
       },
       "subStyle" : 8400
     },
@@ -25,8 +118,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8463,
-        "perk2" : 8453
+        "perk1" : 8453,
+        "perk2" : 8463
       },
       "subStyle" : 8400
     },
@@ -55,8 +148,8 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8463
+        "perk1" : 8463,
+        "perk2" : 8453
       },
       "subStyle" : 8400
     },
@@ -70,13 +163,14 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8463
+        "perk1" : 8463,
+        "perk2" : 8453
       },
       "subStyle" : 8400
     },
     1
   ],
+  "id" : "Yuumi",
   "items" : {
     "allItems" : {
       "1004" : 1,
@@ -131,11 +225,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerExhaust.png",
-      "SummonerHeal.png"
+      "SummonerHeal.png",
+      "SummonerExhaust.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

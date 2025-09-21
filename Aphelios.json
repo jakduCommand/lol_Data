@@ -1,96 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by...",
+    "id" : "Aphelios",
+    "image" : {
+      "full" : "Aphelios.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 2,
+      "difficulty" : 10,
+      "magic" : 1
+    },
+    "key" : "523",
+    "name" : "Aphelios",
+    "passive" : {
+      "description" : "Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Ability. Attacks and abilities consume a weapon's ammo. When out of ammo, Aphelios discards the weapon and Alune summons the next of the 5. ",
+      "image" : {
+        "full" : "ApheliosP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 0
+      },
+      "name" : "The Hitman and the Seer"
+    },
+    "spells" : [
+      {
+        "description" : "Aphelios has 5 different activated abilities, based on his main-hand weapon:<br><br>Calibrum (Rifle): Long range shot that marks its target for a long-range follow-up attack.<br>Severum (Scythe Pistol): Run fast while attacking nearby enemies with both weapons.<br>Gravitum (Cannon): Root all enemies slowed by this weapon.<br>Infernum (Flamethrower): Blast enemies in a cone and attack them with your off-hand weapon.<br>Crescendum (Chakram): Deploy a sentry that shoots your off-hand weapon.<br>",
+        "id" : "ApheliosQ_ClientTooltipWrapper",
+        "image" : {
+          "full" : "ApheliosQ_ClientTooltipWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Weapon Abilites"
+      },
+      {
+        "description" : "Aphelios swaps his main-hand gun with his off-hand gun, replacing his basic attack and activated ability.",
+        "id" : "ApheliosW",
+        "image" : {
+          "full" : "ApheliosW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Phase"
+      },
+      {
+        "description" : "Aphelios has no third ability. This slot shows the next weapon Alune will give him. Weapon order begins fixed but may change over game time -- when a weapon is out of ammo it goes to the end of the order.",
+        "id" : "ApheliosE_ClientTooltipWrapper",
+        "image" : {
+          "full" : "ApheliosE_ClientTooltipWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Weapon Queue System"
+      },
+      {
+        "description" : "Fire a concentrated blast of moonlight that explodes on enemy champions. Applies the unique effect of Aphelios' main-hand gun.",
+        "id" : "ApheliosR",
+        "image" : {
+          "full" : "ApheliosR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Moonlight Vigil"
+      }
+    ],
+    "title" : "the Weapon of the Faithful"
+  },
   "championName" : "Aphelios",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9101,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9101,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -121,6 +124,36 @@
       "subStyle" : 8200
     },
     1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -154,6 +187,51 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
         "perk2" : 8009,
         "perk3" : 9104,
         "perk4" : 8017
@@ -175,22 +253,7 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    2,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8275,
+        "perk1" : 8233,
         "perk2" : 8236
       },
       "subStyle" : 8200
@@ -198,9 +261,24 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8005,
         "perk2" : 9101,
-        "perk3" : 9104,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -210,8 +288,24 @@
       },
       "subStyle" : 8200
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9101,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Aphelios",
   "items" : {
     "allItems" : {
       "1018" : 4,
@@ -270,8 +364,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       15
     ],
@@ -290,16 +384,17 @@
     ],
     3,
     [
-      "SummonerHaste.png",
-      "SummonerFlash.png"
-    ],
-    4,
-    [
       "SummonerFlash.png",
       "SummonerBarrier.png"
     ],
-    8
+    8,
+    [
+      "SummonerFlash.png",
+      "SummonerHaste.png"
+    ],
+    4
   ],
   "totalGames" : 15,
-  "totalWins" : 8
+  "totalWins" : 8,
+  "version" : "15.18.1"
 }

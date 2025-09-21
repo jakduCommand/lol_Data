@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that...",
+    "id" : "Urgot",
+    "image" : {
+      "full" : "Urgot.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 8,
+      "magic" : 3
+    },
+    "key" : "6",
+    "name" : "Urgot",
+    "passive" : {
+      "description" : "Urgot's basic attacks and Purge periodically trigger blasts of flame from his legs, dealing physical damage.",
+      "image" : {
+        "full" : "Urgot_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 96
+      },
+      "name" : "Echoing Flames"
+    },
+    "spells" : [
+      {
+        "description" : "Fires an explosive charge at the target location, dealing physical damage and slowing enemies caught in the explosion.",
+        "id" : "UrgotQ",
+        "image" : {
+          "full" : "UrgotQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Corrosive Charge"
+      },
+      {
+        "description" : "Urgot slows himself while he unloads his weapon on nearby enemies. Prioritizes enemy champions Urgot has recently struck with other abilities and triggers Echoing Flames.",
+        "id" : "UrgotW",
+        "image" : {
+          "full" : "UrgotW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Purge"
+      },
+      {
+        "description" : "Urgot charges in a direction, shielding himself and trampling non-champion enemies. If he catches an enemy champion, he will stop and hurl them out of his way.",
+        "id" : "UrgotE",
+        "image" : {
+          "full" : "UrgotE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Disdain"
+      },
+      {
+        "description" : "Urgot fires a chem-drill that impales the first enemy champion hit. If that champion falls below a health threshold, Urgot judges them weak and can execute them.",
+        "id" : "UrgotR",
+        "image" : {
+          "full" : "UrgotR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "Fear Beyond Death"
+      }
+    ],
+    "title" : "the Dreadnought"
+  },
   "championName" : "Urgot",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9103,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9103,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Urgot",
   "items" : {
     "allItems" : {
       "1001" : 2,
@@ -90,8 +184,8 @@
       ],
       4,
       [
-        1102,
-        2003
+        2003,
+        1102
       ],
       1
     ],
@@ -106,16 +200,17 @@
     ],
     3,
     [
-      "SummonerSmite.png",
+      "SummonerDot.png",
       "SummonerFlash.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerSmite.png",
+      "SummonerFlash.png"
     ],
     1
   ],
   "totalGames" : 5,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

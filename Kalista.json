@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing...",
+    "id" : "Kalista",
+    "image" : {
+      "full" : "Kalista.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 4
+    },
+    "key" : "429",
+    "name" : "Kalista",
+    "passive" : {
+      "description" : "Enter a movement command while winding up Kalista's basic attack or Pierce to lunge a short distance when she launches her attack.",
+      "image" : {
+        "full" : "Kalista_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 96
+      },
+      "name" : "Martial Poise"
+    },
+    "spells" : [
+      {
+        "description" : "Throw a fast moving spear that passes through enemies it kills.",
+        "id" : "KalistaMysticShot",
+        "image" : {
+          "full" : "KalistaMysticShot.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Pierce"
+      },
+      {
+        "description" : "Gain bonus damage when Kalista and her Oathsworn strike the same target. <br><br>Activate to send a soul to scout out the path, revealing the area in front of it.",
+        "id" : "KalistaW",
+        "image" : {
+          "full" : "KalistaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Sentinel"
+      },
+      {
+        "description" : "Attacks impale their targets with spears. Activate to rip the spears out, slowing and dealing escalating damage.",
+        "id" : "KalistaExpungeWrapper",
+        "image" : {
+          "full" : "KalistaExpungeWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Rend"
+      },
+      {
+        "description" : "Kalista teleports the Oathsworn ally to herself. They gain the ability to dash toward a position, knocking enemy champions back.",
+        "id" : "KalistaRx",
+        "image" : {
+          "full" : "KalistaRx.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Fate's Call"
+      }
+    ],
+    "title" : "the Spear of Vengeance"
+  },
   "championName" : "Kalista",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -30,8 +108,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Kalista",
   "items" : {
     "allItems" : {
       "1042" : 1,
@@ -85,5 +179,6 @@
     2
   ],
   "totalGames" : 2,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

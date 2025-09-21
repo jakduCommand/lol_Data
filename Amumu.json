@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe...",
+    "id" : "Amumu",
+    "image" : {
+      "full" : "Amumu.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 6,
+      "difficulty" : 3,
+      "magic" : 8
+    },
+    "key" : "32",
+    "name" : "Amumu",
+    "passive" : {
+      "description" : "Amumu's basic attacks <font color='#9b0f5f'>Curse<\/font> his enemies, causing them to take bonus true damage from incoming magic damage.",
+      "image" : {
+        "full" : "Amumu_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 0
+      },
+      "name" : "Cursed Touch"
+    },
+    "spells" : [
+      {
+        "description" : "Amumu tosses a sticky bandage at a target, stunning and damaging the target while he pulls himself to them.",
+        "id" : "BandageToss",
+        "image" : {
+          "full" : "BandageToss.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Bandage Toss"
+      },
+      {
+        "description" : "Overcome by anguish, nearby enemies lose a percentage of their maximum Health each second and have their <font color='#9b0f5f'>Curses<\/font> refreshed.",
+        "id" : "AuraofDespair",
+        "image" : {
+          "full" : "AuraofDespair.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Despair"
+      },
+      {
+        "description" : "Permanently reduces the physical damage Amumu would take. Amumu can unleash his rage, dealing damage to surrounding enemies. Each time Amumu is hit, the cooldown on Tantrum is reduced.",
+        "id" : "Tantrum",
+        "image" : {
+          "full" : "Tantrum.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Tantrum"
+      },
+      {
+        "description" : "Amumu entangles surrounding enemy units in bandages, applying his <keywordMajor>Curse<\/keywordMajor>, damaging and stunning them.",
+        "id" : "CurseoftheSadMummy",
+        "image" : {
+          "full" : "CurseoftheSadMummy.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Curse of the Sad Mummy"
+      }
+    ],
+    "title" : "the Sad Mummy"
+  },
   "championName" : "Amumu",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Amumu",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -55,11 +149,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

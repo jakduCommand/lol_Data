@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one...",
+    "id" : "Akali",
+    "image" : {
+      "full" : "Akali.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 3,
+      "difficulty" : 7,
+      "magic" : 8
+    },
+    "key" : "84",
+    "name" : "Akali",
+    "passive" : {
+      "description" : "Dealing spell damage to a champion creates a ring of energy around them. Exiting that ring empowers Akali's next Attack with bonus range and damage.",
+      "image" : {
+        "full" : "Akali_P.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 0
+      },
+      "name" : "Assassin's Mark"
+    },
+    "spells" : [
+      {
+        "description" : "Akali throws out five kunai, dealing damage based on her bonus Attack Damage and Ability Power and slowing.",
+        "id" : "AkaliQ",
+        "image" : {
+          "full" : "AkaliQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Five Point Strike"
+      },
+      {
+        "description" : "Akali drops a cover of smoke and briefly gains Move Speed. While inside the shroud, Akali becomes invisible and unable to be selected by enemy spells and attacks. Attacking or using abilities will briefly reveal her.  ",
+        "id" : "AkaliW",
+        "image" : {
+          "full" : "AkaliW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Twilight Shroud"
+      },
+      {
+        "description" : "Flip backward and fire a shuriken forward, dealing magic damage. The first enemy or smoke cloud hit is marked. Re-cast to dash to the marked target, dealing additional damage.",
+        "id" : "AkaliE",
+        "image" : {
+          "full" : "AkaliE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Shuriken Flip"
+      },
+      {
+        "description" : "Akali leaps in a direction, damaging enemies she strikes. Re-cast: Akali dashes in a direction, executing all enemies she strikes.",
+        "id" : "AkaliR",
+        "image" : {
+          "full" : "AkaliR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Perfect Execution"
+      }
+    ],
+    "title" : "the Rogue Assassin"
+  },
   "championName" : "Akali",
   "fullRunePageFrequency" : [
     {
@@ -16,21 +109,6 @@
       "subStyle" : 8400
     },
     1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8451,
-        "perk2" : 8444
-      },
-      "subStyle" : 8400
-    },
-    4,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -75,8 +153,24 @@
       },
       "subStyle" : 8400
     },
-    2
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    4
   ],
+  "id" : "Akali",
   "items" : {
     "allItems" : {
       "1001" : 2,
@@ -124,15 +218,15 @@
     },
     "starters" : [
       [
-        1054,
-        2003
-      ],
-      4,
-      [
         1056,
         2003
       ],
-      5
+      5,
+      [
+        1054,
+        2003
+      ],
+      4
     ],
     "thirdCore" : {
       "3157" : 2
@@ -140,21 +234,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerTeleport.png",
+      "SummonerDot.png",
       "SummonerFlash.png"
-    ],
-    3,
-    [
-      "SummonerFlash.png",
-      "SummonerDot.png"
     ],
     2,
     [
       "SummonerTeleport.png",
       "SummonerDot.png"
     ],
-    4
+    4,
+    [
+      "SummonerFlash.png",
+      "SummonerTeleport.png"
+    ],
+    3
   ],
   "totalGames" : 9,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

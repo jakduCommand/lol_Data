@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own...",
+    "id" : "Yone",
+    "image" : {
+      "full" : "Yone.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 4,
+      "difficulty" : 8,
+      "magic" : 4
+    },
+    "key" : "777",
+    "name" : "Yone",
+    "passive" : {
+      "description" : "Yone deals magic damage with every second Attack. In addition, his critical strike chance is increased.",
+      "image" : {
+        "full" : "YonePassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 48
+      },
+      "name" : "Way of the Hunter"
+    },
+    "spells" : [
+      {
+        "description" : "Thrusts forward, damaging all enemies in a line.<br><br>On hit, grants a stack of Gathering Storm for a few seconds. At 2 stacks, Mortal Steel dashes Yone forward with a gust of wind knocking enemies <status>Airborne<\/status>.",
+        "id" : "YoneQ",
+        "image" : {
+          "full" : "YoneQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Mortal Steel"
+      },
+      {
+        "description" : "Cleaves forward, damaging all enemies in a cone. Grants a shield to Yone, the value is increased by the number of champions hit by the swipe.<br><br>Spirit Cleave's cooldown and cast time scale with attack speed.",
+        "id" : "YoneW",
+        "image" : {
+          "full" : "YoneW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Spirit Cleave"
+      },
+      {
+        "description" : "Yone's spirit leaves his body behind, gaining Move Speed. When this ability ends, Yone's spirit is forced back to his body and he repeats a portion of the damage he dealt as a spirit.",
+        "id" : "YoneE",
+        "image" : {
+          "full" : "YoneE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Soul Unbound"
+      },
+      {
+        "description" : "Yone blinks behind the last champion in a line with a slash so powerful it pulls all enemies hit towards him.",
+        "id" : "YoneR",
+        "image" : {
+          "full" : "YoneR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Fate Sealed"
+      }
+    ],
+    "title" : "the Unforgotten"
+  },
   "championName" : "Yone",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8021,
-        "perk2" : 9101,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -75,8 +153,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8021,
+        "perk2" : 9101,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Yone",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -134,5 +228,6 @@
     6
   ],
   "totalGames" : 6,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

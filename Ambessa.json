@@ -1,6 +1,144 @@
 {
+  "championDetail" : {
+    "blurb" : "All who know the name Medarda respect and fear the family's leader, Ambessa. As a Noxian general, she embodies a deadly combination of ruthless strength and fearless resolve in battle. Her role as matriarch is no different, requiring great cunning to...",
+    "id" : "Ambessa",
+    "image" : {
+      "full" : "Ambessa.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 2,
+      "difficulty" : 10,
+      "magic" : 0
+    },
+    "key" : "799",
+    "name" : "Ambessa",
+    "passive" : {
+      "description" : "Entering an attack or movement command while casting an ability will cause Ambessa to dash a short distance once the ability is cast, granting her next attack bonus range, damage, and attack speed, and refunding energy.",
+      "image" : {
+        "full" : "Icon_Ambessa_Passive.Domina.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 0
+      },
+      "name" : "Drakehound's Step"
+    },
+    "spells" : [
+      {
+        "description" : "Ambessa sweeps her twin drakehounds in a semicircle in front of her, dealing bonus damage to enemies hit by the blades. Striking an enemy will transform the next cast of this ability for a short period of time, causing her to slam her twin drakehounds down in a line in front of her, dealing bonus damage to the first enemy hit.",
+        "id" : "AmbessaQ",
+        "image" : {
+          "full" : "AmbessaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Cunning Sweep \/ Sundering Slam"
+      },
+      {
+        "description" : "Ambessa gains a shield, briefly braces herself, and then slams the ground to damage nearby enemies. If she blocked any non-minion damage while bracing herself, this ability will deal increased damage.",
+        "id" : "AmbessaW",
+        "image" : {
+          "full" : "AmbessaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Repudiation"
+      },
+      {
+        "description" : "Ambessa whips her twin drakehounds around herself, damaging and slowing nearby enemies. Initiating Drakehound's Step from this ability causes her to strike a second time at the end of its dash.",
+        "id" : "AmbessaE",
+        "image" : {
+          "full" : "AmbessaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Lacerate"
+      },
+      {
+        "description" : "Ambessa blinks to the farthest enemy champion in a line of her choosing and suppresses them upon her arrival. She then slams the enemy into the ground where they take damage and are stunned.",
+        "id" : "AmbessaR",
+        "image" : {
+          "full" : "AmbessaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Public Execution"
+      }
+    ],
+    "title" : "Matriarch of War"
+  },
   "championName" : "Ambessa",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8451,
+        "perk2" : 8444
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8242
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    3,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -26,11 +164,11 @@
       "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8401,
-        "perk2" : 8444
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -40,8 +178,8 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8345,
+        "perk2" : 8304
       },
       "subStyle" : 8300
     },
@@ -66,31 +204,16 @@
         "perk1" : 8437,
         "perk2" : 8401,
         "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
         "perk4" : 8242
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
+        "perk1" : 8345,
+        "perk2" : 8347
       },
       "subStyle" : 8300
     },
-    3,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8112,
@@ -101,42 +224,13 @@
       "primaryStyle" : 8100,
       "subPerks" : {
         "perk1" : 8401,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8451,
         "perk2" : 8444
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    1
+    2
   ],
+  "id" : "Ambessa",
   "items" : {
     "allItems" : {
       "1028" : 2,
@@ -202,15 +296,15 @@
     },
     "starters" : [
       [
-        1054,
-        2003
+        2003,
+        1055
       ],
-      11,
+      1,
       [
-        1055,
-        2003
+        2003,
+        1054
       ],
-      1
+      11
     ],
     "thirdCore" : {
       "3071" : 1,
@@ -229,5 +323,6 @@
     12
   ],
   "totalGames" : 12,
-  "totalWins" : 6
+  "totalWins" : 6,
+  "version" : "15.18.1"
 }

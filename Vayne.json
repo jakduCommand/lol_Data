@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when...",
+    "id" : "Vayne",
+    "image" : {
+      "full" : "Vayne.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 1,
+      "difficulty" : 8,
+      "magic" : 1
+    },
+    "key" : "67",
+    "name" : "Vayne",
+    "passive" : {
+      "description" : "Vayne ruthlessly hunts evil-doers, gaining Move Speed when moving toward nearby enemy champions.",
+      "image" : {
+        "full" : "Vayne_NightHunter.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 96
+      },
+      "name" : "Night Hunter"
+    },
+    "spells" : [
+      {
+        "description" : "Vayne tumbles, maneuvering to carefully place her next shot. Her next attack deals bonus damage.",
+        "id" : "VayneTumble",
+        "image" : {
+          "full" : "VayneTumble.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Tumble"
+      },
+      {
+        "description" : "Vayne tips her bolts with a rare metal, toxic to evil things. The third consecutive attack or ability against the same target deals a percentage of the target's max health as bonus true damage.",
+        "id" : "VayneSilveredBolts",
+        "image" : {
+          "full" : "VayneSilveredBolts.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Silver Bolts"
+      },
+      {
+        "description" : "Vayne draws a heavy crossbow from her back, and fires a huge bolt at her target, knocking them back and dealing damage. If they collide with terrain, they are impaled, dealing bonus damage and stunning them.",
+        "id" : "VayneCondemn",
+        "image" : {
+          "full" : "VayneCondemn.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Condemn"
+      },
+      {
+        "description" : "Readying herself for an epic confrontation, Vayne gains increased Attack Damage, Invisibility during Tumble, reduced Tumble cooldown, and more bonus Move Speed from Night Hunter",
+        "id" : "VayneInquisition",
+        "image" : {
+          "full" : "VayneInquisition.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Final Hour"
+      }
+    ],
+    "title" : "the Night Hunter"
+  },
   "championName" : "Vayne",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8242
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
     1
   ],
+  "id" : "Vayne",
   "items" : {
     "allItems" : {
       "1042" : 1,
@@ -109,5 +203,6 @@
     2
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

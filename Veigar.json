@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been...",
+    "id" : "Veigar",
+    "image" : {
+      "full" : "Veigar.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 2,
+      "defense" : 2,
+      "difficulty" : 7,
+      "magic" : 10
+    },
+    "key" : "45",
+    "name" : "Veigar",
+    "passive" : {
+      "description" : "Veigar is the greatest Evil to ever strike at the hearts of Runeterra - and he's only getting bigger! Striking an enemy Champion with a spell or scoring a takedown grants Veigar permanently increased Ability Power.",
+      "image" : {
+        "full" : "VeigarEntropy.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 96
+      },
+      "name" : "Phenomenal Evil Power"
+    },
+    "spells" : [
+      {
+        "description" : "Veigar unleashes a bolt of dark energy that deals magic damage to the first two enemies hit. Units killed by this bolt grant Veigar some ability power permanently.",
+        "id" : "VeigarBalefulStrike",
+        "image" : {
+          "full" : "VeigarBalefulStrike.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "Baleful Strike"
+      },
+      {
+        "description" : "Veigar calls a great mass of dark matter to fall from the sky to the target location, dealing magic damage when it lands. Stacks of Phenomenal Evil reduce Dark Matter's cooldown.",
+        "id" : "VeigarDarkMatter",
+        "image" : {
+          "full" : "VeigarDarkMatter.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Dark Matter"
+      },
+      {
+        "description" : "Veigar twists the edges of space, creating a cage that Stuns enemies that pass through.",
+        "id" : "VeigarEventHorizon",
+        "image" : {
+          "full" : "VeigarEventHorizon.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Event Horizon"
+      },
+      {
+        "description" : "Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health.",
+        "id" : "VeigarR",
+        "image" : {
+          "full" : "VeigarR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Primordial Burst"
+      }
+    ],
+    "title" : "the Tiny Master of Evil"
+  },
   "championName" : "Veigar",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8369,
+        "perk2" : 8321,
+        "perk3" : 8313,
+        "perk4" : 8347
+      },
+      "primaryStyle" : 8300,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8234
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -14,21 +122,6 @@
         "perk2" : 8345
       },
       "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8369,
-        "perk2" : 8304,
-        "perk3" : 8313,
-        "perk4" : 8347
-      },
-      "primaryStyle" : 8300,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
     },
     1,
     {
@@ -49,19 +142,20 @@
     {
       "primaryPerks" : {
         "perk1" : 8369,
-        "perk2" : 8321,
+        "perk2" : 8304,
         "perk3" : 8313,
         "perk4" : 8347
       },
       "primaryStyle" : 8300,
       "subPerks" : {
         "perk1" : 8226,
-        "perk2" : 8234
+        "perk2" : 8210
       },
       "subStyle" : 8200
     },
     1
   ],
+  "id" : "Veigar",
   "items" : {
     "allItems" : {
       "1056" : 2,
@@ -107,8 +201,8 @@
     },
     "starters" : [
       [
-        2003,
-        1056
+        1056,
+        2003
       ],
       4
     ],
@@ -125,5 +219,6 @@
     4
   ],
   "totalGames" : 4,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

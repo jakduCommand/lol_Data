@@ -1,62 +1,110 @@
 {
+  "championDetail" : {
+    "blurb" : "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find...",
+    "id" : "Aatrox",
+    "image" : {
+      "full" : "Aatrox.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 4,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "266",
+    "name" : "Aatrox",
+    "passive" : {
+      "description" : "Periodically, Aatrox's next basic attack deals bonus <magicDamage>magic damage<\/magicDamage> and heals him, based on the target's max health. ",
+      "image" : {
+        "full" : "Aatrox_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Deathbringer Stance"
+    },
+    "spells" : [
+      {
+        "description" : "Aatrox slams his greatsword down, dealing physical damage. He can swing three times, each with a different area of effect.",
+        "id" : "AatroxQ",
+        "image" : {
+          "full" : "AatroxQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "The Darkin Blade"
+      },
+      {
+        "description" : "Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.",
+        "id" : "AatroxW",
+        "image" : {
+          "full" : "AatroxW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Infernal Chains"
+      },
+      {
+        "description" : "Passively, Aatrox heals when damaging enemy champions. On activation, he dashes in a direction.",
+        "id" : "AatroxE",
+        "image" : {
+          "full" : "AatroxE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Umbral Dash"
+      },
+      {
+        "description" : "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and Move Speed. If he gets a takedown, this effect is extended.",
+        "id" : "AatroxR",
+        "image" : {
+          "full" : "AatroxR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell0.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "World Ender"
+      }
+    ],
+    "title" : "the Darkin Blade"
+  },
   "championName" : "Aatrox",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8010,
         "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
         "perk3" : 9105,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8444,
-        "perk2" : 8453
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
-      },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8106
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8242
+        "perk2" : 8451
       },
       "subStyle" : 8400
     },
@@ -85,8 +133,8 @@
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8451
+        "perk1" : 8453,
+        "perk2" : 8473
       },
       "subStyle" : 8400
     },
@@ -101,12 +149,58 @@
       "primaryStyle" : 8000,
       "subPerks" : {
         "perk1" : 8444,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8106
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8242
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8473,
         "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8453
       },
       "subStyle" : 8400
     },
     1
   ],
+  "id" : "Aatrox",
   "items" : {
     "allItems" : {
       "1028" : 2,
@@ -160,15 +254,15 @@
     },
     "starters" : [
       [
-        1054,
+        1055,
         2003
       ],
-      5,
+      2,
       [
         2003,
-        1055
+        1054
       ],
-      2
+      5
     ],
     "thirdCore" : {
       "6694" : 2
@@ -182,5 +276,6 @@
     7
   ],
   "totalGames" : 7,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

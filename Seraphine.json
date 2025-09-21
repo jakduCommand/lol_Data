@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She...",
+    "id" : "Seraphine",
+    "image" : {
+      "full" : "Seraphine.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 336,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 0,
+      "defense" : 0,
+      "difficulty" : 0,
+      "magic" : 0
+    },
+    "key" : "147",
+    "name" : "Seraphine",
+    "passive" : {
+      "description" : "Every third basic spell will cast twice from Seraphine. Additionally, casting spells near allies grants her bonus magic damage and range on her next basic attack.",
+      "image" : {
+        "full" : "Seraphine_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 336,
+        "y" : 96
+      },
+      "name" : "Stage Presence"
+    },
+    "spells" : [
+      {
+        "description" : "Seraphine deals damage in an area.",
+        "id" : "SeraphineQ",
+        "image" : {
+          "full" : "SeraphineQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 0
+        },
+        "name" : "High Note"
+      },
+      {
+        "description" : "Seraphine Shields and Hastes nearby allies. If she is already Shielded she will Heal nearby allies as well.",
+        "id" : "SeraphineW",
+        "image" : {
+          "full" : "SeraphineW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 0
+        },
+        "name" : "Surround Sound"
+      },
+      {
+        "description" : "Seraphine deals damage and impairs the movement of enemies in a line.",
+        "id" : "SeraphineE",
+        "image" : {
+          "full" : "SeraphineE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 0
+        },
+        "name" : "Beat Drop"
+      },
+      {
+        "description" : "Seraphine deals damage and charms enemies hit, refreshing the range with every allied or enemy champion hit.",
+        "id" : "SeraphineR",
+        "image" : {
+          "full" : "SeraphineR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 0
+        },
+        "name" : "Encore"
+      }
+    ],
+    "title" : "the Starry-Eyed Songstress"
+  },
   "championName" : "Seraphine",
   "fullRunePageFrequency" : [
     {
@@ -10,12 +103,12 @@
       },
       "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
+        "perk1" : 8226,
+        "perk2" : 8210
       },
       "subStyle" : 8200
     },
-    2,
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8465,
@@ -27,36 +120,6 @@
       "subPerks" : {
         "perk1" : 8226,
         "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8465,
-        "perk2" : 8463,
-        "perk3" : 8473,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8210
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 8009,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8236
       },
       "subStyle" : 8200
     },
@@ -78,6 +141,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8465,
+        "perk2" : 8463,
+        "perk3" : 8473,
+        "perk4" : 8453
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    2,
+    {
+      "primaryPerks" : {
         "perk1" : 8214,
         "perk2" : 8224,
         "perk3" : 8234,
@@ -90,8 +168,24 @@
       },
       "subStyle" : 8400
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 8009,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
     1
   ],
+  "id" : "Seraphine",
   "items" : {
     "allItems" : {
       "1011" : 1,
@@ -146,18 +240,18 @@
     "starters" : [
       [
         2003,
-        3070
-      ],
-      2,
-      [
-        2003,
         1056
       ],
       2,
       [
         2003
       ],
-      3
+      3,
+      [
+        3070,
+        2003
+      ],
+      2
     ],
     "thirdCore" : {
       "3089" : 1,
@@ -166,21 +260,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     2,
     [
       "SummonerFlash.png",
+      "SummonerExhaust.png"
+    ],
+    1,
+    [
+      "SummonerFlash.png",
       "SummonerTeleport.png"
     ],
-    4,
-    [
-      "SummonerExhaust.png",
-      "SummonerFlash.png"
-    ],
-    1
+    4
   ],
   "totalGames" : 7,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

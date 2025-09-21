@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained...",
+    "id" : "Jax",
+    "image" : {
+      "full" : "Jax.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 5,
+      "difficulty" : 5,
+      "magic" : 7
+    },
+    "key" : "24",
+    "name" : "Jax",
+    "passive" : {
+      "description" : "Jax's consecutive basic attacks continuously increase his Attack Speed.",
+      "image" : {
+        "full" : "Armsmaster_MasterOfArms.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 96
+      },
+      "name" : "Relentless Assault"
+    },
+    "spells" : [
+      {
+        "description" : "Jax leaps toward a unit. If they are an enemy, he strikes them with his weapon.",
+        "id" : "JaxQ",
+        "image" : {
+          "full" : "JaxQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "Leap Strike"
+      },
+      {
+        "description" : "Jax charges his weapon with energy, causing his next attack to deal additional damage.",
+        "id" : "JaxW",
+        "image" : {
+          "full" : "JaxW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Empower"
+      },
+      {
+        "description" : "Jax's combat prowess allows him to dodge all incoming attacks for a short duration and then quickly counterattack, stunning all surrounding enemies.",
+        "id" : "JaxE",
+        "image" : {
+          "full" : "JaxE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Counter Strike"
+      },
+      {
+        "description" : "Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to deal damage around himself and strengthen his resolve, increasing his Armor and Magic Resist for a short duration.",
+        "id" : "JaxR",
+        "image" : {
+          "full" : "JaxR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Grandmaster-at-Arms"
+      }
+    ],
+    "title" : "Grandmaster at Arms"
+  },
   "championName" : "Jax",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8444,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -18,32 +126,17 @@
     3,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8242
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    5,
-    {
-      "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 8009,
+        "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8299
       },
       "primaryStyle" : 8000,
       "subPerks" : {
-        "perk1" : 8444,
-        "perk2" : 8451
+        "perk1" : 8345,
+        "perk2" : 8347
       },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
     1,
     {
@@ -63,20 +156,21 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8242
       },
-      "primaryStyle" : 8000,
+      "primaryStyle" : 8400,
       "subPerks" : {
         "perk1" : 8345,
         "perk2" : 8347
       },
       "subStyle" : 8300
     },
-    1
+    5
   ],
+  "id" : "Jax",
   "items" : {
     "allItems" : {
       "1001" : 2,
@@ -131,19 +225,19 @@
     "starters" : [
       [
         2003,
-        1054
+        1102
+      ],
+      1,
+      [
+        1054,
+        2003
       ],
       8,
       [
-        1055,
-        2003
+        2003,
+        1055
       ],
-      2,
-      [
-        1102,
-        2003
-      ],
-      1
+      2
     ],
     "thirdCore" : {
       "3091" : 1,
@@ -169,5 +263,6 @@
     8
   ],
   "totalGames" : 11,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

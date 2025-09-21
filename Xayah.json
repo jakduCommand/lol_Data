@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to...",
+    "id" : "Xayah",
+    "image" : {
+      "full" : "Xayah.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion5.png",
+      "w" : 48,
+      "x" : 288,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 10,
+      "defense" : 6,
+      "difficulty" : 5,
+      "magic" : 1
+    },
+    "key" : "498",
+    "name" : "Xayah",
+    "passive" : {
+      "description" : "After using an ability, Xayah's next basic attacks will hit all targets along their path and leave a <font color='#C200E1'>Feather<\/font>.",
+      "image" : {
+        "full" : "XayahPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive5.png",
+        "w" : 48,
+        "x" : 288,
+        "y" : 0
+      },
+      "name" : "Clean Cuts"
+    },
+    "spells" : [
+      {
+        "description" : "Xayah throws two damaging daggers that also drop Feathers she can recall.",
+        "id" : "XayahQ",
+        "image" : {
+          "full" : "XayahQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 0
+        },
+        "name" : "Double Daggers"
+      },
+      {
+        "description" : "Xayah creates a storm of blades that increase her Attack Speed and damage while also granting her Move Speed if she attacks a champion.",
+        "id" : "XayahW",
+        "image" : {
+          "full" : "XayahW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 0
+        },
+        "name" : "Deadly Plumage"
+      },
+      {
+        "description" : "Xayah calls back all her dropped Feathers dealing damage and rooting enemies.",
+        "id" : "XayahE",
+        "image" : {
+          "full" : "XayahE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 0
+        },
+        "name" : "Bladecaller"
+      },
+      {
+        "description" : "Xayah leaps into the air becoming untargetable and throwing out a fan of daggers, dropping Feathers she can recall.",
+        "id" : "XayahR",
+        "image" : {
+          "full" : "XayahR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell16.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 0
+        },
+        "name" : "Featherstorm"
+      }
+    ],
+    "title" : "the Rebel"
+  },
   "championName" : "Xayah",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Xayah",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -86,8 +180,8 @@
     },
     "starters" : [
       [
-        1055,
-        2003
+        2003,
+        1055
       ],
       3
     ],
@@ -98,16 +192,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerHaste.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerFlash.png",
       "SummonerBarrier.png"
     ],
-    2
+    2,
+    [
+      "SummonerFlash.png",
+      "SummonerHaste.png"
+    ],
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

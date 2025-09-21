@@ -1,21 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear...",
+    "id" : "Nidalee",
+    "image" : {
+      "full" : "Nidalee.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 96,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 5,
+      "defense" : 4,
+      "difficulty" : 8,
+      "magic" : 7
+    },
+    "key" : "76",
+    "name" : "Nidalee",
+    "passive" : {
+      "description" : "Moving through brush increases Nidalee's Move Speed by 10% for 2 seconds, increased to 30% toward visible enemy champions within 1400 range.<br><br>Hitting champions or monsters with Javelin Toss or Bushwhack triggers a <font color='#FFF673'>Hunt<\/font>, granting <font color='#ee91d7'>True Sight<\/font> of them for 4 seconds. During this time, Nidalee gains 10% Move Speed (increased to 30% toward the <font color='#FFF673'>Hunted<\/font> target) and her Takedown and Pounce are enhanced against them.",
+      "image" : {
+        "full" : "Nidalee_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 96,
+        "y" : 0
+      },
+      "name" : "Prowl"
+    },
+    "spells" : [
+      {
+        "description" : "In human form, Nidalee throws a spiked javelin at her target that gains damage as it flies.  As a cougar, her next attack will attempt to fatally wound her target, dealing more damage the less life they have.",
+        "id" : "JavelinToss",
+        "image" : {
+          "full" : "JavelinToss.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 96
+        },
+        "name" : "Javelin Toss \/ Takedown"
+      },
+      {
+        "description" : "In human form, Nidalee lays a trap for unwary opponents that, when sprung, damages and reveals its target. As a cougar, she jumps in a direction, dealing damage in an area where she lands.",
+        "id" : "Bushwhack",
+        "image" : {
+          "full" : "Bushwhack.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 96
+        },
+        "name" : "Bushwhack \/ Pounce"
+      },
+      {
+        "description" : "In human form, Nidalee channels the spirit of the cougar to heal her allies and imbue them with Attack Speed for a short duration. As a cougar, she claws in a direction, dealing damage to enemies in front of her.",
+        "id" : "PrimalSurge",
+        "image" : {
+          "full" : "PrimalSurge.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 96
+        },
+        "name" : "Primal Surge \/ Swipe"
+      },
+      {
+        "description" : "Nidalee transforms into a cougar, gaining new abilities.",
+        "id" : "AspectOfTheCougar",
+        "image" : {
+          "full" : "AspectOfTheCougar.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 96
+        },
+        "name" : "Aspect Of The Cougar"
+      }
+    ],
+    "title" : "the Bestial Huntress"
+  },
   "championName" : "Nidalee",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8112,
+        "perk1" : 8128,
         "perk2" : 8143,
-        "perk3" : 8140,
+        "perk3" : 8141,
         "perk4" : 8135
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8232
+        "perk1" : 9105,
+        "perk2" : 8014
       },
-      "subStyle" : 8200
+      "subStyle" : 8000
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -33,19 +126,34 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8128,
+        "perk1" : 8112,
         "perk2" : 8143,
-        "perk3" : 8141,
+        "perk3" : 8140,
         "perk4" : 8135
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8014
+        "perk1" : 8210,
+        "perk2" : 8232
       },
-      "subStyle" : 8000
+      "subStyle" : 8200
     },
-    2,
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9105,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8210,
+        "perk2" : 8232
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8214,
@@ -75,23 +183,9 @@
       },
       "subStyle" : 8400
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9105,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8210,
-        "perk2" : 8232
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Nidalee",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -151,31 +245,31 @@
     },
     "starters" : [
       [
-        1101,
         2003
       ],
       1,
       [
-        2003,
-        1055
-      ],
-      1,
-      [
-        2003
-      ],
-      1,
-      [
-        1102,
-        2003
-      ],
-      2,
-      [
-        1056,
+        1055,
         2003
       ],
       1,
       [
         1101
+      ],
+      1,
+      [
+        2003,
+        1101
+      ],
+      1,
+      [
+        2003,
+        1102
+      ],
+      2,
+      [
+        1056,
+        2003
       ],
       1
     ],
@@ -186,21 +280,22 @@
   },
   "spellFrequency" : [
     [
+      "SummonerSmite.png",
+      "SummonerFlash.png"
+    ],
+    4,
+    [
       "SummonerFlash.png",
       "SummonerHeal.png"
     ],
     1,
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
-    ],
-    2,
-    [
-      "SummonerSmite.png",
+      "SummonerTeleport.png",
       "SummonerFlash.png"
     ],
-    4
+    2
   ],
   "totalGames" : 7,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

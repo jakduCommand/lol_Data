@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra's forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow...",
+    "id" : "Ivern",
+    "image" : {
+      "full" : "Ivern.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 5,
+      "difficulty" : 7,
+      "magic" : 7
+    },
+    "key" : "427",
+    "name" : "Ivern",
+    "passive" : {
+      "description" : "Ivern cannot attack or be attacked by non-epic monsters. Ivern can create magical groves on jungle camps which grow over time. When the grove is fully grown, Ivern may free the monsters to receive gold and experience.",
+      "image" : {
+        "full" : "IvernP.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 48
+      },
+      "name" : "Friend of the Forest"
+    },
+    "spells" : [
+      {
+        "description" : "Ivern conjures a vine, dealing damage and rooting enemy targets hit. Ivern's allies can dash to the rooted target.",
+        "id" : "IvernQ",
+        "image" : {
+          "full" : "IvernQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Rootcaller"
+      },
+      {
+        "description" : "In brush, Ivern and his nearby allies attacks deal bonus magic damage. Ivern can activate this ability to create a patch of brush.",
+        "id" : "IvernW",
+        "image" : {
+          "full" : "IvernW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Brushmaker"
+      },
+      {
+        "description" : "Ivern places a shield on an ally which explodes after a short duration slowing and damaging enemies. The shield refreshes if it hits no enemies.",
+        "id" : "IvernE",
+        "image" : {
+          "full" : "IvernE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Triggerseed"
+      },
+      {
+        "description" : "Ivern summons his Sentinel friend Daisy to fight with him. Re-cast command Daisy to attack or move.",
+        "id" : "IvernR",
+        "image" : {
+          "full" : "IvernR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell5.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Daisy!"
+      }
+    ],
+    "title" : "the Green Father"
+  },
   "championName" : "Ivern",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8275,
-        "perk3" : 8210,
-        "perk4" : 8232
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8321,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
-    },
-    2,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -30,8 +108,24 @@
       },
       "subStyle" : 8100
     },
-    1
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8275,
+        "perk3" : 8210,
+        "perk4" : 8232
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8321,
+        "perk2" : 8347
+      },
+      "subStyle" : 8300
+    },
+    2
   ],
+  "id" : "Ivern",
   "items" : {
     "allItems" : {
       "1026" : 1,
@@ -74,14 +168,14 @@
     },
     "starters" : [
       [
+        1101,
+        2003
+      ],
+      1,
+      [
         1102
       ],
-      2,
-      [
-        2003,
-        1101
-      ],
-      1
+      2
     ],
     "thirdCore" : {
       "3089" : 1,
@@ -96,5 +190,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 0
+  "totalWins" : 0,
+  "version" : "15.18.1"
 }

@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended...",
+    "id" : "Azir",
+    "image" : {
+      "full" : "Azir.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 3,
+      "difficulty" : 9,
+      "magic" : 8
+    },
+    "key" : "268",
+    "name" : "Azir",
+    "passive" : {
+      "description" : "Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.",
+      "image" : {
+        "full" : "Azir_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Shurima's Legacy"
+    },
+    "spells" : [
+      {
+        "description" : "Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.",
+        "id" : "AzirQWrapper",
+        "image" : {
+          "full" : "AzirQWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Conquering Sands"
+      },
+      {
+        "description" : "Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line.",
+        "id" : "AzirW",
+        "image" : {
+          "full" : "AzirW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Arise!"
+      },
+      {
+        "description" : "Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.",
+        "id" : "AzirEWrapper",
+        "image" : {
+          "full" : "AzirEWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Shifting Sands"
+      },
+      {
+        "description" : "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies.",
+        "id" : "AzirR",
+        "image" : {
+          "full" : "AzirR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell1.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Emperor's Divide"
+      }
+    ],
+    "title" : "the Emperor of the Sands"
+  },
   "championName" : "Azir",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 8009,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8226,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -30,23 +138,9 @@
       },
       "subStyle" : 8200
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
     1
   ],
+  "id" : "Azir",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -102,5 +196,6 @@
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

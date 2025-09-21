@@ -1,21 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit...",
+    "id" : "Shen",
+    "image" : {
+      "full" : "Shen.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 9,
+      "difficulty" : 4,
+      "magic" : 3
+    },
+    "key" : "98",
+    "name" : "Shen",
+    "passive" : {
+      "description" : "After casting a spell, Shen gets a shield. Affecting other champions reduces the cooldown of this effect.",
+      "image" : {
+        "full" : "Shen_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Ki Barrier"
+    },
+    "spells" : [
+      {
+        "description" : "Shen recalls his spirit blade to attack with it, dealing damage based on the target's max health. The attacks are greatly empowered if it collides with an enemy champion, and all collided enemies are slowed while running away from Shen.",
+        "id" : "ShenQ",
+        "image" : {
+          "full" : "ShenQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Twilight Assault"
+      },
+      {
+        "description" : "Attacks that would hit Shen or his allies near his spirit blade are blocked.",
+        "id" : "ShenW",
+        "image" : {
+          "full" : "ShenW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Spirit's Refuge"
+      },
+      {
+        "description" : "Shen dashes in a direction, taunting enemies in his path.",
+        "id" : "ShenE",
+        "image" : {
+          "full" : "ShenE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Shadow Dash"
+      },
+      {
+        "description" : "Shen shields target allied champion from incoming damage, and soon after teleports to their location.",
+        "id" : "ShenR",
+        "image" : {
+          "full" : "ShenR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Stand United"
+      }
+    ],
+    "title" : "the Eye of Twilight"
+  },
   "championName" : "Shen",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8401,
-        "perk3" : 8444,
-        "perk4" : 8451
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
@@ -45,8 +123,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Shen",
   "items" : {
     "allItems" : {
       "1036" : 1,
@@ -80,8 +174,8 @@
     },
     "starters" : [
       [
-        2003,
-        1054
+        1054,
+        2003
       ],
       3
     ],
@@ -91,11 +185,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerTeleport.png"
+      "SummonerTeleport.png",
+      "SummonerFlash.png"
     ],
     3
   ],
   "totalGames" : 3,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

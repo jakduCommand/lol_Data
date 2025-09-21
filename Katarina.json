@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven...",
+    "id" : "Katarina",
+    "image" : {
+      "full" : "Katarina.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 3,
+      "difficulty" : 8,
+      "magic" : 9
+    },
+    "key" : "55",
+    "name" : "Katarina",
+    "passive" : {
+      "description" : "Whenever an enemy champion dies that Katarina has damaged recently, her remaining ability cooldowns are dramatically reduced.<br><br>If Katarina picks up a <font color='#FFF673'>Dagger<\/font>, she uses it to slash through all nearby enemies, dealing magic damage.",
+      "image" : {
+        "full" : "Katarina_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Voracity"
+    },
+    "spells" : [
+      {
+        "description" : "Katarina throws a <font color='#FFF673'>Dagger<\/font> at the target that then bounces to nearby enemies before ricocheting onto the ground.",
+        "id" : "KatarinaQ",
+        "image" : {
+          "full" : "KatarinaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Bouncing Blade"
+      },
+      {
+        "description" : "Katarina gains a burst of Move Speed, tossing a <font color='#FFF673'>Dagger<\/font> into the air directly above herself.",
+        "id" : "KatarinaW",
+        "image" : {
+          "full" : "KatarinaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Preparation"
+      },
+      {
+        "description" : "Katarina blinks to the target, striking it if its an enemy, or striking the nearest enemy otherwise.",
+        "id" : "KatarinaEWrapper",
+        "image" : {
+          "full" : "KatarinaEWrapper.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Shunpo"
+      },
+      {
+        "description" : "Katarina becomes a flurry of blades, dealing massive magic damage while she channels to the 3 nearest enemy champions.",
+        "id" : "KatarinaR",
+        "image" : {
+          "full" : "KatarinaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell6.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Death Lotus"
+      }
+    ],
+    "title" : "the Sinister Blade"
+  },
   "championName" : "Katarina",
   "fullRunePageFrequency" : [
     {
@@ -14,36 +107,6 @@
         "perk2" : 8237
       },
       "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8010,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8143,
-        "perk2" : 8105
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8014,
-        "perk2" : 9111
-      },
-      "subStyle" : 8000
     },
     1,
     {
@@ -78,6 +141,21 @@
     1,
     {
       "primaryPerks" : {
+        "perk1" : 8010,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8143,
+        "perk2" : 8105
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
         "perk1" : 8112,
         "perk2" : 8143,
         "perk3" : 8140,
@@ -90,8 +168,24 @@
       },
       "subStyle" : 8000
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8014,
+        "perk2" : 9111
+      },
+      "subStyle" : 8000
+    },
     1
   ],
+  "id" : "Katarina",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -140,25 +234,25 @@
     },
     "starters" : [
       [
-        2031,
-        1082
+        2003,
+        1054
       ],
       2,
       [
-        1054,
-        2003
-      ],
-      2,
-      [
-        1055,
+        1036,
         2003
       ],
       1,
       [
         2003,
-        1036
+        1055
       ],
-      1
+      1,
+      [
+        2031,
+        1082
+      ],
+      2
     ],
     "thirdCore" : {
       "3157" : 1,
@@ -168,11 +262,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     6
   ],
   "totalGames" : 6,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

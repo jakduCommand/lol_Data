@@ -1,51 +1,99 @@
 {
+  "championDetail" : {
+    "blurb" : "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade...",
+    "id" : "Varus",
+    "image" : {
+      "full" : "Varus.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 7,
+      "defense" : 3,
+      "difficulty" : 2,
+      "magic" : 4
+    },
+    "key" : "110",
+    "name" : "Varus",
+    "passive" : {
+      "description" : "On kill or assist, Varus temporarily gains Attack Damage and Ability Power. This bonus is larger if the enemy is a champion.",
+      "image" : {
+        "full" : "VarusPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 96
+      },
+      "name" : "Living Vengeance"
+    },
+    "spells" : [
+      {
+        "description" : "Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire.",
+        "id" : "VarusQ",
+        "image" : {
+          "full" : "VarusQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Piercing Arrow"
+      },
+      {
+        "description" : "Passive: Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum Health. Active: Varus empowers his next Piercing Arrow.",
+        "id" : "VarusW",
+        "image" : {
+          "full" : "VarusW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Blighted Quiver"
+      },
+      {
+        "description" : "Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' Move Speed and reduces their self healing and regeneration.",
+        "id" : "VarusE",
+        "image" : {
+          "full" : "VarusE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Hail of Arrows"
+      },
+      {
+        "description" : "Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact.",
+        "id" : "VarusR",
+        "image" : {
+          "full" : "VarusR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell15.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Chain of Corruption"
+      }
+    ],
+    "title" : "the Arrow of Retribution"
+  },
   "championName" : "Varus",
   "fullRunePageFrequency" : [
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8008,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8313
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8299
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8429,
-        "perk2" : 8451
-      },
-      "subStyle" : 8400
-    },
-    1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
@@ -70,6 +118,21 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
+        "perk1" : 9105,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
         "perk1" : 8345,
         "perk2" : 8347
       },
@@ -79,8 +142,8 @@
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 8009,
-        "perk3" : 9103,
+        "perk2" : 9101,
+        "perk3" : 9104,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -100,17 +163,32 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 9105,
-        "perk2" : 8017
+        "perk1" : 8304,
+        "perk2" : 8345
       },
-      "subStyle" : 8000
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8299
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8429,
+        "perk2" : 8451
+      },
+      "subStyle" : 8400
     },
     1,
     {
       "primaryPerks" : {
         "perk1" : 8008,
-        "perk2" : 9101,
-        "perk3" : 9104,
+        "perk2" : 8009,
+        "perk3" : 9103,
         "perk4" : 8017
       },
       "primaryStyle" : 8000,
@@ -120,8 +198,24 @@
       },
       "subStyle" : 8300
     },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8008,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8313
+      },
+      "subStyle" : 8300
+    },
     1
   ],
+  "id" : "Varus",
   "items" : {
     "allItems" : {
       "1028" : 1,
@@ -195,21 +289,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerExhaust.png"
-    ],
-    1,
-    [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     8,
     [
       "SummonerBoost.png",
       "SummonerFlash.png"
     ],
+    1,
+    [
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
+    ],
     1
   ],
   "totalGames" : 10,
-  "totalWins" : 5
+  "totalWins" : 5,
+  "version" : "15.18.1"
 }

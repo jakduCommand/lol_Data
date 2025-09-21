@@ -1,6 +1,114 @@
 {
+  "championDetail" : {
+    "blurb" : "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two...",
+    "id" : "Quinn",
+    "image" : {
+      "full" : "Quinn.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 4,
+      "difficulty" : 5,
+      "magic" : 2
+    },
+    "key" : "133",
+    "name" : "Quinn",
+    "passive" : {
+      "description" : "Valor, Quinn's Demacian eagle, periodically marks enemies as <font color='#FFF673'>Vulnerable<\/font>. Quinn's first basic attack against <font color='#FFF673'>Vulnerable<\/font> targets will deal bonus physical damage.",
+      "image" : {
+        "full" : "Quinn_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 48
+      },
+      "name" : "Harrier"
+    },
+    "spells" : [
+      {
+        "description" : "Quinn calls Valor to mark an enemy and hinder its vision before damaging all enemies in the immediate area.",
+        "id" : "QuinnQ",
+        "image" : {
+          "full" : "QuinnQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Blinding Assault"
+      },
+      {
+        "description" : "Passively grants Quinn Attack Speed and Move Speed after she attacks a <font color='#FFF673'>Vulnerable<\/font> target. Activate to have Valor reveal a large area nearby.",
+        "id" : "QuinnW",
+        "image" : {
+          "full" : "QuinnW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Heightened Senses"
+      },
+      {
+        "description" : "Quinn dashes to an enemy, dealing physical damage and slowing the target's Move Speed. Upon reaching the target, she leaps off the target, briefly interrupting it, and lands near her maximum Attack Range away from the target.",
+        "id" : "QuinnE",
+        "image" : {
+          "full" : "QuinnE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Vault"
+      },
+      {
+        "description" : "Quinn and Valor team up to fly around at great speed.  Ending the ability casts Skystrike, which deals damage to nearby enemies and marks champions as Vulnerable.",
+        "id" : "QuinnR",
+        "image" : {
+          "full" : "QuinnR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Behind Enemy Lines"
+      }
+    ],
+    "title" : "Demacia's Wings"
+  },
   "championName" : "Quinn",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8233,
+        "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 8021,
@@ -12,6 +120,21 @@
       "subPerks" : {
         "perk1" : 8233,
         "perk2" : 8236
+      },
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8112,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8275,
+        "perk2" : 8234
       },
       "subStyle" : 8200
     },
@@ -36,36 +159,6 @@
         "perk1" : 8112,
         "perk2" : 8143,
         "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8275,
-        "perk2" : 8234
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 8233,
-        "perk2" : 8236
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8112,
-        "perk2" : 8143,
-        "perk3" : 8137,
         "perk4" : 8135
       },
       "primaryStyle" : 8100,
@@ -77,6 +170,7 @@
     },
     1
   ],
+  "id" : "Quinn",
   "items" : {
     "allItems" : {
       "1036" : 2,
@@ -120,15 +214,15 @@
     },
     "starters" : [
       [
-        1055,
-        2003
-      ],
-      4,
-      [
         1036,
         2031
       ],
-      1
+      1,
+      [
+        2003,
+        1055
+      ],
+      4
     ],
     "thirdCore" : {
       "3036" : 2
@@ -136,11 +230,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerDot.png"
+      "SummonerDot.png",
+      "SummonerFlash.png"
     ],
     5
   ],
   "totalGames" : 5,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

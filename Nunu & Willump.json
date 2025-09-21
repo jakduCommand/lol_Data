@@ -1,0 +1,138 @@
+{
+  "championDetail" : {
+    "blurb" : "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu...",
+    "id" : "Nunu",
+    "image" : {
+      "full" : "Nunu.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 6,
+      "difficulty" : 4,
+      "magic" : 7
+    },
+    "key" : "20",
+    "name" : "Nunu & Willump",
+    "passive" : {
+      "description" : "Nunu increases the attack speed and Move Speed of Willump and a nearby ally, and causes Willump's basic attacks to damage enemies around the target.",
+      "image" : {
+        "full" : "NunuPassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 0
+      },
+      "name" : "Call of the Freljord"
+    },
+    "spells" : [
+      {
+        "description" : "Willump takes a bite out of a minion, monster, or enemy champion, dealing damage and healing himself.",
+        "id" : "NunuQ",
+        "image" : {
+          "full" : "NunuQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Consume"
+      },
+      {
+        "description" : "Willump creates a snowball that grows in size and speed as he rolls it.  The snowball damages and knocks up enemies.",
+        "id" : "NunuW",
+        "image" : {
+          "full" : "NunuW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell9.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Biggest Snowball Ever!"
+      },
+      {
+        "description" : "Nunu throws multiple snowballs that damage enemies.  When he's finished, Willump roots any champions or large monsters that were hit by a snowball.",
+        "id" : "NunuE",
+        "image" : {
+          "full" : "NunuE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Snowball Barrage"
+      },
+      {
+        "description" : "Nunu & Willump create a powerful blizzard in an area that slows enemies and deals massive damage at the end.",
+        "id" : "NunuR",
+        "image" : {
+          "full" : "NunuR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Absolute Zero"
+      }
+    ],
+    "title" : "the Boy and His Yeti"
+  },
+  "championName" : "Nunu & Willump",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "Nunu",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3111" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "6653" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "2504" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1102
+      ],
+      1
+    ],
+    "thirdCore" : {
+      "3110" : 1
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}

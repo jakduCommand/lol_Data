@@ -1,6 +1,159 @@
 {
+  "championDetail" : {
+    "blurb" : "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls...",
+    "id" : "Shaco",
+    "image" : {
+      "full" : "Shaco.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 432,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 4,
+      "difficulty" : 9,
+      "magic" : 6
+    },
+    "key" : "35",
+    "name" : "Shaco",
+    "passive" : {
+      "description" : "Shaco's basic attacks and Two-Shiv Poison deal additional damage when striking from behind.",
+      "image" : {
+        "full" : "Jester_CarefulStrikes.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 432,
+        "y" : 96
+      },
+      "name" : "Backstab"
+    },
+    "spells" : [
+      {
+        "description" : "Shaco becomes Invisible and teleports to target location.<br><br>His first attack while Invisible is empowered, dealing bonus damage and critically striking if he attacks from behind.",
+        "id" : "Deceive",
+        "image" : {
+          "full" : "Deceive.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 48
+        },
+        "name" : "Deceive"
+      },
+      {
+        "description" : "Shaco creates a hidden animated Jack-in-the-Box. When triggered, it will fear and attack nearby enemies.",
+        "id" : "JackInTheBox",
+        "image" : {
+          "full" : "JackInTheBox.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 48
+        },
+        "name" : "Jack In The Box"
+      },
+      {
+        "description" : "Shaco's Shivs passively poison targets on hit, slowing their Move Speed. He can throw his Shivs to deal damage and poison the target. The thrown Shiv deals bonus damage if the target is below 30% health.",
+        "id" : "TwoShivPoison",
+        "image" : {
+          "full" : "TwoShivPoison.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 48
+        },
+        "name" : "Two-Shiv Poison"
+      },
+      {
+        "description" : "Shaco creates an illusion of himself near him, which can attack nearby enemies (Deals reduced damage to turrets).  Upon death, it explodes, spawning three mini Jack in the Boxes and dealing damage to nearby enemies.",
+        "id" : "HallucinateFull",
+        "image" : {
+          "full" : "HallucinateFull.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell12.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 48
+        },
+        "name" : "Hallucinate"
+      }
+    ],
+    "title" : "the Demon Jester"
+  },
   "championName" : "Shaco",
   "fullRunePageFrequency" : [
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8137,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8410
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8126,
+        "perk2" : 8106
+      },
+      "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8229,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8236
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8017,
+        "perk2" : 9105
+      },
+      "subStyle" : 8000
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8105
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
+    },
+    1,
     {
       "primaryPerks" : {
         "perk1" : 9923,
@@ -40,42 +193,12 @@
       },
       "primaryStyle" : 8100,
       "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8410
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8126,
-        "perk2" : 8106
-      },
-      "subStyle" : 8100
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
         "perk1" : 9104,
-        "perk2" : 8017
+        "perk2" : 8014
       },
       "subStyle" : 8000
     },
-    1,
+    2,
     {
       "primaryPerks" : {
         "perk1" : 9923,
@@ -90,38 +213,9 @@
       },
       "subStyle" : 8000
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8229,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8236
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8017,
-        "perk2" : 9105
-      },
-      "subStyle" : 8000
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8137,
-        "perk4" : 8105
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8014
-      },
-      "subStyle" : 8000
-    },
-    2
+    1
   ],
+  "id" : "Shaco",
   "items" : {
     "allItems" : {
       "1018" : 1,
@@ -191,23 +285,23 @@
     },
     "starters" : [
       [
+        2003
+      ],
+      2,
+      [
+        2003,
+        3070
+      ],
+      1,
+      [
         1102,
         2003
       ],
       3,
       [
-        2003
-      ],
-      2,
-      [
         1102
       ],
-      3,
-      [
-        3070,
-        2003
-      ],
-      1
+      3
     ],
     "thirdCore" : {
       "3036" : 1,
@@ -216,21 +310,22 @@
   },
   "spellFrequency" : [
     [
-      "SummonerSmite.png",
-      "SummonerDot.png"
-    ],
-    6,
-    [
-      "SummonerDot.png",
-      "SummonerTeleport.png"
-    ],
-    1,
-    [
       "SummonerDot.png",
       "SummonerFlash.png"
     ],
-    2
+    2,
+    [
+      "SummonerTeleport.png",
+      "SummonerDot.png"
+    ],
+    1,
+    [
+      "SummonerSmite.png",
+      "SummonerDot.png"
+    ],
+    6
   ],
   "totalGames" : 9,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

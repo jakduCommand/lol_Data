@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Lucian, a Sentinel of Light, is a grim hunter of wraiths and specters, pursuing them relentlessly and annihilating them with his twin relic pistols. After the specter Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her...",
+    "id" : "Lucian",
+    "image" : {
+      "full" : "Lucian.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 192,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 6,
+      "magic" : 3
+    },
+    "key" : "236",
+    "name" : "Lucian",
+    "passive" : {
+      "description" : "Whenever Lucian uses an ability, his next attack becomes a double-shot. When Lucian is healed or shielded by an ally, or when a nearby enemy Champion is immobilized, his next 2 basic attacks will deal bonus magic damage.",
+      "image" : {
+        "full" : "Lucian_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 192,
+        "y" : 48
+      },
+      "name" : "Lightslinger"
+    },
+    "spells" : [
+      {
+        "description" : "Lucian shoots a bolt of piercing light through a target.",
+        "id" : "LucianQ",
+        "image" : {
+          "full" : "LucianQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 144
+        },
+        "name" : "Piercing Light"
+      },
+      {
+        "description" : "Lucian shoots a missile that explodes in a star shape, marking and briefly revealing enemies. Lucian gains Move Speed for attacking marked enemies.",
+        "id" : "LucianW",
+        "image" : {
+          "full" : "LucianW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 144
+        },
+        "name" : "Ardent Blaze"
+      },
+      {
+        "description" : "Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown.",
+        "id" : "LucianE",
+        "image" : {
+          "full" : "LucianE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 288,
+          "y" : 144
+        },
+        "name" : "Relentless Pursuit"
+      },
+      {
+        "description" : "Lucian unleashes a torrent of shots from his weapons.",
+        "id" : "LucianR",
+        "image" : {
+          "full" : "LucianR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 336,
+          "y" : 144
+        },
+        "name" : "The Culling"
+      }
+    ],
+    "title" : "the Purifier"
+  },
   "championName" : "Lucian",
   "fullRunePageFrequency" : [
     {
@@ -16,6 +109,51 @@
       "subStyle" : 8300
     },
     1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 9111,
+        "perk3" : 9104,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8347,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    2,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8014
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
+    },
+    4,
     {
       "primaryPerks" : {
         "perk1" : 8005,
@@ -49,6 +187,21 @@
     {
       "primaryPerks" : {
         "perk1" : 8005,
+        "perk2" : 8009,
+        "perk3" : 9103,
+        "perk4" : 8017
+      },
+      "primaryStyle" : 8000,
+      "subPerks" : {
+        "perk1" : 8304,
+        "perk2" : 8345
+      },
+      "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8005,
         "perk2" : 9111,
         "perk3" : 9104,
         "perk4" : 8017
@@ -66,52 +219,7 @@
         "perk1" : 8005,
         "perk2" : 8009,
         "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
         "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    4,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8014
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8304,
-        "perk2" : 8345
-      },
-      "subStyle" : 8300
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 9111,
-        "perk3" : 9104,
-        "perk4" : 8017
       },
       "primaryStyle" : 8000,
       "subPerks" : {
@@ -135,23 +243,9 @@
       },
       "subStyle" : 8200
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8005,
-        "perk2" : 8009,
-        "perk3" : 9103,
-        "perk4" : 8017
-      },
-      "primaryStyle" : 8000,
-      "subPerks" : {
-        "perk1" : 8347,
-        "perk2" : 8304
-      },
-      "subStyle" : 8300
-    },
-    2
+    1
   ],
+  "id" : "Lucian",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -205,8 +299,8 @@
     },
     "starters" : [
       [
-        1055,
-        2003
+        2003,
+        1055
       ],
       14
     ],
@@ -219,13 +313,13 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerBarrier.png"
+      "SummonerBarrier.png",
+      "SummonerFlash.png"
     ],
     12,
     [
-      "SummonerExhaust.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerExhaust.png"
     ],
     1,
     [
@@ -235,5 +329,6 @@
     1
   ],
   "totalGames" : 14,
-  "totalWins" : 7
+  "totalWins" : 7,
+  "version" : "15.18.1"
 }

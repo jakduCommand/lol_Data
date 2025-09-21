@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly...",
+    "id" : "Elise",
+    "image" : {
+      "full" : "Elise.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 0
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 5,
+      "difficulty" : 9,
+      "magic" : 7
+    },
+    "key" : "60",
+    "name" : "Elise",
+    "passive" : {
+      "description" : "Human Form: When Elise's abilities hit an enemy, she gains a dormant Spiderling.<br><br>Spider Form: Basic attacks deal bonus magic damage and restore health to Elise.",
+      "image" : {
+        "full" : "ElisePassive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 0
+      },
+      "name" : "Spider Queen"
+    },
+    "spells" : [
+      {
+        "description" : "Human Form: Deals damage based upon how high the target's Health is.<br><br>Spider Form: Lunges at an enemy and deals damage based upon how low their Health is.",
+        "id" : "EliseHumanQ",
+        "image" : {
+          "full" : "EliseHumanQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Neurotoxin \/ Venomous Bite"
+      },
+      {
+        "description" : "Human Form: Releases a venom-gorged Spiderling that explodes when it nears a target.<br><br>Spider Form: Elise and her Spiderlings gain Attack Speed.",
+        "id" : "EliseHumanW",
+        "image" : {
+          "full" : "EliseHumanW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Volatile Spiderling \/ Skittering Frenzy"
+      },
+      {
+        "description" : "Human Form: Stuns the first enemy unit hit and reveals them if they are not stealthed.<br><br>Spider Form: Elise and her Spiderlings ascend into the air and then descend upon target enemy. After descending on an enemy target, Elise's bonus damage and healing from Spider Queen is increased.",
+        "id" : "EliseHumanE",
+        "image" : {
+          "full" : "EliseHumanE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Cocoon \/ Rappel"
+      },
+      {
+        "description" : "Transforms into a menacing spider, reducing her attack range in exchange for Move Speed, new abilities, and a Spiderling swarm that will attack her foes.",
+        "id" : "EliseR",
+        "image" : {
+          "full" : "EliseR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell3.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Spider Form"
+      }
+    ],
+    "title" : "the Spider Queen"
+  },
   "championName" : "Elise",
   "fullRunePageFrequency" : [
     {
@@ -47,6 +140,7 @@
     },
     1
   ],
+  "id" : "Elise",
   "items" : {
     "allItems" : {
       "1082" : 1,
@@ -83,11 +177,11 @@
     },
     "starters" : [
       [
-        1102
+        2003
       ],
       1,
       [
-        2003
+        1102
       ],
       1,
       [
@@ -102,16 +196,17 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
-    ],
-    1,
-    [
       "SummonerSmite.png",
       "SummonerFlash.png"
     ],
-    2
+    2,
+    [
+      "SummonerDot.png",
+      "SummonerFlash.png"
+    ],
+    1
   ],
   "totalGames" : 3,
-  "totalWins" : 2
+  "totalWins" : 2,
+  "version" : "15.18.1"
 }

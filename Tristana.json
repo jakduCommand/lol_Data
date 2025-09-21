@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her...",
+    "id" : "Tristana",
+    "image" : {
+      "full" : "Tristana.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion4.png",
+      "w" : 48,
+      "x" : 384,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 9,
+      "defense" : 3,
+      "difficulty" : 4,
+      "magic" : 5
+    },
+    "key" : "18",
+    "name" : "Tristana",
+    "passive" : {
+      "description" : "Increases Tristana's Attack Range as she levels.",
+      "image" : {
+        "full" : "Tristana_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive4.png",
+        "w" : 48,
+        "x" : 384,
+        "y" : 48
+      },
+      "name" : "Draw a Bead"
+    },
+    "spells" : [
+      {
+        "description" : "Tristana fires her weapon rapidly, increasing her Attack Speed for a short time.",
+        "id" : "TristanaQ",
+        "image" : {
+          "full" : "TristanaQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 48
+        },
+        "name" : "Rapid Fire"
+      },
+      {
+        "description" : "Tristana fires at the ground to propel her to a distant location, dealing damage and slowing surrounding units for a brief period where she lands.",
+        "id" : "TristanaW",
+        "image" : {
+          "full" : "TristanaW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 48
+        },
+        "name" : "Rocket Jump"
+      },
+      {
+        "description" : "When Tristana kills a unit, her cannonballs burst into shrapnel, dealing damage to surrounding enemies. Can be activated to place a bomb on a target enemy that explodes after a short duration dealing damage to surrounding units.",
+        "id" : "TristanaE",
+        "image" : {
+          "full" : "TristanaE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 48
+        },
+        "name" : "Explosive Charge"
+      },
+      {
+        "description" : "Tristana loads a massive cannonball into her weapon and fires it at an enemy unit. This deals Magic Damage and knocks the target back. If the target is carrying the Explosive Charge bomb, the bomb detonation radius is doubled.",
+        "id" : "TristanaR",
+        "image" : {
+          "full" : "TristanaR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell14.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 48
+        },
+        "name" : "Buster Shot"
+      }
+    ],
+    "title" : "the Yordle Gunner"
+  },
   "championName" : "Tristana",
   "fullRunePageFrequency" : [
     {
@@ -14,6 +107,21 @@
         "perk2" : 8135
       },
       "subStyle" : 8100
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 9923,
+        "perk2" : 8143,
+        "perk3" : 8140,
+        "perk4" : 8135
+      },
+      "primaryStyle" : 8100,
+      "subPerks" : {
+        "perk1" : 9104,
+        "perk2" : 8017
+      },
+      "subStyle" : 8000
     },
     1,
     {
@@ -60,23 +168,9 @@
       },
       "subStyle" : 8300
     },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 9923,
-        "perk2" : 8143,
-        "perk3" : 8140,
-        "perk4" : 8135
-      },
-      "primaryStyle" : 8100,
-      "subPerks" : {
-        "perk1" : 9104,
-        "perk2" : 8017
-      },
-      "subStyle" : 8000
-    },
     1
   ],
+  "id" : "Tristana",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -122,8 +216,8 @@
     },
     "starters" : [
       [
-        2003,
-        1055
+        1055,
+        2003
       ],
       7
     ],
@@ -150,5 +244,6 @@
     1
   ],
   "totalGames" : 7,
-  "totalWins" : 4
+  "totalWins" : 4,
+  "version" : "15.18.1"
 }

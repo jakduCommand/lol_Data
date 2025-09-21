@@ -1,19 +1,127 @@
 {
+  "championDetail" : {
+    "blurb" : "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled “Hero of Demacia,” said...",
+    "id" : "Poppy",
+    "image" : {
+      "full" : "Poppy.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion3.png",
+      "w" : 48,
+      "x" : 0,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 6,
+      "defense" : 7,
+      "difficulty" : 6,
+      "magic" : 2
+    },
+    "key" : "78",
+    "name" : "Poppy",
+    "passive" : {
+      "description" : "Poppy throws her buckler that bounces off the target. Poppy can pick it up to gain a temporary shield.",
+      "image" : {
+        "full" : "Poppy_Passive.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive3.png",
+        "w" : 48,
+        "x" : 0,
+        "y" : 48
+      },
+      "name" : "Iron Ambassador"
+    },
+    "spells" : [
+      {
+        "description" : "Poppy swings her hammer, dealing damage and creating a zone that will slow enemies and explode after a delay.",
+        "id" : "PoppyQ",
+        "image" : {
+          "full" : "PoppyQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 48
+        },
+        "name" : "Hammer Shock"
+      },
+      {
+        "description" : "Poppy passively gains Armor and Magic Resist. This bonus increases when she is low on Health. Poppy can activate Steadfast Presence to gain Move Speed and stop enemy dashes around her. If a dash is stopped, the enemy is slowed and grounded.",
+        "id" : "PoppyW",
+        "image" : {
+          "full" : "PoppyW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 48
+        },
+        "name" : "Steadfast Presence"
+      },
+      {
+        "description" : "Poppy dashes to the target and pushes it back. If the target is pushed into a wall, it is stunned.",
+        "id" : "PoppyE",
+        "image" : {
+          "full" : "PoppyE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 96
+        },
+        "name" : "Heroic Charge"
+      },
+      {
+        "description" : "Poppy channels a hammer strike that knocks enemies very far away.",
+        "id" : "PoppyR",
+        "image" : {
+          "full" : "PoppyR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell10.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 96
+        },
+        "name" : "Keeper's Verdict"
+      }
+    ],
+    "title" : "Keeper of the Hammer"
+  },
   "championName" : "Poppy",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
-        "perk1" : 8360,
-        "perk2" : 8306,
-        "perk3" : 8345,
-        "perk4" : 8347
+        "perk1" : 8437,
+        "perk2" : 8401,
+        "perk3" : 8473,
+        "perk4" : 8453
       },
-      "primaryStyle" : 8300,
+      "primaryStyle" : 8400,
       "subPerks" : {
-        "perk1" : 8242,
-        "perk2" : 8473
+        "perk1" : 8226,
+        "perk2" : 8237
       },
-      "subStyle" : 8400
+      "subStyle" : 8200
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8437,
+        "perk2" : 8446,
+        "perk3" : 8444,
+        "perk4" : 8451
+      },
+      "primaryStyle" : 8400,
+      "subPerks" : {
+        "perk1" : 8345,
+        "perk2" : 8304
+      },
+      "subStyle" : 8300
     },
     1,
     {
@@ -48,23 +156,23 @@
     1,
     {
       "primaryPerks" : {
-        "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8451
+        "perk1" : 8360,
+        "perk2" : 8306,
+        "perk3" : 8345,
+        "perk4" : 8347
       },
-      "primaryStyle" : 8400,
+      "primaryStyle" : 8300,
       "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8304
+        "perk1" : 8242,
+        "perk2" : 8473
       },
-      "subStyle" : 8300
+      "subStyle" : 8400
     },
     1,
     {
       "primaryPerks" : {
         "perk1" : 8437,
-        "perk2" : 8401,
+        "perk2" : 8446,
         "perk3" : 8444,
         "perk4" : 8453
       },
@@ -94,23 +202,8 @@
     {
       "primaryPerks" : {
         "perk1" : 8437,
-        "perk2" : 8446,
-        "perk3" : 8444,
-        "perk4" : 8453
-      },
-      "primaryStyle" : 8400,
-      "subPerks" : {
-        "perk1" : 8226,
-        "perk2" : 8237
-      },
-      "subStyle" : 8200
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8437,
         "perk2" : 8401,
-        "perk3" : 8473,
+        "perk3" : 8444,
         "perk4" : 8453
       },
       "primaryStyle" : 8400,
@@ -122,6 +215,7 @@
     },
     1
   ],
+  "id" : "Poppy",
   "items" : {
     "allItems" : {
       "1031" : 2,
@@ -201,8 +295,8 @@
   },
   "spellFrequency" : [
     [
-      "SummonerDot.png",
-      "SummonerFlash.png"
+      "SummonerFlash.png",
+      "SummonerDot.png"
     ],
     2,
     [
@@ -212,5 +306,6 @@
     6
   ],
   "totalGames" : 8,
-  "totalWins" : 3
+  "totalWins" : 3,
+  "version" : "15.18.1"
 }

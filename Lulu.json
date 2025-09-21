@@ -1,10 +1,103 @@
 {
+  "championDetail" : {
+    "blurb" : "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this...",
+    "id" : "Lulu",
+    "image" : {
+      "full" : "Lulu.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion2.png",
+      "w" : 48,
+      "x" : 240,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 4,
+      "defense" : 5,
+      "difficulty" : 5,
+      "magic" : 7
+    },
+    "key" : "117",
+    "name" : "Lulu",
+    "passive" : {
+      "description" : "Pix fires magical bolts of energy whenever the champion he's following attacks another enemy unit. These bolts are homing, but can be intercepted by other units.",
+      "image" : {
+        "full" : "Lulu_PixFaerieCompanion.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive2.png",
+        "w" : 48,
+        "x" : 240,
+        "y" : 48
+      },
+      "name" : "Pix, Faerie Companion"
+    },
+    "spells" : [
+      {
+        "description" : "Pix and Lulu each fire a bolt of magical energy that damages and heavily slows all enemies it hits.",
+        "id" : "LuluQ",
+        "image" : {
+          "full" : "LuluQ.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 384,
+          "y" : 144
+        },
+        "name" : "Glitterlance"
+      },
+      {
+        "description" : "If cast on an ally, grants them Attack Speed and Move Speed for a short time. If cast on an enemy, turns them into an adorable critter that can't attack or cast spells.",
+        "id" : "LuluW",
+        "image" : {
+          "full" : "LuluW.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell7.png",
+          "w" : 48,
+          "x" : 432,
+          "y" : 144
+        },
+        "name" : "Whimsy"
+      },
+      {
+        "description" : "If cast on an ally, commands Pix to jump to an ally and shield them. He then follows them and aids their attacks. If cast on an enemy, commands Pix to jump to an enemy and damage them. He then follows them and grants you vision of that enemy.",
+        "id" : "LuluE",
+        "image" : {
+          "full" : "LuluE.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 0
+        },
+        "name" : "Help, Pix!"
+      },
+      {
+        "description" : "Lulu enlarges an ally, knocking nearby enemies into the air and granting the ally a large amount of bonus health. For the next few seconds, that ally gains an aura that slows nearby enemies.",
+        "id" : "LuluR",
+        "image" : {
+          "full" : "LuluR.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell8.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 0
+        },
+        "name" : "Wild Growth"
+      }
+    ],
+    "title" : "the Fae Sorceress"
+  },
   "championName" : "Lulu",
   "fullRunePageFrequency" : [
     {
       "primaryPerks" : {
         "perk1" : 8214,
-        "perk2" : 8275,
+        "perk2" : 8226,
         "perk3" : 8210,
         "perk4" : 8237
       },
@@ -14,6 +107,36 @@
         "perk2" : 8347
       },
       "subStyle" : 8300
+    },
+    1,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8473,
+        "perk2" : 8453
+      },
+      "subStyle" : 8400
+    },
+    4,
+    {
+      "primaryPerks" : {
+        "perk1" : 8214,
+        "perk2" : 8226,
+        "perk3" : 8210,
+        "perk4" : 8237
+      },
+      "primaryStyle" : 8200,
+      "subPerks" : {
+        "perk1" : 8453,
+        "perk2" : 8473
+      },
+      "subStyle" : 8400
     },
     1,
     {
@@ -55,25 +178,10 @@
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8473,
-        "perk2" : 8453
+        "perk1" : 8453,
+        "perk2" : 8463
       },
       "subStyle" : 8400
-    },
-    4,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8345,
-        "perk2" : 8347
-      },
-      "subStyle" : 8300
     },
     1,
     {
@@ -94,34 +202,20 @@
     {
       "primaryPerks" : {
         "perk1" : 8214,
-        "perk2" : 8226,
+        "perk2" : 8275,
         "perk3" : 8210,
         "perk4" : 8237
       },
       "primaryStyle" : 8200,
       "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8473
+        "perk1" : 8345,
+        "perk2" : 8347
       },
-      "subStyle" : 8400
-    },
-    1,
-    {
-      "primaryPerks" : {
-        "perk1" : 8214,
-        "perk2" : 8226,
-        "perk3" : 8210,
-        "perk4" : 8237
-      },
-      "primaryStyle" : 8200,
-      "subPerks" : {
-        "perk1" : 8453,
-        "perk2" : 8463
-      },
-      "subStyle" : 8400
+      "subStyle" : 8300
     },
     1
   ],
+  "id" : "Lulu",
   "items" : {
     "allItems" : {
       "1052" : 1,
@@ -184,11 +278,12 @@
   },
   "spellFrequency" : [
     [
-      "SummonerFlash.png",
-      "SummonerHeal.png"
+      "SummonerHeal.png",
+      "SummonerFlash.png"
     ],
     11
   ],
   "totalGames" : 11,
-  "totalWins" : 6
+  "totalWins" : 6,
+  "version" : "15.18.1"
 }

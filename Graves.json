@@ -1,4 +1,97 @@
 {
+  "championDetail" : {
+    "blurb" : "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his...",
+    "id" : "Graves",
+    "image" : {
+      "full" : "Graves.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion1.png",
+      "w" : 48,
+      "x" : 48,
+      "y" : 48
+    },
+    "info" : {
+      "attack" : 8,
+      "defense" : 5,
+      "difficulty" : 3,
+      "magic" : 3
+    },
+    "key" : "104",
+    "name" : "Graves",
+    "passive" : {
+      "description" : "Graves' shotgun has some unique properties. He must reload when he runs out of ammo. Attacks fire 4 bullets, which cannot pass through units. Non-champions struck by multiple bullets are knocked back.",
+      "image" : {
+        "full" : "GravesTrueGrit.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive1.png",
+        "w" : 48,
+        "x" : 48,
+        "y" : 48
+      },
+      "name" : "New Destiny"
+    },
+    "spells" : [
+      {
+        "description" : "Graves fires an explosive shell that detonates after 1 second, or after colliding with terrain.",
+        "id" : "GravesQLineSpell",
+        "image" : {
+          "full" : "GravesQLineSpell.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 96
+        },
+        "name" : "End of the Line"
+      },
+      {
+        "description" : "Graves fires a smoke canister at the target area creating a cloud of smoke that reduces sight range. Enemies caught in the initial impact are dealt magic damage and have their Move Speed reduced briefly.",
+        "id" : "GravesSmokeGrenade",
+        "image" : {
+          "full" : "GravesSmokeGrenade.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 96
+        },
+        "name" : "Smoke Screen"
+      },
+      {
+        "description" : "Graves dashes forward gaining an Armor boost for several seconds. If Graves dashes towards an enemy champion, gain two stacks of True Grit instead. Hitting enemies with basic attacks lowers the cooldown of this skill and refreshes the resistance boost.",
+        "id" : "GravesMove",
+        "image" : {
+          "full" : "GravesMove.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 192,
+          "y" : 96
+        },
+        "name" : "Quickdraw"
+      },
+      {
+        "description" : "Graves fires an explosive shell dealing heavy damage to the first champion it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing damage in a cone.",
+        "id" : "GravesChargeShot",
+        "image" : {
+          "full" : "GravesChargeShot.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell4.png",
+          "w" : 48,
+          "x" : 240,
+          "y" : 96
+        },
+        "name" : "Collateral Damage"
+      }
+    ],
+    "title" : "the Outlaw"
+  },
   "championName" : "Graves",
   "fullRunePageFrequency" : [
     {
@@ -17,6 +110,7 @@
     },
     1
   ],
+  "id" : "Graves",
   "items" : {
     "allItems" : {
       "1001" : 1,
@@ -62,5 +156,6 @@
     1
   ],
   "totalGames" : 1,
-  "totalWins" : 1
+  "totalWins" : 1,
+  "version" : "15.18.1"
 }

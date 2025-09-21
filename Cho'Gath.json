@@ -1,0 +1,139 @@
+{
+  "championDetail" : {
+    "blurb" : "From the moment Cho'Gath first emerged into the harsh light of Runeterra's sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void's desire to consume all life, Cho'Gath's complex biology quickly converts...",
+    "id" : "Chogath",
+    "image" : {
+      "full" : "Chogath.png",
+      "group" : "champion",
+      "h" : 48,
+      "sprite" : "champion0.png",
+      "w" : 48,
+      "x" : 144,
+      "y" : 96
+    },
+    "info" : {
+      "attack" : 3,
+      "defense" : 7,
+      "difficulty" : 5,
+      "magic" : 7
+    },
+    "key" : "31",
+    "name" : "Cho'Gath",
+    "passive" : {
+      "description" : "Whenever Cho'Gath kills a unit, he recovers Health and Mana. The values restored increase with Cho'Gath's level.",
+      "image" : {
+        "full" : "GreenTerror_TailSpike.png",
+        "group" : "passive",
+        "h" : 48,
+        "sprite" : "passive0.png",
+        "w" : 48,
+        "x" : 144,
+        "y" : 96
+      },
+      "name" : "Carnivore"
+    },
+    "spells" : [
+      {
+        "description" : "Ruptures the ground at target location, popping enemy units into the air, dealing damage and slowing them.",
+        "id" : "Rupture",
+        "image" : {
+          "full" : "Rupture.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 0,
+          "y" : 144
+        },
+        "name" : "Rupture"
+      },
+      {
+        "description" : "Cho'Gath unleashes a terrible scream at enemies in a cone, dealing magic damage and Silencing enemies for a few seconds.",
+        "id" : "FeralScream",
+        "image" : {
+          "full" : "FeralScream.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 48,
+          "y" : 144
+        },
+        "name" : "Feral Scream"
+      },
+      {
+        "description" : "Cho'Gath's attacks release deadly spikes, dealing damage and slowing all enemy units in front of him.",
+        "id" : "VorpalSpikes",
+        "image" : {
+          "full" : "VorpalSpikes.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 96,
+          "y" : 144
+        },
+        "name" : "Vorpal Spikes"
+      },
+      {
+        "description" : "Devours an enemy unit, dealing a high amount of true damage. If the target is killed, Cho'Gath grows, gaining maximum Health.",
+        "id" : "Feast",
+        "image" : {
+          "full" : "Feast.png",
+          "group" : "spell",
+          "h" : 48,
+          "sprite" : "spell2.png",
+          "w" : 48,
+          "x" : 144,
+          "y" : 144
+        },
+        "name" : "Feast"
+      }
+    ],
+    "title" : "the Terror of the Void"
+  },
+  "championName" : "Cho'Gath",
+  "fullRunePageFrequency" : [
+
+  ],
+  "id" : "Chogath",
+  "items" : {
+    "allItems" : {
+
+    },
+    "boots" : {
+      "3047" : 1
+    },
+    "fifthCore" : {
+
+    },
+    "firstCore" : {
+      "3084" : 1
+    },
+    "fourthCore" : {
+
+    },
+    "secondCore" : {
+      "2502" : 1
+    },
+    "sixthCore" : {
+
+    },
+    "starters" : [
+      [
+        1056,
+        2003
+      ],
+      1
+    ],
+    "thirdCore" : {
+
+    }
+  },
+  "spellFrequency" : [
+
+  ],
+  "totalGames" : 0,
+  "totalWins" : 0,
+  "version" : "15.18.1"
+}
